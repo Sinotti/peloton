@@ -1,0 +1,235 @@
+{
+    "ActionName": "True Thrust",
+    "Acquired": "Lv. 1",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 290. \u203b A a\u00e7\u00e3o muda para Impulso de Raiden quando Impulso de Raiden estiver pronto."
+} {
+    "ActionName": "Vorpal Thrust",
+    "Acquired": "Lv. 4",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 140.Combo Action: True ThrustCombo Potency: 350"
+} {
+    "ActionName": "Life Surge",
+    "Acquired": "Lv. 6",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "45s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Garante dano cr\u00edtico para o primeiro abate com arma usado enquanto Life Surge estiver ativo. Dura\u00e7\u00e3o: 5sEfeito n\u00e3o pode ser aplicado a dano ao longo do tempo."
+} {
+    "ActionName": "Piercing Talon  Class Quest",
+    "Acquired": "Lv. 15",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "15y  0y",
+    "translated_value": "Oferece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 150."
+} {
+    "ActionName": "Disembowel",
+    "Acquired": "Lv. 18",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 150.Combo Action: True ThrustCombo Pot\u00eancia: 320Combo B\u00f4nus: Aumenta o dano causado em 10% Dura\u00e7\u00e3o: 30s"
+} {
+    "ActionName": "Full Thrust",
+    "Acquired": "Lv. 26",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: Vorpal ThrustCombo Potency: 530Combo Bonus: Concede Presas e Garras mais Afiadas se sob o efeito de Sangue do Drag\u00e3o ou Vida do Drag\u00e3oDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Lance Charge  Class Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta o dano causado em 15%. Dura\u00e7\u00e3o: 20s"
+} {
+    "ActionName": "Jump  Job Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "20y  0y",
+    "translated_value": "Oferece um ataque de salto com uma pot\u00eancia de 310. Retorna \u00e0 sua posi\u00e7\u00e3o original ap\u00f3s o ataque ser feito.Efeito adicional: Concede Dive ReadyDura\u00e7\u00e3o: 15sN\u00e3o pode ser executado enquanto estiver amarrado."
+} {
+    "ActionName": "Elusive Jump  Job Quest",
+    "Acquired": "Lv. 35",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Executa um salto para um local 15 yalms atr\u00e1s de voc\u00ea. N\u00e3o pode ser executado enquanto estiver amarrado."
+} {
+    "ActionName": "Doom Spike  Job Quest",
+    "Acquired": "Lv. 40",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "10y  10y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 170 a todos os inimigos em uma linha reta antes de voc\u00ea."
+} {
+    "ActionName": "Spineshatter Dive  Job Quest",
+    "Acquired": "Lv. 45",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "20y  0y",
+    "translated_value": "Oferece um ataque de salto com uma pot\u00eancia de 240. N\u00e3o pode ser executado enquanto estiver amarrado."
+} {
+    "ActionName": "Chaos Thrust",
+    "Acquired": "Lv. 50",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100,140 quando executado pela retaguarda de um alvo. A\u00e7\u00e3o Combo: DisembowelCombo Pot\u00eancia: 290 Pot\u00eancia Combo Traseira: 330Combo B\u00f4nus: Dano ao longo do tempo Pot\u00eancia: 50Dura\u00e7\u00e3o: 24sCombo B\u00f4nus: Concede Impulso de Roda Melhorado se sob o efeito de Sangue do Drag\u00e3o ou Life of the DragonDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Dragonfire Dive  Job Quest",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "20y  5y",
+    "translated_value": "Oferece um ataque de salto baseado em fogo com uma pot\u00eancia de 380 no alvo e em todos os inimigos pr\u00f3ximos. N\u00e3o pode ser executado enquanto estiver amarrado."
+} {
+    "ActionName": "Battle Litany  Job Quest",
+    "Acquired": "Lv. 52",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "180s",
+    "MPCost": "-",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Aumenta a taxa de acerto cr\u00edtico de si mesmo e de membros do grupo pr\u00f3ximos em 10%. Dura\u00e7\u00e3o: 20s"
+} {
+    "ActionName": "Blood of the Dragon  Job Quest",
+    "Acquired": "Lv. 54",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "25s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta a pot\u00eancia do salto em altura e do mergulho espinhoso em 30%. Dura\u00e7\u00e3o: 30s Efeito adicional: concede presas e garras mais afiadas ao executar o impulso total ou impulso de roda aprimorado ao executar o impulso do caos. e Garra ou Impulso de Roda. N\u00e3o pode ser executado enquanto estiver sob o efeito de Vida do Drag\u00e3o."
+} {
+    "ActionName": "Fang and Claw  Job Quest",
+    "Acquired": "Lv. 56",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 340.380 quando executado do flanco de um alvo. S\u00f3 pode ser executado sob os efeitos de Presas e Garras Afiadas e Sangue do Drag\u00e3o ou Vida do Drag\u00e3o. Efeito Adicional: Estende a dura\u00e7\u00e3o do Sangue do Drag\u00e3o em 10s a um m\u00e1ximo de 30s"
+} {
+    "ActionName": "Wheeling Thrust  Job Quest",
+    "Acquired": "Lv. 58",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 340.380 quando executado da retaguarda de um alvo. S\u00f3 pode ser executado sob os efeitos de Impulso de Roda Aprimorado e Sangue do Drag\u00e3o ou Vida do Drag\u00e3o. Efeito Adicional: Estende a dura\u00e7\u00e3o do Sangue do Drag\u00e3o em 10s at\u00e9 um m\u00e1ximo de 30s"
+} {
+    "ActionName": "Geirskogul  Job Quest",
+    "Acquired": "Lv. 60",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "15y  15y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 300 a todos os inimigos em uma linha reta antes de voc\u00ea. S\u00f3 pode ser executado sob o efeito de Sangue do Drag\u00e3o. Efeito Adicional: Altera o Sangue do Drag\u00e3o para a Vida do Drag\u00e3o enquanto sob o olhar total da primeira ninhada \u203b A a\u00e7\u00e3o muda para Nastrond enquanto est\u00e1 sob o efeito de Vida do Drag\u00e3o."
+} {
+    "ActionName": "Sonic Thrust",
+    "Acquired": "Lv. 62",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "10y  10y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100 a todos os inimigos em uma linha reta antes de voc\u00ea.A\u00e7\u00e3o de Combo: Pico da Perdi\u00e7\u00e3o Pot\u00eancia de Combo: 200 B\u00f4nus de Combina\u00e7\u00e3o: Estende a dura\u00e7\u00e3o do Sangue do Drag\u00e3o em 10s a um m\u00e1ximo de 30s"
+} {
+    "ActionName": "Dragon Sight",
+    "Acquired": "Lv. 66",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "12y  0y",
+    "translated_value": "Concede a si mesmo o Olho Direito, aumentando em 10% o dano causado. Tamb\u00e9m concede ao membro do grupo alvo Olho Esquerdo, aumentando o dano causado em 5% enquanto o alvo permanecer dentro de 12 yalms. Dura\u00e7\u00e3o: 20s"
+} {
+    "ActionName": "Mirage Dive",
+    "Acquired": "Lv. 68",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "20y  0y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 300. Efeito Adicional: Fortalece o olhar do seu Indicador do Drag\u00e3o em 1 se sob o efeito de Sangue do Drag\u00e3o ou Vida do Drag\u00e3o. S\u00f3 pode ser executado quando Pronto para Mergulho."
+} {
+    "ActionName": "Nastrond  Job Quest",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "10s",
+    "MPCost": "-",
+    "RangeRadius": "15y  15y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 400 a todos os inimigos em uma linha reta antes de voc\u00ea. S\u00f3 pode ser executado enquanto estiver sob o efeito de Vida do Drag\u00e3o. \u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+} {
+    "ActionName": "Coerthan Torment",
+    "Acquired": "Lv. 72",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "10y  10y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100 a todos os inimigos em uma linha reta antes de voc\u00ea.A\u00e7\u00e3o Combo: Impulso S\u00f4nico Pot\u00eancia Combo: 230 B\u00f4nus Comb: Estende a dura\u00e7\u00e3o do Sangue do Drag\u00e3o em 10s a um m\u00e1ximo de 30s"
+} {
+    "ActionName": "High Jump",
+    "Acquired": "Lv. 74",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "20y  0y",
+    "translated_value": "Oferece um ataque de salto com uma pot\u00eancia de 400. Retorna \u00e0 sua posi\u00e7\u00e3o original ap\u00f3s o ataque ser feito.Efeito adicional: Concede Dive ReadyDura\u00e7\u00e3o: 15sN\u00e3o pode ser executado enquanto estiver amarrado."
+} {
+    "ActionName": "Raiden Thrust",
+    "Acquired": "Lv. 76",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 330. S\u00f3 pode ser executado quando Raiden Thrust Ready. \u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+} {
+    "ActionName": "Stardiver",
+    "Acquired": "Lv. 80",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "20y  5y",
+    "translated_value": "Oferece um ataque de salto com base em fogo para o alvo e todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 600 para o primeiro inimigo e 30% a menos para todos os inimigos restantes. S\u00f3 pode ser executado sob o efeito de Vida do Drag\u00e3o. N\u00e3o pode ser executado enquanto vinculado."
+}

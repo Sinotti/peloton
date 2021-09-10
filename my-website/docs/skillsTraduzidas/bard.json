@@ -1,0 +1,245 @@
+
+{
+    "ActionName": "Heavy Shot",
+    "Acquired": "Lv. 1",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 180. Efeito adicional: 20% de chance de se tornar Straight Shot ReadyDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Straight Shot",
+    "Acquired": "Lv. 2",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 200. S\u00f3 pode ser executado quando Straight Shot est\u00e1 pronto."
+} {
+    "ActionName": "Raging Strikes",
+    "Acquired": "Lv. 4",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "80s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta o dano causado em 10%. Dura\u00e7\u00e3o: 20s"
+} {
+    "ActionName": "Venomous Bite",
+    "Acquired": "Lv. 6",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100. Efeito Adicional: VenomPot\u00eancia: 30Dura\u00e7\u00e3o: 30s"
+} {
+    "ActionName": "Bloodletter",
+    "Acquired": "Lv. 12",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "15s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 150. Compartilha um cron\u00f4metro reformulado com Chuva da Morte."
+} {
+    "ActionName": "Repelling Shot  Class Quest",
+    "Acquired": "Lv. 15",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "5y  0y",
+    "translated_value": "Salte 10 yalms de dist\u00e2ncia do alvo atual. N\u00e3o pode ser executado enquanto estiver amarrado."
+} {
+    "ActionName": "Quick Nock",
+    "Acquired": "Lv. 18",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "12y  12y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 150 a todos os inimigos em um cone antes de voc\u00ea. Efeito adicional: 30% de chance de o cron\u00f4metro reformulado para Bloodletter e Rain of Death ser zerado"
+} {
+    "ActionName": "Windbite  Class Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano do vento com uma pot\u00eancia de 60. Efeito adicional: Dano do vento ao longo do tempo Pot\u00eancia: 40Dura\u00e7\u00e3o: 30s"
+} {
+    "ActionName": "Mage's Ballad  Job Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "80s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 100. Efeito Adicional: Concede Balada do Mago a todos os membros do grupo em 30 yalms, aumentando o dano causado em 1% Dura\u00e7\u00e3o: 30s Efeito Adicional: 40 \uff05 de chance de conceder Repert\u00f3rio quando o dano ao longo do tempo \u00e9 causado por Mordida C\u00e1ustica ou Efeito StormbiteRepertoire: Zera o cron\u00f4metro de reformula\u00e7\u00e3o de Bloodletter e Rain of Death. Esta a\u00e7\u00e3o n\u00e3o compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com outras a\u00e7\u00f5es. Al\u00e9m disso, o cron\u00f4metro de reformula\u00e7\u00e3o n\u00e3o pode ser afetado por outras a\u00e7\u00f5es."
+} {
+    "ActionName": "The Warden's Paean  Job Quest",
+    "Acquired": "Lv. 35",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "45s",
+    "MPCost": "-",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Remove um efeito prejudicial selecionado de si mesmo ou de um membro do grupo alvo. Se o alvo n\u00e3o estiver enfraquecido, uma barreira \u00e9 criada anulando o pr\u00f3ximo efeito prejudicial sofrido pelo alvo. Dura\u00e7\u00e3o: 30s"
+} {
+    "ActionName": "Barrage",
+    "Acquired": "Lv. 38",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "80s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Triplica o n\u00famero de ataques para uma morte com arma de um \u00fanico alvo. Efeitos adicionais adicionados apenas uma vez. Dura\u00e7\u00e3o: 10s Efeito adicional: Concede Straight Shot ProntoDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Army's Paeon  Job Quest",
+    "Acquired": "Lv. 40",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "80s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 100. Efeito Adicional: Concede Paeon do Ex\u00e9rcito a todos os membros do grupo em 30 yalms, aumentando sua taxa de acerto direto em 3% Dura\u00e7\u00e3o: 30s Efeito Adicional: 40 \uff05 de chance de conceder Repert\u00f3rio quando o dano ao longo do tempo \u00e9 causado por C\u00e1ustica Bite or StormbiteRepertoire Effect: Reduz o tempo de lan\u00e7amento de armas e tempo de reformula\u00e7\u00e3o, tempo de lan\u00e7amento de feiti\u00e7o e tempo de reformula\u00e7\u00e3o e atraso de auto-ataque em 4%. Pode ser acumulado at\u00e9 4 vezes. Esta a\u00e7\u00e3o n\u00e3o compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com outras a\u00e7\u00f5es. Al\u00e9m disso, o cron\u00f4metro de reformula\u00e7\u00e3o n\u00e3o pode ser afetado por outras a\u00e7\u00f5es."
+} {
+    "ActionName": "Rain of Death  Job Quest",
+    "Acquired": "Lv. 45",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "15s",
+    "MPCost": "-",
+    "RangeRadius": "25y  8y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 130 no alvo e em todos os inimigos pr\u00f3ximos a ele. Compartilha um cron\u00f4metro reformulado com Bloodletter."
+} {
+    "ActionName": "Battle Voice  Job Quest",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "180s",
+    "MPCost": "-",
+    "RangeRadius": "0y  20y",
+    "translated_value": "Aumenta a taxa de acerto direto de todos os membros do grupo pr\u00f3ximos em 20%. Dura\u00e7\u00e3o: 20s S\u00f3 pode ser executado ao cantar a Balada do Mago, o Paeon do Ex\u00e9rcito ou o Minueto do Andarilho."
+} {
+    "ActionName": "The Wanderer's Minuet  Job Quest",
+    "Acquired": "Lv. 52",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "80s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 100. Efeito Adicional: Concede o Minueto do Andarilho a todos os membros do grupo em 30 yalms, aumentando sua taxa de acerto cr\u00edtico em 2% Dura\u00e7\u00e3o: 30s Efeito Adicional: 40 \uff05 de chance de conceder Repert\u00f3rio quando o dano ao longo do tempo \u00e9 causado por Caustic Bite ou StormbiteRepertoire Effect: Permite a execu\u00e7\u00e3o de Pitch PerfectCan ser empilhado at\u00e9 3 vezes. Esta a\u00e7\u00e3o n\u00e3o compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com outras a\u00e7\u00f5es. Al\u00e9m disso, o cron\u00f4metro de reformula\u00e7\u00e3o n\u00e3o pode ser afetado por outras a\u00e7\u00f5es."
+} {
+    "ActionName": "Pitch Perfect",
+    "Acquired": "Lv. 52",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "3s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100 quando a pilha de Repert\u00f3rio \u00e9 1, 250 quando a pilha de Repert\u00f3rio \u00e9 2 e 450 quando a pilha de Repert\u00f3rio \u00e9 3. S\u00f3 pode ser executado quando o Minueto do Wanderer est\u00e1 ativo."
+} {
+    "ActionName": "Empyreal Arrow  Job Quest",
+    "Acquired": "Lv. 54",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "15s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 230."
+} {
+    "ActionName": "Iron Jaws  Job Quest",
+    "Acquired": "Lv. 56",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100. Efeito adicional: Se o alvo est\u00e1 sofrendo de uma mordida c\u00e1ustica ou efeito de Stormbite infligido por voc\u00ea, o temporizador de efeito \u00e9 reiniciado Efeito adicional: 35% de chance de se tornar Straight Shot ReadyDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Sidewinder  Job Quest",
+    "Acquired": "Lv. 60",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100. Efeito Adicional: Se o alvo estiver sofrendo de uma mordida c\u00e1ustica ou efeito Stormbite infligido por voc\u00ea, a pot\u00eancia do Sidewinder \u00e9 aumentada para 200 para um efeito, ou 350 para ambos. Compartilha um cron\u00f4metro reformulado com Shadowbite."
+} {
+    "ActionName": "Troubadour",
+    "Acquired": "Lv. 62",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  20y",
+    "translated_value": "Reduz o dano recebido por si mesmo e por membros do grupo pr\u00f3ximos em 10%. Dura\u00e7\u00e3o: 15s. O efeito n\u00e3o pode ser acumulado com o T\u00e1tico do maquinista ou o Samba Escudo do dan\u00e7arino."
+} {
+    "ActionName": "Caustic Bite",
+    "Acquired": "Lv. 64",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 150. Efeito adicional: PoisonPot\u00eancia: 40Dura\u00e7\u00e3o: 30s Efeito adicional: 35% de chance de se tornar Straight Shot ReadyDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Stormbite",
+    "Acquired": "Lv. 64",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano do vento com uma pot\u00eancia de 100. Efeito adicional: Dano do vento ao longo do tempo Pot\u00eancia: 50Dura\u00e7\u00e3o: 30s Efeito adicional: 35% de chance de se tornar Straight Shot ReadyDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Nature's Minne",
+    "Acquired": "Lv. 66",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Aumenta a recupera\u00e7\u00e3o de HP por meio de a\u00e7\u00f5es de cura para um membro do grupo ou a si mesmo em 20%. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Refulgent Arrow  Job Quest",
+    "Acquired": "Lv. 70",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 340. S\u00f3 pode ser executado quando Straight Shot Ready."
+} {
+    "ActionName": "Shadowbite",
+    "Acquired": "Lv. 72",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "25y  5y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 100 para o alvo e todos os inimigos pr\u00f3ximos. Efeito Adicional: Se o alvo estiver sofrendo de uma Mordida C\u00e1ustica ou efeito de Stormbite infligido por voc\u00ea, a pot\u00eancia da Mordida de Sombras \u00e9 aumentada para 160 para um efeito, ou 220 para ambos. reformule o cron\u00f4metro com Sidewinder."
+} {
+    "ActionName": "Burst Shot",
+    "Acquired": "Lv. 76",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 250. Efeito adicional: 35% de chance de se tornar Straight Shot ReadyDura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Apex Arrow",
+    "Acquired": "Lv. 80",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  25y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 120 a todos os inimigos em uma linha reta antes de voc\u00ea. Medidor de voz da alma Custo: 20 A pot\u00eancia aumenta at\u00e9 600 conforme o medidor de voz da alma excede o custo m\u00ednimo. Consome medidor de voz da alma na execu\u00e7\u00e3o."
+}

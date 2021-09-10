@@ -1,0 +1,217 @@
+{
+    "ActionName": "Cascade",
+    "Acquired": "Lv. 1",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 250. Efeito adicional: 50% de chance de conceder Flourishing CascadeDura\u00e7\u00e3o: 20s \u203b A a\u00e7\u00e3o muda para Emboite durante a dan\u00e7a."
+} {
+    "ActionName": "Fountain",
+    "Acquired": "Lv. 2",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: CascadeCombo Pot\u00eancia: 300Combo B\u00f4nus: 50% de chance de conceder Flourishing FountainDura\u00e7\u00e3o: 20s \u203b A a\u00e7\u00e3o muda para Entrechat durante a dan\u00e7a."
+} {
+    "ActionName": "Windmill",
+    "Acquired": "Lv. 15",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 150 a todos os inimigos pr\u00f3ximos. Efeito adicional: 50% de chance de conceder Moinho Florescente Dura\u00e7\u00e3o: 20s"
+} {
+    "ActionName": "Standard Step",
+    "Acquired": "Lv. 15",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Comece a dan\u00e7ar, concedendo a si mesmo a Etapa Padr\u00e3o. Dura\u00e7\u00e3o: 15sA\u00e7\u00e3o muda para Finaliza\u00e7\u00e3o Padr\u00e3o durante a dan\u00e7a. Somente Finaliza\u00e7\u00e3o Padr\u00e3o, En Avant, a\u00e7\u00f5es de passo, a\u00e7\u00f5es de fun\u00e7\u00e3o, Sprint e Intervalo de Limite podem ser executados enquanto dan\u00e7a. e conclua as a\u00e7\u00f5es ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o resfriamento de habilidades com armas, a\u00e7\u00f5es de etapa ou a\u00e7\u00f5es de conclus\u00e3o."
+} {
+    "ActionName": "Standard Finish",
+    "Acquired": "Lv. 15",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Desfere um ataque a todos os inimigos pr\u00f3ximos. A pot\u00eancia varia de acordo com o n\u00famero de etapas bem-sucedidas, lidando com pot\u00eancia total para o primeiro inimigo e 75% a menos para todos os inimigos restantes. Etapas: 5001 etapas: 7502 etapas: B\u00f4nus de 1.000 etapas: concede acabamento padr\u00e3o e Esprit a si mesmo e a um membro do grupo designado como seu b\u00f4nus Dance PartnerDamage de Standard Finish varia com o n\u00famero de etapas bem-sucedidas.1 etapa: 2% 2 etapas: 5% Dura\u00e7\u00e3o: 60s Dispara o resfriamento de habilidades com armas, a\u00e7\u00f5es de etapa e a\u00e7\u00f5es de t\u00e9rmino ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o resfriamento de habilidades com armas, a\u00e7\u00f5es de etapa ou a\u00e7\u00f5es de conclus\u00e3o. \u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de atalho."
+} {
+    "ActionName": "Reverse Cascade",
+    "Acquired": "Lv. 20",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 300. Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla. S\u00f3 pode ser executado sob o efeito da Cascata Florescente. \u203b A a\u00e7\u00e3o muda para Jete durante a dan\u00e7a."
+} {
+    "ActionName": "Bladeshower",
+    "Acquired": "Lv. 25",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o Comb: WindmillCombo Pot\u00eancia: 200 Combo B\u00f4nus: 50% de chance de conceder Flourishing ShowerDura\u00e7\u00e3o: 20s"
+} {
+    "ActionName": "Fan Dance",
+    "Acquired": "Lv. 30",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 150. Efeito adicional: 50% de chance de conceder Flourishing Fan DanceDura\u00e7\u00e3o: 20s S\u00f3 pode ser executado enquanto estiver em posse de Fourfold Feathers."
+} {
+    "ActionName": "Rising Windmill",
+    "Acquired": "Lv. 35",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Desfere um ataque a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 300 para o primeiro inimigo e 50% a menos para todos os inimigos restantes. Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla. S\u00f3 pode ser executado sob o efeito do Moinho de Vento Florescente."
+} {
+    "ActionName": "Fountainfall",
+    "Acquired": "Lv. 40",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 350. Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla. S\u00f3 pode ser executado sob o efeito da Fonte Florescente. \u203b A a\u00e7\u00e3o muda para Pirueta durante a dan\u00e7a."
+} {
+    "ActionName": "Bloodshower",
+    "Acquired": "Lv. 45",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Desfere um ataque a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 350 para o primeiro inimigo e 50% a menos para todos os inimigos restantes. Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla. S\u00f3 pode ser executado sob o efeito de Chuva Florescente."
+} {
+    "ActionName": "Fan Dance II",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. Efeito adicional: 50% de chance de conceder Flourishing Fan DanceDura\u00e7\u00e3o: 20s S\u00f3 pode ser executado enquanto estiver em posse de Fourfold Feathers."
+} {
+    "ActionName": "En Avant",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Corra rapidamente 10 yalms para a frente. Cargas m\u00e1ximas: 3N\u00e3o pode ser executado enquanto estiver amarrado."
+} {
+    "ActionName": "Curing Waltz",
+    "Acquired": "Lv. 52",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  3y",
+    "translated_value": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de cura: 300 Efeito adicional: O membro do grupo designado como seu parceiro de dan\u00e7a tamb\u00e9m ir\u00e1 curar a si mesmo e aos membros pr\u00f3ximos do grupo"
+} {
+    "ActionName": "Shield Samba",
+    "Acquired": "Lv. 56",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  20y",
+    "translated_value": "Reduz o dano recebido por ele mesmo e por membros do grupo pr\u00f3ximos em 10%. Dura\u00e7\u00e3o: 15s. O efeito n\u00e3o pode ser acumulado com o Trovador do bardo ou o Estrategista do maquinista."
+} {
+    "ActionName": "Closed Position",
+    "Acquired": "Lv. 60",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Concede a voc\u00ea uma posi\u00e7\u00e3o fechada e designa um membro do grupo como seu parceiro de dan\u00e7a, permitindo que voc\u00ea compartilhe os efeitos de Finaliza\u00e7\u00e3o padr\u00e3o, Devilment e Valsa de cura com esse membro do grupo. O efeito termina com a reutiliza\u00e7\u00e3o."
+} {
+    "ActionName": "Ending",
+    "Acquired": "Lv. 60",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Termina a dan\u00e7a com seu parceiro."
+} {
+    "ActionName": "Devilment",
+    "Acquired": "Lv. 62",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta a taxa de acerto cr\u00edtico e a taxa de acerto direto em 20%. Dura\u00e7\u00e3o: 20s Efeito adicional: O membro do grupo designado como seu parceiro de dan\u00e7a tamb\u00e9m receber\u00e1 o efeito de Devilment"
+} {
+    "ActionName": "Fan Dance III",
+    "Acquired": "Lv. 66",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "25y  5y",
+    "translated_value": "Desfere um ataque ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 200 para o primeiro inimigo e 50% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto estiver sob o efeito de Flourishing Fan Dance."
+} {
+    "ActionName": "Technical Step  Job Quest",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Comece a dan\u00e7ar, concedendo a si mesmo Etapa T\u00e9cnica. Dura\u00e7\u00e3o: 15sA\u00e7\u00e3o muda para Finaliza\u00e7\u00e3o T\u00e9cnica durante a dan\u00e7a. Apenas Finaliza\u00e7\u00e3o T\u00e9cnica, En Avant, a\u00e7\u00f5es de passo, a\u00e7\u00f5es de fun\u00e7\u00e3o, Sprint e Intervalo de Limite podem ser executados enquanto dan\u00e7a. e conclua as a\u00e7\u00f5es ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o resfriamento de habilidades com armas, a\u00e7\u00f5es de etapa ou a\u00e7\u00f5es de conclus\u00e3o."
+} {
+    "ActionName": "Technical Finish",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Desfere um ataque a todos os inimigos pr\u00f3ximos. A pot\u00eancia varia com o n\u00famero de etapas bem-sucedidas, lidando com pot\u00eancia total para o primeiro inimigo e 75% a menos para todos os inimigos restantes.0 etapas: 5001 etapas: 7502 etapas: 1.0003 etapas: 1.2504 etapas: 1.500 B\u00f4nus de etapas: Concess\u00f5es t\u00e9cnicas Concluir e Esprit para si mesmo e para os membros do grupo. O b\u00f4nus de dano do Acabamento T\u00e9cnico varia com o n\u00famero de etapas bem-sucedidas.1 etapa: 1% 2 etapas: 2% 3 etapas: 3% 4 etapas: 5% Dura\u00e7\u00e3o: 20s Efeito adicional: Ativa o Esprit Gauge Dispara o resfriamento de habilidades com armas, a\u00e7\u00f5es de passo e a\u00e7\u00f5es de t\u00e9rmino ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o resfriamento de habilidades com armas, a\u00e7\u00f5es de etapa ou a\u00e7\u00f5es de conclus\u00e3o. \u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de atalho."
+} {
+    "ActionName": "Flourish",
+    "Acquired": "Lv. 72",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Concede a voc\u00ea os efeitos da Cascata Florescente, Fonte Florescente, Moinho Florescente, Chuva Florescente e Dan\u00e7a do Leque Florescente."
+} {
+    "ActionName": "Saber Dance",
+    "Acquired": "Lv. 76",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "25y  5y",
+    "translated_value": "Desfere um ataque ao alvo e a todos os inimigos pr\u00f3ximos a ele com uma pot\u00eancia de 600 para o primeiro inimigo e 50% a menos para todos os inimigos restantes. Custo do medidor de esp\u00edrito: 50"
+} {
+    "ActionName": "Improvisation",
+    "Acquired": "Lv. 80",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  6y",
+    "translated_value": "Dance ao ritmo do seu pr\u00f3prio tambor, concedendo improvisa\u00e7\u00e3o a si mesmo.Efeito de improvisa\u00e7\u00e3o: Aumenta continuamente o medidor de Esprit durante o combateDura\u00e7\u00e3o: 15sA velocidade com que o medidor aumenta varia de acordo com o n\u00famero de membros do grupo pr\u00f3ximos. Al\u00e9m disso, a recupera\u00e7\u00e3o de HP por meio de a\u00e7\u00f5es de cura para si mesmo e para os membros do grupo pr\u00f3ximos \u00e9 aumentada em 10%. O efeito termina ao usar outra a\u00e7\u00e3o ou movimento (incluindo estar voltado para uma dire\u00e7\u00e3o diferente). Cancela o ataque autom\u00e1tico ap\u00f3s a execu\u00e7\u00e3o."
+}

@@ -1,0 +1,235 @@
+{
+    "ActionName": "Bootshine",
+    "Acquired": "Lv. 1",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Fornece um ataque com uma pot\u00eancia de 200. Pot\u00eancia do punho de lideran\u00e7a: 370 B\u00f4nus da forma opo-opo: Dano cr\u00edtico se causado pela retaguarda de um alvo Efeito adicional: Altera a forma para raptor Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "True Strike",
+    "Acquired": "Lv. 4",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 270.300 quando executado a partir da retaguarda de um alvo. S\u00f3 pode ser executado na forma de raptor. Efeito adicional: Muda a forma para coeurlDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Snap Punch",
+    "Acquired": "Lv. 6",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 270.300 quando executado do flanco de um alvo. S\u00f3 pode ser executado na forma coeurl. Efeito adicional: Muda a forma para opo-opoDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Fists of Earth  Class Quest",
+    "Acquired": "Lv. 15",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "3s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Reduz o dano recebido em 10%. N\u00e3o pode ser usado com Punhos de Fogo ou Punhos de Vento e compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com ambos. O efeito termina na reutiliza\u00e7\u00e3o."
+} {
+    "ActionName": "Twin Snakes",
+    "Acquired": "Lv. 18",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 230.260 quando executado do flanco de um alvo. S\u00f3 pode ser executado na forma de raptor. Efeito adicional: Aumenta o dano em 10% Dura\u00e7\u00e3o: 15sEfeito adicional: Altera a forma para coeurlDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Arm of the Destroyer",
+    "Acquired": "Lv. 26",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 110 a todos os alvos pr\u00f3ximos. Pot\u00eancia da forma po-opo: 140 Efeito adicional: Muda a forma para raptorDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Demolish  Class Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 80.110 quando executado a partir da retaguarda de um alvo. S\u00f3 pode ser executado na forma coeurl.Efeito adicional: Dano ao longo do tempoPot\u00eancia: 80Dura\u00e7\u00e3o: 18s Efeito adicional: Altera a forma para opo-opoDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Rockbreaker  Job Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 150 a todos os inimigos pr\u00f3ximos. S\u00f3 pode ser executado na forma coeurl. Efeito adicional: Muda a forma para opo-opoDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Fists of Wind",
+    "Acquired": "Lv. 34",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "3s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta a velocidade de movimento. N\u00e3o pode ser usado com Fists of Earth ou Fists of Fire, e compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com ambos. O efeito termina com a reutiliza\u00e7\u00e3o."
+} {
+    "ActionName": "Shoulder Tackle  Job Quest",
+    "Acquired": "Lv. 35",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "20y  0y",
+    "translated_value": "Apressa o alvo e desfere um ataque com uma pot\u00eancia de 100. Cargas m\u00e1ximas: 2N\u00e3o pode ser executado enquanto est\u00e1 preso."
+} {
+    "ActionName": "Fists of Fire  Job Quest",
+    "Acquired": "Lv. 40",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "3s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta o dano causado em 10%. N\u00e3o pode ser usado com Fists of Earth ou Fists of Wind, e compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com ambos. O efeito termina com a reutiliza\u00e7\u00e3o."
+} {
+    "ActionName": "Mantra",
+    "Acquired": "Lv. 42",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Aumenta a recupera\u00e7\u00e3o de HP por meio de a\u00e7\u00f5es de cura em 10% para si mesmo e para membros do grupo pr\u00f3ximos. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Four-point Fury  Job Quest",
+    "Acquired": "Lv. 45",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 140 a todos os inimigos pr\u00f3ximos. S\u00f3 pode ser executado na forma de raptor. Efeito Adicional: Estende a dura\u00e7\u00e3o das Cobras G\u00eameas em 10s para um m\u00e1ximo de 15s Efeito Adicional: Altera a forma para coeurlDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Perfect Balance",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Concede 6 pilhas de Equil\u00edbrio Perfeito, cada pilha permitindo a execu\u00e7\u00e3o de um abate com arma que requer uma determinada forma, sem ser nessa forma. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Dragon Kick  Job Quest",
+    "Acquired": "Lv. 50",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 230.260 quando executado a partir do flanco de um alvo. B\u00f4nus de forma po-opo: concede Fist de chumboDura\u00e7\u00e3o: 30s Efeito adicional: Altera a forma para raptorDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Form Shift  Job Quest",
+    "Acquired": "Lv. 52",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Concede o punho sem forma a si mesmo, permitindo a execu\u00e7\u00e3o de um abate com arma que requer uma determinada forma, sem estar nessa forma. Dura\u00e7\u00e3o: 15sQuaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados."
+} {
+    "ActionName": "Meditation  Job Quest",
+    "Acquired": "Lv. 54",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Abre um chakra. At\u00e9 cinco chakras podem ser abertos de uma vez. Desaparece todos os cinco chakras quando usados fora de combate. Compartilha um cron\u00f4metro reformulado com todas as outras habilidades com armas."
+} {
+    "ActionName": "The Forbidden Chakra",
+    "Acquired": "Lv. 54",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 340. S\u00f3 pode ser executado durante o combate e sob o efeito do Quinto Chakra. Os cinco chakras fecham ap\u00f3s a execu\u00e7\u00e3o. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com a Ilumina\u00e7\u00e3o. \u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+} {
+    "ActionName": "Elixir Field  Job Quest",
+    "Acquired": "Lv. 56",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 250 a todos os inimigos pr\u00f3ximos."
+} {
+    "ActionName": "Tornado Kick  Job Quest",
+    "Acquired": "Lv. 60",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "45s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 400."
+} {
+    "ActionName": "Riddle of Earth",
+    "Acquired": "Lv. 64",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Concede 3 pilhas de Riddle of Earth, cada pilha reduzindo o dano recebido em 10% e anulando todos os requisitos de dire\u00e7\u00e3o de a\u00e7\u00e3o. Dura\u00e7\u00e3o: 10sCargas m\u00e1ximas: 3Efeito termina quando o tempo expira ou ap\u00f3s a execu\u00e7\u00e3o de tr\u00eas mortes com armas."
+} {
+    "ActionName": "Riddle of Fire",
+    "Acquired": "Lv. 68",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta o dano causado em 25%. Dura\u00e7\u00e3o: 20s"
+} {
+    "ActionName": "Brotherhood  Job Quest",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Concede Fraternidade e Fraternidade Meditativa a todos os membros do grupo pr\u00f3ximos. Efeito Irmandade: Aumenta o dano causado em 5% Efeito Fraternidade Meditativa: 20% de chance de voc\u00ea abrir um chakra quando os membros do grupo sob este efeito executam um abate com arma ou lan\u00e7am um feiti\u00e7oDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Enlightenment",
+    "Acquired": "Lv. 74",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "10y  10y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 220 a todos os inimigos em linha reta antes de voc\u00ea. S\u00f3 pode ser executado durante o combate e sob o efeito do Quinto Chakra. Os cinco chakras fecham ap\u00f3s a execu\u00e7\u00e3o. Compartilha um cron\u00f4metro reformulado com o Chakra Proibido."
+} {
+    "ActionName": "Anatman",
+    "Acquired": "Lv. 78",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Estende a dura\u00e7\u00e3o de Twin Snakes e sua forma atual ao m\u00e1ximo e interrompe sua expira\u00e7\u00e3o. Dura\u00e7\u00e3o: 30sCancela o ataque autom\u00e1tico ap\u00f3s a execu\u00e7\u00e3o. O efeito termina com o uso de outra a\u00e7\u00e3o ou movimento (incluindo enfrentar uma dire\u00e7\u00e3o diferente). Dispara o resfriamento de habilidades com armas na execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o resfriamento de mortes com armas."
+} {
+    "ActionName": "Six-sided Star",
+    "Acquired": "Lv. 80",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 540. Efeito Adicional: Aumenta a velocidade de movimentoDura\u00e7\u00e3o: 5s Esta habilidade com armas n\u00e3o compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com nenhuma outra a\u00e7\u00e3o. Ap\u00f3s a execu\u00e7\u00e3o, o cron\u00f4metro reformulado para esta a\u00e7\u00e3o ser\u00e1 aplicado a todas as outras habilidades com armas e a\u00e7\u00f5es m\u00e1gicas."
+}

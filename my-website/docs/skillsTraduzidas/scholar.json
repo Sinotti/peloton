@@ -1,0 +1,298 @@
+{
+    "ActionName": "Ruin",
+    "Acquired": "Lv. 1",
+    "Type": "Spell",
+    "Cast": "2.5s",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 160."
+} {
+    "ActionName": "Bio",
+    "Acquired": "Lv. 2",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa danos inesperados ao longo do tempo. Pot\u00eancia: 20Dura\u00e7\u00e3o: 30s"
+} {
+    "ActionName": "Physick",
+    "Acquired": "Lv. 4",
+    "Type": "Spell",
+    "Cast": "1.5s",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Restaura o HP do alvo. Pot\u00eancia de cura: 400"
+} {
+    "ActionName": "Summon Eos",
+    "Acquired": "Lv. 4",
+    "Type": "Spell",
+    "Cast": "2.5s",
+    "Recast": "2.5s",
+    "MPCost": "200 MP",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Convoca o faerie Eos para lutar ao seu lado. Quando definido como guarda, lan\u00e7a Abra\u00e7o automaticamente nos membros do grupo que sofrem danos."
+} {
+    "ActionName": "Summon Selene",
+    "Acquired": "Lv. 4",
+    "Type": "Spell",
+    "Cast": "2.5s",
+    "Recast": "2.5s",
+    "MPCost": "200 MP",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Convoca a fada Selene para lutar ao seu lado. Quando definido como guarda, lan\u00e7a Abra\u00e7o automaticamente nos membros do grupo que sofrem danos."
+} {
+    "ActionName": "Resurrection",
+    "Acquired": "Lv. 12",
+    "Type": "Spell",
+    "Cast": "8s",
+    "Recast": "2.5s",
+    "MPCost": "2400 MP",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Ressuscita o alvo a um estado enfraquecido."
+} {
+    "ActionName": "Whispering Dawn",
+    "Acquired": "Lv. 20",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Ordena que as fadas executem Whispering Dawn. Se Serafim for convocado, ordena-lhe que execute o Sussurro do Anjo.Whispering Dawn \/ Angel&#39;s Whisper Efeito: Restaura gradualmente o HP de todos os membros do grupo pr\u00f3ximos; Pot\u00eancia de cura: 120Dura\u00e7\u00e3o: 21s"
+} {
+    "ActionName": "Bio II",
+    "Acquired": "Lv. 26",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa danos inesperados ao longo do tempo. Pot\u00eancia: 40Dura\u00e7\u00e3o: 30s"
+} {
+    "ActionName": "Adloquium  Job Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Spell",
+    "Cast": "2s",
+    "Recast": "2.5s",
+    "MPCost": "1000 MP",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Restaura o HP do alvo. Pot\u00eancia de Cura: 300 Efeito Adicional: Concede Galvaniza\u00e7\u00e3o ao alvo, anulando o dano igual a 125% da quantidade de HP restaurado. Quando o HP cr\u00edtico \u00e9 restaurado, tamb\u00e9m concede Catalyze, anulando dano igual a 125% da quantidade de HP restaurada. Dura\u00e7\u00e3o: 30sEfeito n\u00e3o pode ser acumulado com o Campo Noturno do astr\u00f3logo."
+} {
+    "ActionName": "Succor  Job Quest",
+    "Acquired": "Lv. 35",
+    "Type": "Spell",
+    "Cast": "2s",
+    "Recast": "2.5s",
+    "MPCost": "1000 MP",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia de cura: 180 Efeito adicional: Ergue uma barreira m\u00e1gica que anula o dano igual a 125% da quantidade de HP restaurado. Dura\u00e7\u00e3o: 30sEfeito n\u00e3o pode ser acumulado com o Campo Noturno do astr\u00f3logo."
+} {
+    "ActionName": "Ruin II",
+    "Acquired": "Lv. 38",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 200."
+} {
+    "ActionName": "Fey Illumination",
+    "Acquired": "Lv. 40",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Ordena que as fadas executem a Ilumina\u00e7\u00e3o Fey. Se Serafim for convocado, ordena que ela execute Ilumina\u00e7\u00e3o Ser\u00e1fica. Ilumina\u00e7\u00e3o Fey \/ Ilumina\u00e7\u00e3o Ser\u00e1fica Efeito: Aumenta a pot\u00eancia m\u00e1gica de cura de todos os membros do grupo pr\u00f3ximos em 10%, enquanto reduz o dano m\u00e1gico recebido por todos os membros do grupo pr\u00f3ximos em 5%. Dura\u00e7\u00e3o: 20s. O efeito n\u00e3o pode ser empilhado com ilumina\u00e7\u00e3o ser\u00e1fica."
+} {
+    "ActionName": "Aetherflow",
+    "Acquired": "Lv. 45",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Restaura 10% do MP m\u00e1ximo. Efeito adicional: Aetherflow IIE s\u00f3 pode ser executado em combate."
+} {
+    "ActionName": "Energy Drain",
+    "Acquired": "Lv. 45",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "3s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 100. Efeito Adicional: Absorve uma parte do dano causado como HP e restaura MPEfeito Adicional: Aumenta Medidor de Fada em 10 Medidor de Fluxo de \u00c9ter Custo: 1"
+} {
+    "ActionName": "Lustrate  Job Quest",
+    "Acquired": "Lv. 45",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Restaura o HP do alvo. Pot\u00eancia de Cura: 600 Efeito Adicional: Aumenta Medidor de Fada em 10 Custo de Medidor de Fluxo de Metal: 1"
+} {
+    "ActionName": "Art of War",
+    "Acquired": "Lv. 46",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "600 MP",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 160 a todos os inimigos pr\u00f3ximos."
+} {
+    "ActionName": "Sacred Soil  Job Quest",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "30y  8y",
+    "translated_value": "Cria uma \u00e1rea designada na qual os membros do grupo sofrer\u00e3o apenas 90% de todo o dano infligido. Dura\u00e7\u00e3o: 15s Efeito Adicional: Pot\u00eancia de RegenCure: 100 Efeito Adicional: Aumenta Medidor de Fada em 10 Custo de Medidor de Fluxo de \u00c9ter: 1"
+} {
+    "ActionName": "Indomitability  Job Quest",
+    "Acquired": "Lv. 52",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia da Cura: 400 Efeito Adicional: Aumenta o Medidor de Fada em 10 Custo do Medidor de Fluxo de \u00c9ter: 1"
+} {
+    "ActionName": "Broil  Job Quest",
+    "Acquired": "Lv. 54",
+    "Type": "Spell",
+    "Cast": "2.5s",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 240."
+} {
+    "ActionName": "Deployment Tactics  Job Quest",
+    "Acquired": "Lv. 56",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "30y  10y",
+    "translated_value": "Estende o efeito de Galvanizar lan\u00e7ado em si mesmo ou no alvo para membros do grupo pr\u00f3ximos.Dura\u00e7\u00e3o: Tempo restante no efeito original. Nenhum efeito quando o alvo n\u00e3o est\u00e1 sob o efeito de Galvanizar."
+} {
+    "ActionName": "Emergency Tactics  Job Quest",
+    "Acquired": "Lv. 58",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "15s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Transforma os pr\u00f3ximos status de Galvanizar e Catalisar em recupera\u00e7\u00e3o de HP igualando a quantidade de redu\u00e7\u00e3o de dano pretendida para a barreira. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Dissipation  Job Quest",
+    "Acquired": "Lv. 60",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "180s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Ordena sua fada embora enquanto concede a voc\u00ea uma pilha Aetherflow completa. Tamb\u00e9m aumenta a pot\u00eancia m\u00e1gica de cura em 20%. Dura\u00e7\u00e3o: 30sA atual fada retornar\u00e1 assim que o efeito expirar. Summon Eos ou Summon Selene n\u00e3o podem ser executados enquanto estiverem sob o efeito de Dissipation. S\u00f3 podem ser executados durante o combate."
+} {
+    "ActionName": "Excogitation",
+    "Acquired": "Lv. 62",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "45s",
+    "MPCost": "-",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Concede a si mesmo ou ao membro do grupo alvo o efeito de Excogita\u00e7\u00e3o, restaurando o HP quando o HP do membro cai abaixo de 50% ou ap\u00f3s a expira\u00e7\u00e3o da dura\u00e7\u00e3o do efeito. Pot\u00eancia de Cura: 800Dura\u00e7\u00e3o: 45s Efeito Adicional: Aumenta Medidor de Fada em 10 Custo de Medidor de Fluxo de \u00c9ter: 1"
+} {
+    "ActionName": "Broil II",
+    "Acquired": "Lv. 64",
+    "Type": "Spell",
+    "Cast": "2.5s",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 260."
+} {
+    "ActionName": "Chain Stratagem",
+    "Acquired": "Lv. 66",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Aumenta a taxa em que o alvo recebe acertos cr\u00edticos em 10%. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Aetherpact  Job Quest",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "3s",
+    "MPCost": "-",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Ordena que as fadas executem a Uni\u00e3o Fey com o membro do grupo alvo. O efeito termina com a reutiliza\u00e7\u00e3o. Medidor de Fadas Custo: 10 O Medidor de Fadas aumenta quando uma fada ou Serafim \u00e9 convocado e uma a\u00e7\u00e3o Fluxo de \u00c9ter \u00e9 executada com sucesso durante o combate."
+} {
+    "ActionName": "Dissolve Union",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "1s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Dissolve a Uni\u00e3o Fey atual."
+} {
+    "ActionName": "Biolysis",
+    "Acquired": "Lv. 72",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa danos inesperados ao longo do tempo. Pot\u00eancia: 70 Dura\u00e7\u00e3o: 30 s"
+} {
+    "ActionName": "Broil III",
+    "Acquired": "Lv. 72",
+    "Type": "Spell",
+    "Cast": "2.5s",
+    "Recast": "2.5s",
+    "MPCost": "400 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 290."
+} {
+    "ActionName": "Recitation",
+    "Acquired": "Lv. 74",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Permite a execu\u00e7\u00e3o de Adloquium, Socorro, Indomitabilidade ou Excogita\u00e7\u00e3o sem consumir recursos e, ao mesmo tempo, garante que o HP cr\u00edtico seja restaurado. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Fey Blessing",
+    "Acquired": "Lv. 76",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Ordena que as fadas executem a B\u00ean\u00e7\u00e3o Fey. Efeito da B\u00ean\u00e7\u00e3o Fada: Restaura o HP de todos os membros do grupo pr\u00f3ximos; Pot\u00eancia da Cura: 350 Medidor de Fadas. Custo: 10"
+} {
+    "ActionName": "Summon Seraph",
+    "Acquired": "Lv. 80",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Convoca Serafim para lutar ao seu lado. Quando definido como guarda, lan\u00e7a Seraphic Veil automaticamente nos membros do grupo que sofrem danos. N\u00e3o \u00e9 poss\u00edvel convocar Seraph a menos que um animal de estima\u00e7\u00e3o j\u00e1 tenha sido convocado. O animal de estima\u00e7\u00e3o atual deixar\u00e1 o campo de batalha enquanto o Serafim estiver presente e retornar\u00e1 assim que partir. Dura\u00e7\u00e3o: 22s"
+} {
+    "ActionName": "Consolation",
+    "Acquired": "Lv. 80",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Ordena que o Serafim execute a Consola\u00e7\u00e3o. Efeito de Consola\u00e7\u00e3o: Restaura o HP de todos os membros do grupo pr\u00f3ximos; Pot\u00eancia de Cura: 300 Efeito Adicional: Ergue uma barreira m\u00e1gica que anula o dano igual \u00e0 quantidade de HP restaurada. Dura\u00e7\u00e3o: 30s Cargas M\u00e1ximas: 2"
+}

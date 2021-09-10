@@ -1,0 +1,23 @@
+{
+    
+        "0": {
+            "ActionName": "Malefic",
+            "Acquired": "Lv. 1",
+            "Type": "Spell",
+            "Cast": "1.5s",
+            "Recast": "2.5s",
+            "MPCost": "400 MP",
+            "RangeRadius": "25y  0y",
+            "translated_value": "Causa dano inesperado com uma pot\u00eancia de 150."
+        },
+        "1": {
+            "ActionName": "Benefic",
+            "Acquired": "Lv. 2",
+            "Type": "Spell",
+            "Cast": "1.5s",
+            "Recast": "2.5s",
+            "MPCost": "400 MP",
+            "RangeRadius": "30y  0y",
+            "translated_value": "Restaura o HP do alvo. Pot\u00eancia de cura: 400 Efeito adicional: 15% de chance do pr\u00f3ximo Benefic II restaurar HP cr\u00edtico Dura\u00e7\u00e3o: 15s"
+         }
+          }

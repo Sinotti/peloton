@@ -1,0 +1,244 @@
+{
+    "ActionName": "Fast Blade",
+    "Acquired": "Lv. 1",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 200."
+} {
+    "ActionName": "Fight or Flight",
+    "Acquired": "Lv. 2",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta o dano f\u00edsico causado em 25%. Dura\u00e7\u00e3o: 25s"
+} {
+    "ActionName": "Riot Blade",
+    "Acquired": "Lv. 4",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: Fast BladeCombo Potency: 300Combo Bonus: Restaura MP"
+} {
+    "ActionName": "Total Eclipse",
+    "Acquired": "Lv. 6",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 120 a todos os inimigos pr\u00f3ximos."
+} {
+    "ActionName": "Shield Bash",
+    "Acquired": "Lv. 10",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 110. Efeito Adicional: StunDuration: 6s"
+} {
+    "ActionName": "Iron Will",
+    "Acquired": "Lv. 10",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "10s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta significativamente a gera\u00e7\u00e3o de inimizade. O efeito termina com a reutiliza\u00e7\u00e3o."
+} {
+    "ActionName": "Shield Lob  Class Quest",
+    "Acquired": "Lv. 15",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "15y  0y",
+    "translated_value": "Oferece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 120. Efeito Adicional: Maior inimizade"
+} {
+    "ActionName": "Rage of Halone",
+    "Acquired": "Lv. 26",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: Riot BladeCombo Potency: 350"
+} {
+    "ActionName": "Spirits Within  Job Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100. A pot\u00eancia aumenta at\u00e9 370 conforme o pr\u00f3prio HP se aproxima do m\u00e1ximo. Efeito adicional: Restaura o MP"
+} {
+    "ActionName": "Sheltron  Job Quest",
+    "Acquired": "Lv. 35",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Bloqueia ataques de entrada. Dura\u00e7\u00e3o: 6sCusto de Medidor de Direto: 50"
+} {
+    "ActionName": "Sentinel",
+    "Acquired": "Lv. 38",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Reduz o dano recebido em 30%. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Prominence  Job Quest",
+    "Acquired": "Lv. 40",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100 para todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o Completa: Total Eclipse Pot\u00eancia Completa: 220Combo B\u00f4nus: Restaura MP"
+} {
+    "ActionName": "Cover  Job Quest",
+    "Acquired": "Lv. 45",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "10y  0y",
+    "translated_value": "Aceita todos os danos destinados a outro membro do grupo. Dura\u00e7\u00e3o: 12sCusto de Medidor de Juramento: 50 S\u00f3 pode ser executado quando o membro estiver mais pr\u00f3ximo do que 10 yalms. N\u00e3o ativa com certos ataques."
+} {
+    "ActionName": "Circle of Scorn",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "25s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 120 a todos os inimigos pr\u00f3ximos. Efeito Adicional: Dano ao longo do tempo Pot\u00eancia: 35Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Hallowed Ground  Job Quest",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "420s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Torna voc\u00ea imperme\u00e1vel \u00e0 maioria dos ataques. Dura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Goring Blade  Job Quest",
+    "Acquired": "Lv. 54",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: Riot BladeCombo Potency: 390Combo Bonus: Damage over timePotency: 85Dura\u00e7\u00e3o: 21s"
+} {
+    "ActionName": "Divine Veil  Job Quest",
+    "Acquired": "Lv. 56",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Ap\u00f3s a recupera\u00e7\u00e3o do HP por meio de magia de cura lan\u00e7ada por voc\u00ea mesmo ou um membro do grupo, uma barreira protetora \u00e9 lan\u00e7ada em todos os membros do grupo em um raio de 15 yalms. Dura\u00e7\u00e3o: 30s Efeito de barreira: Previne danos em at\u00e9 10% do seu HP m\u00e1ximo. Recupera\u00e7\u00e3o de HP por meio de magia de cura."
+} {
+    "ActionName": "Clemency  Job Quest",
+    "Acquired": "Lv. 58",
+    "Type": "Spell",
+    "Cast": "1.5s",
+    "Recast": "2.5s",
+    "MPCost": "2000 MP",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Restaura o HP do alvo. Pot\u00eancia de cura: 1.200 Efeito adicional: Restaura para si mesmo 50% do HP restaurado para o alvo se o alvo for um membro do grupo"
+} {
+    "ActionName": "Royal Authority  Job Quest",
+    "Acquired": "Lv. 60",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: Riot BladeCombo Potency: 550Combo Bonus: Concede 3 pilhas de Sword OathDura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Intervention",
+    "Acquired": "Lv. 62",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "10s",
+    "MPCost": "-",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Reduz o dano do membro do grupo alvo recebido em 10%. Dura\u00e7\u00e3o: 6s Efeito Adicional: Aumenta a redu\u00e7\u00e3o de dano em outros 50% do efeito de Rampart ou Sentinel se ambos estiverem ativos. Custo do Medidor de Juramento: 50"
+} {
+    "ActionName": "Holy Spirit",
+    "Acquired": "Lv. 64",
+    "Type": "Spell",
+    "Cast": "1.5s",
+    "Recast": "2.5s",
+    "MPCost": "2000 MP",
+    "RangeRadius": "25y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 350."
+} {
+    "ActionName": "Requiescat",
+    "Acquired": "Lv. 68",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 150. A pot\u00eancia aumenta at\u00e9 550 conforme o MP se aproxima do m\u00e1ximo.Efeito adicional: Aumenta a pot\u00eancia m\u00e1gica de ataque e cura em 50% se o MP atual estiver em 80% ou mais, e permite que os feiti\u00e7os sejam lan\u00e7ados imediatamenteDura\u00e7\u00e3o: 12s"
+} {
+    "ActionName": "Passage of Arms  Job Quest",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  8y",
+    "translated_value": "Aumenta a taxa de bloqueio para 100% e cria uma \u00e1rea designada em um cone atr\u00e1s de voc\u00ea na qual os membros do grupo sofrer\u00e3o apenas 85% de todos os danos infligidos. Dura\u00e7\u00e3o: 18s. O efeito termina ao usar outra a\u00e7\u00e3o ou movimento (incluindo enfrentar uma dire\u00e7\u00e3o diferente) .Cancela automaticamente - ataque ap\u00f3s a execu\u00e7\u00e3o."
+} {
+    "ActionName": "Holy Circle",
+    "Acquired": "Lv. 72",
+    "Type": "Spell",
+    "Cast": "1.5s",
+    "Recast": "2.5s",
+    "MPCost": "2000 MP",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 250 a todos os inimigos pr\u00f3ximos."
+} {
+    "ActionName": "Intervene",
+    "Acquired": "Lv. 74",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "15y  0y",
+    "translated_value": "Apressa o alvo e desfere um ataque com uma pot\u00eancia de 200. Cargas m\u00e1ximas: 2N\u00e3o pode ser executado enquanto est\u00e1 preso."
+} {
+    "ActionName": "Atonement",
+    "Acquired": "Lv. 76",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 550. Efeito Adicional: Restaura MP. S\u00f3 pode ser executado sob o efeito de Sword Oath."
+} {
+    "ActionName": "Confiteor",
+    "Acquired": "Lv. 80",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "2000 MP",
+    "RangeRadius": "25y  5y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 800 ao alvo e a todos os inimigos pr\u00f3ximos a ele. S\u00f3 pode ser executado sob o efeito de Requiescat. O efeito desaparece durante a execu\u00e7\u00e3o."
+}

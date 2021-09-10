@@ -1,0 +1,226 @@
+{
+    "ActionName": "Hard Slash",
+    "Acquired": "Lv. 1",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 200."
+} {
+    "ActionName": "Syphon Strike",
+    "Acquired": "Lv. 2",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: Hard SlashCombo Potency: 300Combo Bonus: Restaura MP"
+} {
+    "ActionName": "Unleash",
+    "Acquired": "Lv. 6",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 150 a todos os inimigos pr\u00f3ximos."
+} {
+    "ActionName": "Grit",
+    "Acquired": "Lv. 10",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "10s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta significativamente a gera\u00e7\u00e3o de inimizade. O efeito termina com a reutiliza\u00e7\u00e3o."
+} {
+    "ActionName": "Unmend",
+    "Acquired": "Lv. 15",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "15y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 150. Efeito Adicional: Maior inimizade"
+} {
+    "ActionName": "Souleater",
+    "Acquired": "Lv. 26",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 100.Combo Action: Siphon StrikeCombo Potency: 400Combo Bonus: Restaura o pr\u00f3prio HPCure Potency: 300Combo Bonus: Aumenta Blood Gauge em 20"
+} {
+    "ActionName": "Flood of Darkness  Job Quest",
+    "Acquired": "Lv. 30",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "2s",
+    "MPCost": "3000 MP",
+    "RangeRadius": "10y  10y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 250 a todos os inimigos em uma linha reta antes de voc\u00ea. Efeito adicional: Concede Darkside, aumentando o dano causado em 10%. Trevas."
+} {
+    "ActionName": "Blood Weapon  Job Quest",
+    "Acquired": "Lv. 35",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Aumenta a Medi\u00e7\u00e3o de Sangue em 10 e restaura MP ao acertar habilidades com armas ou feiti\u00e7os. O efeito n\u00e3o se acumula ao atingir v\u00e1rios alvos com um \u00fanico ataque. Dura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Shadow Wall",
+    "Acquired": "Lv. 38",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Reduz o dano recebido em 30%. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Edge of Darkness  Job Quest",
+    "Acquired": "Lv. 40",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "2s",
+    "MPCost": "3000 MP",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 350. Efeito adicional: Concede Lado Escuro, aumentando o dano causado em 10% Dura\u00e7\u00e3o: 30s Estende a dura\u00e7\u00e3o do Lado Escuro em 30s a um m\u00e1ximo de 60. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Inunda\u00e7\u00e3o das Trevas."
+} {
+    "ActionName": "Dark Mind",
+    "Acquired": "Lv. 45",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Reduz a vulnerabilidade m\u00e1gica em 20%. Dura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Living Dead  Job Quest",
+    "Acquired": "Lv. 50",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "300s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Concede o efeito de Morto-Vivo. Quando o HP \u00e9 reduzido a 0 sob o efeito de Living Dead, em vez de ser nocauteado, seu status mudar\u00e1 para Walking Dead. Dura\u00e7\u00e3o de Living Dead: 10s Enquanto sob o efeito de Walking Dead, a maioria dos ataques n\u00e3o reduzir\u00e1 seu HP para menos de 1 Se, antes que o cron\u00f4metro de Walking Dead se esgote, o HP for 100% restaurado, o efeito desaparecer\u00e1. Se 100% n\u00e3o for restaurado, voc\u00ea ser\u00e1 nocauteado.Walking Dead Dura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "Salted Earth  Job Quest",
+    "Acquired": "Lv. 52",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "15y  5y",
+    "translated_value": "Cria um peda\u00e7o de terra salgada, causando danos inesperados com uma pot\u00eancia de 60 a todos os inimigos que entrarem. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Plunge  Job Quest",
+    "Acquired": "Lv. 54",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "30s",
+    "MPCost": "-",
+    "RangeRadius": "15y  0y",
+    "translated_value": "Oferece um ataque de salto com uma pot\u00eancia de 200. Cargas M\u00e1ximas: 2 N\u00e3o pode ser executado enquanto est\u00e1 preso."
+} {
+    "ActionName": "Abyssal Drain  Job Quest",
+    "Acquired": "Lv. 56",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "15y  5y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 200 ao alvo e todos os inimigos pr\u00f3ximos a ele. Efeito adicional: Restaura a pr\u00f3pria pot\u00eancia HPCure: 200"
+} {
+    "ActionName": "Carve and Spit  Job Quest",
+    "Acquired": "Lv. 60",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "60s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque triplo com uma pot\u00eancia de 450. Efeito Adicional: Restaura MP"
+} {
+    "ActionName": "Bloodspiller",
+    "Acquired": "Lv. 62",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Oferece um ataque com uma pot\u00eancia de 600. Custo do Medidor de Sangue: 50"
+} {
+    "ActionName": "Quietus",
+    "Acquired": "Lv. 64",
+    "Type": "Weaponskill",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Desfere um ataque com uma pot\u00eancia de 210 a todos os inimigos pr\u00f3ximos. Custo do Medidor de Sangue: 50"
+} {
+    "ActionName": "Delirium",
+    "Acquired": "Lv. 68",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Permite a execu\u00e7\u00e3o de Quietus e Bloodspiller sem custo, restaurando MP ao pousar qualquer um dos ataques com armas. Dura\u00e7\u00e3o: 10s"
+} {
+    "ActionName": "The Blackest Night  Job Quest",
+    "Acquired": "Lv. 70",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "15s",
+    "MPCost": "3000 MP",
+    "RangeRadius": "30y  0y",
+    "translated_value": "Cria uma barreira ao redor do alvo que absorve dano totalizando 25% do HP m\u00e1ximo do alvo. Dura\u00e7\u00e3o: 7s Concede Artes das Trevas quando a barreira \u00e9 completamente absorvida. Efeito das Artes das Trevas: Consuma Artes das Trevas em vez de MP para executar Limite de Sombra ou Inunda\u00e7\u00e3o de Sombra"
+} {
+    "ActionName": "Stalwart Soul",
+    "Acquired": "Lv. 72",
+    "Type": "Spell",
+    "Cast": "Instant",
+    "Recast": "2.5s",
+    "MPCost": "-",
+    "RangeRadius": "0y  5y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o Comb: Unleash Pot\u00eancia Combo: 160 B\u00f4nus Comb: Restaura B\u00f4nus MPCombo: Aumenta Medidor de Sangue em 20"
+} {
+    "ActionName": "Flood of Shadow",
+    "Acquired": "Lv. 74",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "2s",
+    "MPCost": "3000 MP",
+    "RangeRadius": "10y  10y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 300 a todos os inimigos em uma linha reta antes de voc\u00ea. Efeito adicional: Concede Darkside, aumentando o dano causado em 10%. Sombra."
+} {
+    "ActionName": "Edge of Shadow",
+    "Acquired": "Lv. 74",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "2s",
+    "MPCost": "3000 MP",
+    "RangeRadius": "3y  0y",
+    "translated_value": "Causa dano inesperado com uma pot\u00eancia de 500. Efeito adicional: Concede Lado Escuro, aumentando o dano causado em 10% Dura\u00e7\u00e3o: 30s Estende a dura\u00e7\u00e3o do Lado Escuro em 30s a um m\u00e1ximo de 60. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Inunda\u00e7\u00e3o de Sombra."
+} {
+    "ActionName": "Dark Missionary",
+    "Acquired": "Lv. 76",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "90s",
+    "MPCost": "-",
+    "RangeRadius": "0y  15y",
+    "translated_value": "Reduz o dano m\u00e1gico recebido por si mesmo e por membros do grupo pr\u00f3ximos em 10%. Dura\u00e7\u00e3o: 15s"
+} {
+    "ActionName": "Living Shadow",
+    "Acquired": "Lv. 80",
+    "Type": "Ability",
+    "Cast": "Instant",
+    "Recast": "120s",
+    "MPCost": "-",
+    "RangeRadius": "0y  0y",
+    "translated_value": "Conjure um simulacro de seu lado escuro para lutar ao seu lado. Pot\u00eancia de ataque do simulacro: 300Dura\u00e7\u00e3o: 24s Custo do medidor de sangue: 50"
+}
