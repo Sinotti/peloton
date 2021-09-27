@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2189],{9829:function(e){e.exports=JSON.parse('{"allTagsPath":"/peloton/blog/tags","slug":"isso-e-um-teste","name":"isso \xe9 um teste","count":1,"permalink":"/peloton/blog/tags/isso-e-um-teste"}')}}]);

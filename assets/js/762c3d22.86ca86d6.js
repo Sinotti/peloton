@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[675],{7698:function(e){e.exports=JSON.parse('{"allTagsPath":"/peloton/blog/tags","slug":"ffxv","name":"ffxv","count":1,"permalink":"/peloton/blog/tags/ffxv"}')}}]);
