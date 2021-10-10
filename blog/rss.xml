@@ -4,9 +4,16 @@
         <title>Peloton Blog</title>
         <link>https://sinotti.github.io/peloton/blog</link>
         <description>Peloton Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 18:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Isso é um tutorial]]></title>
+            <link>https://sinotti.github.io/peloton/blog/tutorial</link>
+            <guid>tutorial</guid>
+            <pubDate>Tue, 05 Oct 2021 18:20:35 GMT</pubDate>
+            <description><![CDATA[Explicação básica]]></description>
+        </item>
         <item>
             <title><![CDATA[A Relic Reborn The Chimera]]></title>
             <link>https://sinotti.github.io/peloton/blog/A Relic Reborn The Chimera/ FFXV EVENT</link>
