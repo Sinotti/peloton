@@ -4,14 +4,14 @@
         <title>Peloton Blog</title>
         <link>https://sinotti.github.io/peloton/blog</link>
         <description>Peloton Blog</description>
-        <lastBuildDate>Tue, 05 Oct 2021 18:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 17:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Isso é um tutorial]]></title>
             <link>https://sinotti.github.io/peloton/blog/tutorial</link>
             <guid>tutorial</guid>
-            <pubDate>Tue, 05 Oct 2021 18:20:35 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 17:00:44 GMT</pubDate>
             <description><![CDATA[Explicação básica]]></description>
         </item>
         <item>
