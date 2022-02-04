@@ -6,7 +6,7 @@ module.exports = {
   title: 'Peloton',
   tagline: 'O guia definitivo do guerreiro da luz',
   url: 'https://www.ffxivpeloton.com.br',
-  baseUrl: '/peloton/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icon3.png',
