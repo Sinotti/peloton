@@ -6,36 +6,42 @@
  */
 
 .heroBanner {
+
   font-family: trajanPro;
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
   background-image: url("https://cdn.discordapp.com/attachments/876258917104119879/884237331987587082/banner.png");
- 
+  background-repeat: no-repeat;
+  background-position: center;
+
   color: #e7cb01
-  
+
 }
 
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
     color: #e7cb01
+    
   }
 }
 
 .buttons {
-  display: flex;
+ 
   align-items: center;
   justify-content: center;
+  
   
   
 }
 
 @font-face {
   font-family:'trajanPro' ;
-  src: url('TrajanPro-Bold.otf') format('opentype'), url('TrajanPro-Regular.ttf') format('truetype') ;
+  src: url('/fonts/TrajanPro-Bold.otf') format('opentype'), url('/fonts/TrajanPro-Regular.ttf') format('truetype') ;
   font-weight: normal;
   font-style: normal;
+  
 }
 
