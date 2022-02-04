@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7394],{9509:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"post-tudorial","name":"posttudorial","count":1,"permalink":"/blog/tags/post-tudorial"}')}}]);

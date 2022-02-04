@@ -2,35 +2,35 @@
 <rss version="2.0">
     <channel>
         <title>Peloton Blog</title>
-        <link>https://www.ffxivpeloton.com.br/peloton/blog</link>
+        <link>https://www.ffxivpeloton.com.br/blog</link>
         <description>Peloton Blog</description>
         <lastBuildDate>Wed, 26 Jan 2022 17:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Isso é um tutorial]]></title>
-            <link>https://www.ffxivpeloton.com.br/peloton/blog/tutorial</link>
+            <link>https://www.ffxivpeloton.com.br/blog/tutorial</link>
             <guid>tutorial</guid>
             <pubDate>Wed, 26 Jan 2022 17:00:44 GMT</pubDate>
             <description><![CDATA[Explicação básica]]></description>
         </item>
         <item>
             <title><![CDATA[A Relic Reborn The Chimera]]></title>
-            <link>https://www.ffxivpeloton.com.br/peloton/blog/A Relic Reborn The Chimera/ FFXV EVENT</link>
+            <link>https://www.ffxivpeloton.com.br/blog/A Relic Reborn The Chimera/ FFXV EVENT</link>
             <guid>A Relic Reborn The Chimera/ FFXV EVENT</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[hello qwerty i am from Germany]]></description>
         </item>
         <item>
             <title><![CDATA[Evento do FFXV]]></title>
-            <link>https://www.ffxivpeloton.com.br/peloton/blog/Evento do FFXV</link>
+            <link>https://www.ffxivpeloton.com.br/blog/Evento do FFXV</link>
             <guid>Evento do FFXV</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[A Nocturne for Heroes (FF15 collaboration event) separate pages]]></description>
         </item>
         <item>
             <title><![CDATA[post exemplo]]></title>
-            <link>https://www.ffxivpeloton.com.br/peloton/blog/post exemplo</link>
+            <link>https://www.ffxivpeloton.com.br/blog/post exemplo</link>
             <guid>post exemplo</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>

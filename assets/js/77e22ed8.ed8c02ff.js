@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8413],{849:function(e){e.exports=JSON.parse('{"allTagsPath":"/peloton/blog/tags","slug":"chimera","name":"chimera","count":1,"permalink":"/peloton/blog/tags/chimera"}')}}]);

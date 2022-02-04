@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.ffxivpeloton.com.br/peloton/blog</id>
+    <id>https://www.ffxivpeloton.com.br/blog</id>
     <title>Peloton Blog</title>
     <updated>2022-01-26T17:00:44.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.ffxivpeloton.com.br/peloton/blog"/>
+    <link rel="alternate" href="https://www.ffxivpeloton.com.br/blog"/>
     <subtitle>Peloton Blog</subtitle>
-    <icon>https://www.ffxivpeloton.com.br/peloton/img/icon3.png</icon>
+    <icon>https://www.ffxivpeloton.com.br/img/icon3.png</icon>
     <entry>
         <title type="html"><![CDATA[Isso é um tutorial]]></title>
         <id>tutorial</id>
-        <link href="https://www.ffxivpeloton.com.br/peloton/blog/tutorial"/>
+        <link href="https://www.ffxivpeloton.com.br/blog/tutorial"/>
         <updated>2022-01-26T17:00:44.933Z</updated>
         <summary type="html"><![CDATA[Explicação básica]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Relic Reborn The Chimera]]></title>
         <id>A Relic Reborn The Chimera/ FFXV EVENT</id>
-        <link href="https://www.ffxivpeloton.com.br/peloton/blog/A Relic Reborn The Chimera/ FFXV EVENT"/>
+        <link href="https://www.ffxivpeloton.com.br/blog/A Relic Reborn The Chimera/ FFXV EVENT"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[hello qwerty i am from Germany]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Evento do FFXV]]></title>
         <id>Evento do FFXV</id>
-        <link href="https://www.ffxivpeloton.com.br/peloton/blog/Evento do FFXV"/>
+        <link href="https://www.ffxivpeloton.com.br/blog/Evento do FFXV"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A Nocturne for Heroes (FF15 collaboration event) separate pages]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[post exemplo]]></title>
         <id>post exemplo</id>
-        <link href="https://www.ffxivpeloton.com.br/peloton/blog/post exemplo"/>
+        <link href="https://www.ffxivpeloton.com.br/blog/post exemplo"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
     </entry>

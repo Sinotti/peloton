@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9826],{3795:function(t){t.exports=JSON.parse('{"allTagsPath":"/peloton/blog/tags","slug":"post-tudorial","name":"posttudorial","count":1,"permalink":"/peloton/blog/tags/post-tudorial"}')}}]);
