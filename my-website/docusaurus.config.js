@@ -5,20 +5,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Peloton',
   tagline: 'O guia definitivo do guerreiro da luz',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://www.ffxivpeloton.com.br',
+  baseUrl: '/peloton/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/icon.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/icon3.png',
+  organizationName: 'Sinotti', // Usually your GitHub org/user name.
+  trailingSlash: true,
+  projectName: 'peloton', // Usually your repo name.
   
   themeConfig: {
     
-
     
     navbar: {
-      style: 'dark',
+      
       title: 'Peloton',
       logo: {
         alt: 'My Site Logo',
@@ -26,23 +26,63 @@ module.exports = {
       },
       
       items: [
+      
         {
-          
           type: 'doc',
-          docId: 'intro',
-          position: 'right',
-          label: 'Ajuda',
-        },
-        {to: '/blog', label: 'Notícias e Patch notes', position: 'right'},
+        docId: 'profissoes',
+        position: 'right',
+        label: 'Profissões'
+        },  
+
         {
-          
+          type: 'doc',
+        docId: 'mountO',
+        position: 'right',
+        label: 'Montarias'
+        },
+
+        {
+          type: 'doc',
+        docId: 'links',
+        position: 'right',
+        label: 'Links'
+        },
+
+        {to: '/sobreNos', label: 'Sobre', position: 'right'},
+        {to: '/blog', label: 'Notícias', position: 'right'},
+
+        {
           type: 'doc',
           docId: 'intro',
           position: 'left',
           label: 'Patreon',
         },
+
+        {
+          type: 'doc',
+        docId: 'jobs/informativo',
+        position: 'left',
+        label: 'Classes'
+        },
+
+        {
+          type: 'doc',
+        docId: 'jobs/habilidades',
+        position: 'left',
+        label: 'Habilidades'
+        },
+
+        {
+          type: 'doc',
+        docId: 'novatos/introducaoNv',
+        position: 'left',
+        label: 'Novatos'
+        },
+
         
+
       ],
+      
     },
     footer: {
       style: 'dark',
@@ -60,16 +100,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/ffxivpeloton',
             },
           ],
         },
@@ -80,23 +112,18 @@ module.exports = {
               label: 'Blog',
               to: '/blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
+            
           ],
         },
         
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Peloton`,
     },
 
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: false,
-      switchConfig: {
-        // Icon for the switch while in dark mode
-        darkIcon: '🌙', }
+      disableSwitch: true,
+     
     },
 
     prism: {

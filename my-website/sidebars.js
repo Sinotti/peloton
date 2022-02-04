@@ -18,7 +18,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Introdução',
-      items: ['jobs/informativo', 'jobs/roles']  
+      items: ['jobs/informativo',]  
     },
     {
     type: 'category',
@@ -50,7 +50,7 @@ module.exports = {
     {  
         type: 'category',
         label: 'Profissões',
-        items: ['profissoes']       
+        items: ['profissoes', 'ishgard']       
   }
 ],
 
@@ -73,8 +73,10 @@ novatos: [
   {
     type: 'category',
       label: 'Introdução',
-      items: ['novatos/introducaoNv', 'novatos/custos'] 
-  }
+      items: ['novatos/introducaoNv', 'novatos/custos', 'novatos/termosIcones', 'novatos/grandCompany', 'novatos/glamour', 'novatos/freeCompany', 'novatos/traducao'] 
+  },
+
+  
 ],
 
 
