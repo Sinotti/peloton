@@ -1,0 +1,178 @@
+.textPa{
+  
+    
+   font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6px;
+    margin-bottom: 6px;
+   
+    font-family: TrajanPro-Bold;
+    
+}
+
+.imagemPa{
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.fundo{
+  
+  background-color: rgba(0, 0, 0, 0.3);
+  height: auto; 
+  width: auto; 
+  max-width: 100%; 
+  max-height: 100%;
+  
+  
+}
+.fundo2{
+  
+  
+  height: auto; 
+  width: auto; 
+  max-width: 100%; 
+  max-height: 100%;
+  
+  
+}
+
+.sobreTitle{
+    
+ text-align: center;
+  justify-content: left;
+  color: #e7cb01;
+  font-family: TrajanPro-Bold;
+}
+
+.sobreText{
+display: inline-block;
+text-align: left;
+display: inline-block;
+color: #e7cb01;
+font-family: TrajanPro-Bold;
+}
+.sobreImage{
+  
+  
+  align-items: center;
+  justify-content: center;
+ 
+  width: 280px;
+display: inline-block;
+  
+
+  
+  
+  
+
+}
+
+.referenciasGif{
+
+  width: 450px; 
+  max-width: 60%; 
+  max-height: 60%;
+  background-position-x: 20px;
+  
+  align-items: center;
+  justify-content: center;
+
+}
+
+.referenciasText{
+  font-family: TrajanPro-Bold;
+  text-indent: 25px;
+  font-size: large;
+  
+
+  display: inline-block;
+ text-align: center;
+  padding: 1rem 0;
+  
+}
+.final{
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+  font-family: TrajanPro-Bold;
+}
+
+.finalTitle{
+  font: size 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%; 
+  max-height: 100%;
+ 
+  font-family: TrajanPro-Bold;
+}
+
+.finalTitle2{
+  font: size 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 10cm;
+  max-width: 100%; 
+  max-height: 100%;
+  
+}
+
+.parceriasText{
+  text-indent: 25px;
+  font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  
+  font-family: TrajanPro-Bold;
+}
+.parceriasImage{
+ 
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-left: 2cm;
+  margin-right: 1cm;
+}
+
+.header{
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  bottom: 370px;
+  z-index: 1;
+}
+
+
+*{
+  margin: 0;padding: 0;
+  
+}
+.carrossel{
+ width: 400px;
+ height: 250px;
+ outline: 3px solid black;
+ box-shadow: 10px 10x 15px rgba(0, 0, 0, 0.7);
+ 
+}
+
+.carrossel ul{
+  display: flex;
+  list-style: none;
+  width: 1370px;
+  height: 250px;
+}

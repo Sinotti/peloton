@@ -1,15 +1,15 @@
 import React from 'react';
-import './patchAtual-module.css'
-const astrologian = require('../../docs/skillsTraduzidas/astrologian.json')
-export default function patchAtual(){
+import './components-module.css'
+
+
+
+export default function Quests(){
     return(
-       
         <table border="1">
         <tr>
-            <th>Nome da habilidade</th>
-            <th>Level</th>
-            <th>Tipo</th>
-           
+            <td>Nome</td>
+            <td>Idade</td>
+            <td>Profissão</td>
         </tr>
         <tr>
             <td>Ted</td>
@@ -22,7 +22,6 @@ export default function patchAtual(){
             <td>Designer</td>
         </tr>
     </table>
-      
 
       
 

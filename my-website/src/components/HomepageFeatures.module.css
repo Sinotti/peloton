@@ -5,9 +5,11 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  font-family: TrajanPro-Bold;
 }
 
 .featureSvg {
   height: 100px;
   width: 200px;
+ 
 }

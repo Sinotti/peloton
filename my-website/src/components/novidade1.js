@@ -1,7 +1,7 @@
 import React from 'react';
 import './components-module.css'
-import barraInicio from '@site/static/img/barraInicio.png'
-import Banner2 from '@site/static/img/Banner2.png'
+
+import novidade from '@site/static/img/novidade.png'
 
 export default function patchAtual(){
     return(
@@ -18,9 +18,9 @@ export default function patchAtual(){
         
         }}>
        
-        <img src={Banner2} /> 
-        
-          
+
+        <img src={novidade} /> 
+ 
         
         
       </div>
