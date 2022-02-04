@@ -1,0 +1,299 @@
+[
+    {
+        "Nome": "Split Shot",
+        "Ícone": "![Split Shot](https://ffxiv.gamerescape.com/w/images/thumb/a/a8/Split_Shot_Icon.png/60px-Split_Shot_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 140.Efeito Adicional: Aumenta o Medidor de Calor em 5 Revis\u00f5es Pot\u00eancia alterada de 180 para 140."
+    },
+    {
+        "Nome": "Slug Shot",
+        "Ícone": "![Slug Shot](https://ffxiv.gamerescape.com/w/images/thumb/4/46/Slug_Shot_Icon.png/60px-Slug_Shot_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de Combo: Tiro Dividido ou Tiro Dividido Aquecido Pot\u00eancia de Combo: 210 B\u00f4nus de Combo: Aumenta o Medidor de Calor em 5 Revis\u00f5es Pot\u00eancia de combo alterada de 260 para 210."
+    },
+    {
+        "Nome": "Hot Shot",
+        "Ícone": "![Hot Shot](https://ffxiv.gamerescape.com/w/images/thumb/4/48/Hot_Shot_Icon.png/60px-Hot_Shot_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "40s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 240.Efeito Adicional: Aumenta o Medidor de Bateria em 20Esta arma n\u00e3o compartilha um cron\u00f4metro de relan\u00e7amento com nenhuma outra a\u00e7\u00e3o. A pot\u00eancia das revis\u00f5es foi alterada de 300 para 240."
+    },
+    {
+        "Nome": "Reassemble",
+        "Ícone": "![Reassemble](https://ffxiv.gamerescape.com/w/images/thumb/a/a6/Reassemble_Icon.png/60px-Reassemble_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "55s",
+        "Custo em MP": "-",
+        "Efeito": "Garante que o pr\u00f3ximo abate com arma seja um acerto direto cr\u00edtico.Dura\u00e7\u00e3o: 5sEsta a\u00e7\u00e3o n\u00e3o afeta os efeitos de dano ao longo do tempo.Cargas M\u00e1ximas: 2 Revis\u00f5es Adicionado &quot;Cargas M\u00e1ximas: 2&quot;."
+    },
+    {
+        "Nome": "Gauss Round",
+        "Ícone": "![Gauss Round](https://ffxiv.gamerescape.com/w/images/thumb/3/32/Gauss_Round_Icon.png/60px-Gauss_Round_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 120. Cargas M\u00e1ximas: 3 Revis\u00f5es Pot\u00eancia alterada de 150 para 120."
+    },
+    {
+        "Nome": "Spread Shot",
+        "Ícone": "![Spread Shot](https://ffxiv.gamerescape.com/w/images/thumb/6/65/Spread_Shot_Icon.png/60px-Spread_Shot_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 140 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Aumenta o Medidor de Calor em 5 Revis\u00f5es Pot\u00eancia alterada de 180 para 140."
+    },
+    {
+        "Nome": "Clean Shot",
+        "Ícone": "![Clean Shot](https://ffxiv.gamerescape.com/w/images/thumb/5/52/Clean_Shot_Icon.png/60px-Clean_Shot_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de combina\u00e7\u00e3o: Slug Shot ou Slug Shot aquecida Pot\u00eancia de combina\u00e7\u00e3o: 270 Combo Bonus: Aumenta o medidor de calor em 5 Combo Bonus: Aumenta o medidor de bateria em 10 revis\u00f5es Pot\u00eancia de combina\u00e7\u00e3o alterada de 340 para 270."
+    },
+    {
+        "Nome": "Hypercharge",
+        "Ícone": "![Hypercharge](https://ffxiv.gamerescape.com/w/images/thumb/5/58/Hypercharge_Icon.png/60px-Hypercharge_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Libera a energia acumulada em sua arma de fogo, fazendo com que ela fique superaquecida, aumentando em 20 a pot\u00eancia de armas de alvo \u00fanico."
+    },
+    {
+        "Nome": "Heat Blast",
+        "Ícone": "![Heat Blast](https://ffxiv.gamerescape.com/w/images/thumb/1/19/Heat_Blast_Icon.png/60px-Heat_Blast_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 170.Efeito Adicional: Reduz o tempo de relan\u00e7amento de Gauss Round e Ricochet em 15sPode ser executado apenas quando a arma est\u00e1 superaquecida.O temporizador de Recarga n\u00e3o pode ser afetado por efeitos de status ou atributos de equipamento. A pot\u00eancia das revis\u00f5es foi alterada de 220 para 170."
+    },
+    {
+        "Nome": "Rook Autoturret",
+        "Ícone": "![Rook Autoturret](https://ffxiv.gamerescape.com/w/images/thumb/6/64/Rook_Autoturret_Icon.png/60px-Rook_Autoturret_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "6s",
+        "Custo em MP": "-",
+        "Efeito": "Implanta uma torre de batalha de alvo \u00fanico que ataca usando Volley Fire, causando dano com uma pot\u00eancia de 70.Battery Gauge Cost: 50A dura\u00e7\u00e3o aumenta \u00e0 medida que o Battery Gauge excede o custo necess\u00e1rio no momento da implanta\u00e7\u00e3o, at\u00e9 um m\u00e1ximo de 15 segundos.Consome Battery Gauge ap\u00f3s execu\u00e7\u00e3o. Desliga quando o tempo expira ou na execu\u00e7\u00e3o de Rook Overdrive. Compartilha um temporizador de reformula\u00e7\u00e3o com Rook Overdrive. A pot\u00eancia das revis\u00f5es foi alterada de 80 para 70."
+    },
+    {
+        "Nome": "Rook Overdrive",
+        "Ícone": "![Rook Overdrive](https://ffxiv.gamerescape.com/w/images/thumb/0/04/Rook_Overdrive_Icon.png/60px-Rook_Overdrive_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Ordena que a torre autom\u00e1tica da torre use Sobrecarga da Torre. Pot\u00eancia de Sobrecarga da Torre: 320 A pot\u00eancia aumenta \u00e0 medida que o medidor de bateria excede o custo necess\u00e1rio no momento da implanta\u00e7\u00e3o. A torre autom\u00e1tica da torre \u00e9 desligada ap\u00f3s a execu\u00e7\u00e3o. Se esta a\u00e7\u00e3o n\u00e3o for usada manualmente enquanto a torre autom\u00e1tica da torre estiver ativa, ela ser\u00e1 acionada automaticamente imediatamente antes de desligar. Compartilha um temporizador de reformula\u00e7\u00e3o com a torre autom\u00e1tica da torre. A pot\u00eancia das revis\u00f5es foi alterada de 400 para 320."
+    },
+    {
+        "Nome": "Rook Overload",
+        "Ícone": "![Rook Overload](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/Rook_Overload_Icon.png/60px-Rook_Overload_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "-",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 320. A pot\u00eancia aumenta \u00e0 medida que o medidor de bateria excede o custo necess\u00e1rio no momento da implanta\u00e7\u00e3o. A torre autom\u00e1tica da torre \u00e9 desligada ap\u00f3s a execu\u00e7\u00e3o. Se esta a\u00e7\u00e3o n\u00e3o for usada manualmente enquanto a torre autom\u00e1tica da torre estiver ativa, ela ser\u00e1 acionada automaticamente imediatamente antes de desligar.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de acesso. A pot\u00eancia das revis\u00f5es foi alterada de 400 para 320."
+    },
+    {
+        "Nome": "Wildfire",
+        "Ícone": "![Wildfire](https://ffxiv.gamerescape.com/w/images/thumb/e/e5/Wildfire_Icon.png/60px-Wildfire_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Cobre o corpo do alvo em um tom de queima lenta. A a\u00e7\u00e3o \u00e9 alterada para Detonator pela dura\u00e7\u00e3o do efeito. Causa dano quando o tempo expira ou ao executar o Detonator. A pot\u00eancia \u00e9 aumentada em 150 para cada uma de suas pr\u00f3prias habilidades com armas que voc\u00ea acertar antes do final do efeito. Dura\u00e7\u00e3o: 10s Revis\u00f5es Pot\u00eancia alterada de 200 a 150."
+    },
+    {
+        "Nome": "Detonator",
+        "Ícone": "![Detonator](https://ffxiv.gamerescape.com/w/images/thumb/d/d1/Detonator_Icon.png/60px-Detonator_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Termina o efeito de Wildfire, causando dano ao alvo.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Ricochet",
+        "Ícone": "![Ricochet](https://ffxiv.gamerescape.com/w/images/thumb/b/b2/Ricochet_Icon.png/60px-Ricochet_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 120 para o primeiro inimigo e 50% menos para todos os inimigos restantes.Cargas M\u00e1ximas: 3 Revis\u00f5es Pot\u00eancia alterada de 150 para 120."
+    },
+    {
+        "Nome": "Auto Crossbow",
+        "Ícone": "![Auto Crossbow](https://ffxiv.gamerescape.com/w/images/thumb/c/c8/Auto_Crossbow_Icon.png/60px-Auto_Crossbow_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 140 a todos os inimigos em um cone antes de voc\u00ea. S\u00f3 pode ser executado quando a arma est\u00e1 superaquecida. O temporizador de Recarga n\u00e3o pode ser afetado por efeitos de status ou atributos de equipamento. A pot\u00eancia das revis\u00f5es foi alterada de 180 para 140."
+    },
+    {
+        "Nome": "Heated Split Shot",
+        "Ícone": "![Heated Split Shot](https://ffxiv.gamerescape.com/w/images/thumb/a/a7/Heated_Split_Shot_Icon.png/60px-Heated_Split_Shot_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 200.Efeito Adicional: Aumenta o Medidor de Calor em 5 Revis\u00f5es Pot\u00eancia alterada de 220 para 200."
+    },
+    {
+        "Nome": "Tactician",
+        "Ícone": "![Tactician](https://ffxiv.gamerescape.com/w/images/thumb/3/3e/Tactician_Icon.png/60px-Tactician_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz em 10% o dano recebido por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s O efeito n\u00e3o pode ser empilhado com Trovador do bardo ou Samba com escudo do dan\u00e7arino. O tempo de reformula\u00e7\u00e3o das revis\u00f5es foi alterado de 120s para 90s."
+    },
+    {
+        "Nome": "Drill",
+        "Ícone": "![Drill](https://ffxiv.gamerescape.com/w/images/thumb/c/c4/Drill_Icon.png/60px-Drill_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 570. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Bioblaster. A pot\u00eancia das revis\u00f5es foi alterada de 700 para 570."
+    },
+    {
+        "Nome": "Heated Slug Shot",
+        "Ícone": "![Heated Slug Shot](https://ffxiv.gamerescape.com/w/images/thumb/0/04/Heated_Slug_Shot_Icon.png/60px-Heated_Slug_Shot_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 120. A\u00e7\u00e3o de Combo: Disparo Dividido Aquecido Pot\u00eancia de Combo: 280 B\u00f4nus de Combo: Aumenta o Medidor de Calor em 5 Revis\u00f5es Pot\u00eancia alterada de 100 para 120. Pot\u00eancia de combo alterada de 330 para 280."
+    },
+    {
+        "Nome": "Heated Clean Shot",
+        "Ícone": "![Heated Clean Shot](https://ffxiv.gamerescape.com/w/images/thumb/5/52/Heated_Clean_Shot_Icon.png/60px-Heated_Clean_Shot_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 110. A\u00e7\u00e3o de combina\u00e7\u00e3o: Disparo de lesma aquecido Pot\u00eancia de combina\u00e7\u00e3o: 360 B\u00f4nus de combina\u00e7\u00e3o: Aumenta o medidor de calor em 5 B\u00f4nus de combina\u00e7\u00e3o: Aumenta o medidor de bateria em 10 revis\u00f5es Pot\u00eancia alterada de 100 para 110. Pot\u00eancia de combina\u00e7\u00e3o alterada de 440 para 360."
+    },
+    {
+        "Nome": "Barrel Stabilizer",
+        "Ícone": "![Barrel Stabilizer](https://ffxiv.gamerescape.com/w/images/thumb/6/6d/Barrel_Stabilizer_Icon.png/60px-Barrel_Stabilizer_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o Heat Gauge em 50. S\u00f3 pode ser executado em combate."
+    },
+    {
+        "Nome": "Flamethrower",
+        "Ícone": "![Flamethrower](https://ffxiv.gamerescape.com/w/images/thumb/5/50/Flamethrower_Icon.png/60px-Flamethrower_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano ao longo do tempo a todos os inimigos em um cone antes de voc\u00ea. Pot\u00eancia: 80 Dura\u00e7\u00e3o: 10s O efeito termina ao usar outra a\u00e7\u00e3o ou se mover (incluindo enfrentar uma dire\u00e7\u00e3o diferente). N\u00e3o pode ser executado durante o tempo de espera de skillskills. A pot\u00eancia das revis\u00f5es foi alterada de 100 para 80."
+    },
+    {
+        "Nome": "Bioblaster",
+        "Ícone": "![Bioblaster](https://ffxiv.gamerescape.com/w/images/thumb/5/5c/Bioblaster_Icon.png/60px-Bioblaster_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 50 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Dano ao longo do tempoPot\u00eancia: 50Dura\u00e7\u00e3o: 15sCompartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Drill. Revis\u00f5es Pot\u00eancia alterada de 60 para 50. Pot\u00eancia de dano ao longo do tempo alterada de 60 para 50."
+    },
+    {
+        "Nome": "Air Anchor",
+        "Ícone": "![Air Anchor](https://ffxiv.gamerescape.com/w/images/thumb/2/28/Air_Anchor_Icon.png/60px-Air_Anchor_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "40s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 570.Efeito Adicional: Aumenta o Medidor de Bateria em 20 Esta arma n\u00e3o compartilha um temporizador de relan\u00e7amento com nenhuma outra a\u00e7\u00e3o. A pot\u00eancia das revis\u00f5es foi alterada de 700 para 570."
+    },
+    {
+        "Nome": "Automaton Queen",
+        "Ícone": "![Automaton Queen](https://ffxiv.gamerescape.com/w/images/thumb/b/bc/Automaton_Queen_Icon.png/60px-Automaton_Queen_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "6s",
+        "Custo em MP": "-",
+        "Efeito": "Implanta uma Rainha Aut\u00f4mata para lutar ao seu lado.Custo do Medidor de Bateria: 50A dura\u00e7\u00e3o aumenta conforme o Medidor de Bateria excede o custo m\u00ednimo no momento da implanta\u00e7\u00e3o, at\u00e9 um m\u00e1ximo de 20 segundos.Consome Medidor de Bateria na execu\u00e7\u00e3o. Desliga quando o tempo expira ou na execu\u00e7\u00e3o de Queen Overdrive. Compartilha um temporizador de reformula\u00e7\u00e3o com Queen Overdrive."
+    },
+    {
+        "Nome": "Queen Overdrive",
+        "Ícone": "![Queen Overdrive](https://ffxiv.gamerescape.com/w/images/thumb/1/1b/Queen_Overdrive_Icon.png/60px-Queen_Overdrive_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Ordena que o Automaton Queen use Pile Bunker.Pile Bunker Potency: 650A pot\u00eancia aumenta conforme o medidor de bateria excede o custo necess\u00e1rio no momento da implanta\u00e7\u00e3o.O Automaton Queen desliga ap\u00f3s a execu\u00e7\u00e3o. Se esta a\u00e7\u00e3o n\u00e3o for usada manualmente enquanto o Automaton Queen estiver ativo, ele ser\u00e1 acionado automaticamente imediatamente antes de desligar. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Automaton Queen. A pot\u00eancia das revis\u00f5es foi alterada de 800 para 650."
+    },
+    {
+        "Nome": "Arm Punch",
+        "Ícone": "![Arm Punch](https://ffxiv.gamerescape.com/w/images/thumb/7/79/Arm_Punch_Icon.png/60px-Arm_Punch_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque com uma pot\u00eancia de 120.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. A pot\u00eancia das revis\u00f5es foi alterada de 150 para 120."
+    },
+    {
+        "Nome": "Roller Dash",
+        "Ícone": "![Roller Dash](https://ffxiv.gamerescape.com/w/images/thumb/7/76/Roller_Dash_Icon.png/60px-Roller_Dash_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "3s",
+        "Custo em MP": "-",
+        "Efeito": "Acelera o alvo e desfere um ataque com pot\u00eancia de 240.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de atalho. A pot\u00eancia das revis\u00f5es foi alterada de 300 para 240."
+    },
+    {
+        "Nome": "Pile Bunker",
+        "Ícone": "![Pile Bunker](https://ffxiv.gamerescape.com/w/images/thumb/0/00/Pile_Bunker_Icon.png/60px-Pile_Bunker_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "-",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 650. A pot\u00eancia aumenta \u00e0 medida que o medidor de bateria excede o custo necess\u00e1rio no momento da implanta\u00e7\u00e3o. Se esta a\u00e7\u00e3o n\u00e3o for usada manualmente enquanto o Automaton Queen estiver ativo, ele ser\u00e1 acionado automaticamente imediatamente antes de desligar. \u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00eddo a um hotbar. A pot\u00eancia das revis\u00f5es foi alterada de 800 para 650."
+    },
+    {
+        "Nome": "Scattergun",
+        "Ícone": "![Scattergun](https://ffxiv.gamerescape.com/w/images/thumb/d/d5/Scattergun_Icon.png/60px-Scattergun_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 150 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Aumenta o Medidor de Calor em 10"
+    },
+    {
+        "Nome": "Crowned Collider",
+        "Ícone": "![Crowned Collider](https://ffxiv.gamerescape.com/w/images/thumb/f/ff/Crowned_Collider_Icon.png/60px-Crowned_Collider_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "-",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 750. A pot\u00eancia aumenta \u00e0 medida que o medidor de bateria excede o custo necess\u00e1rio no momento da implanta\u00e7\u00e3o. O Automaton Queen \u00e9 desligado ap\u00f3s a execu\u00e7\u00e3o. Se esta a\u00e7\u00e3o n\u00e3o for usada manualmente enquanto a Automaton Queen estiver ativa, ela ser\u00e1 acionada automaticamente imediatamente antes de desligar.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Chain Saw",
+        "Ícone": "![Chain Saw](https://ffxiv.gamerescape.com/w/images/thumb/8/87/Chain_Saw_Icon.png/60px-Chain_Saw_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em uma linha reta antes de voc\u00ea com uma pot\u00eancia de 570 para o primeiro inimigo e 65% menos para todos os inimigos restantes.Efeito Adicional: Aumenta o Medidor de Bateria em 20 Esta arma n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com outras a\u00e7\u00f5es ."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Nome": "Leg Graze",
+        "Acquired": "Lv. 6",
+        "Cast": "Instant",
+        "Recast": "30s",
+        "MP Cost": "-",
+        "translated_value": "Aflige o alvo com Pesado +40%. Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Second Wind",
+        "Acquired": "Lv. 8",
+        "Cast": "Instant",
+        "Recast": "120s",
+        "MP Cost": "-",
+        "translated_value": "Restaura instantaneamente o pr\u00f3prio HP.Cure Potency: 500"
+    },
+    {
+        "Nome": "Foot Graze",
+        "Acquired": "Lv. 10",
+        "Cast": "Instant",
+        "Recast": "30s",
+        "MP Cost": "-",
+        "translated_value": "Vincula o alvo. Dura\u00e7\u00e3o: 10s Cancela o ataque autom\u00e1tico ap\u00f3s a execu\u00e7\u00e3o. Alvo n\u00e3o vinculado se receber dano."
+    },
+    {
+        "Nome": "Peloton",
+        "Acquired": "Lv. 20",
+        "Cast": "Instant",
+        "Recast": "5s",
+        "MP Cost": "-",
+        "translated_value": "Aumenta a velocidade de movimento de si mesmo e dos membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 30s O efeito termina quando a inimizade \u00e9 gerada. N\u00e3o tem efeito em batalha."
+    },
+    {
+        "Nome": "Head Graze",
+        "Acquired": "Lv. 24",
+        "Cast": "Instant",
+        "Recast": "30s",
+        "MP Cost": "-",
+        "translated_value": "Interrompe o uso da a\u00e7\u00e3o de um alvo."
+    },
+    {
+        "Nome": "Arm's Length",
+        "Acquired": "Lv. 32",
+        "Cast": "Instant",
+        "Recast": "120s",
+        "MP Cost": "-",
+        "translated_value": "Cria uma barreira anulando a maioria dos efeitos knockback e draw-in. Dura\u00e7\u00e3o: 6s Efeito Adicional: Lento +20% quando a barreira \u00e9 atingida Dura\u00e7\u00e3o: 15s"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Nome": "Grit",
+        "Ícone": "![Grit](https://ffxiv.gamerescape.com/w/images/thumb/f/f7/Grit_Icon.png/60px-Grit_Icon.png)",
+        "Job":"Dark Knight",
+        "Efeito": "Aumenta significativamente a geração de inimizade. O efeito termina com a reutilização."
+    },
+
+    {
+        "Nome": "Iron Will",
+        "Ícone": "![Iron Will](https://ffxiv.gamerescape.com/w/images/thumb/d/d7/Iron_Will_Icon.png/60px-Iron_Will_Icon.png)",
+        "Job":"Paladin",
+        "Efeito": "Aumenta significativamente a geração de inimizade. O efeito termina com a reutilização."
+    },
+
+    {
+        "Nome": "Defiance",
+        "Ícone": "![Defiance](https://ffxiv.gamerescape.com/w/images/thumb/9/9f/Defiance_Icon.png/60px-Defiance_Icon.png)",
+        "Job":"",
+        "Efeito": "Aumenta significativamente a geração de inimizade. O efeito termina com a reutilização."
+    },
+
+    {
+        "Nome": "Royal Guard",
+        "Ícone": "![Royal Guard](https://ffxiv.gamerescape.com/w/images/thumb/a/a8/Royal_Guard_Icon.png/60px-Royal_Guard_Icon.png)",
+        "Job":"",
+        "Efeito": "Aumenta significativamente a geração de inimizade. O efeito termina com a reutilização."
+    }
+]

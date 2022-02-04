@@ -1,0 +1,56 @@
+[
+    {
+        "Action Name": "Second Wind",
+        "Ícone": "![Second Wind](https://ffxiv.gamerescape.com/w/images/thumb/c/cc/Second_Wind_Icon.png/60px-Second_Wind_Icon.png)",
+        "Adquirido": "Lv. 8",
+        "Cast": "Instant",
+        "Recarga ": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura instantaneamente o pr\u00f3prio HP.Cure Potency: 500"
+    },
+    {
+        "Action Name": "Leg Sweep",
+        "Ícone": "![Leg Sweep](https://ffxiv.gamerescape.com/w/images/thumb/2/2c/Leg_Sweep_Icon.png/60px-Leg_Sweep_Icon.png)",   
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga ": "40s",
+        "Custo em MP": "-",
+        "Efeito": "Atordoa o alvo. Dura\u00e7\u00e3o: 3s"
+    },
+    {
+        "Action Name": "Bloodbath",
+        "Ícone": "![Bloodbath](https://ffxiv.gamerescape.com/w/images/thumb/c/c0/Bloodbath_Icon.png/60px-Bloodbath_Icon.png)",
+        "Adquirido": "Lv. 12",
+        "Cast": "Instant",
+        "Recarga ": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Converte uma parte do dano f\u00edsico causado em HP. Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Action Name": "Feint",
+        "Ícone": "![Feint](https://ffxiv.gamerescape.com/w/images/thumb/d/d7/Feint_Icon.png/60px-Feint_Icon.png)",
+        "Adquirido": "Lv. 22",
+        "Cast": "Instant",
+        "Recarga ": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano f\u00edsico do alvo em 10% e o dano m\u00e1gico causado em 5%."
+    },
+    {
+        "Action Name": "Arm's Length",
+        "Ícone": "![Arm's Length](https://ffxiv.gamerescape.com/w/images/thumb/0/0e/Arm%27s_Length_Icon.png/60px-Arm%27s_Length_Icon.png)",
+        "Adquirido": "Lv. 32",
+        "Cast": "Instant",
+        "Recarga ": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Cria uma barreira anulando a maioria dos efeitos knockback e draw-in. Dura\u00e7\u00e3o: 6s Efeito Adicional: Lento +20% quando a barreira \u00e9 atingida Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Action Name": "True North",
+        "Ícone": "![True North](https://ffxiv.gamerescape.com/w/images/thumb/0/01/True_North_Icon.png/60px-True_North_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga ": "45s",
+        "Custo em MP": "-",
+        "Efeito": "Anula todos os requisitos de dire\u00e7\u00e3o de a\u00e7\u00e3o. Dura\u00e7\u00e3o: 10s Cargas M\u00e1ximas: 2"
+    }
+]

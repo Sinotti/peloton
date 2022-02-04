@@ -1,0 +1,326 @@
+[
+    {
+        "Nome": "Dosis",
+        "Ícone": "![Dosis](https://ffxiv.gamerescape.com/w/images/thumb/9/9e/Dosis_Icon.png/60px-Dosis_Icon.png)",
+        "Adquirido ": "Lv. 1",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 300.Efeito Adicional: Restaura HP para alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170"
+    },
+    {
+        "Nome": "Diagnosis",
+        "Ícone": "![Diagnosis](https://ffxiv.gamerescape.com/w/images/thumb/3/35/Diagnosis_Icon.png/60px-Diagnosis_Icon.png)",
+        "Adquirido ": "Lv. 2",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 450"
+    },
+    {
+        "Nome": "Kardia",
+        "Ícone": "![Kardia](https://ffxiv.gamerescape.com/w/images/thumb/6/6a/Kardia_Icon.png/60px-Kardia_Icon.png)",
+        "Adquirido ": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "5s",
+        "Custo em MP": "-",
+        "Efeito": "Concede a si mesmo o efeito de Kardia e a um membro selecionado do grupo ou a si mesmo o efeito de Kardion, restaurando HP ap\u00f3s lan\u00e7ar certos ataques m\u00e1gicos."
+    },
+    {
+        "Nome": "Prognosis",
+        "Ícone": "![Prognosis](https://ffxiv.gamerescape.com/w/images/thumb/7/7a/Prognosis_Icon.png/60px-Prognosis_Icon.png)",
+        "Adquirido ": "Lv. 10",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de cura: 300"
+    },
+    {
+        "Nome": "Egeiro",
+        "Ícone": "![Egeiro](https://ffxiv.gamerescape.com/w/images/thumb/3/30/Egeiro_Icon.png/60px-Egeiro_Icon.png)",
+        "Adquirido ": "Lv. 12",
+        "Cast": "8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "2400 MP",
+        "Efeito": "Ressuscita o alvo para um estado enfraquecido."
+    },
+    {
+        "Nome": "Physis",
+        "Ícone": "![Physis](https://ffxiv.gamerescape.com/w/images/thumb/e/e8/Physis_Icon.png/60px-Physis_Icon.png)",
+        "Adquirido ": "Lv. 20",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Gradualmente restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de Cura: 100 Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Phlegma",
+        "Ícone": "![Phlegma](https://ffxiv.gamerescape.com/w/images/thumb/6/61/Phlegma_Icon.png/60px-Phlegma_Icon.png)",
+        "Adquirido ": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 400 para o primeiro inimigo e 30% a menos para todos os inimigos restantes.Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170Cargas m\u00e1ximas: 2Isto a\u00e7\u00e3o n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com nenhuma outra a\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Eukrasia",
+        "Ícone": "![Eukrasia](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Eukrasia_Icon.png/60px-Eukrasia_Icon.png)",
+        "Adquirido ": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta certas a\u00e7\u00f5es m\u00e1gicas ofensivas e curativas.Dosis III \u00e9 atualizado para Eukrasian Dosis III.Diagnosis \u00e9 atualizado para Eukrasian Diagnosis.Prognosis \u00e9 atualizado para Eukrasian Prognosis.Recarga timer n\u00e3o pode ser afetado por efeitos de status ou atributos de equipamento."
+    },
+    {
+        "Nome": "Eukrasian Diagnosis",
+        "Ícone": "![Eukrasian Diagnosis](https://ffxiv.gamerescape.com/w/images/thumb/b/bf/Eukrasian_Diagnosis_Icon.png/60px-Eukrasian_Diagnosis_Icon.png)",
+        "Adquirido ": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "900 MP",
+        "Efeito": "Restaura o HP do alvo. Pot\u00eancia de Cura: 300 Efeito Adicional: Erige uma barreira m\u00e1gica que anula o dano igual a 180% da quantidade de HP restaurada. Quando HP cr\u00edtico \u00e9 restaurado, tamb\u00e9m concede Diagn\u00f3stico Diferencial, anulando o dano igual a 180% da quantidade de HP restaurada. Dura\u00e7\u00e3o: 30s O efeito n\u00e3o pode ser empilhado com Progn\u00f3stico Eukrasiano ou Galvanizar do estudioso.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Eukrasian Prognosis",
+        "Ícone": "![Eukrasian Prognosis](https://ffxiv.gamerescape.com/w/images/thumb/4/49/Eukrasian_Prognosis_Icon.png/60px-Eukrasian_Prognosis_Icon.png)",
+        "Adquirido ": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "900 MP",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de cura: 100Efeito adicional: Ergue uma barreira m\u00e1gica que anula o dano igual a 320% da quantidade de HP restaurada a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Eukrasian Dosis",
+        "Ícone": "![Eukrasian Dosis](https://ffxiv.gamerescape.com/w/images/thumb/8/88/Eukrasian_Dosis_Icon.png/60px-Eukrasian_Dosis_Icon.png)",
+        "Adquirido ": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 40 Dura\u00e7\u00e3o: 30 s Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de Cura: 170\u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Soteria",
+        "Ícone": "![Soteria](https://ffxiv.gamerescape.com/w/images/thumb/c/cf/Soteria_Icon.png/60px-Soteria_Icon.png)",
+        "Adquirido ": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta em 50% a pot\u00eancia de cura dos efeitos de Kardion concedidos por voc\u00ea. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Icarus",
+        "Ícone": "![Icarus](https://ffxiv.gamerescape.com/w/images/thumb/6/61/Icarus_Icon.png/60px-Icarus_Icon.png)",
+        "Adquirido ": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "Custo em MP": "-",
+        "Efeito": "Corra para a localiza\u00e7\u00e3o de um inimigo ou membro do grupo alvo. N\u00e3o \u00e9 poss\u00edvel lan\u00e7ar se estiver preso."
+    },
+    {
+        "Nome": "Druochole",
+        "Ícone": "![Druochole](https://ffxiv.gamerescape.com/w/images/thumb/3/32/Druochole_Icon.png/60px-Druochole_Icon.png)",
+        "Adquirido ": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 600 Efeito Adicional: Restaura 7% do m\u00e1ximo de MPAddersgall Custo: 1"
+    },
+    {
+        "Nome": "Dyskrasia",
+        "Ícone": "![Dyskrasia](https://ffxiv.gamerescape.com/w/images/thumb/6/6f/Dyskrasia_Icon.png/60px-Dyskrasia_Icon.png)",
+        "Adquirido ": "Lv. 46",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 160 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Restaura HP para alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170"
+    },
+    {
+        "Nome": "Kerachole",
+        "Ícone": "![Kerachole](https://ffxiv.gamerescape.com/w/images/thumb/f/f8/Kerachole_Icon.png/60px-Kerachole_Icon.png)",
+        "Adquirido ": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido por si mesmo e por membros pr\u00f3ximos do grupo em 10%. Dura\u00e7\u00e3o: 15s O efeito n\u00e3o pode ser empilhado com Taurochole. Efeito Adicional: RegenCure Pot\u00eancia: 100 Dura\u00e7\u00e3o: 15s Efeito Adicional: Restaura 7% do custo m\u00e1ximo de MPAddersgall: 1"
+    },
+    {
+        "Nome": "Ixochole",
+        "Ícone": "![Ixochole](https://ffxiv.gamerescape.com/w/images/thumb/a/af/Ixochole_Icon.png/60px-Ixochole_Icon.png)",
+        "Adquirido ": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia de Cura: 400 Efeito Adicional: Restaura 7% do custo m\u00e1ximo de MPAddersgall: 1"
+    },
+    {
+        "Nome": "Zoe",
+        "Ícone": "![Zoe](https://ffxiv.gamerescape.com/w/images/thumb/e/ec/Zoe_Icon.png/60px-Zoe_Icon.png)",
+        "Adquirido ": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a pot\u00eancia m\u00e1gica de cura do seu pr\u00f3ximo feiti\u00e7o de cura em 50%. Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Pepsis",
+        "Ícone": "![Pepsis](https://ffxiv.gamerescape.com/w/images/thumb/6/68/Pepsis_Icon.png/60px-Pepsis_Icon.png)",
+        "Adquirido ": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de membros do grupo pr\u00f3ximos removendo os efeitos de Diagn\u00f3stico Eukrasiano e Progn\u00f3stico Eukrasiano concedidos por voc\u00ea. Pot\u00eancia de Cura do Diagn\u00f3stico Eukrasiano: 450 Pot\u00eancia de Cura do Progn\u00f3stico Eukrasiano: 350 Alvos que n\u00e3o estejam sob o efeito do Diagn\u00f3stico Eukrasiano ou do Progn\u00f3stico Eukrasiano n\u00e3o ser\u00e3o curados."
+    },
+    {
+        "Nome": "Physis II",
+        "Ícone": "![Physis II](https://ffxiv.gamerescape.com/w/images/thumb/3/37/Physis_II_Icon.png/60px-Physis_II_Icon.png)",
+        "Adquirido ": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Gradualmente restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de Cura: 130 Dura\u00e7\u00e3o: 15s Efeito Adicional: Aumenta o HP recuperado por a\u00e7\u00f5es de cura em 10% Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Taurochole",
+        "Ícone": "![Taurochole](https://ffxiv.gamerescape.com/w/images/thumb/6/6f/Taurochole_Icon.png/60px-Taurochole_Icon.png)",
+        "Adquirido ": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura HP pr\u00f3prio ou do membro do grupo alvo. Pot\u00eancia de Cura: 700Efeito Adicional: Reduz o dano recebido pelo alvo em 10% Dura\u00e7\u00e3o: 15s O efeito n\u00e3o pode ser empilhado com Kerachole.Efeito Adicional: Restaura 7% do m\u00e1ximo de MPAddersgall Custo: 1"
+    },
+    {
+        "Nome": "Toxikon",
+        "Ícone": "![Toxikon](https://ffxiv.gamerescape.com/w/images/thumb/2/25/Toxikon_Icon.png/60px-Toxikon_Icon.png)",
+        "Adquirido ": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 300 para o primeiro inimigo e 50% menos para todos os inimigos restantes.Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170Custo de adi\u00e7\u00e3o: 1"
+    },
+    {
+        "Nome": "Haima",
+        "Ícone": "![Haima](https://ffxiv.gamerescape.com/w/images/thumb/9/91/Haima_Icon.png/60px-Haima_Icon.png)",
+        "Adquirido ": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Ergue uma barreira m\u00e1gica em torno de si mesmo ou do membro alvo do grupo que absorve dano equivalente a uma cura de 300 de pot\u00eancia.Efeito Adicional: Concede 5 pilhas de Haimatinon Dura\u00e7\u00e3o: 15s Quando a barreira \u00e9 completamente absorvida, uma pilha de Haimatinon \u00e9 consumida e uma nova barreira \u00e9 aplicada. Quando a dura\u00e7\u00e3o do efeito expira, um efeito de cura \u00e9 aplicado. Pot\u00eancia de Cura: 150 por pilha restante de Haimatinon"
+    },
+    {
+        "Nome": "Dosis II",
+        "Ícone": "![Dosis II](https://ffxiv.gamerescape.com/w/images/thumb/d/d0/Dosis_II_Icon.png/60px-Dosis_II_Icon.png)",
+        "Adquirido ": "Lv. 72",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 320.Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170"
+    },
+    {
+        "Nome": "Phlegma II",
+        "Ícone": "![Phlegma II](https://ffxiv.gamerescape.com/w/images/thumb/c/c7/Phlegma_II_Icon.png/60px-Phlegma_II_Icon.png)",
+        "Adquirido ": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 490 para o primeiro inimigo e 50% a menos para todos os inimigos restantes.Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170Cargas m\u00e1ximas: 2Isto a\u00e7\u00e3o n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com nenhuma outra a\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Eukrasian Dosis II",
+        "Ícone": "![Eukrasian Dosis II](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Eukrasian_Dosis_II_Icon.png/60px-Eukrasian_Dosis_II_Icon.png)",
+        "Adquirido ": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 60 Dura\u00e7\u00e3o: 30s Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de Cura: 170\u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra quente."
+    },
+    {
+        "Nome": "Rhizomata",
+        "Ícone": "![Rhizomata](https://ffxiv.gamerescape.com/w/images/thumb/6/6e/Rhizomata_Icon.png/60px-Rhizomata_Icon.png)",
+        "Adquirido ": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Concede 1 pilha de Addersgall."
+    },
+    {
+        "Nome": "Holos",
+        "Ícone": "![Holos](https://ffxiv.gamerescape.com/w/images/thumb/d/d2/Holos_Icon.png/60px-Holos_Icon.png)",
+        "Adquirido ": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de Cura: 300 Efeito Adicional: Reduz o dano recebido por si mesmo e pelos membros pr\u00f3ximos do grupo em 10% Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Panhaima",
+        "Ícone": "![Panhaima](https://ffxiv.gamerescape.com/w/images/thumb/0/0f/Panhaima_Icon.png/60px-Panhaima_Icon.png)",
+        "Adquirido ": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Ergue uma barreira m\u00e1gica em torno de si e de todos os membros do grupo perto de voc\u00ea que absorve dano equivalente a uma cura de 200 de pot\u00eancia.Efeito Adicional: Concede 5 pilhas de Panhaimatinon aplicado.Quando a dura\u00e7\u00e3o do efeito expira, um efeito de cura \u00e9 aplicado.Pot\u00eancia de Cura: 100 por pilha restante de Panhaimatinon"
+    },
+    {
+        "Nome": "Dosis III",
+        "Ícone": "![Dosis III](https://ffxiv.gamerescape.com/w/images/thumb/4/4b/Dosis_III_Icon.png/60px-Dosis_III_Icon.png)",
+        "Adquirido ": "Lv. 82",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 330.Efeito Adicional: Restaura HP para alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170"
+    },
+    {
+        "Nome": "Phlegma III",
+        "Ícone": "![Phlegma III](https://ffxiv.gamerescape.com/w/images/thumb/a/a8/Phlegma_III_Icon.png/60px-Phlegma_III_Icon.png)",
+        "Adquirido ": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 510 para o primeiro inimigo e 50% a menos para todos os inimigos restantes.Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170Cargas m\u00e1ximas: 2Isto a\u00e7\u00e3o n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com nenhuma outra a\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Eukrasian Dosis III",
+        "Ícone": "![Eukrasian Dosis III](https://ffxiv.gamerescape.com/w/images/thumb/d/d0/Eukrasian_Dosis_III_Icon.png/60px-Eukrasian_Dosis_III_Icon.png)",
+        "Adquirido ": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 70Dura\u00e7\u00e3o: 30sEfeito Adicional: Restaura HP para alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Dyskrasia II",
+        "Ícone": "![Dyskrasia II](https://ffxiv.gamerescape.com/w/images/thumb/c/c1/Dyskrasia_II_Icon.png/60px-Dyskrasia_II_Icon.png)",
+        "Adquirido ": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 170 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Restaura HP para alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170"
+    },
+    {
+        "Nome": "Toxikon II",
+        "Ícone": "![Toxikon II](https://ffxiv.gamerescape.com/w/images/thumb/c/cc/Toxikon_II_Icon.png/60px-Toxikon_II_Icon.png)",
+        "Adquirido ": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 330 para o primeiro inimigo e 50% menos para todos os inimigos restantes.Efeito Adicional: Restaura HP aos alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de cura: 170Custo de Addersting: 1"
+    },
+    {
+        "Nome": "Krasis",
+        "Ícone": "![Krasis](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/Krasis_Icon.png/60px-Krasis_Icon.png)",
+        "Adquirido ": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a recupera\u00e7\u00e3o de HP por meio de a\u00e7\u00f5es de cura para um membro do grupo ou para si mesmo em 20%. Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Pneuma",
+        "Ícone": "![Pneuma](https://ffxiv.gamerescape.com/w/images/thumb/2/2a/Pneuma_Icon.png/60px-Pneuma_Icon.png)",
+        "Adquirido ": "Lv. 90",
+        "Cast": "1.5s",
+        "Recarga": "120s",
+        "Custo em MP": "700 MP",
+        "Efeito": "Causa dano inesperado a todos os inimigos em linha reta \u00e0 sua frente com uma pot\u00eancia de 330 para o primeiro inimigo e 40% menos para todos os inimigos restantes.Efeito Adicional: Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo em um raio de 20 yalmsCure Pot\u00eancia: 600 Efeito Adicional: Restaura HP para alvos sob o efeito de Kardion concedido por voc\u00ea Pot\u00eancia de Cura: 170 Esta a\u00e7\u00e3o n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com outras a\u00e7\u00f5es."
+    }
+]

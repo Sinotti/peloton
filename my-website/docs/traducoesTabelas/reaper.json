@@ -1,0 +1,299 @@
+[
+    {
+        "Nome": "Slice",
+        "Ícone": "![Slice](https://ffxiv.gamerescape.com/w/images/thumb/c/cf/Slice_Icon.png/60px-Slice_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 300.Efeito Adicional: Aumenta o Medidor de Alma em 10"
+    },
+    {
+        "Nome": "Waxing Slice",
+        "Ícone": "![Waxing Slice](https://ffxiv.gamerescape.com/w/images/thumb/6/61/Waxing_Slice_Icon.png/60px-Waxing_Slice_Icon.png)",
+        "Adquirido": "Lv. 5",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 140. A\u00e7\u00e3o Combo: SliceCombo Pot\u00eancia: 380 Combo Bonus: Aumenta Soul Gauge em 10"
+    },
+    {
+        "Nome": "Shadow of Death",
+        "Ícone": "![Shadow of Death](https://ffxiv.gamerescape.com/w/images/thumb/7/7d/Shadow_of_Death_Icon.png/60px-Shadow_of_Death_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 300.Efeito Adicional: Aflige o alvo com Design da Morte, aumentando o dano que voc\u00ea causa ao alvo em 10% alvo \u00e9 nocauteado antes do efeito expirar"
+    },
+    {
+        "Nome": "Harpe",
+        "Ícone": "![Harpe](https://ffxiv.gamerescape.com/w/images/thumb/3/32/Harpe_Icon.png/60px-Harpe_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "1.3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 300."
+    },
+    {
+        "Nome": "Hell's Ingress",
+        "Ícone": "![Hell's Ingress](https://ffxiv.gamerescape.com/w/images/thumb/6/63/Hell%27s_Ingress_Icon.png/60px-Hell%27s_Ingress_Icon.png)",
+        "Adquirido": "Lv. 20",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Rapidamente 15 yalms para frente.Efeito Adicional: Permite que a pr\u00f3xima Harpe seja lan\u00e7ada imediatamente Dura\u00e7\u00e3o: 15sEfeito Adicional: Deixa para tr\u00e1s um Hellsgate no ponto de origem e concede Threshold para selfDura\u00e7\u00e3o: 10sN\u00e3o pode ser executado enquanto vinculado.Compartilhe um cron\u00f4metro de reformula\u00e7\u00e3o com Hell&#39;s Egress."
+    },
+    {
+        "Nome": "Hell's Egress",
+        "Ícone": "![Hell's Egress](https://ffxiv.gamerescape.com/w/images/thumb/0/00/Hell%27s_Egress_Icon.png/60px-Hell%27s_Egress_Icon.png)",
+        "Adquirido": "Lv. 20",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Deslize rapidamente 15 yalms para tr\u00e1s.Efeito Adicional: Permite que a pr\u00f3xima Harpe seja lan\u00e7ada imediatamente Dura\u00e7\u00e3o: 15sEfeito Adicional: Deixa para tr\u00e1s um Hellsgate no ponto de origem e concede Limiar a si mesmo"
+    },
+    {
+        "Nome": "Spinning Scythe",
+        "Ícone": "![Spinning Scythe](https://ffxiv.gamerescape.com/w/images/thumb/2/2c/Spinning_Scythe_Icon.png/60px-Spinning_Scythe_Icon.png)",
+        "Adquirido": "Lv. 25",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 140 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Aumenta o Medidor de Alma em 10"
+    },
+    {
+        "Nome": "Infernal Slice",
+        "Ícone": "![Infernal Slice](https://ffxiv.gamerescape.com/w/images/thumb/0/04/Infernal_Slice_Icon.png/60px-Infernal_Slice_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 140.A\u00e7\u00e3o de combina\u00e7\u00e3o: Waxing SliceCombo Potency: 460Combo Bonus: Aumenta Soul Gauge em 10"
+    },
+    {
+        "Nome": "Whorl of Death",
+        "Ícone": "![Whorl of Death](https://ffxiv.gamerescape.com/w/images/thumb/3/32/Whorl_of_Death_Icon.png/60px-Whorl_of_Death_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Aflige o alvo com Design da Morte, aumentando o dano que voc\u00ea causa ao alvo em 10% Medir em 10 se o alvo for nocauteado antes do efeito expirar"
+    },
+    {
+        "Nome": "Arcane Crest",
+        "Ícone": "![Arcane Crest](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/Arcane_Crest_Icon.png/60px-Arcane_Crest_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Crest of Time Emprestado a si mesmo, criando uma barreira que anula o dano totalizando at\u00e9 10% do HP m\u00e1ximo. Dura\u00e7\u00e3o: 5sGrants Crest of Time Devolvido a si mesmo e aos membros pr\u00f3ximos do grupo em um raio de 15 yalms quando a barreira \u00e9 completamente absorvida.Crest of Efeito de retorno de tempo: Restaura gradualmente HPCure Pot\u00eancia: 50 Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Nightmare Scythe",
+        "Ícone": "![Nightmare Scythe](https://ffxiv.gamerescape.com/w/images/thumb/1/12/Nightmare_Scythe_Icon.png/60px-Nightmare_Scythe_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 120 a todos os inimigos pr\u00f3ximos.A\u00e7\u00e3o de combina\u00e7\u00e3o: Spinning ScytheCombo Potency: 180Combo Bonus: Aumenta Soul Gauge em 10"
+    },
+    {
+        "Nome": "Blood Stalk",
+        "Ícone": "![Blood Stalk](https://ffxiv.gamerescape.com/w/images/thumb/9/93/Blood_Stalk_Icon.png/60px-Blood_Stalk_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Convoca seu avatar para desferir um ataque com uma pot\u00eancia de 340.Efeito Adicional: Concede Soul ReaverDura\u00e7\u00e3o: 30sA contagem de pilha ser\u00e1 reduzida para 1 quando j\u00e1 estiver sob o efeito de Soul Reaver.Soul Gauge Cost: 50Compartilhe um cron\u00f4metro de Recarga com todos os ataques de avatar, exceto Gluttony .\u203bMudan\u00e7a de a\u00e7\u00e3o na Fatia de Lemure enquanto estiver sob o efeito de Enshrouded."
+    },
+    {
+        "Nome": "Grim Swathe",
+        "Ícone": "![Grim Swathe](https://ffxiv.gamerescape.com/w/images/thumb/3/34/Grim_Swathe_Icon.png/60px-Grim_Swathe_Icon.png)",
+        "Adquirido": "Lv. 55",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Convoca seu avatar para desferir um ataque com uma pot\u00eancia de 140 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Concede Soul ReaverDura\u00e7\u00e3o: 30sA contagem de pilha ser\u00e1 reduzida para 1 quando j\u00e1 estiver sob o efeito de Soul Reaver.Soul Gauge Cost: 50Shares a Recarga timer com todos os ataques de avatar, exceto Gluttony.\u203bA\u00e7\u00e3o muda para Lemure&#39;s Scythe enquanto estiver sob o efeito de Enshrouded."
+    },
+    {
+        "Nome": "Soul Slice",
+        "Ícone": "![Soul Slice](https://ffxiv.gamerescape.com/w/images/thumb/8/8d/Soul_Slice_Icon.png/60px-Soul_Slice_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 460.Efeito Adicional: Aumenta o Medidor de Alma em 50 Cargas M\u00e1ximas: 2 Compartilha um cron\u00f4metro de relan\u00e7amento com Soul Scythe."
+    },
+    {
+        "Nome": "Soul Scythe",
+        "Ícone": "![Soul Scythe](https://ffxiv.gamerescape.com/w/images/thumb/d/d1/Soul_Scythe_Icon.png/60px-Soul_Scythe_Icon.png)",
+        "Adquirido": "Lv. 65",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 180 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Aumenta o Medidor de Alma em 50 Cargas M\u00e1ximas: 2 Compartilha um cron\u00f4metro de relan\u00e7amento com Fatia de Alma."
+    },
+    {
+        "Nome": "Gibbet",
+        "Ícone": "![Gibbet](https://ffxiv.gamerescape.com/w/images/thumb/c/c5/Gibbet_Icon.png/60px-Gibbet_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 400.460 quando executado a partir do flanco de um alvo.Pot\u00eancia de Gibbet Aprimorada: 460Flank Pot\u00eancia Aprimorada: 520Efeito Adicional: Concede Forca Aprimorada Dura\u00e7\u00e3o: 60sA a\u00e7\u00e3o Blood Stalk muda para Forca Desvelada enquanto estiver sob o efeito de Forca Aprimorada.Efeito Adicional: Aumenta Shroud Gauge em 10S\u00f3 pode ser executado sob o efeito de Soul Reaver.\u203bA\u00e7\u00e3o muda para Void Reaping enquanto estiver sob o efeito de Enshrouded."
+    },
+    {
+        "Nome": "Gallows",
+        "Ícone": "![Gallows](https://ffxiv.gamerescape.com/w/images/thumb/e/e2/Gallows_Icon.png/60px-Gallows_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 400.460 quando executado pela retaguarda de um alvo.Pot\u00eancia da Forca Aprimorada: 460Rear Pot\u00eancia Aprimorada: 520Efeito Adicional: Concede Forca Melhorada Shroud Gauge por 10S\u00f3 pode ser executado enquanto estiver sob o efeito de Soul Reaver.\u203bA\u00e7\u00e3o muda para Cross Reaping enquanto estiver sob o efeito de Enshrouded."
+    },
+    {
+        "Nome": "Guillotine",
+        "Ícone": "![Guillotine](https://ffxiv.gamerescape.com/w/images/thumb/0/0a/Guillotine_Icon.png/60px-Guillotine_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 200 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Aumenta o Medidor de Sud\u00e1rio em 10Pode ser executado apenas sob o efeito de Soul Reaver.\u203bA a\u00e7\u00e3o muda para Grim Reaping enquanto estiver sob o efeito de Enshrouded."
+    },
+    {
+        "Nome": "Unveiled Gibbet",
+        "Ícone": "![Unveiled Gibbet](https://ffxiv.gamerescape.com/w/images/thumb/0/09/Unveiled_Gibbet_Icon.png/60px-Unveiled_Gibbet_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Convoca seu avatar para desferir um ataque com uma pot\u00eancia de 400.Efeito Adicional: Concede Soul ReaverDura\u00e7\u00e3o: 30sA contagem de pilha ser\u00e1 reduzida para 1 quando j\u00e1 estiver sob o efeito de Soul Reaver.Soul Gauge Cost: 50Pode ser executado apenas enquanto estiver sob o efeito de Enhanced Gibbet. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com todos os ataques de avatar, exceto Gula.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Unveiled Gallows",
+        "Ícone": "![Unveiled Gallows](https://ffxiv.gamerescape.com/w/images/thumb/4/47/Unveiled_Gallows_Icon.png/60px-Unveiled_Gallows_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Convoca seu avatar para desferir um ataque com uma pot\u00eancia de 400.Efeito Adicional: Concede Soul ReaverDura\u00e7\u00e3o: 30sA contagem de pilha ser\u00e1 reduzida para 1 quando j\u00e1 estiver sob o efeito de Soul Reaver.Soul Gauge Cost: 50Pode ser executado apenas enquanto estiver sob o efeito de Enhanced Gallows.Compartilhe um cron\u00f4metro de reformula\u00e7\u00e3o com todos os ataques de avatar, exceto Gula.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Arcane Circle",
+        "Ícone": "![Arcane Circle](https://ffxiv.gamerescape.com/w/images/thumb/5/5d/Arcane_Circle_Icon.png/60px-Arcane_Circle_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta em 3% o dano causado por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 20sEfeito Adicional: Concede C\u00edrculo de Sacrif\u00edcio a si mesmo e aos membros do grupo pr\u00f3ximos. Se um efeito acertar com sucesso um abate com arma ou lan\u00e7ar um feiti\u00e7o, o ceifador que o aplicou pode receber uma pilha de Immortal Sacrifice, at\u00e9 um m\u00e1ximo de 8 Dura\u00e7\u00e3o: 30sBloodsown Circle Efeito: Permite acumular pilhas de Immortal Sacrifice de membros do grupo sob o efeito de seu C\u00edrculo de Sacrif\u00edcio"
+    },
+    {
+        "Nome": "Regress",
+        "Ícone": "![Regress](https://ffxiv.gamerescape.com/w/images/thumb/8/89/Regress_Icon.png/60px-Regress_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Mova-se instantaneamente para o Hellsgate deixado para tr\u00e1s por voc\u00ea. S\u00f3 pode ser executado enquanto estiver sob o efeito de Threshold. N\u00e3o pode ser executado enquanto estiver vinculado.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Gluttony",
+        "Ícone": "![Gluttony](https://ffxiv.gamerescape.com/w/images/thumb/9/9e/Gluttony_Icon.png/60px-Gluttony_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Convoca seu avatar para causar dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 500 para o primeiro inimigo e 25% a menos para todos os inimigos restantes.Efeito Adicional: Concede 2 pilhas de Soul ReaverDura\u00e7\u00e3o: 30sSoul Gauge Custo: 50"
+    },
+    {
+        "Nome": "Enshroud",
+        "Ícone": "![Enshroud](https://ffxiv.gamerescape.com/w/images/thumb/7/79/Enshroud_Icon.png/60px-Enshroud_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Oferece sua carne como um recipiente para seu avatar, ganhando o m\u00e1ximo de pilhas de Lemure Shroud.Dura\u00e7\u00e3o: 30s Certas a\u00e7\u00f5es n\u00e3o podem ser executadas enquanto hospeda seu avatar.Shroud Gauge Custo: 50"
+    },
+    {
+        "Nome": "Void Reaping",
+        "Ícone": "![Void Reaping](https://ffxiv.gamerescape.com/w/images/thumb/4/4b/Void_Reaping_Icon.png/60px-Void_Reaping_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 460.Pot\u00eancia de colheita de vazio aprimorada: 520Efeito adicional: Concede colheita cruzada aprimoradaDura\u00e7\u00e3o: 30sEfeito adicional: Concede mortalha de vazioS\u00f3 pode ser executado enquanto estiver sob o efeito de Enshrouded.Recarga timer n\u00e3o pode ser afetado por efeitos de status ou atributos de equipamento. Lemure Shroud Custo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Cross Reaping",
+        "Ícone": "![Cross Reaping](https://ffxiv.gamerescape.com/w/images/thumb/1/17/Cross_Reaping_Icon.png/60px-Cross_Reaping_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 460.Pot\u00eancia de colheita cruzada aprimorada: 520Efeito adicional: Concede colheita de vazio aprimoradaDura\u00e7\u00e3o: 30sEfeito adicional: Concede mortalha do vazioPode ser executado apenas enquanto estiver sob o efeito de Mortalha de Lemure. O temporizador de Recarga n\u00e3o pode ser afetado por efeitos de status ou atributos de equipamento .Custo de Lemure Shroud: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Grim Reaping",
+        "Ícone": "![Grim Reaping](https://ffxiv.gamerescape.com/w/images/thumb/c/c7/Grim_Reaping_Icon.png/60px-Grim_Reaping_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 200 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Concede Mortalha do VazioPode ser executado apenas enquanto estiver sob o efeito de Encoberto.O temporizador de relan\u00e7amento n\u00e3o pode ser afetado por efeitos de status ou atributos de equipamento.Custo de Mortalha de Lemure: 1 \u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Soulsow",
+        "Ícone": "![Soulsow](https://ffxiv.gamerescape.com/w/images/thumb/4/43/Soulsow_Icon.png/60px-Soulsow_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Soulsow a si mesmo, mudando a a\u00e7\u00e3o para Harvest Moon. O tempo de lan\u00e7amento \u00e9 instant\u00e2neo quando usado fora da batalha."
+    },
+    {
+        "Nome": "Harvest Moon",
+        "Ícone": "![Harvest Moon](https://ffxiv.gamerescape.com/w/images/thumb/4/4d/Harvest_Moon_Icon.png/60px-Harvest_Moon_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 600 para o primeiro inimigo e 50% a menos para todos os inimigos restantes. S\u00f3 pode ser executado sob o efeito de Soulsow.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Lemure's Slice",
+        "Ícone": "![Lemure's Slice](https://ffxiv.gamerescape.com/w/images/thumb/0/01/Lemure%27s_Slice_Icon.png/60px-Lemure%27s_Slice_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 200.Custo do Sud\u00e1rio do Vazio: 2Compartilha um cron\u00f4metro de relan\u00e7amento com a Foice de Lemure.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Lemure's Scythe",
+        "Ícone": "![Lemure's Scythe](https://ffxiv.gamerescape.com/w/images/thumb/7/76/Lemure%27s_Scythe_Icon.png/60px-Lemure%27s_Scythe_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos em um cone antes de voc\u00ea.Custo do Sud\u00e1rio do Vazio: 2 Compartilha um cron\u00f4metro de relan\u00e7amento com Fatia de Lemure.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Plentiful Harvest",
+        "Ícone": "![Plentiful Harvest](https://ffxiv.gamerescape.com/w/images/thumb/8/83/Plentiful_Harvest_Icon.png/60px-Plentiful_Harvest_Icon.png)",
+        "Adquirido": "Lv. 88",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em uma linha reta antes de voc\u00ea com uma pot\u00eancia de 520 para o primeiro inimigo e 60% menos para todos os inimigos restantes.Custo de Sacrif\u00edcio Imortal: 1 pilha A pot\u00eancia aumenta at\u00e9 800 conforme as pilhas de Sacrif\u00edcio Imortal excedem o custo m\u00ednimo. Efeito Adicional: Aumenta em 50 o Medidor do Sud\u00e1rio. N\u00e3o pode ser executado enquanto estiver sob o efeito de Bloodsown Circle. Consome todas as pilhas de Immortal Sacrifice ap\u00f3s a execu\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Communio",
+        "Ícone": "![Communio](https://ffxiv.gamerescape.com/w/images/thumb/e/eb/Communio_Icon.png/60px-Communio_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "1.3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 1.000 para o primeiro inimigo e 60% a menos para todos os inimigos restantes. O efeito encoberto expira ap\u00f3s a execu\u00e7\u00e3o. Requer pelo menos uma pilha de Lemure Shroud para ser executado."
+    }
+]

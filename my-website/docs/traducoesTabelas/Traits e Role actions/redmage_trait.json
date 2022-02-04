@@ -1,0 +1,67 @@
+[
+    {
+        "Traits": "Dualcast",
+        "Acquired": "Lv. 1",
+        "translated_value": "Concede o efeito de Dualcast ao lan\u00e7ar qualquer feiti\u00e7o com um tempo de lan\u00e7amento. Enquanto estiver sob o efeito de Dualcast, seu pr\u00f3ximo feiti\u00e7o n\u00e3o exigir\u00e1 tempo para ser lan\u00e7ado. O efeito \u00e9 cancelado na execu\u00e7\u00e3o de qualquer a\u00e7\u00e3o que n\u00e3o seja uma habilidade. Os ataques autom\u00e1ticos n\u00e3o cancelam o efeito. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Traits": "Maim and Mend",
+        "Acquired": "Lv. 20",
+        "translated_value": "Aumenta o dano de a\u00e7\u00e3o base e a restaura\u00e7\u00e3o de HP em 10%."
+    },
+    {
+        "Traits": "Maim and Mend II",
+        "Acquired": "Lv. 40",
+        "translated_value": "Aumenta o dano de a\u00e7\u00e3o base e a restaura\u00e7\u00e3o de HP em 30%."
+    },
+    {
+        "Traits": "Enhanced Jolt",
+        "Acquired": "Lv. 62",
+        "translated_value": "Atualiza Jolt para Jolt II. Tamb\u00e9m aumenta a pot\u00eancia de Verthunder e Veraero para 360, e a pot\u00eancia de Verfire e Verstone para 300. Revis\u00f5es Aumento de pot\u00eancia de Verthunder e Veraero alterado de 370 para 360. Aumento de pot\u00eancia de Verfire e Verstone alterado de 310 para 300."
+    },
+    {
+        "Traits": "Scatter Mastery",
+        "Acquired": "Lv. 66",
+        "translated_value": "Atualiza a dispers\u00e3o para o impacto."
+    },
+    {
+        "Traits": "Mana Stack",
+        "Acquired": "Lv. 68",
+        "translated_value": "Adiciona uma pilha de mana ao seu medidor de equil\u00edbrio ao aterrissar Riposte Encantado, Zwerchhau Encantado, Redobramento Encantado ou Moulinet Encantado, at\u00e9 um m\u00e1ximo de 3. Ao ganhar 3 Pilhas de Mana, Verthunder e Verthunder II s\u00e3o atualizados para Verflare. Ao aprender Verholy, ganhando 3 Mana Stacks tamb\u00e9m atualizam Veraero e Veraero II para Verholy."
+    },
+    {
+        "Traits": "Enhanced Displacement",
+        "Acquired": "Lv. 72",
+        "translated_value": "Aumenta a pot\u00eancia de Deslocamento e Engajamento para 180. Revis\u00f5es Adicionado efeito de Engajamento. Aumento de pot\u00eancia alterado de 200 para 180."
+    },
+    {
+        "Traits": "Red Magic Mastery",
+        "Acquired": "Lv. 74",
+        "translated_value": "Reduz o cron\u00f4metro de reformula\u00e7\u00e3o do Contre Sixte para 35 segundos e aumenta a pot\u00eancia do Verthunder II e do Veraero II para 120. Revis\u00f5es N\u00edvel de aprendizado alterado de 78 para 74. Nome do tra\u00e7o alterado de &quot;Contre Sixte aumentado&quot; para &quot;Maestria em magia vermelha&quot;."
+    },
+    {
+        "Traits": "Enhanced Manafication",
+        "Acquired": "Lv. 78",
+        "translated_value": "Reduz o temporizador de relan\u00e7amento de Manafication para 110 segundos e adiciona um efeito adicional que aumenta o dano m\u00e1gico causado em 5%. Revis\u00f5es O n\u00edvel de aprendizado mudou de 74 para 78."
+    },
+    {
+        "Traits": "Red Magic Mastery II",
+        "Acquired": "Lv. 82",
+        "translated_value": "Atualiza Verthunder para Verthunder III e Veraero para Veraero III. Ao ganhar 3 Mana Stacks, Verthunder III \u00e9 atualizado para Verflare e Veraero III \u00e9 atualizado para Verholy."
+    },
+    {
+        "Traits": "Red Magic Mastery III",
+        "Acquired": "Lv. 84",
+        "translated_value": "Aumenta a pot\u00eancia de Verthunder II para 140, Veraero II para 140, Verfire para 330, Verstone para 330, Jolt II para 310, Impact para 210 e Enchanted Reprise para 330."
+    },
+    {
+        "Traits": "Enhanced Acceleration",
+        "Acquired": "Lv. 88",
+        "translated_value": "Permite o ac\u00famulo de cobran\u00e7as por usos consecutivos de Acelera\u00e7\u00e3o. Cargas M\u00e1ximas: 2"
+    },
+    {
+        "Traits": "Enhanced Manafication II",
+        "Acquired": "Lv. 90",
+        "translated_value": "Aumenta o m\u00e1ximo de ac\u00famulos de Manafication para 6."
+    }
+]

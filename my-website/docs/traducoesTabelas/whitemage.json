@@ -1,0 +1,290 @@
+[
+    {
+        "Nome": "Stone",
+        "Ícone":"![Stone](https://ffxiv.gamerescape.com/w/images/thumb/2/2d/Stone_Icon.png/60px-Stone_Icon.png)", 
+        "Adquirido": "Lv. 1",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 140. Revis\u00f5es Tempo de lan\u00e7amento alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Cure",
+        "Ícone":"![Cure](https://ffxiv.gamerescape.com/w/images/thumb/4/46/Cure_Icon.png/60px-Cure_Icon.png)", 
+        "Adquirido": "Lv. 2",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Restaura o HP do alvo. Pot\u00eancia de Cura: 500 Efeito Adicional: 15% de chance da pr\u00f3xima Cura II n\u00e3o custar MP Dura\u00e7\u00e3o: 15s Revis\u00f5es Pot\u00eancia de cura alterada de 450 para 500."
+    },
+    {
+        "Nome": "Aero",
+        "Ícone":"![Aero](https://ffxiv.gamerescape.com/w/images/thumb/6/67/Aero_Icon.png/60px-Aero_Icon.png)", 
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 50.Efeito adicional: Dano de vento ao longo do tempo Pot\u00eancia: 30Dura\u00e7\u00e3o: 18s"
+    },
+    {
+        "Nome": "Medica",
+        "Ícone":"![Medica](https://ffxiv.gamerescape.com/w/images/thumb/a/aa/Medica_Icon.png/60px-Medica_Icon.png)", 
+        "Adquirido": "Lv. 10",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "MP Cost": "900 MP",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia de cura: 400 revis\u00f5es O tempo de lan\u00e7amento muda de 2,5s para 2s. Custo de MP alterado de 1.000 para 900."
+    },
+    {
+        "Nome": "Raise",
+        "Ícone":"![Raise](https://ffxiv.gamerescape.com/w/images/thumb/d/d3/Raise_Icon.png/60px-Raise_Icon.png)", 
+        "Adquirido": "Lv. 12",
+        "Cast": "8s",
+        "Recarga": "2.5s",
+        "MP Cost": "2400 MP",
+        "Efeito": "Ressuscita o alvo para um estado enfraquecido."
+    },
+    {
+        "Nome": "Stone II",
+        "Ícone":"![Stone II](https://ffxiv.gamerescape.com/w/images/thumb/e/e5/Stone_II_Icon.png/60px-Stone_II_Icon.png)", 
+        "Adquirido": "Lv. 18",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 190. Revis\u00f5es Pot\u00eancia alterada de 200 para 190. Tempo de lan\u00e7amento alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Cure II",
+        "Ícone":"![Cure II](https://ffxiv.gamerescape.com/w/images/thumb/c/c8/Cure_II_Icon.png/60px-Cure_II_Icon.png)", 
+        "Adquirido": "Lv. 30",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "MP Cost": "1000 MP",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 800 Revis\u00f5es Pot\u00eancia de cura alterada de 700 para 800."
+    },
+    {
+        "Nome": "Presence of Mind",
+        "Ícone":"![Presence of Mind](https://ffxiv.gamerescape.com/w/images/thumb/b/bd/Presence_of_Mind_Icon.png/60px-Presence_of_Mind_Icon.png)", 
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "MP Cost": "-",
+        "Efeito": "Reduz o tempo de lan\u00e7amento de feiti\u00e7os e o tempo de relan\u00e7amento e o atraso de ataque autom\u00e1tico em 20%. Dura\u00e7\u00e3o: 15s Revis\u00f5es Tempo de relan\u00e7amento alterado de 150s para 120s."
+    },
+    {
+        "Nome": "Regen",
+        "Ícone":"![Regen](https://ffxiv.gamerescape.com/w/images/thumb/e/e1/Regen_Icon.png/60px-Regen_Icon.png)", 
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "500 MP",
+        "Efeito": "Concede efeito de cura ao longo do tempo ao alvo. Pot\u00eancia de Cura: 250 Dura\u00e7\u00e3o: 18s Revis\u00f5es Pot\u00eancia de cura alterada de 200 para 250."
+    },
+    {
+        "Nome": "Cure III",
+        "Ícone":"![Cure III](https://ffxiv.gamerescape.com/w/images/thumb/6/6a/Cure_III_Icon.png/60px-Cure_III_Icon.png)", 
+        "Adquirido": "Lv. 40",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "MP Cost": "1500 MP",
+        "Efeito": "Restaura HP do alvo e de todos os membros do grupo pr\u00f3ximos ao alvo. Pot\u00eancia de Cura: 600 Revis\u00f5es Pot\u00eancia de cura alterada de 550 para 600."
+    },
+    {
+        "Nome": "Holy",
+        "Ícone":"![Holy](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Holy_Icon.png/60px-Holy_Icon.png)", 
+        "Adquirido": "Lv. 45",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 140 a todos os inimigos pr\u00f3ximos.Efeito Adicional: StunDuration: 4s Revis\u00f5es Custo de MP alterado de 600 para 400."
+    },
+    {
+        "Nome": "Aero II",
+        "Ícone":"![Aero II](https://ffxiv.gamerescape.com/w/images/thumb/3/3e/Aero_II_Icon.png/60px-Aero_II_Icon.png)", 
+        "Adquirido": "Lv. 46",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 60.Efeito adicional: Dano de vento ao longo do tempo Pot\u00eancia: 60Dura\u00e7\u00e3o: 18s"
+    },
+    {
+        "Nome": "Medica II",
+        "Ícone":"![Medica II](https://ffxiv.gamerescape.com/w/images/thumb/1/19/Medica_II_Icon.png/60px-Medica_II_Icon.png)", 
+        "Adquirido": "Lv. 50",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "MP Cost": "1000 MP",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de cura: 250 Efeito adicional: RegenCure Pot\u00eancia: 150 Dura\u00e7\u00e3o: 15s Revis\u00f5es Pot\u00eancia de cura alterada de 200 para 250. Pot\u00eancia de cura ao longo do tempo alterada de 100 para 150. Tempo de conjura\u00e7\u00e3o alterado de 2,5s para O custo de 2s.MP mudou de 1.300 para 1.000."
+    },
+    {
+        "Nome": "Benediction",
+        "Ícone":"![Benediction](https://ffxiv.gamerescape.com/w/images/thumb/1/1e/Benediction_Icon.png/60px-Benediction_Icon.png)", 
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "180s",
+        "MP Cost": "-",
+        "Efeito": "Restaura todo o HP de um alvo."
+    },
+    {
+        "Nome": "Afflatus Solace",
+        "Ícone":"![Afflatus Solace](https://ffxiv.gamerescape.com/w/images/thumb/9/99/Afflatus_Solace_Icon.png/60px-Afflatus_Solace_Icon.png)", 
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Restaura o HP do alvo. Pot\u00eancia de Cura: 800 Efeito Adicional: Nutre o Sangue L\u00edrio Medidor de Cura Custo: 1 L\u00edrio Revis\u00f5es Pot\u00eancia de cura alterada de 700 para 800."
+    },
+    {
+        "Nome": "Asylum",
+        "Ícone":"![Asylum](https://ffxiv.gamerescape.com/w/images/thumb/5/5c/Asylum_Icon.png/60px-Asylum_Icon.png)", 
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "MP Cost": "-",
+        "Efeito": "Envolve uma \u00e1rea designada em um v\u00e9u de socorro, concedendo cura ao longo do tempo a si mesmo e a qualquer membro do grupo que entrar. Pot\u00eancia de Cura: 100 Dura\u00e7\u00e3o: 24s Efeito Adicional: Aumenta a recupera\u00e7\u00e3o de HP atrav\u00e9s de a\u00e7\u00f5es de cura em membros do grupo na \u00e1rea designada em 10%"
+    },
+    {
+        "Nome": "Stone III",
+        "Ícone":"![Stone III](https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Stone_III_Icon.png/60px-Stone_III_Icon.png)", 
+        "Adquirido": "Lv. 54",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 230. Revis\u00f5es Pot\u00eancia alterada de 240 para 230. Tempo de lan\u00e7amento alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Assize",
+        "Ícone":"![Assize](https://ffxiv.gamerescape.com/w/images/thumb/9/91/Assize_Icon.png/60px-Assize_Icon.png)", 
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "MP Cost": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 400 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Restaura o pr\u00f3prio HP e o HP de membros pr\u00f3ximos do grupo Pot\u00eancia de Cura: 400Efeito Adicional: Restaura 5% do MP m\u00e1ximo"
+    },
+    {
+        "Nome": "Thin Air",
+        "Ícone":"![Thin Air](https://ffxiv.gamerescape.com/w/images/thumb/a/ac/Thin_Air_Icon.png/60px-Thin_Air_Icon.png)", 
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "A pr\u00f3xima a\u00e7\u00e3o \u00e9 executada sem custo de MP. Dura\u00e7\u00e3o: 12s Cargas M\u00e1ximas: 2 Revis\u00f5es Alterado &quot;Diminui o custo de MP de todas as a\u00e7\u00f5es em 100%&quot; para &quot;Pr\u00f3xima a\u00e7\u00e3o \u00e9 executada sem custo de MP.&quot; : 2.&quot;"
+    },
+    {
+        "Nome": "Tetragrammaton",
+        "Ícone":"![Tetragrammaton](https://ffxiv.gamerescape.com/w/images/thumb/8/86/Tetragrammaton_Icon.png/60px-Tetragrammaton_Icon.png)", 
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 700"
+    },
+    {
+        "Nome": "Stone IV",
+        "Ícone":"![Stone IV](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Stone_IV_Icon.png/60px-Stone_IV_Icon.png)", 
+        "Adquirido": "Lv. 64",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 270. Revis\u00f5es Pot\u00eancia alterada de 280 para 270. Tempo de lan\u00e7amento alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Divine Benison",
+        "Ícone":"![Divine Benison](https://ffxiv.gamerescape.com/w/images/thumb/e/ed/Divine_Benison_Icon.png/60px-Divine_Benison_Icon.png)", 
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Cria uma barreira em torno de si mesmo ou do membro do grupo alvo que absorve dano equivalente a uma cura de 500 de pot\u00eancia. Dura\u00e7\u00e3o: 15s Cargas M\u00e1ximas: 2 Revis\u00f5es Adicionado &quot;Cargas M\u00e1ximas: 2.&quot;"
+    },
+    {
+        "Nome": "Plenary Indulgence",
+        "Ícone":"![Plenary Indulgence](https://ffxiv.gamerescape.com/w/images/thumb/4/47/Plenary_Indulgence_Icon.png/60px-Plenary_Indulgence_Icon.png)", 
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Concede Confiss\u00e3o a si mesmo e a membros pr\u00f3ximos do grupo. Ao receber recupera\u00e7\u00e3o de HP via Medica, Medica II, Cure III ou Afflatus Rapture conjurado por si mesmo, Confiss\u00e3o desencadeia um efeito de cura adicional. Pot\u00eancia de Cura: 200 Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Dia",
+        "Ícone":"![Dia](https://ffxiv.gamerescape.com/w/images/thumb/6/64/Dia_Icon.png/60px-Dia_Icon.png)", 
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 60.Efeito Adicional: Dano inesperado ao longo do tempo Pot\u00eancia: 60Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 120 para 60."
+    },
+    {
+        "Nome": "Glare",
+        "Ícone":"![Glare](https://ffxiv.gamerescape.com/w/images/thumb/f/fa/Glare_Icon.png/60px-Glare_Icon.png)", 
+        "Adquirido": "Lv. 72",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 290. Revis\u00f5es Pot\u00eancia alterada de 300 para 290. Tempo de conjura\u00e7\u00e3o alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Afflatus Misery",
+        "Ícone":"![Afflatus Misery](https://ffxiv.gamerescape.com/w/images/thumb/0/00/Afflatus_Misery_Icon.png/60px-Afflatus_Misery_Icon.png)", 
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 900 para o primeiro inimigo e 25% a menos para todos os inimigos restantes. S\u00f3 pode ser executado quando o L\u00edrio de Sangue estiver em plena flora\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Afflatus Rapture",
+        "Ícone":"![Afflatus Rapture](https://ffxiv.gamerescape.com/w/images/thumb/9/9e/Afflatus_Rapture_Icon.png/60px-Afflatus_Rapture_Icon.png)", 
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de Cura: 400 Efeito Adicional: Nutre o Sangue L\u00edrio Medidor de Cura Custo: 1 L\u00edrio Revis\u00f5es Pot\u00eancia de cura alterada de 300 para 400."
+    },
+    {
+        "Nome": "Temperance",
+        "Ícone":"![Temperance](https://ffxiv.gamerescape.com/w/images/thumb/e/e5/Temperance_Icon.png/60px-Temperance_Icon.png)", 
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "MP Cost": "-",
+        "Efeito": "Aumenta a pot\u00eancia m\u00e1gica de cura em 20%, enquanto reduz em 10% o dano recebido por si mesmo e por todos os membros do grupo em um raio de 30 yalms. Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Glare III",
+        "Ícone":"![Glare III](https://ffxiv.gamerescape.com/w/images/thumb/7/79/Glare_III_Icon.png/60px-Glare_III_Icon.png)", 
+        "Adquirido": "Lv. 82",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 310."
+    },
+    {
+        "Nome": "Holy III",
+        "Ícone":"![Holy III](https://ffxiv.gamerescape.com/w/images/thumb/8/8e/Holy_III_Icon.png/60px-Holy_III_Icon.png)", 
+        "Adquirido": "Lv. 82",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 150 a todos os inimigos pr\u00f3ximos.Efeito Adicional: StunDuration: 4s"
+    },
+    {
+        "Nome": "Aquaveil",
+        "Ícone":"![Aquaveil](https://ffxiv.gamerescape.com/w/images/thumb/0/0f/Aquaveil_Icon.png/60px-Aquaveil_Icon.png)", 
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Reduz o dano recebido por um membro do grupo ou por si mesmo em 15%. Dura\u00e7\u00e3o: 8s"
+    },
+    {
+        "Nome": "Liturgy of the Bell",
+        "Ícone":"![Liturgy of the Bell](https://ffxiv.gamerescape.com/w/images/thumb/e/e8/Liturgy_of_the_Bell_Icon.png/60px-Liturgy_of_the_Bell_Icon.png)", 
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "180s",
+        "MP Cost": "-",
+        "Efeito": "Coloca uma flor de cura no local designado e concede 5 pilhas de Liturgia do Sino a si mesmo. Dura\u00e7\u00e3o: 15sTomar dano gastar\u00e1 1 pilha de Liturgia do Sino para curar a si mesmo e a todos os membros do grupo em um raio de 20 yalms. Pot\u00eancia de cura: 400O efeito desta a\u00e7\u00e3o s\u00f3 pode ser acionado uma vez por segundo.A flor de cura se dissipa quando todos os ac\u00famulos s\u00e3o gastos ou o efeito expira.Quaisquer ac\u00famulos restantes de Liturgia do Sino quando o efeito expirar ativar\u00e1 um efeito de cura adicional.Pot\u00eancia de Cura: 200 para cada pilha restante de Liturgia do Sino Esta a\u00e7\u00e3o n\u00e3o compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com nenhuma outra a\u00e7\u00e3o."
+    }
+]

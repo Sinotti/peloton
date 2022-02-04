@@ -1,0 +1,290 @@
+[
+    {
+        "Nome": "Fast Blade",
+        "Ícone": "![Fast Blade](https://ffxiv.gamerescape.com/w/images/thumb/d/de/Fast_Blade_Icon.png/60px-Fast_Blade_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 200."
+    },
+    {
+        "Nome": "Fight or Flight",
+        "Ícone": "![Ícone](https://ffxiv.gamerescape.com/w/images/thumb/2/23/Fight_or_Flight_Icon.png/60px-Fight_or_Flight_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta em 25% o dano f\u00edsico causado. Dura\u00e7\u00e3o: 25s"
+    },
+    {
+        "Nome": "Riot Blade",
+        "Ícone": "![Riot Blade](https://ffxiv.gamerescape.com/w/images/thumb/1/17/Riot_Blade_Icon.png/60px-Riot_Blade_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 170. A\u00e7\u00e3o Combo: Fast BladeCombo Potency: 300Combo Bonus: Restaura MP Revisions Potency alterada de 100 para 170."
+    },
+    {
+        "Nome": "Total Eclipse",
+        "Ícone": "![Total Eclipse](https://ffxiv.gamerescape.com/w/images/thumb/e/ed/Total_Eclipse_Icon.png/60px-Total_Eclipse_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A pot\u00eancia das revis\u00f5es foi alterada de 120 para 100."
+    },
+    {
+        "Nome": "Shield Bash",
+        "Ícone": "![Shield Bash](https://ffxiv.gamerescape.com/w/images/thumb/9/92/Shield_Bash_Icon.png/60px-Shield_Bash_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.Efeito Adicional: StunDuration: 6s Revis\u00f5es Pot\u00eancia alterada de 110 para 100."
+    },
+    {
+        "Nome": "Iron Will",
+        "Ícone": "![Iron Will](https://ffxiv.gamerescape.com/w/images/thumb/d/d7/Iron_Will_Icon.png/60px-Iron_Will_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta significativamente a gera\u00e7\u00e3o de inimizade. O efeito termina com a reutiliza\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Shield Lob",
+        "Ícone": "![Shield Lob](https://ffxiv.gamerescape.com/w/images/thumb/e/e7/Shield_Lob_Icon.png/60px-Shield_Lob_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 100.Efeito Adicional: Aumento da inimizade O alcance das revis\u00f5es mudou de 15 para 20.Pot\u00eancia alterada de 120 para 100."
+    },
+    {
+        "Nome": "Rage of Halone",
+        "Ícone": "![Rage of Halone](https://ffxiv.gamerescape.com/w/images/thumb/2/2b/Rage_of_Halone_Icon.png/60px-Rage_of_Halone_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100.A\u00e7\u00e3o de combina\u00e7\u00e3o: Riot BladeCombo Pot\u00eancia: 330 revis\u00f5es A pot\u00eancia de combina\u00e7\u00e3o foi alterada de 350 para 330."
+    },
+    {
+        "Nome": "Spirits Within",
+        "Ícone": "![Spirits Within](https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Spirits_Within_Icon.png/60px-Spirits_Within_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 270.Efeito Adicional: Restaura MP Revis\u00f5es Pot\u00eancia alterada de 100 para 270.Exclu\u00eddo &quot;A pot\u00eancia aumenta at\u00e9 370 conforme o pr\u00f3prio HP se aproxima do m\u00e1ximo.&quot;"
+    },
+    {
+        "Nome": "Sheltron",
+        "Ícone": "![Sheltron](https://ffxiv.gamerescape.com/w/images/thumb/e/e6/Sheltron_Icon.png/60px-Sheltron_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "5s",
+        "Custo em MP": "-",
+        "Efeito": "Bloqueie ataques recebidos. Dura\u00e7\u00e3o: 6sOath Gauge Custo: 50"
+    },
+    {
+        "Nome": "Sentinel",
+        "Ícone": "![Sentinel](https://ffxiv.gamerescape.com/w/images/thumb/5/56/Sentinel_Icon.png/60px-Sentinel_Icon.png)",
+        "Adquirido": "Lv. 38",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido em 30%. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Prominence",
+        "Ícone": "![Prominence](https://ffxiv.gamerescape.com/w/images/thumb/5/52/Prominence_Icon.png/60px-Prominence_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.A\u00e7\u00e3o de Combo: Total EclipseCombo Potency: 170Combo Bonus: Restaura MP Revis\u00f5es Pot\u00eancia de combo alterada de 220 para 170."
+    },
+    {
+        "Nome": "Cover",
+        "Ícone": "![Cover](https://ffxiv.gamerescape.com/w/images/thumb/f/f3/Cover_Icon.png/60px-Cover_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Sofre todo o dano destinado a outro membro do grupo, desde que o referido membro permane\u00e7a dentro de 10 yalms. N\u00e3o ativa com certos ataques. Dura\u00e7\u00e3o: 12sOath Gauge Custo: 50"
+    },
+    {
+        "Nome": "Circle of Scorn",
+        "Ícone": "![Circle of Scorn](https://ffxiv.gamerescape.com/w/images/thumb/5/51/Circle_of_Scorn_Icon.png/60px-Circle_of_Scorn_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Dano ao longo do tempoPot\u00eancia: 30Dura\u00e7\u00e3o: 15s Revis\u00f5es Pot\u00eancia alterada de 120 para 100.Pot\u00eancia de dano ao longo do tempo alterada de 35 para 30.Tempo de relan\u00e7amento alterado de 25s para 30s."
+    },
+    {
+        "Nome": "Hallowed Ground",
+        "Ícone": "![Hallowed Ground](https://ffxiv.gamerescape.com/w/images/thumb/6/6f/Hallowed_Ground_Icon.png/60px-Hallowed_Ground_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "420s",
+        "Custo em MP": "-",
+        "Efeito": "Torna voc\u00ea imune \u00e0 maioria dos ataques. Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Goring Blade",
+        "Ícone": "![Goring Blade](https://ffxiv.gamerescape.com/w/images/thumb/2/28/Goring_Blade_Icon.png/60px-Goring_Blade_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de Combo: Riot BladeCombo Pot\u00eancia: 250 B\u00f4nus de Combo: Dano ao longo do tempo Pot\u00eancia: 65 Dura\u00e7\u00e3o: 21s O efeito de dano ao longo do tempo n\u00e3o pode ser empilhado com o de Blade of Valor. Revis\u00f5es A pot\u00eancia do combo foi alterada de 390 para 250. A pot\u00eancia de dano ao longo do tempo foi alterada de 85 para 65. Adicionado &quot;Efeito de dano ao longo do tempo n\u00e3o pode ser empilhado com o de Blade of Valor&quot;."
+    },
+    {
+        "Nome": "Divine Veil",
+        "Ícone": "![Divine Veil](https://ffxiv.gamerescape.com/w/images/thumb/1/1f/Divine_Veil_Icon.png/60px-Divine_Veil_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Ap\u00f3s a recupera\u00e7\u00e3o de HP por meio de magia de cura lan\u00e7ada por si mesmo ou por um membro do grupo, uma barreira protetora \u00e9 lan\u00e7ada em todos os membros do grupo dentro de um raio de 15 yalms. Dura\u00e7\u00e3o: 30sEfeito de barreira: Previne danos em at\u00e9 10% do seu HP m\u00e1ximo. HPCure Potency do alvo: 400Effect termina ao lan\u00e7ar barreira em si mesmo e em membros pr\u00f3ximos do grupo. Revis\u00f5es adicionadas &quot;Efeito adicional: Restaura o HP do alvo&quot;"
+    },
+    {
+        "Nome": "Clemency",
+        "Ícone": "![Clemency](https://ffxiv.gamerescape.com/w/images/thumb/9/9d/Clemency_Icon.png/60px-Clemency_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "2000 MP",
+        "Efeito": "Restaura o HP do alvo. Pot\u00eancia de Cura: 1.000 Efeito Adicional: Restaura para si mesmo 50% do HP restaurado para o alvo se o alvo for um membro do grupo Revis\u00f5es Pot\u00eancia de cura alterada de 1.200 para 1.000."
+    },
+    {
+        "Nome": "Royal Authority",
+        "Ícone": "![Royal Authority](https://ffxiv.gamerescape.com/w/images/thumb/e/e0/Royal_Authority_Icon.png/60px-Royal_Authority_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 130. A\u00e7\u00e3o de combina\u00e7\u00e3o: Riot BladeCombo Pot\u00eancia: 420 Combo Bonus: Concede 3 pilhas de Sword Oath"
+    },
+    {
+        "Nome": "Intervention",
+        "Ícone": "![Intervention](https://ffxiv.gamerescape.com/w/images/thumb/a/aa/Intervention_Icon.png/60px-Intervention_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz em 10% o dano recebido pelo membro do grupo alvo. Dura\u00e7\u00e3o: 8sEfeito Adicional: Aumenta a redu\u00e7\u00e3o de dano em mais 10% se Rampart ou Sentinela estiverem ativosEfeito Adicional: Concede a Determina\u00e7\u00e3o do Cavaleiro ao alvo. Concede B\u00ean\u00e7\u00e3o do Cavaleiro ao alvo B\u00ean\u00e7\u00e3o do Cavaleiro Efeito: Gradualmente restaura HPCure Potency: 250 Dura\u00e7\u00e3o: 12s Oath Gauge Custo: 50 Revis\u00f5es Alterado &quot;Aumenta a redu\u00e7\u00e3o de dano em mais 50% do efeito de Rampart ou Sentinel se ambos estiverem ativos&quot; para &quot;Aumenta a redu\u00e7\u00e3o de dano em um adicional 10% se Rampart ou Sentinel estiverem ativos. Adicionado o seguinte:Efeito Adicional: Concede Knight&#39;s Resolve ao alvoKnight&#39;s Resolve Efeito: Reduz o dano recebido em 10% Dura\u00e7\u00e3o: 4sEfeito Adicional: Concede Knight&#39;s Benediction ao alvoKnight&#39;s Benediction Efeito: Gradualmente restaura HPCure Potency: 250Duration : 12s"
+    },
+    {
+        "Nome": "Holy Spirit",
+        "Ícone": "![Holy Spirit](https://ffxiv.gamerescape.com/w/images/thumb/a/a9/Holy_Spirit_Icon.png/60px-Holy_Spirit_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "1000 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 270.Pot\u00eancia de Requiescat: 540Efeito Adicional: Restaura a pr\u00f3pria Pot\u00eancia de HPCure: 400 Revis\u00f5es Pot\u00eancia alterada de 350 para 270.Adicionado &quot;Pot\u00eancia de Requiescat: 540&quot;.Adicionado &quot;Efeito adicional: Restaura o pr\u00f3prio HP&quot; e &quot;Pot\u00eancia de cura&quot; : 400&quot;. Custo de MP alterado de 2000 para 1000."
+    },
+    {
+        "Nome": "Requiescat",
+        "Ícone": "![Requiescat](https://ffxiv.gamerescape.com/w/images/thumb/2/2b/Requiescat_Icon.png/60px-Requiescat_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 400.Efeito Adicional: Concede 5 pilhas de RequiescatRequiescat Efeito: Aumenta a pot\u00eancia do Esp\u00edrito Santo e do C\u00edrculo Sagrado e os feiti\u00e7os n\u00e3o requerem tempo de lan\u00e7amento. 30s.Exclu\u00eddo &quot;A pot\u00eancia aumenta at\u00e9 550 quando o MP se aproxima do m\u00e1ximo.&quot; Modificado &quot;Efeito Adicional: Aumenta a pot\u00eancia de magia de ataque e magia de cura em 50% se o MP atual estiver em 80% ou mais, e permite que feiti\u00e7os sejam lan\u00e7ados imediatamente&quot; para &quot; Efeito Adicional: Recebe 5 pilhas de Requiescat. Adicionado &quot;Efeito Requiescat: Aumenta a pot\u00eancia do Esp\u00edrito Santo e do C\u00edrculo Sagrado e os feiti\u00e7os n\u00e3o requerem tempo de lan\u00e7amento&quot;."
+    },
+    {
+        "Nome": "Passage of Arms",
+        "Ícone": "![Passage of Arms](https://ffxiv.gamerescape.com/w/images/thumb/0/07/Passage_of_Arms_Icon.png/60px-Passage_of_Arms_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a taxa de bloqueio para 100% e cria uma \u00e1rea designada em um cone atr\u00e1s de voc\u00ea, na qual os membros do grupo sofrer\u00e3o apenas 85% de todos os danos infligidos. Dura\u00e7\u00e3o: 18s O efeito termina ao usar outra a\u00e7\u00e3o ou movimento (incluindo enfrentar uma dire\u00e7\u00e3o diferente). -ataque na execu\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Holy Circle",
+        "Ícone": "![Holy Circle](https://ffxiv.gamerescape.com/w/images/thumb/f/f3/Holy_Circle_Icon.png/60px-Holy_Circle_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "1000 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 130 a todos os inimigos pr\u00f3ximos. Pot\u00eancia de Requiescat: 300 Efeito Adicional: Restaura o pr\u00f3prio HPCure Pot\u00eancia: 400 Revis\u00f5es Pot\u00eancia alterada de 250 para 130. Adicionado &quot;Pot\u00eancia de Requiescat: 300&quot;. Adicionado &quot;Efeito Adicional: Restaura o pr\u00f3prio HP&quot; e &quot;Cure Potency: 400&quot;. Custo de MP alterado de 2000 para 1000."
+    },
+    {
+        "Nome": "Intervene",
+        "Ícone": "![Intervene](https://ffxiv.gamerescape.com/w/images/thumb/8/85/Intervene_Icon.png/60px-Intervene_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Apressa o alvo e desfere um ataque com uma pot\u00eancia de 150.Cargas M\u00e1ximas: 2N\u00e3o pode ser executado enquanto estiver preso. A pot\u00eancia das revis\u00f5es foi alterada de 200 para 150. O intervalo foi alterado de 15 para 20."
+    },
+    {
+        "Nome": "Atonement",
+        "Ícone": "![Atonement](https://ffxiv.gamerescape.com/w/images/thumb/4/42/Atonement_Icon.png/60px-Atonement_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 420.Efeito Adicional: Restaura MPPode ser executado apenas enquanto estiver sob o efeito de Sword Oath. A pot\u00eancia das revis\u00f5es foi alterada de 550 para 420."
+    },
+    {
+        "Nome": "Confiteor",
+        "Ícone": "![Confiteor](https://ffxiv.gamerescape.com/w/images/thumb/6/60/Confiteor_Icon.png/60px-Confiteor_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "1000 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 900 no alvo e em todos os inimigos pr\u00f3ximos. S\u00f3 pode ser executado enquanto estiver sob o efeito de Requiescat. O efeito desaparece ap\u00f3s a execu\u00e7\u00e3o.\u203bA a\u00e7\u00e3o muda para L\u00e2mina da F\u00e9 ap\u00f3s a execu\u00e7\u00e3o. A pot\u00eancia das revis\u00f5es foi alterada de 800 para 900. Adicionado &quot;Mudan\u00e7as de a\u00e7\u00e3o para Blade of Faith ap\u00f3s a execu\u00e7\u00e3o&quot;. Custo de MP alterado de 2000 para 1000."
+    },
+    {
+        "Nome": "Holy Sheltron",
+        "Ícone": "![Holy Sheltron](https://ffxiv.gamerescape.com/w/images/thumb/8/8d/Holy_Sheltron_Icon.png/60px-Holy_Sheltron_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "5s",
+        "Custo em MP": "-",
+        "Efeito": "Bloqueie ataques recebidos. Dura\u00e7\u00e3o: 8sEfeito Adicional: Concede Knight&#39;s ResolveKnight&#39;s Resolve Efeito: Reduz o dano recebido em 15% Dura\u00e7\u00e3o: 4sEfeito Adicional: Concede Knight&#39;s BenedictionKnight&#39;s Benediction Efeito: Gradualmente restaura HPCure Potency: 250Duration: 12sOath Gauge Cost: 50"
+    },
+    {
+        "Nome": "Expiacion",
+        "Ícone": "![Expiacion](https://ffxiv.gamerescape.com/w/images/thumb/0/09/Expiacion_Icon.png/60px-Expiacion_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 340 para o primeiro inimigo e 50% menos para todos os inimigos restantes.Efeito Adicional: Restaura MP"
+    },
+    {
+        "Nome": "Blade of Faith",
+        "Ícone": "![Blade of Faith](https://ffxiv.gamerescape.com/w/images/thumb/4/49/Blade_of_Faith_Icon.png/60px-Blade_of_Faith_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 420 para o primeiro inimigo e 50% a menos para todos os inimigos restantes.A\u00e7\u00e3o de Combo: Confiteor B\u00f4nus de Combo: Restaura MP\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Blade of Truth",
+        "Ícone": "![Blade of Truth](https://ffxiv.gamerescape.com/w/images/thumb/2/24/Blade_of_Truth_Icon.png/60px-Blade_of_Truth_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 500 para o primeiro inimigo e 50% a menos para todos os inimigos restantes.A\u00e7\u00e3o de Combo: L\u00e2mina da F\u00e9 B\u00f4nus de Combo: Restaura MP\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Blade of Valor",
+        "Ícone": "![Blade of Valor](https://ffxiv.gamerescape.com/w/images/thumb/3/38/Blade_of_Valor_Icon.png/60px-Blade_of_Valor_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 580 para o primeiro inimigo e 50% menos para todos os inimigos restantes.A\u00e7\u00e3o de Combo: Blade of TruthCombo Bonus: Restaura MPCombo Bonus: Dano ao longo do tempo Pot\u00eancia: 80 para o primeiro inimigo , e 50% a menos para todos os inimigos restantes Dura\u00e7\u00e3o: 21s O efeito de dano ao longo do tempo n\u00e3o pode ser acumulado com o de Goring Blade.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    }
+]

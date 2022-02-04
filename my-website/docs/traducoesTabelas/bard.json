@@ -1,0 +1,272 @@
+[
+    {
+        "Nome": "Heavy Shot",
+        "Ícone": "![Heavy Shot](https://ffxiv.gamerescape.com/w/images/thumb/e/ed/Heavy_Shot_Icon.png/60px-Heavy_Shot_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 160.Efeito Adicional: 20% de chance de se tornar Straight Shot Ready Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 180 para 160.Dura\u00e7\u00e3o alterada de 10s para 30s."
+    },
+    {
+        "Nome": "Straight Shot",
+        "Ícone": "![Straight Shot](https://ffxiv.gamerescape.com/w/images/thumb/8/81/Straight_Shot_Icon.png/60px-Straight_Shot_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 200. S\u00f3 pode ser executado quando Straight Shot Ready."
+    },
+    {
+        "Nome": "Raging Strikes",
+        "Ícone": "![Raging Strikes](https://ffxiv.gamerescape.com/w/images/thumb/b/b9/Raging_Strikes_Icon.png/60px-Raging_Strikes_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o dano causado em 15%.Dura\u00e7\u00e3o: 20s Revis\u00f5es Pot\u00eancia alterada de 10% para 15%.Tempo de relan\u00e7amento alterado de 80s para 120s."
+    },
+    {
+        "Nome": "Venomous Bite",
+        "Ícone": "![Venomous Bite](https://ffxiv.gamerescape.com/w/images/thumb/2/23/Venomous_Bite_Icon.png/60px-Venomous_Bite_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.Efeito Adicional: VenomPotency: 15Duration: 45s Revis\u00f5es Pot\u00eancia de dano ao longo do tempo alterada de 30 para 15.Duration alterada de 30s para 45s."
+    },
+    {
+        "Nome": "Bloodletter",
+        "Ícone": "![Bloodletter](https://ffxiv.gamerescape.com/w/images/thumb/3/3e/Bloodletter_Icon.png/60px-Bloodletter_Icon.png)",
+        "Adquirido": "Lv. 12",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque com uma pot\u00eancia de 110. Cargas M\u00e1ximas: 3 Compartilha um cron\u00f4metro de relan\u00e7amento com Chuva da Morte. Pot\u00eancia das revis\u00f5es alterada de 150 para 110. Adicionado &quot;Cargas M\u00e1ximas: 3.&quot;"
+    },
+    {
+        "Nome": "Repelling Shot",
+        "Ícone": "![Repelling Shot](https://ffxiv.gamerescape.com/w/images/thumb/2/24/Repelling_Shot_Icon.png/60px-Repelling_Shot_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Salta a 10 yalms de dist\u00e2ncia do alvo atual. N\u00e3o pode ser executado enquanto estiver preso."
+    },
+    {
+        "Nome": "Quick Nock",
+        "Ícone": "![Quick Nock](https://ffxiv.gamerescape.com/w/images/thumb/e/e3/Quick_Nock_Icon.png/60px-Quick_Nock_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 110 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: 35% de chance de se tornar Shadowbite ReadyDura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 150 para 110.O efeito adicional &quot;30% de chance de Recarga timer para Bloodletter e Chuva da Morte ser\u00e1 reiniciada&quot; foi alterado para &quot;35% de chance de se tornar Shadowbite Ready&quot;."
+    },
+    {
+        "Nome": "Windbite",
+        "Ícone": "![Windbite](https://ffxiv.gamerescape.com/w/images/thumb/a/af/Windbite_Icon.png/60px-Windbite_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 60.Efeito adicional: Dano de vento ao longo do tempo Pot\u00eancia: 20Dura\u00e7\u00e3o: 45s Revis\u00f5es Pot\u00eancia de dano ao longo do tempo alterada de 40 para 20.Dura\u00e7\u00e3o alterada de 30s para 45s."
+    },
+    {
+        "Nome": "Mage's Ballad",
+        "Ícone": "![Mage's Ballad](https://ffxiv.gamerescape.com/w/images/thumb/b/b2/Mage%27s_Ballad_Icon.png/60px-Mage%27s_Ballad_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100.Efeito Adicional: Concede a Balada do Mago a si mesmo e a todos os membros do grupo dentro de 30 yalms, aumentando o dano causado em 1% e Chuva da Morte por 7,5sEfeito Adicional: Concede Revis\u00f5es de Coda do Mago Categoria alterada de feiti\u00e7o para habilidade.Mudamos as condi\u00e7\u00f5es de efeito adicionais de &quot;40% de chance de conceder Repert\u00f3rio quando o dano ao longo do tempo \u00e9 causado por Mordida C\u00e1ustica ou Mordida de Tempestade&quot; para &quot;80% de chance de conceder Repert\u00f3rio. Efeito do repert\u00f3rio alterado de &quot;Reinicializa o cron\u00f4metro de relan\u00e7amento de Bloodletter e Chuva da Morte&quot; para &quot;Encurta o cron\u00f4metro de relan\u00e7amento de Bloodletter e Chuva da Morte em 7,5 segundos&quot;. Dura\u00e7\u00e3o alterada de 30s para 45s. Adicionado &quot;Efeito Adicional: Concede Coda do Mago. O efeito de aumento de dano agora tamb\u00e9m se aplica ao bardo que o conjurou. Exclu\u00edda &quot;Esta a\u00e7\u00e3o n\u00e3o compartilha um temporizador de Recarga com nenhuma outra a\u00e7\u00e3o. afetado por outras a\u00e7\u00f5es.&quot; O tempo de reformula\u00e7\u00e3o mudou de 80s para 120s."
+    },
+    {
+        "Nome": "The Warden's Paean",
+        "Ícone": "![The Warden's Paean](https://ffxiv.gamerescape.com/w/images/thumb/a/a2/Warden%27s_Paean_Icon.png/60px-Warden%27s_Paean_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "Custo em MP": "-",
+        "Efeito": "Remove um efeito prejudicial selecionado de si mesmo ou de um membro do grupo alvo. Se o alvo n\u00e3o estiver enfraquecido, uma barreira \u00e9 criada anulando o pr\u00f3ximo efeito prejudicial sofrido pelo alvo. Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Barrage",
+        "Ícone": "![Barrage](https://ffxiv.gamerescape.com/w/images/thumb/4/48/Barrage_Icon.png/60px-Barrage_Icon.png)",
+        "Adquirido": "Lv. 38",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Triplica o n\u00famero de acertos para um abate com arma de alvo \u00fanico. Efeitos adicionais adicionados apenas uma vez. Dura\u00e7\u00e3o: 10sEfeito Adicional: Aumenta a pot\u00eancia de Shadowbite para 270Efeito Adicional: Concede Straight Shot Ready mudou de 80 para 120."
+    },
+    {
+        "Nome": "Army's Paeon",
+        "Ícone": "![Army's Paeon](https://ffxiv.gamerescape.com/w/images/thumb/2/29/Army%27s_Paeon_Icon.png/60px-Army%27s_Paeon_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100.Efeito Adicional: Concede o Paeon do Ex\u00e9rcito a si mesmo e a todos os membros do grupo dentro de 30 yalms, aumentando a taxa de acerto direto em 3% tempo de relan\u00e7amento, tempo de lan\u00e7amento de feiti\u00e7os e tempo de relan\u00e7amento e atraso de ataque autom\u00e1tico em 4% Pode ser empilhado at\u00e9 4 vezes.Efeito Adicional: Concede Revis\u00f5es de Coda do Ex\u00e9rcito Categoria alterada de feiti\u00e7o para habilidade.Alterou as condi\u00e7\u00f5es de efeito adicionais de &quot;40% de chance de concede Repertoire quando o dano ao longo do tempo \u00e9 causado por Caustic Bite ou Stormbite&quot; para &quot;80% de chance de conceder Repertoire&quot;. Dura\u00e7\u00e3o alterada de 30s para 45s. Adicionado &quot;Efeito Adicional: Concede Coda do Ex\u00e9rcito&quot;. O efeito de acerto direto agora tamb\u00e9m se aplica ao bardo quem a conjurou.Exclu\u00edda &quot;Esta a\u00e7\u00e3o n\u00e3o compartilha um cron\u00f4metro de Recarga com nenhuma outra a\u00e7\u00e3o. Al\u00e9m disso, o cron\u00f4metro de Recarga n\u00e3o pode ser afetado por outras a\u00e7\u00f5es.&quot;Tempo de Recarga alterado de 80s para 120s."
+    },
+    {
+        "Nome": "Rain of Death",
+        "Ícone": "![Rain of Death](https://ffxiv.gamerescape.com/w/images/thumb/b/b8/Rain_of_Death_Icon.png/60px-Rain_of_Death_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 ao alvo e todos os inimigos pr\u00f3ximos a ele. Cargas M\u00e1ximas: 3 Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Bloodletter. Revis\u00f5es adicionadas &quot;Cargas M\u00e1ximas: 3&quot;. Pot\u00eancia alterada de 130 para 100."
+    },
+    {
+        "Nome": "Battle Voice",
+        "Ícone": "![Battle Voice](https://ffxiv.gamerescape.com/w/images/thumb/e/ee/Battle_Voice_Icon.png/60px-Battle_Voice_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a taxa de acerto direto de si mesmo e de todos os membros do grupo pr\u00f3ximos em 20%. Dura\u00e7\u00e3o: 15s S\u00f3 pode ser executado enquanto se canta Mage&#39;s Ballad, Army&#39;s Paeon ou Wanderer&#39;s Minuet. Dura\u00e7\u00e3o das revis\u00f5es alterada de 20s para 15s. Temporizador de Recarga alterado de 180s para 120s. O efeito agora tamb\u00e9m se aplica ao bardo que o conjurou."
+    },
+    {
+        "Nome": "The Wanderer's Minuet",
+        "Ícone": "![The Wanderer's Minuet](https://ffxiv.gamerescape.com/w/images/thumb/b/b4/Wanderer%27s_Minuet_Icon.png/60px-Wanderer%27s_Minuet_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100.Efeito Adicional: Concede Minueto do Andarilho a si mesmo e a todos os membros do grupo dentro de 30 yalms, aumentando a taxa de acerto cr\u00edtico em 2% PerfeitoPode ser empilhado at\u00e9 3 vezes.Efeito Adicional: Concede revis\u00f5es de coda do Wanderer Categoria alterada de feiti\u00e7o para habilidade.Mudamos as condi\u00e7\u00f5es de efeito adicionais de &quot;40% de chance de conceder Repert\u00f3rio quando o dano ao longo do tempo \u00e9 causado por Mordida C\u00e1ustica ou Mordida de Tempestade&quot; para &quot;80% chance de conceder Repertoire. Dura\u00e7\u00e3o alterada de 30s para 45s.Adicionado &quot;Efeito Adicional: Concede Coda do Andarilho&quot;.Efeito de acerto cr\u00edtico agora tamb\u00e9m se aplica ao bardo que o conjurou.Exclu\u00eddo &quot;Esta a\u00e7\u00e3o n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com outras a\u00e7\u00f5es Al\u00e9m disso, o temporizador de reformula\u00e7\u00e3o n\u00e3o pode ser afetado por outras a\u00e7\u00f5es.&quot; O tempo de reformula\u00e7\u00e3o mudou de 80s para 120s."
+    },
+    {
+        "Nome": "Pitch Perfect",
+        "Ícone": "![Pitch Perfect](https://ffxiv.gamerescape.com/w/images/thumb/9/94/Pitch_Perfect_Icon.png/60px-Pitch_Perfect_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Desfere um ataque ao alvo. A pot\u00eancia varia com o n\u00famero de pilhas de repert\u00f3rio.1 Stack de repert\u00f3rio: 1002 pilhas de repert\u00f3rio: 2203 pilhas de repert\u00f3rio: 360S\u00f3 pode ser executado quando o Minueto do Andarilho estiver ativo. Revis\u00f5es Pot\u00eancia com 2 pilhas de repert\u00f3rio alterada de 250 para 220. Pot\u00eancia com 3 pilhas de repert\u00f3rio alterada de 450 para 360. Tempo de reformula\u00e7\u00e3o alterado de 3s para 1s."
+    },
+    {
+        "Nome": "Empyreal Arrow",
+        "Ícone": "![Empyreal Arrow](https://ffxiv.gamerescape.com/w/images/thumb/a/ad/Empyreal_Arrow_Icon.png/60px-Empyreal_Arrow_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 200. Revis\u00f5es Pot\u00eancia alterada de 230 para 200."
+    },
+    {
+        "Nome": "Iron Jaws",
+        "Ícone": "![Iron Jaws](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Iron_Jaws_Icon.png/60px-Iron_Jaws_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.Efeito Adicional: Se o alvo estiver sofrendo um efeito Mordida C\u00e1ustica ou Mordida Tempestade infligido por voc\u00ea, o cron\u00f4metro do efeito \u00e9 reiniciadoEfeito Adicional: 35% de chance de ficar pronto para tiro direto Dura\u00e7\u00e3o: 30s Revis\u00f5es Dura\u00e7\u00e3o do tiro direto pronto mudou de 10s para 30s."
+    },
+    {
+        "Nome": "Sidewinder",
+        "Ícone": "![Sidewinder](https://ffxiv.gamerescape.com/w/images/thumb/2/2e/Sidewinder_Icon.png/60px-Sidewinder_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque com uma pot\u00eancia de 300. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Troubadour",
+        "Ícone": "![Troubadour](https://ffxiv.gamerescape.com/w/images/thumb/e/e6/Troubadour_Icon.png/60px-Troubadour_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz em 10% o dano recebido por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s O efeito n\u00e3o pode ser empilhado com o Tactician do maquinista ou o Shield Samba do dan\u00e7arino. O tempo de reformula\u00e7\u00e3o das revis\u00f5es foi alterado de 120s para 90s."
+    },
+    {
+        "Nome": "Caustic Bite",
+        "Ícone": "![Caustic Bite](https://ffxiv.gamerescape.com/w/images/thumb/4/4b/Caustic_Bite_Icon.png/60px-Caustic_Bite_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 150.Efeito Adicional: VenenoPot\u00eancia: 20Dura\u00e7\u00e3o: 45sEfeito Adicional: 35% de chance de se tornar Straight Shot Ready Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia de dano ao longo do tempo alterada de 40 para 20.Dura\u00e7\u00e3o alterada de 30s para 45s.Straight Shot A dura\u00e7\u00e3o do pronto mudou de 10s para 30s."
+    },
+    {
+        "Nome": "Stormbite",
+        "Ícone": "![Stormbite](https://ffxiv.gamerescape.com/w/images/thumb/6/62/Stormbite_Icon.png/60px-Stormbite_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 100.Efeito Adicional: Dano de Vento ao longo do tempo Pot\u00eancia: 25Dura\u00e7\u00e3o: 45sEfeito Adicional: 35% de chance de se tornar Straight Shot Ready Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia de dano ao longo do tempo alterada de 50 para 25.Dura\u00e7\u00e3o alterada de 30s para 45s .A dura\u00e7\u00e3o do Straight Shot Ready foi alterada de 10s para 30s."
+    },
+    {
+        "Nome": "Nature's Minne",
+        "Ícone": "![Nature's Minne](https://ffxiv.gamerescape.com/w/images/thumb/2/2f/Nature%27s_Minne_Icon.png/60px-Nature%27s_Minne_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a recupera\u00e7\u00e3o de HP por meio de a\u00e7\u00f5es de cura para um membro do grupo ou para si mesmo em 20%. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Refulgent Arrow",
+        "Ícone": "![Refulgent Arrow](https://ffxiv.gamerescape.com/w/images/thumb/f/f3/Refulgent_Arrow_Icon.png/60px-Refulgent_Arrow_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 280. S\u00f3 pode ser executado quando Straight Shot Ready. A pot\u00eancia das revis\u00f5es foi alterada de 340 para 280."
+    },
+    {
+        "Nome": "Shadowbite",
+        "Ícone": "![Shadowbite](https://ffxiv.gamerescape.com/w/images/thumb/6/66/Shadowbite_Icon.png/60px-Shadowbite_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 170 ao alvo e todos os inimigos pr\u00f3ximos a ele. Pot\u00eancia de Barragem: 270 S\u00f3 pode ser executado quando Shadowbite Ready. Revis\u00f5es Categoria alterada de habilidade para habilidade com armas.Atualiza\u00e7\u00e3o dos efeitos.Tempo de reformula\u00e7\u00e3o alterado de 60s para 2,5s."
+    },
+    {
+        "Nome": "Burst Shot",
+        "Ícone": "![Burst Shot](https://ffxiv.gamerescape.com/w/images/thumb/8/80/Burst_Shot_Icon.png/60px-Burst_Shot_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 220.Efeito Adicional: 35% de chance de se tornar Straight Shot Ready"
+    },
+    {
+        "Nome": "Apex Arrow",
+        "Ícone": "![Apex Arrow](https://ffxiv.gamerescape.com/w/images/thumb/a/a6/Apex_Arrow_Icon.png/60px-Apex_Arrow_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os inimigos em uma linha reta antes de voc\u00ea. Custo do Medidor de Voz da Alma: 20 A pot\u00eancia aumenta at\u00e9 500 quando o Medidor de Voz da Alma excede o custo m\u00ednimo. \u00e9 80 ou mais Dura\u00e7\u00e3o: 10sConsome Soul Voice Gauge na execu\u00e7\u00e3o.\u203bA\u00e7\u00e3o muda para Blast Arrow enquanto estiver sob o efeito de Blast Arrow Ready. Revis\u00f5es A pot\u00eancia m\u00e1xima mudou de &quot;120 para 600&quot; para &quot;100 para 500&quot;. Adicionado &quot;Efeito Adicional: Concede Blast Arrow Ready na execu\u00e7\u00e3o enquanto o Soul Voice Gauge \u00e9 80 ou superior. Dura\u00e7\u00e3o: 10s.&quot;"
+    },
+    {
+        "Nome": "Ladonsbite",
+        "Ícone": "![Ladonsbite](https://ffxiv.gamerescape.com/w/images/thumb/9/9e/Ladonsbite_Icon.png/60px-Ladonsbite_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 130 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: 35% de chance de se tornar Shadowbite ReadyDura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Blast Arrow",
+        "Ícone": "![Blast Arrow](https://ffxiv.gamerescape.com/w/images/thumb/a/a4/Blast_Arrow_Icon.png/60px-Blast_Arrow_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em linha reta antes de voc\u00ea com uma pot\u00eancia de 600 para o primeiro inimigo e 60% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto estiver sob o efeito de Blast Arrow Ready.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda para um hotbar."
+    },
+    {
+        "Nome": "Radiant Finale",
+        "Ícone": "![Radiant Finale](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/Radiant_Finale_Icon.png/60px-Radiant_Finale_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "110s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o dano causado por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s A efic\u00e1cia \u00e9 determinada pelo n\u00famero de diferentes Coda ativos no Song Gauge.1 Coda: 2%2 Coda: 4%3 Coda: 6%S\u00f3 pode ser executado quando pelo menos 1 coda est\u00e1 ativa."
+    }
+]

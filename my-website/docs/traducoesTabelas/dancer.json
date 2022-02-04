@@ -1,0 +1,295 @@
+[
+    {
+        "Nome": "Cascade",
+        "Ícone": "![Cascade](https://ffxiv.gamerescape.com/w/images/thumb/d/d5/Cascade_Icon.png/60px-Cascade_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 220.Efeito Adicional: 50% de chance de conceder Simetria Florescente Dura\u00e7\u00e3o: 30s\u203bMudan\u00e7as de a\u00e7\u00e3o para Emboite enquanto dan\u00e7a. A pot\u00eancia das revis\u00f5es foi alterada de 250 para 220. O status concedido foi alterado de Flourishing Cascade para Flourishing Symmetry. A dura\u00e7\u00e3o foi alterada de 20s para 30s."
+    },
+    {
+        "Nome": "Fountain",
+        "Ícone": "![Fountain](https://ffxiv.gamerescape.com/w/images/thumb/f/fd/Fountain_Icon.png/60px-Fountain_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.A\u00e7\u00e3o de Combo: CascadeCombo Pot\u00eancia: 280B\u00f4nus de Combo: 50% de chance de conceder Fluxo Florescente Dura\u00e7\u00e3o: 30s\u203bMudan\u00e7as de a\u00e7\u00e3o para Entrechat enquanto dan\u00e7a. Revis\u00f5es A pot\u00eancia do combo mudou de 300 para 280. O status concedido mudou de Fonte Florescente para Fluxo Florescente. A dura\u00e7\u00e3o mudou de 20s para 30s."
+    },
+    {
+        "Nome": "Windmill",
+        "Ícone": "![Windmill](https://ffxiv.gamerescape.com/w/images/thumb/1/11/Windmill_Icon.png/60px-Windmill_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.Efeito Adicional: 50% de chance de conceder Simetria Florescente Dura\u00e7\u00e3o: 30s\u203bMudan\u00e7as de a\u00e7\u00e3o para Emboite enquanto dan\u00e7a. A pot\u00eancia das revis\u00f5es mudou de 150 para 100. O status concedido mudou de Moinho Florescente para Simetria Florescente. A dura\u00e7\u00e3o mudou de 20s para 30s. Adicionado &quot;Mudan\u00e7as de a\u00e7\u00e3o para Emboite enquanto dan\u00e7a.&quot;"
+    },
+    {
+        "Nome": "Standard Step",
+        "Ícone": "![Standard Step](https://ffxiv.gamerescape.com/w/images/thumb/4/4f/Standard_Step_Icon.png/60px-Standard_Step_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Comece a dan\u00e7ar, concedendo a si mesmo o Passo Padr\u00e3o. Dura\u00e7\u00e3o: 15s A a\u00e7\u00e3o muda para Finaliza\u00e7\u00e3o Padr\u00e3o enquanto dan\u00e7a. Apenas Finaliza\u00e7\u00e3o Padr\u00e3o, En Avant, a\u00e7\u00f5es de passo, a\u00e7\u00f5es de fun\u00e7\u00e3o, Corrida e Limit Break podem ser executados enquanto dan\u00e7a. e finaliza as a\u00e7\u00f5es ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de habilidades com armas, a\u00e7\u00f5es de passo ou a\u00e7\u00f5es de finaliza\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Standard Finish",
+        "Ícone": "![Standard Finish](https://ffxiv.gamerescape.com/w/images/thumb/c/cb/Standard_Finish_Icon.png/60px-Standard_Finish_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos pr\u00f3ximos. A pot\u00eancia varia de acordo com o n\u00famero de passos bem sucedidos, causando pot\u00eancia total para o primeiro inimigo e 75% menos para todos os inimigos restantes. Dance Partner O b\u00f4nus de dano de Finaliza\u00e7\u00e3o Padr\u00e3o varia de acordo com o n\u00famero de passos bem sucedidos.1 Passo: 2%2 Passos: 5%Dura\u00e7\u00e3o: 60sAciona o tempo de recarga de habilidades com armas, a\u00e7\u00f5es de passo e a\u00e7\u00f5es de finaliza\u00e7\u00e3o ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de habilidades com armas, a\u00e7\u00f5es de passo ou a\u00e7\u00f5es de finaliza\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Tipo de revis\u00e3o alterado para armaskill.0 A pot\u00eancia dos passos foi alterada de 500 para 360,1 A pot\u00eancia do passo foi alterada de 750 para 540,2 A pot\u00eancia dos passos foi alterada de 1.000 para 720."
+    },
+
+    {
+        "Nome": "Emboite",
+        "Ícone": "![Emboite](https://ffxiv.gamerescape.com/w/images/thumb/2/29/Emboite_Icon.png/60px-Emboite_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Performar Emboite. Quando realizado em conjunto com outras ações de etapas, em sequência, a potência do Acabamento Padrão e do Acabamento Técnico é aumentada.Aciona o tempo de espera das ações de etapa e finalização após a execução. Não pode ser executado durante o tempo de espera de habilidades com armas, ações de passo ou ações de finalização."
+    },
+
+    {
+        "Nome": "Pirouette",
+        "Ícone": "![Emboite](https://ffxiv.gamerescape.com/w/images/thumb/2/29/Emboite_Icon.png/60px-Emboite_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Performar Pirouette. Quando realizado em conjunto com outras ações de etapas, em sequência, a potência do Acabamento Padrão e do Acabamento Técnico é aumentada. Aciona o tempo de espera de outras ações de etapa e finalização após a execução. Não pode ser executado durante o tempo de espera de habilidades com armas, ações de passo ou ações de finalização."
+    },
+
+    {
+        "Nome": "Jete",
+        "Ícone": "![Jete](https://ffxiv.gamerescape.com/w/images/thumb/f/ff/Jete_Icon.png/60px-Jete_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Performar Jete. Quando realizado em conjunto com outras ações de etapas, em sequência, a potência do Acabamento Padrão e do Acabamento Técnico é aumentada. Aciona o tempo de espera de outras ações de etapa e finalização após a execução. Não pode ser executado durante o tempo de espera de habilidades com armas, ações de passo ou ações de finalização."
+    },
+
+    {
+        "Nome": "Entrechat",
+        "Ícone": "![Entrechat](https://ffxiv.gamerescape.com/w/images/thumb/7/77/Entrechat_Icon.png/60px-Entrechat_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Performar entrechat. Quando realizado em conjunto com outras ações de etapas, em sequência, a potência do Acabamento Padrão e do Acabamento Técnico é aumentada. Aciona o tempo de espera das ações de etapa e finalização após a execução. Não pode ser executado durante o tempo de espera de habilidades com armas, ações de passo ou ações de finalização."
+    },
+
+    {
+        "Nome": "Reverse Cascade",
+        "Ícone": "![Reverse Cascade](https://ffxiv.gamerescape.com/w/images/thumb/7/72/Reverse_Cascade_Icon.png/60px-Reverse_Cascade_Icon.png)",
+        "Adquirido": "Lv. 20",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 280.Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla S\u00f3 pode ser executado sob o efeito de Simetria Florescente.\u203bA\u00e7\u00e3o muda para Jete enquanto dan\u00e7a. A pot\u00eancia das revis\u00f5es foi alterada de 300 para 280. O requisito de execu\u00e7\u00e3o foi alterado de Flourishing Cascade para Flourishing Symmetry."
+    },
+    {
+        "Nome": "Bladeshower",
+        "Ícone": "![Bladeshower](https://ffxiv.gamerescape.com/w/images/thumb/3/31/Bladeshower_Icon.png/60px-Bladeshower_Icon.png)",
+        "Adquirido": "Lv. 25",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o de combina\u00e7\u00e3o: Moinho de vento Pot\u00eancia de combina\u00e7\u00e3o: 140 B\u00f4nus de combina\u00e7\u00e3o: 50% de chance de conceder Fluxo Florescente Dura\u00e7\u00e3o: 30s\u203bMudan\u00e7as de a\u00e7\u00e3o para Entrechat enquanto dan\u00e7a. Revis\u00f5es A pot\u00eancia do combo mudou de 200 para 140. O status concedido mudou de Flourishing Shower para Flourishing Flow. A dura\u00e7\u00e3o mudou de 20s para 30s."
+    },
+    {
+        "Nome": "Fan Dance",
+        "Ícone": "![Fan Dance](https://ffxiv.gamerescape.com/w/images/thumb/f/f7/Fan_Dance_Icon.png/60px-Fan_Dance_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 150.Efeito Adicional: 50% de chance de conceder Threefold Fan Dance Dura\u00e7\u00e3o: 30sPode ser executado apenas enquanto estiver em posse de Fourfold Feathers. Revis\u00f5es O status concedido mudou de Flourishing Fan Dance para Threefold Fan Dance. A dura\u00e7\u00e3o mudou de 20s para 30s."
+    },
+    {
+        "Nome": "Rising Windmill",
+        "Ícone": "![Rising Windmill](https://ffxiv.gamerescape.com/w/images/thumb/8/8a/Rising_Windmill_Icon.png/60px-Rising_Windmill_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 140 a todos os inimigos pr\u00f3ximos.Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla S\u00f3 pode ser executado sob o efeito da Simetria Florescente.\u203bA\u00e7\u00e3o muda para Jete enquanto dan\u00e7a. Revis\u00f5es Pot\u00eancia alterada de 300 para 140.Requisito de execu\u00e7\u00e3o alterado de Moinho de Vento Florescente para Simetria Florescente.Adicionado &quot;Mudan\u00e7as de a\u00e7\u00e3o para Jete enquanto dan\u00e7a.&quot;Exclu\u00eddo &quot;50% menos pot\u00eancia para todos os inimigos restantes.&quot;"
+    },
+    {
+        "Nome": "Fountainfall",
+        "Ícone": "![Fountainfall](https://ffxiv.gamerescape.com/w/images/thumb/b/b2/Fountainfall_Icon.png/60px-Fountainfall_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 340.Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla S\u00f3 pode ser executado enquanto estiver sob o efeito do Fluxo Florescente.\u203bA\u00e7\u00e3o muda para Pirueta enquanto dan\u00e7a. A pot\u00eancia das revis\u00f5es foi alterada de 350 para 340. O requisito de execu\u00e7\u00e3o foi alterado de Flourishing Fountain para Flourishing Flow."
+    },
+    {
+        "Nome": "Bloodshower",
+        "Ícone": "![Bloodshower](https://ffxiv.gamerescape.com/w/images/thumb/a/a7/Bloodshower_Icon.png/60px-Bloodshower_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 180 a todos os inimigos pr\u00f3ximos.Efeito Adicional: 50% de chance de conceder uma Pena Qu\u00e1drupla S\u00f3 pode ser executado enquanto estiver sob o efeito do Fluxo Florescente.\u203bA a\u00e7\u00e3o muda para Pirueta enquanto dan\u00e7a. Revis\u00f5es Pot\u00eancia alterada de 350 para 180.Requisito de execu\u00e7\u00e3o alterado de Chuveiro Florescente para Fluxo Florescente.Adicionado &quot;Mudan\u00e7as de a\u00e7\u00e3o para Pirueta durante a dan\u00e7a.&quot;Exclu\u00eddo &quot;50% menos pot\u00eancia para todos os inimigos restantes.&quot;"
+    },
+    {
+        "Nome": "Fan Dance II",
+        "Ícone": "![Fan Dance II](https://ffxiv.gamerescape.com/w/images/thumb/9/9b/Fan_Dance_II_Icon.png/60px-Fan_Dance_II_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.Efeito Adicional: 50% de chance de conceder Threefold Fan Dance Dura\u00e7\u00e3o: 30sPode ser executado apenas enquanto estiver em posse de Fourfold Feathers. Revis\u00f5es O status concedido mudou de Flourishing Fan Dance para Threefold Fan Dance. A dura\u00e7\u00e3o mudou de 20s para 30s."
+    },
+    {
+        "Nome": "En Avant",
+        "Ícone": "![En Avant](https://ffxiv.gamerescape.com/w/images/thumb/5/5e/En_Avant_Icon.png/60px-En_Avant_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Rapidamente corra 10 yalms para frente. Cargas M\u00e1ximas: 3 N\u00e3o pode ser executado enquanto estiver preso."
+    },
+    {
+        "Nome": "Curing Waltz",
+        "Ícone": "![Curing Waltz](https://ffxiv.gamerescape.com/w/images/thumb/c/c7/Curing_Waltz_Icon.png/60px-Curing_Waltz_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de Cura: 300 Efeito Adicional: O membro do grupo designado como seu parceiro de dan\u00e7a tamb\u00e9m curar\u00e1 a si mesmo e aos membros do grupo pr\u00f3ximos"
+    },
+    {
+        "Nome": "Shield Samba",
+        "Ícone": "![Shield Samba](https://ffxiv.gamerescape.com/w/images/thumb/8/8d/Shield_Samba_Icon.png/60px-Shield_Samba_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz em 10% o dano recebido por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s O efeito n\u00e3o pode ser empilhado com Trovador do bardo ou Estrategista do maquinista. O tempo de reformula\u00e7\u00e3o das revis\u00f5es foi alterado de 120s para 90s."
+    },
+    {
+        "Nome": "Closed Position",
+        "Ícone": "![Closed Position](https://ffxiv.gamerescape.com/w/images/thumb/0/04/Closed_Position_Icon.png/60px-Closed_Position_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Concede a voc\u00ea Posi\u00e7\u00e3o Fechada e designa um membro do grupo como seu Parceiro de Dan\u00e7a, permitindo que voc\u00ea compartilhe os efeitos de Finaliza\u00e7\u00e3o Padr\u00e3o, Valsa de Cura, Devilment e Tillana com o referido membro do grupo. O efeito termina com a reutiliza\u00e7\u00e3o. Revis\u00f5es alteradas &quot;permitindo que voc\u00ea compartilhe os efeitos do Acabamento Padr\u00e3o, Devilment e Curing Waltz com o referido membro do grupo.&quot; para &quot;permitir que voc\u00ea compartilhe os efeitos de Finaliza\u00e7\u00e3o Padr\u00e3o, Valsa de Cura, Devilment e Tillana com o referido membro do grupo.&quot;"
+    },
+    {
+        "Nome": "Ending",
+        "Ícone": "![Ending](https://ffxiv.gamerescape.com/w/images/thumb/e/eb/Ending_Icon.png/60px-Ending_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Termina dan\u00e7ando com seu parceiro."
+    },
+    {
+        "Nome": "Devilment",
+        "Ícone": "![Devilment](https://ffxiv.gamerescape.com/w/images/thumb/e/ed/Devilment_Icon.png/60px-Devilment_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a taxa de acerto cr\u00edtico e a taxa de acerto direto em 20%. Dura\u00e7\u00e3o: 20sEfeito Adicional: O membro do grupo designado como seu parceiro de dan\u00e7a tamb\u00e9m receber\u00e1 o efeito de DevilmentEfeito Adicional: Concede Flourishing StarfallDura\u00e7\u00e3o: 20s Revis\u00f5es Adicionado &quot;Efeito Adicional: Concede Flourishing StarfallDuration 20s.&quot;"
+    },
+    {
+        "Nome": "Fan Dance III",
+        "Ícone": "![Fan Dance III](https://ffxiv.gamerescape.com/w/images/thumb/1/18/Fan_Dance_III_Icon.png/60px-Fan_Dance_III_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 200 para o primeiro inimigo e 50% a menos para todos os inimigos restantes. S\u00f3 pode ser executado sob o efeito de Threefold Fan Dance."
+    },
+    {
+        "Nome": "Technical Step",
+        "Ícone": "![Technical Step](https://ffxiv.gamerescape.com/w/images/thumb/9/92/Technical_Step_Icon.png/60px-Technical_Step_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Comece a dan\u00e7ar, concedendo a si mesmo o Technical Step.Dura\u00e7\u00e3o: 15sA a\u00e7\u00e3o muda para Technical Finish enquanto dan\u00e7a.Somente Technical Finish, En Avant, a\u00e7\u00f5es de step, role actions, Sprint e Limit Break podem ser executados enquanto dan\u00e7a.Aciona o cooldown de armaskills, step actions e finaliza as a\u00e7\u00f5es ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de habilidades com armas, a\u00e7\u00f5es de passo ou a\u00e7\u00f5es de finaliza\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Technical Finish",
+        "Ícone": "![Technical Finish](https://ffxiv.gamerescape.com/w/images/thumb/f/fa/Technical_Finish_Icon.png/60px-Technical_Finish_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos pr\u00f3ximos. A pot\u00eancia varia com o n\u00famero de passos bem sucedidos, dando pot\u00eancia total para o primeiro inimigo, e 75% menos para todos os inimigos restantes. O b\u00f4nus de dano do Acabamento T\u00e9cnico varia de acordo com o n\u00famero de etapas bem-sucedidas. 1 Etapa: 1% 2 Etapas: 2% 3 Etapas: 3% 4 Etapas: 5% Dura\u00e7\u00e3o: 20sEfeito adicional: Ativa o medidor EspritEfeito adicional: Concede a conclus\u00e3o florescenteDura\u00e7\u00e3o: 30sAciona o tempo de espera de habilidades com armas, a\u00e7\u00f5es de passo e a\u00e7\u00f5es de finaliza\u00e7\u00e3o ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de habilidades com armas, a\u00e7\u00f5es de passo ou a\u00e7\u00f5es de finaliza\u00e7\u00e3o.\u203bA a\u00e7\u00e3o muda para Tillana ap\u00f3s a execu\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Tipo de revis\u00f5es alterado para armaskill.0 A pot\u00eancia dos passos foi alterada de 500 para 350,1 A pot\u00eancia dos passos foi alterada de 750 para 540,2 A pot\u00eancia dos passos foi alterada de 1.000 para 720,3 A pot\u00eancia dos passos foi alterada de 1.250 para A pot\u00eancia de 900,4 Steps foi alterada de 1.500 para 1.200. Adicionado &quot;Efeito Adicional: Concede Finaliza\u00e7\u00e3o Florescente Dura\u00e7\u00e3o: 30s.&quot;"
+    },
+    {
+        "Nome": "Flourish",
+        "Ícone": "![Flourish](https://ffxiv.gamerescape.com/w/images/thumb/f/f6/Flourish_Icon.png/60px-Flourish_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Concede a voc\u00ea os efeitos de Simetria Florescente, Fluxo Florescente, Dan\u00e7a do Leque Tr\u00edplice e Dan\u00e7a do Leque Qu\u00e1druplo. S\u00f3 pode ser executado em combate. Revis\u00f5es Os status concedidos foram alterados de &quot;Flourishing Cascade, Flourishing Fountain, Flourishing Windmill, Flourishing Shower, e Flourishing Fan Dance&quot; para &quot;Flourishing Symmetry, Flourishing Flow, Threefold Fan Dance e Fourfold Fan Dance.&quot; Adicionado &quot;S\u00f3 pode ser executado em combate&quot; ."
+    },
+    {
+        "Nome": "Saber Dance",
+        "Ícone": "![Saber Dance](https://ffxiv.gamerescape.com/w/images/thumb/d/dc/Saber_Dance_Icon.png/60px-Saber_Dance_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 480 para o primeiro inimigo e 50% a menos para todos os inimigos restantes. Esprit Gauge Custo: 50 Revis\u00f5es Pot\u00eancia alterada de 600 para 480."
+    },
+    {
+        "Nome": "Improvisation",
+        "Ícone": "![Improvisation](https://ffxiv.gamerescape.com/w/images/thumb/7/77/Improvisation_Icon.png/60px-Improvisation_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Dance ao ritmo de seu pr\u00f3prio tambor, concedendo Rising Rhythm a si mesmo. As pilhas aumentam a cada 3 segundos, at\u00e9 um m\u00e1ximo de 4. Efeito Adicional: Cura ao longo do tempo para si e para os membros pr\u00f3ximos do grupo Pot\u00eancia de cura: 100 Dura\u00e7\u00e3o: 15 s O efeito termina ao usar outra a\u00e7\u00e3o ou se mover (incluindo enfrentar uma dire\u00e7\u00e3o diferente). Cancela o ataque autom\u00e1tico ap\u00f3s a execu\u00e7\u00e3o. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente reformulados. O intervalo de \u00e1rea foi alterado de 6 para 8."
+    },
+    {
+        "Nome": "Improvised Finish",
+        "Ícone": "![Improvised Finish](https://ffxiv.gamerescape.com/w/images/thumb/7/76/Improvised_Finish_Icon.png/60px-Improvised_Finish_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Cria uma barreira em torno de si mesmo e de todos os membros do grupo pr\u00f3ximos. O dano absorvido aumenta com os ac\u00famulos de Ritmo Crescente. enquanto a Improvisa\u00e7\u00e3o estiver ativa.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Tillana",
+        "Ícone": "![Tillana](https://ffxiv.gamerescape.com/w/images/thumb/1/1c/Tillana_Icon.png/60px-Tillana_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 360 para o primeiro inimigo e 50% menos para todos os inimigos restantes.Efeito Adicional: Concede Finaliza\u00e7\u00e3o Padr\u00e3o e Esprit a si mesmo e ao membro do grupo designado como seu Parceiro de Dan\u00e7a Efeito Finaliza\u00e7\u00e3o Padr\u00e3o: Aumenta o dano causado em 5%Dura\u00e7\u00e3o: 60sPode ser executado apenas enquanto estiver sob o efeito de Flourishing Finish.Aciona o cooldown de armaskills, step actions e finish actions ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executada durante o tempo de espera de habilidades com armas, a\u00e7\u00f5es de passo ou a\u00e7\u00f5es de finaliza\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de atalho."
+    },
+    {
+        "Nome": "Fan Dance IV",
+        "Ícone": "![Fan Dance IV](https://ffxiv.gamerescape.com/w/images/thumb/f/fc/Fan_Dance_IV_Icon.png/60px-Fan_Dance_IV_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em um cone antes de voc\u00ea com uma pot\u00eancia de 300 para o primeiro inimigo e 50% menos para todos os inimigos restantes. S\u00f3 pode ser executado sob o efeito de Fourfold Fan Dance."
+    },
+    {
+        "Nome": "Starfall Dance",
+        "Ícone": "![Starfall Dance](https://ffxiv.gamerescape.com/w/images/thumb/b/b0/Starfall_Dance_Icon.png/60px-Starfall_Dance_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "D\u00e1 um acerto direto cr\u00edtico em todos os inimigos em linha reta com uma pot\u00eancia de 600 para o primeiro inimigo e 75% menos para todos os inimigos restantes. S\u00f3 pode ser executado sob o efeito de Flourishing Starfall."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Action Name": "Away",
+        "translated_value": "Ordene que o pet saia do campo de batalha."
+    },
+    {
+        "Action Name": "Heel",
+        "translated_value": "Ordem animal de estima\u00e7\u00e3o para seguir atr\u00e1s de voc\u00ea."
+    },
+    {
+        "Action Name": "Place",
+        "translated_value": "Ordene que o animal de estima\u00e7\u00e3o se mova para um local especificado."
+    },
+    {
+        "Action Name": "Stay",
+        "translated_value": "Ordene que o animal de estima\u00e7\u00e3o permane\u00e7a onde est\u00e1."
+    },
+    {
+        "Action Name": "Guard",
+        "translated_value": "Ordene que o pet se abstenha de atacar at\u00e9 que voc\u00ea ataque ou seja atacado."
+    },
+    {
+        "Action Name": "Steady",
+        "translated_value": "Ordene que o animal de estima\u00e7\u00e3o se abstenha de atacar at\u00e9 que seja ordenado a faz\u00ea-lo."
+    }
+]

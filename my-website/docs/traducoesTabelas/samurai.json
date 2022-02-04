@@ -1,0 +1,327 @@
+[
+    {
+        "Nome": "Hakaze",
+        "Ícone": "![Hakaze](https://ffxiv.gamerescape.com/w/images/thumb/d/d0/Hakaze_Icon.png/60px-Hakaze_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 180.Efeito Adicional: Aumenta o Kenki Gauge em 5 Revis\u00f5es Pot\u00eancia alterada de 200 para 180."
+    },
+    {
+        "Nome": "Jinpu",
+        "Ícone": "![Jinpu](https://ffxiv.gamerescape.com/w/images/thumb/3/32/Jinpu_Icon.png/60px-Jinpu_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100.A\u00e7\u00e3o de Combo: HakazeCombo Pot\u00eancia: 280Combo Bonus: Concede FugetsuFugetsu Efeito: Aumenta o dano causado em 13% Dura\u00e7\u00e3o: 40sCombo Bonus: Aumenta Kenki Gauge em 5 Revis\u00f5es Pot\u00eancia de combo alterada de 320 para 280.B\u00f4nus de combo atualizado ."
+    },
+    {
+        "Nome": "Third Eye",
+        "Ícone": "![Third Eye](https://ffxiv.gamerescape.com/w/images/thumb/e/e0/Third_Eye_Icon.png/60px-Third_Eye_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz a quantidade de dano recebido pelo pr\u00f3ximo ataque em 10%. Dura\u00e7\u00e3o: 3s Efeito Adicional: Aumenta o Kenki Gauge em 10 quando atingido Revis\u00f5es Alterado &quot;Concede Olhos Abertos quando atingido Dura\u00e7\u00e3o: 15s&quot; para &quot;Aumenta Kenki Gauge em 10 quando atingido&quot;."
+    },
+    {
+        "Nome": "Enpi",
+        "Ícone": "![Enpi](https://ffxiv.gamerescape.com/w/images/thumb/f/f0/Enpi_Icon.png/60px-Enpi_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Oferece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 100. Pot\u00eancia de b\u00f4nus Enpi aprimorada: 260 Efeito adicional: Aumenta o medidor Kenki em 10 Revis\u00f5es Alcance alterado de 15 para 20. Pot\u00eancia de b\u00f4nus Enpi aprimorada alterada de 320 para 260."
+    },
+    {
+        "Nome": "Shifu",
+        "Ícone": "![Shifu](https://ffxiv.gamerescape.com/w/images/thumb/b/b4/Shifu_Icon.png/60px-Shifu_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de Combo: HakazeCombo Pot\u00eancia: 280 Combo B\u00f4nus: Concede FukaFuka Efeito: Reduz o tempo de lan\u00e7amento de armas e o tempo de relan\u00e7amento, o tempo de lan\u00e7amento de feiti\u00e7os e o tempo de relan\u00e7amento e o atraso de ataque autom\u00e1tico em 13% Dura\u00e7\u00e3o: 40s B\u00f4nus de combo: Aumenta Kenki Gauge em 5 Revis\u00f5es Pot\u00eancia de combo alterada de 320 para 280.B\u00f4nus de combo atualizado."
+    },
+    {
+        "Nome": "Fuga",
+        "Ícone": "![Fuga](https://ffxiv.gamerescape.com/w/images/thumb/9/98/Fuga_Icon.png/60px-Fuga_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 90 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Aumenta o Medidor Kenki em 5 Revis\u00f5es Pot\u00eancia alterada de 100 para 90."
+    },
+    {
+        "Nome": "Gekko",
+        "Ícone": "![Gekko](https://ffxiv.gamerescape.com/w/images/thumb/b/b1/Gekko_Icon.png/60px-Gekko_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100,150 quando executado pela retaguarda de um alvo. A\u00e7\u00e3o de Combo: JinpuCombo Pot\u00eancia: 320 Pot\u00eancia de Combo Traseira: 370 B\u00f4nus de Combo: Aumenta Kenki Gauge em 10 B\u00f4nus de Combo: Concede Revis\u00f5es de Getsu Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+
+    {
+        "Nome": "Higanbana",
+        "Ícone": "![Higanbana](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Mangetsu_Icon.png/60px-Mangetsu_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "1.3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma potência de 200. Efeito Adicional: Dano ao longo do tempo. Potência: 30. Duração: 60s. Efeito Adicional: Concede uma pilha de Meditação, até um máximo de 3. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Iaijutsu",
+        "Ícone": "![Iaijutsu](https://ffxiv.gamerescape.com/w/images/thumb/9/98/Iaijutsu_Icon.png/60px-Iaijutsu_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "1.3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Executa uma habilidade com armas dependendo do n\u00famero atual de Sen armazenados no Sen Gauge.1 Sen: Higanbana2 Sen: Tenka Goken3 Sen: Midare Setsugekka"
+    },
+    {
+        "Nome": "Mangetsu",
+        "Ícone": "![Mangetsu](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Mangetsu_Icon.png/60px-Mangetsu_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o de Combo: FukoCombo Pot\u00eancia: 110 Combo Bonus: Concede Fugetsu Fugetsu Efeito: Aumenta o dano causado em 13% Dura\u00e7\u00e3o: 40s Combo Bonus: Aumenta Kenki Gauge em 10 Combo Bonus: Concede Getsu Revisions Combo pot\u00eancia alterada de 160 para 110.B\u00f4nus de combina\u00e7\u00e3o atualizado.A\u00e7\u00e3o de combina\u00e7\u00e3o alterada de Fuga para Fuko."
+    },
+
+    {
+        "Nome": "Tenka Goken",
+        "Ícone": "![Tenka Goken](https://ffxiv.gamerescape.com/w/images/thumb/2/2e/Tenka_Goken_Icon.png/60px-Tenka_Goken_Icon.png)",
+        "Adquirido": "Lv.40",
+        "Cast": "1.3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma potência de 280 a todos os inimigos em um cone antes de você. Efeito Adicional: Concede uma pilha de Meditação, até um máximo de 3. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Kasha",
+        "Ícone": "![Kasha](https://ffxiv.gamerescape.com/w/images/thumb/b/b9/Kasha_Icon.png/60px-Kasha_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.150 quando executado do flanco de um alvo.A\u00e7\u00e3o de Combo: ShifuCombo Pot\u00eancia: 320Flank Pot\u00eancia de Combo: 370B\u00f4nus de Combo: Aumenta Kenki Gauge em 10B\u00f4nus de Combo: Concede revis\u00f5es de Ka Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Oka",
+        "Ícone": "![Oka](https://ffxiv.gamerescape.com/w/images/thumb/7/79/Oka_Icon.png/60px-Oka_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o de Combo: FukoCombo Pot\u00eancia: 110 B\u00f4nus de Combo: Concede FukaFuka Efeito: Reduz o tempo de lan\u00e7amento de armas e o tempo de relan\u00e7amento, o tempo de lan\u00e7amento de feiti\u00e7os e o tempo de relan\u00e7amento e o atraso de ataque autom\u00e1tico em 13% Dura\u00e7\u00e3o : 40sCombo Bonus: Aumenta Kenki Gauge em 10Combo Bonus: Concede Ka Revisions Combo pot\u00eancia alterada de 160 para 110.B\u00f4nus de combo atualizado.A\u00e7\u00e3o de combo alterada de Fuga para Fuko."
+    },
+
+    {
+        "Nome": "Midare Setsugekka",
+        "Ícone": "![Midare Setsugekka](https://ffxiv.gamerescape.com/w/images/thumb/a/ae/Midare_Setsugekka_Icon.png/60px-Midare_Setsugekka_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "1.3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma potência de 660. Efeito Adicional: Concede uma pilha de Meditação, até um máximo de 3. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+    {
+        "Nome": "Yukikaze",
+        "Ícone": "![Yukikaze](https://ffxiv.gamerescape.com/w/images/thumb/0/05/Yukikaze_Icon.png/60px-Yukikaze_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Executa um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de Combo: HakazeCombo Pot\u00eancia: 280 B\u00f4nus de Combo: Aumenta Kenki Gauge em 15 B\u00f4nus de Combo: Concede a Pot\u00eancia de Revis\u00e3o de Setsu alterada de 360 para 280."
+    },
+    {
+        "Nome": "Meikyo Shisui",
+        "Ícone": "![Meikyo Shisui](https://ffxiv.gamerescape.com/w/images/thumb/f/fd/Meikyo_Shisui_Icon.png/60px-Meikyo_Shisui_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "55s",
+        "Custo em MP": "-",
+        "Efeito": "Execute at\u00e9 3 combos de abate de armas sem atender aos pr\u00e9-requisitos de combina\u00e7\u00e3o. N\u00e3o afeta Iaijutsu ou Ogi Namikiri. Dura\u00e7\u00e3o: 15s Efeito Adicional: Gekko pousando com sucesso concede Fugetsu, e Kasha pousando com sucesso concede Fuka Cargas M\u00e1ximas: 2 Revis\u00f5es Adicionado &quot;Aterrissar com sucesso Moonlight concede Fugetsu, e aterrissar com sucesso Bloomshower concede Fuka.&quot;Alterado &quot;N\u00e3o afeta Iaijutsu&quot; para &quot;N\u00e3o afeta Iaijutsu ou Ogi Namikiri.&quot; Adicionado &quot;Aterrissar com sucesso Gekko concede Fugetsu, e aterrissar com sucesso Kashagrants Fuka&quot;.Adicionado &quot;Cargas m\u00e1ximas: 2&quot;."
+    },
+    {
+        "Nome": "Hissatsu: Kaiten",
+        "Ícone": "![Hissatsu: Kaiten](https://ffxiv.gamerescape.com/w/images/thumb/3/3f/Hissatsu%3A_Kaiten_Icon.png/60px-Hissatsu%3A_Kaiten_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a pot\u00eancia do pr\u00f3ximo abate de armas em 50%. Dura\u00e7\u00e3o: 10sKenki Gauge Custo: 20"
+    },
+    {
+        "Nome": "Hissatsu: Gyoten",
+        "Ícone": "![Hissatsu: Gyoten](https://ffxiv.gamerescape.com/w/images/thumb/b/b9/Hissatsu%3A_Gyoten_Icon.png/60px-Hissatsu%3A_Gyoten_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Apressa o alvo e desfere um ataque com uma pot\u00eancia de 100.Kenki Gauge Custo: 10N\u00e3o pode ser executado enquanto estiver preso."
+    },
+    {
+        "Nome": "Hissatsu: Yaten",
+        "Ícone": "![Hissatsu: Yaten](https://ffxiv.gamerescape.com/w/images/thumb/9/9f/Hissatsu%3A_Yaten_Icon.png/60px-Hissatsu%3A_Yaten_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.Efeito Adicional: 10 yalm backstepEfeito Adicional: Concede Enpi Aprimorado: 15sKenki Gauge Custo: 10N\u00e3o pode ser executado enquanto vinculado."
+    },
+    {
+        "Nome": "Meditate",
+        "Ícone": "![Meditate](https://ffxiv.gamerescape.com/w/images/thumb/2/28/Meditate_Icon.png/60px-Meditate_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta gradualmente o seu Kenki Gauge. Dura\u00e7\u00e3o: 15sEfeito Adicional: Concede pilhas de Medita\u00e7\u00e3o quando usado em combate, at\u00e9 um m\u00e1ximo de 3Kenki Gauge n\u00e3o afetado quando usado fora da batalha.O efeito termina ao usar outra a\u00e7\u00e3o ou movimento (incluindo enfrentar uma dire\u00e7\u00e3o diferente). Cancela o auto-ataque na execu\u00e7\u00e3o. Aciona o tempo de espera de armas baixas na execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de skillskills."
+    },
+    {
+        "Nome": "Hissatsu: Shinten",
+        "Ícone": "![Hissatsu: Shinten](https://ffxiv.gamerescape.com/w/images/thumb/9/93/Hissatsu%3A_Shinten_Icon.png/60px-Hissatsu%3A_Shinten_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 270.Kenki Gauge Cost: 25 Revisions Pot\u00eancia alterada de 320 para 270."
+    },
+    {
+        "Nome": "Hissatsu: Kyuten",
+        "Ícone": "![Hissatsu: Kyuten](https://ffxiv.gamerescape.com/w/images/thumb/a/ad/Hissatsu%3A_Kyuten_Icon.png/60px-Hissatsu%3A_Kyuten_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 110 a todos os inimigos pr\u00f3ximos.Kenki Gauge Custo: 25 Revis\u00f5es Pot\u00eancia alterada de 150 para 110."
+    },
+    {
+        "Nome": "Hagakure",
+        "Ícone": "![Hagakure](https://ffxiv.gamerescape.com/w/images/thumb/4/47/Hagakure_Icon.png/60px-Hagakure_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "5s",
+        "Custo em MP": "-",
+        "Efeito": "Converte Setsu, Getsu e Ka em Kenki. Cada Sen convertido aumenta seu Kenki Gauge em 10. S\u00f3 pode ser executado se estiver sob o efeito de pelo menos um dos tr\u00eas status."
+    },
+    {
+        "Nome": "Ikishoten",
+        "Ícone": "![Ikishoten](https://ffxiv.gamerescape.com/w/images/thumb/a/a1/Ikishoten_Icon.png/60px-Ikishoten_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o Kenki Gauge em 50.Efeito Adicional: Concede Ogi Namikiri ReadyDuration: 30sPode ser executado apenas em combate. Revis\u00f5es Adicionadas &quot;Grants Ogi Namikiri ReadyDuration: 30s.&quot; O tempo de Recarga mudou de 60s para 120s."
+    },
+    {
+        "Nome": "Hissatsu: Guren",
+        "Ícone": "![Hissatsu: Guren](https://ffxiv.gamerescape.com/w/images/thumb/f/fb/Hissatsu%3A_Guren_Icon.png/60px-Hissatsu%3A_Guren_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em linha reta antes de voc\u00ea com uma pot\u00eancia de 500 para o primeiro inimigo, e 50% menos para todos os inimigos restantes.Kenki Gauge Custo: 25 Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Hissatsu: Senei. Revis\u00f5es Pot\u00eancia alterada de 850 para 500.Adicionado &quot;50% menos pot\u00eancia para todos os inimigos restantes.&quot;Requisitos de execu\u00e7\u00e3o alterados de &quot;Custo do medidor Kenki: 50&quot; para &quot;Custo do medidor Kenki: 25&quot;."
+    },
+    {
+        "Nome": "Hissatsu: Senei",
+        "Ícone": "![Hissatsu: Senei](https://ffxiv.gamerescape.com/w/images/thumb/6/6f/Hissatsu%3A_Senei_Icon.png/60px-Hissatsu%3A_Senei_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 800.Kenki Gauge Custo: 25Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Hissatsu: Guren. A pot\u00eancia das revis\u00f5es foi alterada de 1.100 para 800. Os requisitos de execu\u00e7\u00e3o foram alterados de &quot;Custo do medidor Kenki: 50&quot; para &quot;Custo do medidor Kenki: 25&quot;."
+    },
+
+    {
+        "Nome": "Kaeshi: Higanbana",
+        "Ícone": "![Kaeshi: Higanbana](https://ffxiv.gamerescape.com/w/images/thumb/c/c2/Kaeshi%3A_Higanbana_Icon.png/60px-Kaeshi%3A_Higanbana_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma potência de 300. Efeito Adicional: Dano ao longo do tempo. Potência: 45. Duração: 60s. Efeito não pode ser empilhado com Higanbana. Aciona o tempo de espera das habilidades com armas após a execução. Não pode ser executado durante o tempo de espera de skillskills. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Kaeshi: Goken",
+        "Ícone": "![Kaeshi: Goken](https://ffxiv.gamerescape.com/w/images/thumb/a/a3/Kaeshi%3A_Goken_Icon.png/60px-Kaeshi%3A_Goken_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma potência de 420 a todos os inimigos em um cone antes de você. Aciona o tempo de espera das habilidades com armas após a execução. Não pode ser executado durante o tempo de espera de skillskills. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Kaeshi: Setsugekka",
+        "Ícone": "![Kaeshi: Setsugekka](https://ffxiv.gamerescape.com/w/images/thumb/6/69/Kaeshi%3A_Setsugekka_Icon.png/60px-Kaeshi%3A_Setsugekka_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma potência de 990. Aciona o tempo de espera das habilidades com armas após a execução. Não pode ser executado durante o tempo de espera de skillskills. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+
+    {
+        "Nome": "Tsubame-gaeshi",
+        "Ícone": "![Tsubame-gaeshi](https://ffxiv.gamerescape.com/w/images/thumb/9/9b/Tsubame-gaeshi_Icon.png/60px-Tsubame-gaeshi_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Repete o iaijutsu executado anteriormente com pot\u00eancia aumentada. Cargas M\u00e1ximas: 2S\u00f3 pode ser executado imediatamente ap\u00f3s o Iaijutsu. Aciona o cooldown de armaskills ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de skillskills. Revis\u00f5es Adicionadas &quot;Cargas M\u00e1ximas: 2&quot;."
+    },
+    {
+        "Nome": "Shoha",
+        "Ícone": "![Shoha](https://ffxiv.gamerescape.com/w/images/thumb/e/e0/Shoha_Icon.png/60px-Shoha_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 580. S\u00f3 pode ser executado ap\u00f3s acumular tr\u00eas pilhas de Medita\u00e7\u00e3o executando Iaijutsu, Meditar ou Ogi Namikiri durante o combate. O efeito da medita\u00e7\u00e3o desaparece ap\u00f3s a execu\u00e7\u00e3o. Compartilha um temporizador de reformula\u00e7\u00e3o com Shoha II. Pot\u00eancia das revis\u00f5es alterada de 400 para 580.Adicionado &quot;Compartilha um temporizador de reformula\u00e7\u00e3o com Shoha II.&quot; Tsubame-gaeshi n\u00e3o concede mais pilhas de Medita\u00e7\u00e3o. Os jogadores podem executar Ogi Namikiri."
+    },
+    {
+        "Nome": "Shoha II",
+        "Ícone": "![Shoha II](https://ffxiv.gamerescape.com/w/images/thumb/1/1b/Shoha_II_Icon.png/60px-Shoha_II_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 200 a todos os inimigos pr\u00f3ximos. S\u00f3 pode ser executado ap\u00f3s acumular tr\u00eas pilhas de Medita\u00e7\u00e3o executando Iaijutsu, Meditar ou Ogi Namikiri durante o combate. O efeito da medita\u00e7\u00e3o desaparece ap\u00f3s a execu\u00e7\u00e3o. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Shoha."
+    },
+    {
+        "Nome": "Fuko",
+        "Ícone": "![Fuko](https://ffxiv.gamerescape.com/w/images/thumb/6/68/Fuko_Icon.png/60px-Fuko_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Aumenta o Kenki Gauge em 10"
+    },
+    {
+        "Nome": "Ogi Namikiri",
+        "Ícone": "![Ogi Namikiri](https://ffxiv.gamerescape.com/w/images/thumb/d/d9/Ogi_Namikiri_Icon.png/60px-Ogi_Namikiri_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "1.3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em um cone antes de voc\u00ea com uma pot\u00eancia de 900 para o primeiro inimigo e 75% a menos para todos os inimigos restantes.Concede uma pilha de Medita\u00e7\u00e3o, at\u00e9 um m\u00e1ximo de 3.S\u00f3 pode ser executado enquanto estiver sob o efeito de Ogi Namikiri Ready.\u203bA\u00e7\u00e3o muda para Kaeshi: Namikiri ap\u00f3s a execu\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Kaeshi: Namikiri",
+        "Ícone": "![Kaeshi: Namikiri](https://ffxiv.gamerescape.com/w/images/thumb/a/a8/Kaeshi%3A_Namikiri_Icon.png/60px-Kaeshi%3A_Namikiri_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em um cone \u00e0 sua frente com uma pot\u00eancia de 1.350 para o primeiro inimigo e 75% menos para todos os inimigos restantes. Aciona o tempo de espera de armas baixas ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de habilidades com armas.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    }
+]

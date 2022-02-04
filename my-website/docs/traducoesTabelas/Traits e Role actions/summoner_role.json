@@ -1,0 +1,18 @@
+[
+    {
+        "Action Name": "Radiant Aegis",
+        "Acquired": "Lv. 2",
+        "Cast": "Instant",
+        "Recast": "-",
+        "MP Cost": "-",
+        "translated_value": "Cria uma barreira ao seu redor que absorve o dano totalizando 20% do seu HP m\u00e1ximo. Dura\u00e7\u00e3o: 30s\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Action Name": "Searing Light",
+        "Acquired": "Lv. 66",
+        "Cast": "Instant",
+        "Recast": "-",
+        "MP Cost": "-",
+        "translated_value": "Aumenta em 3% o dano causado por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 30s\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    }
+]

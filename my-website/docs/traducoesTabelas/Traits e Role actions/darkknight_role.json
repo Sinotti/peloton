@@ -1,0 +1,65 @@
+[
+    {
+        "Nome": "Rampart",
+        "Ícone": "![Rampart](https://ffxiv.gamerescape.com/w/images/thumb/7/77/Rampart_Icon.png/60px-Rampart_Icon.png)",
+        "Adquirido": "Lv. 8",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido em 20%. Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Low Blow",
+        "Ícone": "![Low Blow](https://ffxiv.gamerescape.com/w/images/thumb/6/6b/Low_Blow_Icon.png/60px-Low_Blow_Icon.png)",
+        "Adquirido": "Lv. 12",
+        "Cast": "Instant",
+        "Recarga": "25s",
+        "Custo em MP": "-",
+        "Efeito": "Atordoa o alvo. Dura\u00e7\u00e3o: 5s"
+    },
+    {
+        "Nome": "Provoke",
+        "Ícone": "![Provoke](https://ffxiv.gamerescape.com/w/images/thumb/8/8e/Provoke_Icon.png/60px-Provoke_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Gesticule de forma amea\u00e7adora, colocando-se no topo da lista de inimizade de um alvo enquanto ganha inimizade adicional."
+    },
+    {
+        "Nome": "Interject",
+        "Ícone": "![Interject](https://ffxiv.gamerescape.com/w/images/thumb/1/10/Interject_Icon.png/60px-Interject_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Interrompe o uso da a\u00e7\u00e3o de um alvo."
+    },
+    {
+        "Nome": "Reprisal",
+        "Ícone": "![Reprisal](https://ffxiv.gamerescape.com/w/images/thumb/e/e8/Reprisal_Icon.png/60px-Reprisal_Icon.png)",
+        "Adquirido": "Lv. 22",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano causado por inimigos pr\u00f3ximos em 10%. Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Arm's Length",
+        "Ícone": "![Arm's Length](https://ffxiv.gamerescape.com/w/images/thumb/0/0e/Arm%27s_Length_Icon.png/60px-Arm%27s_Length_Icon.png)",
+        "Adquirido": "Lv. 32",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Cria uma barreira anulando a maioria dos efeitos knockback e draw-in. Dura\u00e7\u00e3o: 6s Efeito Adicional: Lento +20% quando a barreira \u00e9 atingida Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Shirk",
+        "Ícone": "![Shirk](https://ffxiv.gamerescape.com/w/images/thumb/b/b8/Shirk_Icon.png/60px-Shirk_Icon.png)",
+        "Adquirido": "Lv. 48",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Desvia 25% da inimizade para o membro do grupo alvo."
+    }
+]

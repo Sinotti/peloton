@@ -1,0 +1,50 @@
+[
+    {
+        "Action Name": "The Balance",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Aumenta o dano causado por um membro do grupo ou por si mesmo em 6% se o alvo for DPS ou tanque corpo a corpo, ou 3% para todas as outras fun\u00e7\u00f5es. Dura\u00e7\u00e3o: 15s Efeito Adicional: Concede um Sinal Solar quando usado em combateApenas um efeito arcano pode ser aplicado a um alvo por vez.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es &quot;Efeito Adicional: Concede um Selo Solar quando usado em combate&quot; alterado para &quot;Efeito Adicional: Concede um Sinal Solar quando usado em combate. Apenas um efeito arcano pode ser aplicado a um alvo por vez.&quot;"
+    },
+    {
+        "Action Name": "The Arrow",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Aumenta o dano causado por um membro do grupo ou por si mesmo em 6% se o alvo for DPS ou tanque corpo a corpo, ou 3% para todas as outras fun\u00e7\u00f5es. Dura\u00e7\u00e3o: 15s Efeito Adicional: Concede um Sinal Lunar quando usado em combateApenas um efeito arcano pode ser aplicado a um alvo por vez.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es &quot;Efeito Adicional: Concede um Selo Lunar quando usado em combate&quot; alterado para &quot;Efeito Adicional: Concede um Sinal Lunar quando usado em combate. Apenas um efeito arcano pode ser aplicado a um alvo por vez.&quot;"
+    },
+    {
+        "Action Name": "The Spear",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Aumenta o dano causado por um membro do grupo ou por si mesmo em 6% se o alvo for DPS ou tanque corpo a corpo, ou 3% para todas as outras fun\u00e7\u00f5es. Dura\u00e7\u00e3o: 15s Efeito Adicional: Concede um Sinal Celestial quando usado em combateApenas um efeito arcano pode ser aplicado a um alvo por vez.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es &quot;Efeito Adicional: Concede um Selo Celestial quando usado em combate&quot; alterado para &quot;Efeito Adicional: Concede um Sinal Celestial quando usado em combate. Apenas um efeito arcano pode ser aplicado a um alvo por vez.&quot;"
+    },
+    {
+        "Action Name": "The Bole",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Aumenta o dano causado por um membro do grupo ou por si mesmo em 6% se o alvo for DPS ou curador \u00e0 dist\u00e2ncia, ou 3% para todas as outras fun\u00e7\u00f5es. Dura\u00e7\u00e3o: 15s Efeito Adicional: Concede um Sinal Solar quando usado em combateApenas um efeito arcano pode ser aplicado a um alvo por vez.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es &quot;Efeito Adicional: Concede um Selo Solar quando usado em combate&quot; alterado para &quot;Efeito Adicional: Concede um Sinal Solar quando usado em combate. Apenas um efeito arcano pode ser aplicado a um alvo por vez.&quot;"
+    },
+    {
+        "Action Name": "The Ewer",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Aumenta o dano causado por um membro do grupo ou por si mesmo em 6% se o alvo for DPS ou curador \u00e0 dist\u00e2ncia, ou 3% para todas as outras fun\u00e7\u00f5es. Dura\u00e7\u00e3o: 15s Efeito Adicional: Concede um Sinal Lunar quando usado em combateApenas um efeito arcano pode ser aplicado a um alvo por vez.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es &quot;Efeito Adicional: Concede um Selo Lunar quando usado em combate&quot; alterado para &quot;Efeito Adicional: Concede um Sinal Lunar quando usado em combate. Apenas um efeito arcano pode ser aplicado a um alvo por vez.&quot;"
+    },
+    {
+        "Action Name": "The Spire",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Aumenta o dano causado por um membro do grupo ou por si mesmo em 6% se o alvo for DPS ou curador \u00e0 dist\u00e2ncia, ou 3% para todas as outras fun\u00e7\u00f5es. Dura\u00e7\u00e3o: 15s Efeito Adicional: Concede um Sinal Celestial quando usado em combateApenas um efeito arcano pode ser aplicado a um alvo por vez.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es &quot;Efeito Adicional: Concede um Selo Celestial quando usado em combate&quot; alterado para &quot;Efeito Adicional: Concede um Sinal Celestial quando usado em combate. Apenas um efeito arcano pode ser aplicado a um alvo por vez.&quot;"
+    },
+    {
+        "Action Name": "Lord of Crowns",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Causa dano inesperado com uma pot\u00eancia de 250 a todos os inimigos pr\u00f3ximos.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es N\u00edvel de aprendizado alterado de 50 para 70. Efeitos atualizados. Alcance alterado de 30 para 0. Raio da \u00e1rea alterado de 0 para 20."
+    },
+    {
+        "Action Name": "Lady of Crowns",
+        "Cast": "Instant",
+        "Recast": "1s",
+        "translated_value": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de cura: 400\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es N\u00edvel de aprendizado alterado de 50 para 70. Efeitos atualizados. Alcance alterado de 30 para 0. Raio da \u00e1rea alterado de 0 para 20."
+    }
+]

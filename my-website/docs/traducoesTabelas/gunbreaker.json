@@ -1,0 +1,290 @@
+[
+    {
+        "Nome": "Keen Edge",
+        "Ícone": "![Keen Edge](https://ffxiv.gamerescape.com/w/images/thumb/6/69/Keen_Edge_Icon.png/60px-Keen_Edge_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 170. Revis\u00f5es Pot\u00eancia alterada de 200 para 170."
+    },
+    {
+        "Nome": "No Mercy",
+        "Ícone": "![No Mercy](https://ffxiv.gamerescape.com/w/images/thumb/8/89/No_Mercy_Icon.png/60px-No_Mercy_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Aumenta o dano causado em 20%. Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Brutal Shell",
+        "Ícone": "![Brutal Shell](https://ffxiv.gamerescape.com/w/images/thumb/7/7d/Brutal_Shell_Icon.png/60px-Brutal_Shell_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 120.A\u00e7\u00e3o de combina\u00e7\u00e3o: Keen EdgeCombo Pot\u00eancia: 260Combo Bonus: Restaura o pr\u00f3prio HPCure Potency: 200Combo Bonus: Cria uma barreira que anula o dano igual ao HP restaurado Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 100 para 120.Pot\u00eancia do combo alterada de 300 a 260."
+    },
+    {
+        "Nome": "Camouflage",
+        "Ícone": "![Camouflage](https://ffxiv.gamerescape.com/w/images/thumb/c/c5/Camouflage_Icon.png/60px-Camouflage_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "MP Cost": "-",
+        "Efeito": "Aumenta a taxa de aparar em 50% enquanto reduz o dano recebido em 10%.Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Demon Slice",
+        "Ícone": "![Demon Slice](https://ffxiv.gamerescape.com/w/images/thumb/a/ab/Demon_Slice_Icon.png/60px-Demon_Slice_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A pot\u00eancia das revis\u00f5es foi alterada de 150 para 100."
+    },
+    {
+        "Nome": "Royal Guard",
+        "Ícone": "![Royal Guard](https://ffxiv.gamerescape.com/w/images/thumb/a/a8/Royal_Guard_Icon.png/60px-Royal_Guard_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "MP Cost": "-",
+        "Efeito": "Aumenta significativamente a gera\u00e7\u00e3o de inimizade. O efeito termina com a reutiliza\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Lightning Shot",
+        "Ícone": "![Lightning Shot](https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Lightning_Shot_Icon.png/60px-Lightning_Shot_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Oferece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 150.Efeito Adicional: Aumento do alcance das revis\u00f5es de inimizade alterado de 15 para 20."
+    },
+    {
+        "Nome": "Danger Zone",
+        "Ícone": "![Danger Zone](https://ffxiv.gamerescape.com/w/images/thumb/4/44/Danger_Zone_Icon.png/60px-Danger_Zone_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 250. Revis\u00f5es Pot\u00eancia alterada de 350 para 250."
+    },
+    {
+        "Nome": "Solid Barrel",
+        "Ícone": "![Solid Barrel](https://ffxiv.gamerescape.com/w/images/thumb/2/21/Solid_Barrel_Icon.png/60px-Solid_Barrel_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Executa um ataque com uma pot\u00eancia de 120.A\u00e7\u00e3o de combina\u00e7\u00e3o: Brutal ShellCombo Potency: 340Combo Bonus: Adiciona um cartucho ao seu Powder Gauge Revis\u00f5es Pot\u00eancia alterada de 100 para 120.Pot\u00eancia de combina\u00e7\u00e3o alterada de 400 para 340."
+    },
+    {
+        "Nome": "Burst Strike",
+        "Ícone": "![Burst Strike](https://ffxiv.gamerescape.com/w/images/thumb/d/d0/Burst_Strike_Icon.png/60px-Burst_Strike_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 380. Efeito Adicional: Concede Pronto para Detonar Dura\u00e7\u00e3o: 10sCusto do Cartucho: 1 Revis\u00f5es Pot\u00eancia alterada de 500 para 380. Efeito Adicional: Concede Pronto para DetonarDura\u00e7\u00e3o: 10s.&quot;"
+    },
+    {
+        "Nome": "Nebula",
+        "Ícone": "![Nebula](https://ffxiv.gamerescape.com/w/images/thumb/5/5f/Nebula_Icon.png/60px-Nebula_Icon.png)",
+        "Adquirido": "Lv. 38",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "MP Cost": "-",
+        "Efeito": "Reduz o dano recebido em 30%. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Demon Slaughter",
+        "Ícone": "![Demon Slaughter](https://ffxiv.gamerescape.com/w/images/thumb/b/b7/Demon_Slaughter_Icon.png/60px-Demon_Slaughter_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o de Combo: Fatia Demon\u00edaca Pot\u00eancia de Combo: 160 B\u00f4nus de Combo: Adiciona um Cartucho ao seu Medidor de P\u00f3 Revis\u00f5es Pot\u00eancia de combo alterada de 250 para 160."
+    },
+    {
+        "Nome": "Aurora",
+        "Ícone": "![Aurora](https://ffxiv.gamerescape.com/w/images/thumb/b/b7/Demon_Slaughter_Icon.png/60px-Demon_Slaughter_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Concede Regen ao alvo. Pot\u00eancia de Cura: 200 Dura\u00e7\u00e3o: 18s Cargas M\u00e1ximas: 2 Revis\u00f5es Adicionado &quot;Cargas M\u00e1ximas: 2.&quot;"
+    },
+    {
+        "Nome": "Superbolide",
+        "Ícone": "![Superbolide](https://ffxiv.gamerescape.com/w/images/thumb/a/a8/Superbolide_Icon.png/60px-Superbolide_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "360s",
+        "MP Cost": "-",
+        "Efeito": "Reduz HP para 1 e torna voc\u00ea imune \u00e0 maioria dos ataques. Dura\u00e7\u00e3o: 10s Revis\u00f5es Dura\u00e7\u00e3o alterada de 8s para 10s."
+    },
+    {
+        "Nome": "Sonic Break",
+        "Ícone": "![Sonic Break](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Sonic_Break_Icon.png/60px-Sonic_Break_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 300.Efeito Adicional: Dano ao longo do tempoPot\u00eancia: 60Dura\u00e7\u00e3o: 30sEsta arma n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com outras a\u00e7\u00f5es. Revis\u00f5es Pot\u00eancia de dano ao longo do tempo alterada de 90 para 60."
+    },
+    {
+        "Nome": "Rough Divide",
+        "Ícone": "![Rough Divide](https://ffxiv.gamerescape.com/w/images/thumb/1/1b/Rough_Divide_Icon.png/60px-Rough_Divide_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Realiza um ataque de salto com uma pot\u00eancia de 150. Cargas M\u00e1ximas: 2 N\u00e3o pode ser executado enquanto estiver preso. A pot\u00eancia das revis\u00f5es foi alterada de 200 para 150. O intervalo foi alterado de 15 para 20."
+    },
+    {
+        "Nome": "Gnashing Fang",
+        "Ícone": "![Gnashing Fang](https://ffxiv.gamerescape.com/w/images/thumb/6/62/Gnashing_Fang_Icon.png/60px-Gnashing_Fang_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 360.Efeito Adicional: Concede Ready to RipDura\u00e7\u00e3o: 10sCusto do Cartucho: 1Esta arma n\u00e3o compartilha um temporizador de reformula\u00e7\u00e3o com nenhuma outra a\u00e7\u00e3o. A pot\u00eancia das revis\u00f5es foi alterada de 450 para 360."
+    },
+    {
+        "Nome": "Savage Claw",
+        "Ícone": "![Savage Claw](https://ffxiv.gamerescape.com/w/images/thumb/6/6c/Savage_Claw_Icon.png/60px-Savage_Claw_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 440. A\u00e7\u00e3o de combina\u00e7\u00e3o: Presa rangendo B\u00f4nus de combina\u00e7\u00e3o: Concede pronto para rasgar Dura\u00e7\u00e3o: 10s\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. A pot\u00eancia das revis\u00f5es foi alterada de 550 para 440.Adicionado &quot;\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar.&quot;"
+    },
+    {
+        "Nome": "Wicked Talon",
+        "Ícone": "![Wicked Talon](https://ffxiv.gamerescape.com/w/images/thumb/8/80/Wicked_Talon_Icon.png/60px-Wicked_Talon_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 520. A\u00e7\u00e3o de combina\u00e7\u00e3o: Garra selvagem B\u00f4nus de combina\u00e7\u00e3o: Concede pronto para arrancar Dura\u00e7\u00e3o: 10s\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Pot\u00eancia das revis\u00f5es alterada de 650 para 520.Adicionado &quot;\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar.&quot;"
+    },
+    {
+        "Nome": "Bow Shock",
+        "Ícone": "![Bow Shock](https://ffxiv.gamerescape.com/w/images/thumb/e/eb/Bow_Shock_Icon.png/60px-Bow_Shock_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com pot\u00eancia de 150 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Dano ao longo do tempoPot\u00eancia: 60Dura\u00e7\u00e3o: 15s Revis\u00f5es Pot\u00eancia alterada de 200 para 150.Pot\u00eancia de dano ao longo do tempo alterada de 90 para 60."
+    },
+    {
+        "Nome": "Heart of Light",
+        "Ícone": "![Heart of Light](https://ffxiv.gamerescape.com/w/images/thumb/d/da/Heart_of_Light_Icon.png/60px-Heart_of_Light_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "MP Cost": "-",
+        "Efeito": "Reduz em 10% o dano m\u00e1gico recebido por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s."
+    },
+    {
+        "Nome": "Heart of Stone",
+        "Ícone": "![Heart of Stone](https://ffxiv.gamerescape.com/w/images/thumb/9/93/Heart_of_Stone_Icon.png/60px-Heart_of_Stone_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "25s",
+        "MP Cost": "-",
+        "Efeito": "Reduz o dano recebido por um membro do grupo ou por si mesmo em 15%. Dura\u00e7\u00e3o: 7s Efeito Adicional: Ao atingir um membro do grupo sob o efeito de Brutal Shell, esse efeito tamb\u00e9m \u00e9 concedido ao alvo Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Continuation",
+        "Ícone": "![Continuation](https://ffxiv.gamerescape.com/w/images/thumb/f/f6/Continuation_Icon.png/60px-Continuation_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Permite o disparo de rodadas sucessivas com sua gunblade.Gnashing Fang pode ser seguido por Jugular Rip.Savage Claw pode ser seguido por Abdomen Tear.Wicked Talon pode ser seguido por Eye Gouge.Burst Strike pode ser seguido por Hypervelocity. Revis\u00f5es adicionadas &quot;Burst Strike pode ser seguido por Hypervelocity.&quot;"
+    },
+    {
+        "Nome": "Jugular Rip",
+        "Ícone": "![Jugular Rip](https://ffxiv.gamerescape.com/w/images/thumb/0/05/Jugular_Rip_Icon.png/60px-Jugular_Rip_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 180. S\u00f3 pode ser executado quando estiver pronto para rasgar.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. A pot\u00eancia das revis\u00f5es foi alterada de 260 para 180."
+    },
+    {
+        "Nome": "Abdomen Tear",
+        "Ícone": "![Abdomen Tear](https://ffxiv.gamerescape.com/w/images/thumb/8/85/Abdomen_Tear_Icon.png/60px-Abdomen_Tear_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 220. S\u00f3 pode ser executado quando estiver pronto para rasgar.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de atalho. A pot\u00eancia das revis\u00f5es foi alterada de 280 para 220."
+    },
+    {
+        "Nome": "Eye Gouge",
+        "Ícone": "![Eye Gouge](https://ffxiv.gamerescape.com/w/images/thumb/2/25/Eye_Gouge_Icon.png/60px-Eye_Gouge_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 260. S\u00f3 pode ser executado quando estiver pronto para arrancar.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de atalho. A pot\u00eancia das revis\u00f5es foi alterada de 300 para 260."
+    },
+    {
+        "Nome": "Fated Circle",
+        "Ícone": "![Fated Circle](https://ffxiv.gamerescape.com/w/images/thumb/d/d8/Fated_Circle_Icon.png/60px-Fated_Circle_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 290 a todos os inimigos pr\u00f3ximos.Custo do Cartucho: 1 Revis\u00f5es Pot\u00eancia alterada de 320 para 290."
+    },
+    {
+        "Nome": "Bloodfest",
+        "Ícone": "![Bloodfest](https://ffxiv.gamerescape.com/w/images/thumb/f/f8/Bloodfest_Icon.png/60px-Bloodfest_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "MP Cost": "-",
+        "Efeito": "Extrai energia et\u00e9rea do alvo, adicionando 3 Cartuchos ao seu Medidor de P\u00f3lvora. Revis\u00f5es Alterado &quot;adicionando 2 cartuchos ao seu medidor de p\u00f3lvora&quot; para &quot;adicionando 3 cartuchos ao seu medidor de p\u00f3lvora&quot;."
+    },
+    {
+        "Nome": "Blasting Zone",
+        "Ícone": "![Blasting Zone](https://ffxiv.gamerescape.com/w/images/thumb/2/2f/Blasting_Zone_Icon.png/60px-Blasting_Zone_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 700. Revis\u00f5es Pot\u00eancia alterada de 800 para 700."
+    },
+    {
+        "Nome": "Heart of Corundum",
+        "Ícone": "![Heart of Corundum](https://ffxiv.gamerescape.com/w/images/thumb/b/b3/Heart_of_Corundum_Icon.png/60px-Heart_of_Corundum_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "25s",
+        "MP Cost": "-",
+        "Efeito": "Reduz o dano recebido por um membro do grupo ou por si mesmo em 15%. Dura\u00e7\u00e3o: 8s Efeito Adicional: Ao atingir um membro do grupo sob o efeito de Brutal Shell, esse efeito tamb\u00e9m \u00e9 concedido ao alvo Dura\u00e7\u00e3o: 30s Efeito Adicional: Concede Clareza de Corindo ao alvo Clareza de Efeito Corindo: Reduz o dano recebido em 15% Dura\u00e7\u00e3o: 4sEfeito Adicional: Concede Catarse de Corindo ao alvo Efeito Catarse de Corindo: Restaura HP quando o HP cai abaixo de 50% ou ao expirar a dura\u00e7\u00e3o do efeito Pot\u00eancia de cura: 900Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Hypervelocity",
+        "Ícone": "![Hypervelocity](https://ffxiv.gamerescape.com/w/images/thumb/8/81/Hypervelocity_Icon.png/60px-Hypervelocity_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 180. S\u00f3 pode ser executado quando estiver pronto para explodir.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Double Down",
+        "Ícone": "![Double Down](https://ffxiv.gamerescape.com/w/images/thumb/6/65/Double_Down_Icon.png/60px-Double_Down_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Fornece um ataque a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 1.200 para o primeiro inimigo e 20% menos para todos os inimigos restantes.Custo do Cartucho: 2 Esta arma n\u00e3o compartilha um temporizador de relan\u00e7amento com outras a\u00e7\u00f5es."
+    }
+]

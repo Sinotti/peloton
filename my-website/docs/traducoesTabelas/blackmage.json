@@ -1,0 +1,281 @@
+[
+    {
+        "Nome": "Blizzard",
+        "Ícone": "![Blizzard](https://ffxiv.gamerescape.com/w/images/thumb/4/4b/Blizzard_Icon.png/60px-Blizzard_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano de gelo com uma pot\u00eancia de 180.Efeito Adicional: Concede Gelo Umbral ou remove Fogo Astral Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Fire",
+        "Ícone": "![Fire](https://ffxiv.gamerescape.com/w/images/thumb/c/c8/Fire_Icon.png/60px-Fire_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 180.Efeito Adicional: Concede Fogo Astral ou remove Gelo Umbral"
+    },
+    {
+        "Nome": "Transpose",
+        "Ícone": "![Transpose](https://ffxiv.gamerescape.com/w/images/thumb/4/47/Transpose_Icon.png/60px-Transpose_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "5s",
+        "Custo em MP": "-",
+        "Efeito": "Troca Fogo Astral por um \u00fanico Gelo Umbral, ou Gelo Umbral por um \u00fanico Fogo Astral."
+    },
+    {
+        "Nome": "Thunder",
+        "Ícone": "![Thunder](https://ffxiv.gamerescape.com/w/images/thumb/d/db/Thunder_Icon.png/60px-Thunder_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "200 MP",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 30.Efeito Adicional: Dano de raio ao longo do tempo Pot\u00eancia: 35Dura\u00e7\u00e3o: 21sEfeito Adicional: 10% de chance ap\u00f3s cada tique de que o pr\u00f3ximo feiti\u00e7o de trov\u00e3o de qualquer grau adicionar\u00e1 seu total de dano ao longo do tempo ao seu dano inicial, tenha sem tempo de lan\u00e7amento e sem custo de MP Dura\u00e7\u00e3o: 40s Apenas um efeito de dano ao longo do tempo induzido pelo feiti\u00e7o Trov\u00e3o por lan\u00e7ador pode ser infligido a um \u00fanico alvo. Revis\u00f5es A pot\u00eancia do dano ao longo do tempo mudou de 40 para 35.A dura\u00e7\u00e3o do dano ao longo do tempo mudou de 18s para 21s.Mudamos a dura\u00e7\u00e3o do efeito do feiti\u00e7o Trov\u00e3o de 18s para 40s."
+    },
+    {
+        "Nome": "Blizzard II",
+        "Ícone": "![Blizzard II](https://ffxiv.gamerescape.com/w/images/thumb/1/1b/Blizzard_II_Icon.png/60px-Blizzard_II_Icon.png)",
+        "Adquirido": "Lv. 12",
+        "Cast": "3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Causa dano de gelo com uma pot\u00eancia de 100 ao alvo e a todos os inimigos pr\u00f3ximos dele.Efeito Adicional: Concede Gelo Umbral III e remove Fogo Astral. Dura\u00e7\u00e3o: 15s Revis\u00f5es Efeito alterado de &quot;Causa dano de gelo a todos os inimigos pr\u00f3ximos.&quot; para &quot;Causa dano de gelo ao alvo e a todos os inimigos pr\u00f3ximos.&quot; Alcance alterado de 0 para 25. Pot\u00eancia alterada de 50 para 100. Tempo de conjura\u00e7\u00e3o alterado de 2s para 3s."
+    },
+    {
+        "Nome": "Scathe",
+        "Ícone": "![Scathe](https://ffxiv.gamerescape.com/w/images/thumb/d/dc/Scathe_Icon.png/60px-Scathe_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100.Efeito Adicional: 20% de chance de pot\u00eancia dobrar"
+    },
+    {
+        "Nome": "Fire II",
+        "Ícone": "![Fire II](https://ffxiv.gamerescape.com/w/images/thumb/1/1a/Fire_II_Icon.png/60px-Fire_II_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "1500 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 100 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Concede Fogo Astral III e remove Gelo Umbral A pot\u00eancia das revis\u00f5es foi alterada de 80 para 100. Adicionado &quot;B\u00f4nus de Fogo Astral: Concede Efeito de Sinaliza\u00e7\u00e3o Aprimorado \u00e9 cancelado se o Fogo Astral terminar.&quot;"
+    },
+    {
+        "Nome": "Thunder II",
+        "Ícone": "![Thunder II](https://ffxiv.gamerescape.com/w/images/thumb/f/f4/Thunder_II_Icon.png/60px-Thunder_II_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 50 ao alvo e a todos os inimigos pr\u00f3ximos dele.Efeito Adicional: Dano de Raio ao longo do tempoPot\u00eancia: 15Dura\u00e7\u00e3o: 18sEfeito Adicional: 3% de chance ap\u00f3s cada tique de que o pr\u00f3ximo feiti\u00e7o de trov\u00e3o de qualquer grau adicionar\u00e1 seu dano total ao longo do tempo equivale ao seu dano inicial, n\u00e3o tem tempo de lan\u00e7amento e n\u00e3o custa MPDura\u00e7\u00e3o: 40sApenas um efeito de dano ao longo do tempo induzido pelo feiti\u00e7o Trov\u00e3o por lan\u00e7ador pode ser infligido a um \u00fanico alvo. Revis\u00f5es Pot\u00eancia alterada de 30 para 50. Pot\u00eancia do dano ao longo do tempo alterada de 30 para 15. Dura\u00e7\u00e3o do dano ao longo do tempo alterada de 12s para 18s. Altera\u00e7\u00e3o da dura\u00e7\u00e3o do efeito do feiti\u00e7o Trov\u00e3o aumentada de 18s para 40s. Tempo de conjura\u00e7\u00e3o alterado de 3s para 2,5 segundos."
+    },
+    {
+        "Nome": "Manaward",
+        "Ícone": "![Manaward](https://ffxiv.gamerescape.com/w/images/thumb/d/d0/Manaward_Icon.png/60px-Manaward_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Cria uma barreira que anula o dano totalizando at\u00e9 30% do HP m\u00e1ximo. Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Manafont",
+        "Ícone": "![Manafont](https://ffxiv.gamerescape.com/w/images/thumb/2/26/Manafont_Icon.png/60px-Manafont_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura 30% do MP m\u00e1ximo. O tempo de reformula\u00e7\u00e3o das revis\u00f5es foi alterado de 180s para 120s."
+    },
+    {
+        "Nome": "Fire III",
+        "Ícone": "![Fire III](https://ffxiv.gamerescape.com/w/images/thumb/8/86/Fire_III_Icon.png/60px-Fire_III_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "3.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "2000 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 260.Efeito Adicional: Concede Fogo Astral III e remove Gelo Umbral Dura\u00e7\u00e3o: 15s Revis\u00f5es N\u00edvel de aprendizado alterado de 34 para 35.Pot\u00eancia alterada de 240 para 260."
+    },
+    {
+        "Nome": "Blizzard III",
+        "Ícone": "![Blizzard III](https://ffxiv.gamerescape.com/w/images/thumb/3/30/Blizzard_III_Icon.png/60px-Blizzard_III_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "3.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Causa dano de gelo com uma pot\u00eancia de 260.Efeito Adicional: Concede Gelo Umbral III e remove Fogo Astral Dura\u00e7\u00e3o: 15s Revis\u00f5es N\u00edvel de aprendizado alterado de 40 para 35.Pot\u00eancia alterada de 240 para 260."
+    },
+    {
+        "Nome": "Freeze",
+        "Ícone": "![Freeze](https://ffxiv.gamerescape.com/w/images/thumb/4/4b/Freeze_Icon.png/60px-Freeze_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "1000 MP",
+        "Efeito": "Causa dano de gelo com uma pot\u00eancia de 120 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Concede 3 Cora\u00e7\u00f5es Umbrais B\u00f4nus de Cora\u00e7\u00e3o Umbral: Anula o aumento de custo de MP do Fogo Astral para feiti\u00e7os de Fogo e reduz o custo de MP para Flare em um ter\u00e7o S\u00f3 pode ser executado enquanto estiver sob o efeito do Gelo Umbral. Revis\u00f5es N\u00edvel de aprendizado alterado de 35 para 40. Pot\u00eancia alterada de 100 para 120. Tempo de conjura\u00e7\u00e3o alterado de 2,5s para 2,8sAdicionado &quot;S\u00f3 pode ser executado sob o efeito de Gelo Umbral.&quot;"
+    },
+    {
+        "Nome": "Thunder III",
+        "Ícone": "![Thunder III](https://ffxiv.gamerescape.com/w/images/thumb/1/19/Thunder_III_Icon.png/60px-Thunder_III_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 50.Efeito Adicional: Dano de raio ao longo do tempo Pot\u00eancia: 35Dura\u00e7\u00e3o: 30sEfeito Adicional: 10% de chance ap\u00f3s cada tique de que o pr\u00f3ximo feiti\u00e7o de trov\u00e3o de qualquer grau adicionar\u00e1 seu total de dano ao longo do tempo ao seu dano inicial, tenha sem tempo de lan\u00e7amento e sem custo de MP Dura\u00e7\u00e3o: 40s Apenas um efeito de dano ao longo do tempo induzido pelo feiti\u00e7o Trov\u00e3o por lan\u00e7ador pode ser infligido a um \u00fanico alvo. Revis\u00f5es A pot\u00eancia mudou de 70 para 50. A pot\u00eancia do dano ao longo do tempo mudou de 40 para 35. A dura\u00e7\u00e3o do dano ao longo do tempo mudou de 24s para 30s. Mudou a dura\u00e7\u00e3o do efeito do feiti\u00e7o Trov\u00e3o de 18s para 40s."
+    },
+    {
+        "Nome": "Aetherial Manipulation",
+        "Ícone": "![Aetherial Manipulation](https://ffxiv.gamerescape.com/w/images/thumb/d/dc/Aetherial_Manipulation_Icon.png/60px-Aetherial_Manipulation_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Correr para o lado de um membro do grupo alvo. N\u00e3o \u00e9 poss\u00edvel lan\u00e7ar se vinculado."
+    },
+    {
+        "Nome": "Flare",
+        "Ícone": "![Flare](https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Flare_Icon.png/60px-Flare_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "4s",
+        "Recarga": "2.5s",
+        "Custo em MP": "All MP",
+        "Efeito": "Causa dano de fogo ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 220 para o primeiro inimigo e 40% a menos para todos os inimigos restantes. Pot\u00eancia de Flare Aprimorada: 280 Efeito Adicional: Concede Fogo Astral III Dura\u00e7\u00e3o: 15s S\u00f3 pode ser executado sob o efeito de Fogo Astral. Revis\u00f5es Pot\u00eancia alterada de 260 para 220.Adicionado &quot;Pot\u00eancia do Sinalizador Aprimorado: 280.&quot;Exclu\u00eddo &quot;e remove Gelo Umbral&quot;.Adicionado &quot;S\u00f3 pode ser executado sob o efeito de Fogo Astral.&quot;"
+    },
+    {
+        "Nome": "Ley Lines",
+        "Ícone": "![Ley Lines](https://ffxiv.gamerescape.com/w/images/thumb/8/84/Ley_Lines_Icon.png/60px-Ley_Lines_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Conecta linhas ley que ocorrem naturalmente para criar um c\u00edrculo de poder que, estando dentro dele, reduz o tempo de lan\u00e7amento de feiti\u00e7os e o tempo de relan\u00e7amento e o atraso de ataque autom\u00e1tico em 15%. Dura\u00e7\u00e3o: 30s Revis\u00f5es O tempo de relan\u00e7amento mudou de 90s para 120s."
+    },
+    {
+        "Nome": "Sharpcast",
+        "Ícone": "![Sharpcast](https://ffxiv.gamerescape.com/w/images/thumb/4/4c/Sharpcast_Icon.png/60px-Sharpcast_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Garante que o pr\u00f3ximo feiti\u00e7o Scathe, Fire, Paradox ou Thunder lan\u00e7ado, para o primeiro acerto, acionar\u00e1 o efeito adicional de Scathe, Firestarter ou Thundercloud. Dura\u00e7\u00e3o: 30s Cargas M\u00e1ximas: 2 Revis\u00f5es Adicionado efeito Paradox. Adicionado &quot;Cargas M\u00e1ximas: 2&quot;. mudou de 15s para 30s."
+    },
+    {
+        "Nome": "Blizzard IV",
+        "Ícone": "![Blizzard IV](https://ffxiv.gamerescape.com/w/images/thumb/c/cd/Blizzard_IV_Icon.png/60px-Blizzard_IV_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Causa dano de gelo com uma pot\u00eancia de 310.Efeito Adicional: Concede 3 Cora\u00e7\u00f5es UmbraisB\u00f4nus de Cora\u00e7\u00e3o Umbral: Anula o aumento de custo de MP do Fogo Astral para feiti\u00e7os de Fogo e reduz o custo de MP para Flare em um ter\u00e7o. S\u00f3 pode ser executado sob o efeito de Gelo Umbral. A pot\u00eancia das revis\u00f5es foi alterada de 300 para 310. O requisito de execu\u00e7\u00e3o foi alterado de Enochian e Umbral Ice para apenas Umbral Ice. O tempo de Recarga mudou de 2,8s para 2,5s."
+    },
+    {
+        "Nome": "Fire IV",
+        "Ícone": "![Fire IV](https://ffxiv.gamerescape.com/w/images/thumb/f/fa/Fire_IV_Icon.png/60px-Fire_IV_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 310. S\u00f3 pode ser executado sob o efeito de Fogo Astral. A pot\u00eancia das revis\u00f5es foi alterada de 300 para 310. O requisito de execu\u00e7\u00e3o foi alterado de Enochian e Astral Fire para apenas Astral Fire."
+    },
+    {
+        "Nome": "Between the Lines",
+        "Ícone": "![Between the Lines](https://ffxiv.gamerescape.com/w/images/thumb/9/98/Between_the_Lines_Icon.png/60px-Between_the_Lines_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "3s",
+        "Custo em MP": "-",
+        "Efeito": "Mova-se instantaneamente para as Linhas Ley desenhadas por voc\u00ea. N\u00e3o pode ser executado enquanto estiver vinculado."
+    },
+    {
+        "Nome": "Thunder IV",
+        "Ícone": "![Thunder IV](https://ffxiv.gamerescape.com/w/images/thumb/b/b2/Thunder_IV_Icon.png/60px-Thunder_IV_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 50 ao alvo e a todos os inimigos pr\u00f3ximos dele.Efeito Adicional: Dano de Raio ao longo do tempoPot\u00eancia: 20Dura\u00e7\u00e3o: 18sEfeito Adicional: 3% de chance ap\u00f3s cada tiquetaque de que o pr\u00f3ximo feiti\u00e7o de trov\u00e3o de qualquer grau adicionar\u00e1 seu dano total ao longo do tempo equivale ao seu dano inicial, n\u00e3o tem tempo de lan\u00e7amento e n\u00e3o custa MPDura\u00e7\u00e3o: 40sApenas um efeito de dano ao longo do tempo induzido pelo feiti\u00e7o Trov\u00e3o por lan\u00e7ador pode ser infligido a um \u00fanico alvo. Revis\u00f5es Pot\u00eancia de dano ao longo do tempo alterada de 30 para 20. Aumento da dura\u00e7\u00e3o do efeito do feiti\u00e7o Trov\u00e3o alterado de 18s para 40s. Tempo de lan\u00e7amento alterado de 3s para 2.5s. Custo de MP alterado de 800 para 400."
+    },
+    {
+        "Nome": "Triplecast",
+        "Ícone": "![Triplecast](https://ffxiv.gamerescape.com/w/images/thumb/4/46/Triplecast_Icon.png/60px-Triplecast_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Os pr\u00f3ximos tr\u00eas feiti\u00e7os n\u00e3o exigir\u00e3o tempo de lan\u00e7amento. Dura\u00e7\u00e3o: 15sCargas M\u00e1ximas: 2 Revis\u00f5es Adicionado &quot;Cargas M\u00e1ximas: 2&quot;."
+    },
+    {
+        "Nome": "Foul",
+        "Ícone": "![Foul](https://ffxiv.gamerescape.com/w/images/thumb/d/d8/Foul_Icon.png/60px-Foul_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 560 para o primeiro inimigo e 60% menos para todos os inimigos restantes.Custo Poliglota: 1 Revis\u00f5es Pot\u00eancia alterada de 650 para 560.Taxa de pot\u00eancia ao atacar inimigos restantes alterada de 25 % para 60%. O tempo de conjura\u00e7\u00e3o mudou de 2,5s para instant\u00e2neo."
+    },
+    {
+        "Nome": "Despair",
+        "Ícone": "![Despair](https://ffxiv.gamerescape.com/w/images/thumb/8/8f/Despair_Icon.png/60px-Despair_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "All MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 340. Efeito Adicional: Concede Fogo Astral III Dura\u00e7\u00e3o: 15s S\u00f3 pode ser executado sob o efeito de Fogo Astral. A pot\u00eancia das revis\u00f5es mudou de 380 para 340. O requisito de execu\u00e7\u00e3o mudou de Enochian e Astral Fire para apenas Astral Fire."
+    },
+    {
+        "Nome": "Umbral Soul",
+        "Ícone": "![Umbral Soul](https://ffxiv.gamerescape.com/w/images/thumb/c/c0/Umbral_Soul_Icon.png/60px-Umbral_Soul_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Gelo Umbral e 1 Cora\u00e7\u00e3o Umbral. B\u00f4nus Cora\u00e7\u00e3o Umbral: Anula o aumento de custo de MP do Fogo Astral para feiti\u00e7os de Fogo e reduz o custo de MP para Flare em um ter\u00e7o. S\u00f3 pode ser executado sob o efeito de Gelo Umbral. O requisito de execu\u00e7\u00e3o de revis\u00f5es mudou de gelo enoquiano e umbral para apenas gelo umbral."
+    },
+    {
+        "Nome": "Xenoglossy",
+        "Ícone": "![Xenoglossy](https://ffxiv.gamerescape.com/w/images/thumb/1/18/Xenoglossy_Icon.png/60px-Xenoglossy_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 760.Custo Poliglota: 1 Revis\u00f5es Pot\u00eancia alterada de 750 para 760."
+    },
+    {
+        "Nome": "High Fire II",
+        "Ícone": "![High Fire II](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/High_Fire_II_Icon.png/60px-High_Fire_II_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "1500 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 140 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Concede Fogo Astral III e remove Gelo Umbral"
+    },
+    {
+        "Nome": "High Blizzard II",
+        "Ícone": "![High Blizzard II](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/High_Fire_II_Icon.png/60px-High_Fire_II_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "3s",
+        "Recarga": "2.5s",
+        "Custo em MP": "800 MP",
+        "Efeito": "Causa dano de gelo com uma pot\u00eancia de 140 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Concede Gelo Umbral III e remove Fogo Astral Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Amplifier",
+        "Ícone": "![Amplifier](https://ffxiv.gamerescape.com/w/images/thumb/9/9b/Amplifier_Icon.png/60px-Amplifier_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Poliglota. S\u00f3 pode ser executado sob o efeito de Fogo Astral ou Gelo Umbral."
+    },
+    {
+        "Nome": "Paradox",
+        "Ícone": "![Paradox](https://ffxiv.gamerescape.com/w/images/thumb/6/64/Paradox_Icon.png/60px-Paradox_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "1600 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 500.Astral Fire Bonus: Atualiza a dura\u00e7\u00e3o do Astral Fire e 40% de chance de conceder FirestarterDuration: 15sFirstarter Effect: Next Fire III n\u00e3o requer tempo para lan\u00e7ar e n\u00e3o custa MPDuration: 30sUmbral Ice Bonus: Spell is lan\u00e7ado imediatamente, n\u00e3o requer MP para ser lan\u00e7ado e renova a dura\u00e7\u00e3o do Gelo Umbral."
+    }
+]

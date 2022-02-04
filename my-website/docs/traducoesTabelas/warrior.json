@@ -1,0 +1,263 @@
+[
+    {
+        "Nome": "Heavy Swing",
+        "Ícone": "![Heavy Swing](https://ffxiv.gamerescape.com/w/images/thumb/b/bb/Heavy_Swing_Icon.png/60px-Heavy_Swing_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 200."
+    },
+    {
+        "Nome": "Maim",
+        "Ícone": "![Maim](https://ffxiv.gamerescape.com/w/images/thumb/4/4c/Maim_Icon.png/60px-Maim_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 130. A\u00e7\u00e3o de Combo: Heavy SwingCombo Pot\u00eancia: 280 B\u00f4nus de Combo: Aumenta o Medidor de Besta em 10 Revis\u00f5es Pot\u00eancia alterada de 100 para 130. Pot\u00eancia de combo alterada de 320 para 280."
+    },
+    {
+        "Nome": "Berserk",
+        "Ícone": "![Berserk](https://ffxiv.gamerescape.com/w/images/thumb/c/c5/Berserk_Icon.png/60px-Berserk_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Concede 3 stacks de Berserk, cada stack garantindo que os ataques com armas sejam acertos cr\u00edticos e diretos. Dura\u00e7\u00e3o: 15s Efeito Adicional: Estende a dura\u00e7\u00e3o da Tempestade Surging em 10s para um m\u00e1ximo de 60s Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente reformulados. O tempo de reformula\u00e7\u00e3o mudou de 90s para anos 60."
+    },
+    {
+        "Nome": "Overpower",
+        "Ícone": "![Overpower](https://ffxiv.gamerescape.com/w/images/thumb/7/70/Overpower_Icon.png/60px-Overpower_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com pot\u00eancia de 110 a todos os inimigos em um cone antes de voc\u00ea. A pot\u00eancia das revis\u00f5es foi alterada de 130 para 110."
+    },
+    {
+        "Nome": "Defiance",
+        "Ícone": "![Defiance](https://ffxiv.gamerescape.com/w/images/thumb/9/9f/Defiance_Icon.png/60px-Defiance_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta significativamente a gera\u00e7\u00e3o de inimizade. O efeito termina com a reutiliza\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Tomahawk",
+        "Ícone": "![Tomahawk](https://ffxiv.gamerescape.com/w/images/thumb/e/eb/Tomahawk_Icon.png/60px-Tomahawk_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Oferece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 150.Efeito Adicional: Aumento da inimizade O alcance das revis\u00f5es mudou de 15 para 20.A pot\u00eancia mudou de 140 para 150."
+    },
+    {
+        "Nome": "Storm's Path",
+        "Ícone": "![Storm's Path](https://ffxiv.gamerescape.com/w/images/thumb/b/b1/Storm%27s_Path_Icon.png/60px-Storm%27s_Path_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 120.A\u00e7\u00e3o de Combo: Pot\u00eancia MaimCombo: 400B\u00f4nus de Combo: Restaura o pr\u00f3prio HPCure Pot\u00eancia: 250B\u00f4nus de Combo: Aumenta o Medidor de Besta em 20 Revis\u00f5es Pot\u00eancia alterada de 100 para 120.Pot\u00eancia de combo alterada de 420 para 400."
+    },
+    {
+        "Nome": "Thrill of Battle",
+        "Ícone": "![Thrill of Battle](https://ffxiv.gamerescape.com/w/images/thumb/3/3f/Thrill_of_Battle_Icon.png/60px-Thrill_of_Battle_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o HP m\u00e1ximo em 20% e restaura a quantidade aumentada.Efeito Adicional: Aumenta a recupera\u00e7\u00e3o de HP atrav\u00e9s de a\u00e7\u00f5es de cura em 20%Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Inner Beast",
+        "Ícone": "![Inner Beast](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/Inner_Beast_Icon.png/60px-Inner_Beast_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 330.Beast Gauge Cost: 50 Revisions Pot\u00eancia alterada de 350 para 330."
+    },
+    {
+        "Nome": "Vengeance",
+        "Ícone": "![Vengeance](https://ffxiv.gamerescape.com/w/images/thumb/b/b0/Vengeance_Icon.png/60px-Vengeance_Icon.png)",
+        "Adquirido": "Lv. 38",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido em 30% e oferece um ataque com pot\u00eancia de 55 toda vez que voc\u00ea sofre dano f\u00edsico. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Mythril Tempest",
+        "Ícone": "![Mythril Tempest](https://ffxiv.gamerescape.com/w/images/thumb/8/81/Mythril_Tempest_Icon.png/60px-Mythril_Tempest_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.A\u00e7\u00e3o de combina\u00e7\u00e3o: OverpowerCombo Potency: 150Combo Bonus: Concede Tempestade Surging, aumentando o dano causado em 10% Dura\u00e7\u00e3o: 30sEstende a dura\u00e7\u00e3o da tempestade em 30s at\u00e9 um m\u00e1ximo de 60s. Beast Gauge por 20 revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Holmgang",
+        "Ícone": "![Holmgang](https://ffxiv.gamerescape.com/w/images/thumb/d/d3/Holmgang_Icon.png/60px-Holmgang_Icon.png)",
+        "Adquirido": "Lv. 42",
+        "Cast": "Instant",
+        "Recarga": "240s",
+        "Custo em MP": "-",
+        "Efeito": "Prepare-se para um ataque inimigo, evitando que a maioria dos ataques reduza seu HP para menos de 1. Dura\u00e7\u00e3o: 10s Quando um alvo \u00e9 selecionado, interrompe seu movimento com correntes. A dura\u00e7\u00e3o das revis\u00f5es foi alterada de 8s para 10s."
+    },
+    {
+        "Nome": "Steel Cyclone",
+        "Ícone": "![Steel Cyclone](https://ffxiv.gamerescape.com/w/images/thumb/9/92/Steel_Cyclone_Icon.png/60px-Steel_Cyclone_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 170 a todos os inimigos pr\u00f3ximos.Custo do Medidor de Besta: 50 Revis\u00f5es Pot\u00eancia alterada de 220 para 170."
+    },
+    {
+        "Nome": "Storm's Eye",
+        "Ícone": "![Storm's Eye](https://ffxiv.gamerescape.com/w/images/thumb/c/c0/Storm%27s_Eye_Icon.png/60px-Storm%27s_Eye_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 120.A\u00e7\u00e3o de combina\u00e7\u00e3o: MaimCombo Pot\u00eancia: 400B\u00f4nus de combo: Concede Tempestade Intensa, aumentando o dano causado em 10% Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Infuriate",
+        "Ícone": "![Infuriate](https://ffxiv.gamerescape.com/w/images/thumb/9/98/Infuriate_Icon.png/60px-Infuriate_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o Medidor de Besta em 50.Efeito Adicional: Concede Caos Nascente Dura\u00e7\u00e3o: 30s Cargas M\u00e1ximas: 2S\u00f3 pode ser executado em combate."
+    },
+    {
+        "Nome": "Fell Cleave",
+        "Ícone": "![Fell Cleave](https://ffxiv.gamerescape.com/w/images/thumb/3/34/Fell_Cleave_Icon.png/60px-Fell_Cleave_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 460.Beast Gauge Custo: 50\u203bA\u00e7\u00e3o muda para Inner Chaos enquanto estiver sob o efeito de Nascent Chaos. A pot\u00eancia das revis\u00f5es foi alterada de 590 para 460."
+    },
+    {
+        "Nome": "Raw Intuition",
+        "Ícone": "![Raw Intuition](https://ffxiv.gamerescape.com/w/images/thumb/f/f4/Raw_Intuition_Icon.png/60px-Raw_Intuition_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "25s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido em 10%. Dura\u00e7\u00e3o: 6sEfeito Adicional: Restaura HP com cada abate com sucesso. Pot\u00eancia das revis\u00f5es alterada de 20% para 10%. Adicionado &quot;Efeito Adicional: Restaura HP com cada abate de armas entregue com sucesso&quot; e &quot;Pot\u00eancia de cura: 400&quot;."
+    },
+    {
+        "Nome": "Equilibrium",
+        "Ícone": "![Equilibrium](https://ffxiv.gamerescape.com/w/images/thumb/1/11/Equilibrium_Icon.png/60px-Equilibrium_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP. Pot\u00eancia de Cura: 1.200Efeito Adicional: Gradualmente restaura HPCure Pot\u00eancia: 200Dura\u00e7\u00e3o: 15s Revis\u00f5es Adicionado &quot;Efeito Adicional: Gradualmente restaura HP&quot;, &quot;Pot\u00eancia de cura: 200&quot; e &quot;Dura\u00e7\u00e3o: 15s&quot;."
+    },
+    {
+        "Nome": "Decimate",
+        "Ícone": "![Decimate](https://ffxiv.gamerescape.com/w/images/thumb/6/6a/Decimate_Icon.png/60px-Decimate_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 200.Beast Gauge Custo: 50\u203bA a\u00e7\u00e3o muda para Chaotic Cyclone enquanto estiver sob o efeito do Nascent Chaos. A pot\u00eancia das revis\u00f5es foi alterada de 250 para 200."
+    },
+    {
+        "Nome": "Onslaught",
+        "Ícone": "![Onslaught](https://ffxiv.gamerescape.com/w/images/thumb/e/ec/Onslaught_Icon.png/60px-Onslaught_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Apressa o alvo e desfere um ataque com uma pot\u00eancia de 150.Cargas M\u00e1ximas: 3N\u00e3o pode ser executado enquanto estiver preso. Pot\u00eancia das revis\u00f5es alterada de 100 para 150. &quot;Custo do Medidor de Besta: 20&quot; deletado. Adicionado &quot;Cargas M\u00e1ximas: 3&quot;."
+    },
+    {
+        "Nome": "Upheaval",
+        "Ícone": "![Upheaval](https://ffxiv.gamerescape.com/w/images/thumb/4/43/Upheaval_Icon.png/60px-Upheaval_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 350. Compartilha um cron\u00f4metro de Recarga com Orogeny. A pot\u00eancia das revis\u00f5es foi alterada de 450 para 350.Adicionado &quot;Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com orogenia&quot;. Exclu\u00eddo &quot;Custo do medidor de besta: 20&quot;"
+    },
+    {
+        "Nome": "Shake It Off",
+        "Ícone": "![Shake It Off](https://ffxiv.gamerescape.com/w/images/thumb/c/cc/Shake_It_Off_Icon.png/60px-Shake_It_Off_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Cria uma barreira ao redor de si mesmo e de todos os membros pr\u00f3ximos do grupo que absorve o dano totalizando 15% do HP m\u00e1ximo. Dissipa Emo\u00e7\u00e3o de Batalha, Vingan\u00e7a e Inje\u00e7\u00e3o de Sangue, aumentando o dano absorvido em 2% para cada efeito removido. Dura\u00e7\u00e3o: 15sEfeito Adicional: Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo Pot\u00eancia de cura: 300 Revis\u00f5es Agora afeta alvos sob o efeito de Esmagamento de Sangue. Adicionado &quot;Efeito Adicional: Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo&quot;. Tamb\u00e9m adicionado &quot; Pot\u00eancia de cura: 300&quot;."
+    },
+    {
+        "Nome": "Inner Release",
+        "Ícone": "![Inner Release](https://ffxiv.gamerescape.com/w/images/thumb/3/32/Inner_Release_Icon.png/60px-Inner_Release_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Concede 3 stacks de Inner Release, cada stack permitindo o uso de a\u00e7\u00f5es Beast Gauge sem custo e garantindo que todos os ataques sejam cr\u00edticos e diretos.Efeito Adicional: Anula Stun, Sleep, Bind, Heavy e a maioria dos efeitos knockback e draw-in Dura\u00e7\u00e3o: 15sEfeito Adicional: Prolonga a dura\u00e7\u00e3o da Tempestade Surging em 10s at\u00e9 um m\u00e1ximo de 60sEfeito Adicional: Concede Primal Rend ReadyDura\u00e7\u00e3o: 30s Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente reformulados. O tempo de Recarga mudou de 90s para 60s."
+    },
+    {
+        "Nome": "Chaotic Cyclone",
+        "Ícone": "![Chaotic Cyclone](https://ffxiv.gamerescape.com/w/images/thumb/e/ea/Chaotic_Cyclone_Icon.png/60px-Chaotic_Cyclone_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um acerto direto cr\u00edtico com uma pot\u00eancia de 320 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Reduz o tempo de relan\u00e7amento de Enfurecer em 5 segundos Custo do Medidor de Besta: 50S\u00f3 pode ser executado sob o efeito do Caos Nascente. O efeito desaparece ap\u00f3s a execu\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. A pot\u00eancia das revis\u00f5es foi alterada de 400 para 320."
+    },
+    {
+        "Nome": "Nascent Flash",
+        "Ícone": "![Nascent Flash](https://ffxiv.gamerescape.com/w/images/thumb/0/0e/Nascent_Flash_Icon.png/60px-Nascent_Flash_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "25s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Nascent Flash a si mesmo e Nascent Glint ao membro do grupo alvo. Nascent Flash Effect: Restaura HP a cada abate com sucesso Pot\u00eancia de cura: 400Nascent Glint Effect: Restaura HP igual a 100% do recuperado pelo Nascent Flash enquanto tamb\u00e9m reduz o dano recebido em 10%Duration : 8sEfeito Adicional: Concede Stem the Flow ao alvo, reduzindo o dano recebido em 10% Dura\u00e7\u00e3o: 4sEfeito Adicional: Concede Stem the Tide ao alvo, anulando o dano equivalente a uma cura de 400 de pot\u00eancia. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Inner Chaos",
+        "Ícone": "![Inner Chaos](https://ffxiv.gamerescape.com/w/images/thumb/f/fe/Inner_Chaos_Icon.png/60px-Inner_Chaos_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um acerto direto cr\u00edtico com uma pot\u00eancia de 650.Efeito Adicional: Reduz o tempo de relan\u00e7amento de Enfurecer em 5 segundos. O efeito desaparece ap\u00f3s a execu\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. A pot\u00eancia das revis\u00f5es foi alterada de 920 para 650."
+    },
+    {
+        "Nome": "Bloodwhetting",
+        "Ícone": "![Bloodwhetting](https://ffxiv.gamerescape.com/w/images/thumb/b/b6/Bloodwhetting_Icon.png/60px-Bloodwhetting_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "25s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido em 10%.Dura\u00e7\u00e3o: 8sEfeito Adicional: Restaura HP a cada morte com arma entregue com sucesso Pot\u00eancia de Cura: 400Efeito Adicional: Concede Stem the FlowStem the Flow Effect: Reduz o dano recebido em 10%Dura\u00e7\u00e3o: 4sEfeito Adicional: Concede Stem the TideStem the Tide Effect : Cria uma barreira ao redor de si mesmo que absorve dano equivalente a uma cura de 400 de pot\u00eancia Dura\u00e7\u00e3o: 20s Compartilha um cron\u00f4metro de relan\u00e7amento com Nascent Flash."
+    },
+    {
+        "Nome": "Orogeny",
+        "Ícone": "![Orogeny](https://ffxiv.gamerescape.com/w/images/thumb/c/c8/Orogeny_Icon.png/60px-Orogeny_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 150 a todos os inimigos pr\u00f3ximos. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Upheaval."
+    },
+    {
+        "Nome": "Primal Rend",
+        "Ícone": "![Primal Rend](https://ffxiv.gamerescape.com/w/images/thumb/d/d1/Primal_Rend_Icon.png/60px-Primal_Rend_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um acerto cr\u00edtico direto no alvo e em todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 700 para o primeiro inimigo e 70% menos para todos os inimigos restantes.Acumula\u00e7\u00e3o de Libera\u00e7\u00e3o Interna n\u00e3o \u00e9 consumida durante a execu\u00e7\u00e3o.S\u00f3 pode ser executado sob o efeito de Primal Rend Ready, concedido pelo Inner Release.N\u00e3o pode ser executado enquanto vinculado."
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "Nome": "Hard Slash",
+        "Ícone": "![Hard Slash](https://ffxiv.gamerescape.com/w/images/thumb/7/76/Hard_Slash_Icon.png/60px-Hard_Slash_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 170. Revis\u00f5es Pot\u00eancia alterada de 200 para 170."
+    },
+    {
+        "Nome": "Syphon Strike",
+        "Ícone": "![Syphon Strike](https://ffxiv.gamerescape.com/w/images/thumb/3/38/Syphon_Strike_Icon.png/60px-Syphon_Strike_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 120.A\u00e7\u00e3o de Combo: Hard SlashCombo Pot\u00eancia: 260Combo Bonus: Restaura MP Revis\u00f5es Pot\u00eancia alterada de 100 para 120. Pot\u00eancia de combo alterada de 300 para 260."
+    },
+    {
+        "Nome": "Unleash",
+        "Ícone": "![Unleash](https://ffxiv.gamerescape.com/w/images/thumb/e/e7/Unleash_Icon.png/60px-Unleash_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 120 a todos os inimigos pr\u00f3ximos. A pot\u00eancia das revis\u00f5es foi alterada de 150 para 120."
+    },
+    {
+        "Nome": "Grit",
+        "Ícone": "![Grit](https://ffxiv.gamerescape.com/w/images/thumb/f/f7/Grit_Icon.png/60px-Grit_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta significativamente a gera\u00e7\u00e3o de inimizade. O efeito termina com a reutiliza\u00e7\u00e3o."
+    },
+    {
+        "Nome": "Unmend",
+        "Ícone": "![Unmend](https://ffxiv.gamerescape.com/w/images/thumb/1/19/Unmend_Icon.png/60px-Unmend_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 150.Efeito Adicional: Maior inimizadeEfeito Adicional: Reduz o tempo de relan\u00e7amento de Mergulho em 5 segundos. Alcance de revis\u00f5es alterado de 15 para 20.Adicionado &quot;Efeito Adicional: Reduz o tempo de relan\u00e7amento de Mergulho em 5 segundos&quot;."
+    },
+    {
+        "Nome": "Souleater",
+        "Ícone": "![Souleater](https://ffxiv.gamerescape.com/w/images/thumb/7/71/Souleater_Icon.png/60px-Souleater_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 120.A\u00e7\u00e3o de combina\u00e7\u00e3o: Siphon StrikeCombo Potency: 340Combo Bonus: Restaura o pr\u00f3prio HPCure Potency: 300Combo Bonus: Aumenta Blood Gauge em 20 Revisions Potency alterada de 100 para 120.Combopotency alterada de 400 para 340."
+    },
+    {
+        "Nome": "Flood of Darkness",
+        "Ícone": "![Flood of Darkness](https://ffxiv.gamerescape.com/w/images/thumb/5/59/Flood_of_Darkness_Icon.png/60px-Flood_of_Darkness_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "3000 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 130 a todos os inimigos em linha reta antes de voc\u00ea.Efeito Adicional: Concede Darkside, aumentando o dano causado em 10% Escurid\u00e3o. A pot\u00eancia das revis\u00f5es mudou de 250 para 130. O tempo de Recarga mudou de 2s para 1s."
+    },
+    {
+        "Nome": "Blood Weapon",
+        "Ícone": "![Blood Weapon](https://ffxiv.gamerescape.com/w/images/thumb/1/1a/Blood_Weapon_Icon.png/60px-Blood_Weapon_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o medidor de sangue em 10 e restaura MP ao acertar armas ou feiti\u00e7os. O efeito n\u00e3o se acumula ao atingir v\u00e1rios alvos com um \u00fanico ataque. Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Shadow Wall",
+        "Ícone": "![Shadow Wall](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Shadow_Wall_Icon.png/60px-Shadow_Wall_Icon.png)",
+        "Adquirido": "Lv. 38",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido em 30%. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Edge of Darkness",
+        "Ícone": "![Edge of Darkness](https://ffxiv.gamerescape.com/w/images/thumb/8/8c/Edge_of_Darkness_Icon.png/60px-Edge_of_Darkness_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "3000 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 300.Efeito Adicional: Concede Darkside, aumentando o dano causado em 10% A pot\u00eancia das revis\u00f5es mudou de 350 para 300. O tempo de Recarga mudou de 2s para 1s."
+    },
+    {
+        "Nome": "Dark Mind",
+        "Ícone": "![Dark Mind](https://ffxiv.gamerescape.com/w/images/thumb/6/60/Dark_Mind_Icon.png/60px-Dark_Mind_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz a vulnerabilidade m\u00e1gica em 20%. Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Living Dead",
+        "Ícone": "![Living Dead](https://ffxiv.gamerescape.com/w/images/thumb/9/9b/Living_Dead_Icon.png/60px-Living_Dead_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "300s",
+        "Custo em MP": "-",
+        "Efeito": "Concede o efeito de Morto Vivo. Quando o HP for reduzido a 0 enquanto estiver sob o efeito de Living Dead, em vez de ser nocauteado, seu status mudar\u00e1 para Walking Dead. Se, antes que o cron\u00f4metro de The Walking Dead se esgote, o HP for 100% restaurado, o efeito desaparecer\u00e1. Se 100% n\u00e3o for restaurado, voc\u00ea ser\u00e1 KO&#39;d.Walking Dead Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Salted Earth",
+        "Ícone": "![Salted Earth](https://ffxiv.gamerescape.com/w/images/thumb/f/f5/Salted_Earth_Icon.png/60px-Salted_Earth_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Cria um peda\u00e7o de terra salgada aos seus p\u00e9s, causando dano inesperado com pot\u00eancia de 50 a qualquer inimigo que entrar. Dura\u00e7\u00e3o: 15s\u203bA a\u00e7\u00e3o muda para Sal e Escurid\u00e3o ap\u00f3s a execu\u00e7\u00e3o. Revis\u00f5es alteradas &quot;Cria um peda\u00e7o de terra salgada, causando dano inesperado com uma pot\u00eancia de 60 a qualquer inimigo que entrar.&quot; para &quot;Cria um peda\u00e7o de terra salgada aos seus p\u00e9s, causando dano inesperado com uma pot\u00eancia de 50 a qualquer inimigo que entrar.&quot; Adicionado &quot;Mudan\u00e7as de a\u00e7\u00e3o para Sal e Escurid\u00e3o ap\u00f3s a execu\u00e7\u00e3o.&quot;"
+    },
+    {
+        "Nome": "Plunge",
+        "Ícone": "![Plunge](https://ffxiv.gamerescape.com/w/images/thumb/b/b1/Plunge_Icon.png/60px-Plunge_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque de salto com uma pot\u00eancia de 150. Cargas M\u00e1ximas: 2 N\u00e3o pode ser executado enquanto estiver preso. O intervalo de revis\u00f5es foi alterado de 15 para 20. A pot\u00eancia foi alterada de 200 para 150."
+    },
+    {
+        "Nome": "Abyssal Drain",
+        "Ícone": "![Abyssal Drain](https://ffxiv.gamerescape.com/w/images/thumb/d/d7/Abyssal_Drain_Icon.png/60px-Abyssal_Drain_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 150 ao alvo e todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Restaura o pr\u00f3prio HPCure Pot\u00eancia: 200 Efeito Adicional: Restaura MPShares um temporizador de Recarga com Carve e Spit. Faixa de revis\u00f5es alterada de 15 para 20.Pot\u00eancia alterada de 200 para 150.Adicionado &quot;Efeito adicional: Restaura MP&quot;.Adicionado &quot;Compartilha um temporizador de reformula\u00e7\u00e3o com Carve e Spit&quot;."
+    },
+    {
+        "Nome": "Carve and Spit",
+        "Ícone": "![Carve and Spit](https://ffxiv.gamerescape.com/w/images/thumb/2/22/Carve_and_Spit_Icon.png/60px-Carve_and_Spit_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Oferece um ataque triplo com uma pot\u00eancia de 510.Efeito Adicional: Restaura MPShares um temporizador de Recarga com Abyssal Drain. A pot\u00eancia das revis\u00f5es foi alterada de 450 para 510. Adicionado &quot;Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Dreno Abissal&quot;."
+    },
+    {
+        "Nome": "Bloodspiller",
+        "Ícone": "![Bloodspiller](https://ffxiv.gamerescape.com/w/images/thumb/7/78/Bloodspiller_Icon.png/60px-Bloodspiller_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 500. Custo do Medidor de Sangue: 50 Revis\u00f5es Pot\u00eancia alterada de 600 para 500."
+    },
+    {
+        "Nome": "Quietus",
+        "Ícone": "![Quietus](https://ffxiv.gamerescape.com/w/images/thumb/e/e9/Quietus_Icon.png/60px-Quietus_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 200 a todos os inimigos pr\u00f3ximos.Custo do Medidor de Sangue: 50 Revis\u00f5es Pot\u00eancia alterada de 210 para 200."
+    },
+    {
+        "Nome": "Delirium",
+        "Ícone": "![Delirium](https://ffxiv.gamerescape.com/w/images/thumb/6/64/Delirium_Icon.png/60px-Delirium_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Concede 3 stacks de Delirium, cada stack permitindo a execu\u00e7\u00e3o de Quietus ou Bloodspiller sem custo de Blackblood, restaurando MP ao acertar qualquer uma das armas."
+    },
+    {
+        "Nome": "The Blackest Night",
+        "Ícone": "![The Blackest Night](https://ffxiv.gamerescape.com/w/images/thumb/a/a3/The_Blackest_Night_Icon.png/60px-The_Blackest_Night_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "Custo em MP": "3000 MP",
+        "Efeito": "Cria uma barreira ao redor do alvo que absorve dano totalizando 25% do HP m\u00e1ximo do alvo. Dura\u00e7\u00e3o: 7sGrant Dark Arts quando a barreira \u00e9 completamente absorvida.Dark Arts Effect: Consuma Dark Arts em vez de MP para executar Edge of Shadow ou Flood of Shadow"
+    },
+    {
+        "Nome": "Stalwart Soul",
+        "Ícone": "![Stalwart Soul](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/Stalwart_Soul_Icon.png/60px-Stalwart_Soul_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos. A\u00e7\u00e3o de Combo: Desencadear Pot\u00eancia de Combo: 140 B\u00f4nus de Combo: Restaura MPCombo B\u00f4nus: Aumenta o Medidor de Sangue em 20 Revis\u00f5es Pot\u00eancia de combo alterada de 160 para 140."
+    },
+    {
+        "Nome": "Flood of Shadow",
+        "Ícone": "![Flood of Shadow](https://ffxiv.gamerescape.com/w/images/thumb/f/f0/Flood_of_Shadow_Icon.png/60px-Flood_of_Shadow_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "3000 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 160 a todos os inimigos em uma linha reta antes de voc\u00ea.Efeito Adicional: Concede Darkside, aumentando o dano causado em 10% Sombra. A pot\u00eancia das revis\u00f5es mudou de 300 para 160. O tempo de Recarga mudou de 2s para 1s."
+    },
+    {
+        "Nome": "Edge of Shadow",
+        "Ícone": "![Edge of Shadow](https://ffxiv.gamerescape.com/w/images/thumb/0/05/Edge_of_Shadow_Icon.png/60px-Edge_of_Shadow_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "3000 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 460.Efeito Adicional: Concede Darkside, aumentando o dano causado em 10% A pot\u00eancia das revis\u00f5es mudou de 500 para 460. O tempo de Recarga mudou de 2s para 1s."
+    },
+    {
+        "Nome": "Dark Missionary",
+        "Ícone": "![Dark Missionary](https://ffxiv.gamerescape.com/w/images/thumb/3/35/Dark_Missionary_Icon.png/60px-Dark_Missionary_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz em 10% o dano m\u00e1gico recebido por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s."
+    },
+    {
+        "Nome": "Living Shadow",
+        "Ícone": "![Living Shadow](https://ffxiv.gamerescape.com/w/images/thumb/b/bf/Living_Shadow_Icon.png/60px-Living_Shadow_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Conjure um simulacro do seu lado sombrio para lutar ao seu lado. Simulacro Pot\u00eancia de Ataque: 300 Dura\u00e7\u00e3o: 24 sBlood Gauge Custo: 50 Efeito Adicional: Simulacrum \u00e9 capaz de executar Shadowbringer, atacando todos os inimigos em linha reta com uma pot\u00eancia de 450 para o primeiro inimigo e 25% a menos para todos os inimigos restantes. Revis\u00f5es adicionadas &quot;Efeito adicional: Simulacrum \u00e9 capaz de executar Shadowbringer, atacando todos os inimigos em linha reta com uma pot\u00eancia de 450 para o primeiro inimigo e 25% menos para todos os inimigos restantes.&quot;"
+    },
+    {
+        "Nome": "Oblation",
+        "Ícone": "![Oblation](https://ffxiv.gamerescape.com/w/images/thumb/b/bd/Oblation_Icon.png/60px-Oblation_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano recebido por um membro do grupo ou por si mesmo em 10%. Dura\u00e7\u00e3o: 10s Cargas M\u00e1ximas: 2"
+    },
+    {
+        "Nome": "Salt and Darkness",
+        "Ícone": "![Salt and Darkness](https://ffxiv.gamerescape.com/w/images/thumb/5/5b/Salt_and_Darkness_Icon.png/60px-Salt_and_Darkness_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Todos os inimigos que estiverem na \u00e1rea corrompida de Salted Earth recebem dano adicional inesperado com uma pot\u00eancia de 500 para o primeiro inimigo e 50% a menos para todos os inimigos restantes.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Shadowbringer",
+        "Ícone": "![Shadowbringer](https://ffxiv.gamerescape.com/w/images/thumb/d/d9/Shadowbringer_Icon.png/60px-Shadowbringer_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado a todos os inimigos em linha reta com uma pot\u00eancia de 600 para o primeiro inimigo e 50% menos para todos os inimigos restantes.Cargas M\u00e1ximas: 2S\u00f3 pode ser executado sob o efeito de Darkside."
+    }
+]

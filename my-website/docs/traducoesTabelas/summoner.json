@@ -1,0 +1,623 @@
+[
+    {
+        "Nome": "Ruin",
+        "Ícone": "![Ruin](https://ffxiv.gamerescape.com/w/images/thumb/5/59/Ruin_Icon.png/60px-Ruin_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 240. Revis\u00f5es Pot\u00eancia alterada de 180 para 240. Tempo de lan\u00e7amento alterado de 2,5s para 1,5s. Custo de MP alterado de 200 para 300."
+    },
+    {
+        "Nome": "Summon Carbuncle",
+        "Ícone": "![Summon Carbuncle](https://ffxiv.gamerescape.com/w/images/thumb/3/30/Summon_Carbuncle_Icon.png/60px-Summon_Carbuncle_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Invoca Carbuncle ao seu lado."
+    },
+    {
+        "Nome": "Radiant Aegis",
+        "Ícone": "![Radiant Aegis](https://ffxiv.gamerescape.com/w/images/thumb/d/d8/Radiant_Aegis_Icon.png/60px-Radiant_Aegis_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Ordena que Carbuncle execute Radiant Aegis.Radiant Aegis Efeito: Cria uma barreira ao redor de si que absorve dano totalizando 20% do seu HP m\u00e1ximo."
+    },
+    {
+        "Nome": "Physick",
+        "Ícone": "![Physick](https://ffxiv.gamerescape.com/w/images/thumb/a/af/Physick_Icon.png/60px-Physick_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 400"
+    },
+    {
+        "Nome": "Aethercharge",
+        "Ícone": "![Aethercharge](https://ffxiv.gamerescape.com/w/images/thumb/3/38/Aethercharge_Icon.png/60px-Aethercharge_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Aethercharge, aumentando a pot\u00eancia de Ruin, Ruin II e Ruin III em 50, e Outburst em 20. Dura\u00e7\u00e3o: 15sEfeito Adicional: Concede Ruby Arcanum, Topaz Arcanum e Emerald ArcanumPode ser executado apenas em combate e enquanto Carbuncle \u00e9 invocado."
+    },
+    {
+        "Nome": "Summon Ruby",
+        "Ícone": "![Summon Ruby](https://ffxiv.gamerescape.com/w/images/thumb/e/e7/Summon_Ruby_Icon.png/60px-Summon_Ruby_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Ruby Carbuncle e ordena que ele execute Glittering Ruby.Glittering Ruby Effect: Apressa o alvo e causa dano de fogo com uma pot\u00eancia de 400Efeito Adicional: Concede 2 pilhas de Fire AttunementFire Attunement Efeito: Gemshine e Precious Brilliance tornam-se com aspecto de fogo Dura\u00e7\u00e3o: 30sPode ser apenas executado enquanto sob o efeito de Ruby Arcanum e Carbuncle \u00e9 invocado."
+    },
+    {
+        "Nome": "Gemshine",
+        "Ícone": "![Gemshine](https://ffxiv.gamerescape.com/w/images/thumb/1/18/Gemshine_Icon.png/60px-Gemshine_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Canalize as energias de sua sintoniza\u00e7\u00e3o elemental ativa para atacar seu inimigo.Efeito de sintoniza\u00e7\u00e3o de fogo: Cause dano de fogo a um \u00fanico alvoEfeito de sintoniza\u00e7\u00e3o de terra: Cause dano de terra a um \u00fanico alvoEfeito de sintoniza\u00e7\u00e3o de vento: Cause dano de vento a um \u00fanico alvo"
+    },
+    {
+        "Nome": "Ruby Ruin",
+        "Ícone": "![Ruby Ruin](https://ffxiv.gamerescape.com/w/images/thumb/4/44/Ruby_Ruin_Icon.png/60px-Ruby_Ruin_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 300.Custo de Sintonia de Fogo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Fester",
+        "Ícone": "![Fester](https://ffxiv.gamerescape.com/w/images/thumb/2/25/Fester_Icon.png/60px-Fester_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 300.Aetherflow Gauge Custo: 1 Revis\u00f5es N\u00edvel de aprendizado alterado de 18 para 10.Potency alterado de 100 para 300.Efeitos adicionais removidos.Recarga time alterado de 5s para 1s."
+    },
+    {
+        "Nome": "Energy Drain",
+        "Ícone": "![Energy Drain](https://ffxiv.gamerescape.com/w/images/thumb/1/11/Energy_Drain_Icon.png/60px-Energy_Drain_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 200.Efeito Adicional: Aetherflow IIEfeito Adicional: Garante Mais Ru\u00edna Dura\u00e7\u00e3o: 60sCompartilha um cron\u00f4metro de relan\u00e7amento com Sif\u00e3o de Energia. Revis\u00f5es N\u00edvel de aprendizado alterado de 18 para 10. Pot\u00eancia alterada de 100 para 200. Adicionado &quot;Efeito adicional: Concede mais ru\u00edna Dura\u00e7\u00e3o: 60s&quot;. Tempo de reformula\u00e7\u00e3o alterado de 30s para 60s."
+    },
+    {
+        "Nome": "Resurrection",
+        "Ícone": "![Resurrection](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/Resurrection_Icon.png/60px-Resurrection_Icon.png)",
+        "Adquirido": "Lv. 12",
+        "Cast": "8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "2400 MP",
+        "Efeito": "Ressuscita o alvo para um estado enfraquecido."
+    },
+    {
+        "Nome": "Summon Topaz",
+        "Ícone": "![Summon Topaz](https://ffxiv.gamerescape.com/w/images/thumb/c/c2/Summon_Topaz_Icon.png/60px-Summon_Topaz_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Top\u00e1zio Carbuncle e ordena que ele execute Glittering Topaz.Glittering Topaz Effect: Apressa o alvo e causa dano de terra com uma pot\u00eancia de 400Efeito Adicional: Concede 4 pilhas de Earth AttunementEarth Attunement Efeito: Gemshine e Precious Brilliance tornam-se terra-aspectedDuration: 30sPode ser apenas executado enquanto sob o efeito de Topaz Arcanum e Carbuncle \u00e9 convocado."
+    },
+    {
+        "Nome": "Topaz Ruin",
+        "Ícone": "![Topaz Ruin](https://ffxiv.gamerescape.com/w/images/thumb/5/56/Topaz_Ruin_Icon.png/60px-Topaz_Ruin_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 240.Custo de Sintonia de Terra: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Summon Emerald",
+        "Ícone": "![Summon Emerald](https://ffxiv.gamerescape.com/w/images/thumb/1/17/Summon_Emerald_Icon.png/60px-Summon_Emerald_Icon.png)",
+        "Adquirido": "Lv. 22",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Carbuncle Esmeralda e ordena que ele execute Glittering Emerald.Glittering Emerald Effect: Causa dano de vento com uma pot\u00eancia de 400Efeito Adicional: Concede 4 pilhas de Wind AttunementWind Attunement Efeito: Gemshine e Precious Brilliance tornam-se com aspecto de vento Dura\u00e7\u00e3o: 30s S\u00f3 pode ser executado enquanto estiver sob o efeito de Emerald Arcanum e Carbuncle \u00e9 invocado."
+    },
+    {
+        "Nome": "Emerald Ruin",
+        "Ícone": "![Emerald Ruin](https://ffxiv.gamerescape.com/w/images/thumb/6/61/Emerald_Ruin_Icon.png/60px-Emerald_Ruin_Icon.png)",
+        "Adquirido": "Lv. 22",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 160.Custo de Sintonia de Vento: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Outburst",
+        "Ícone": "![Outburst](https://ffxiv.gamerescape.com/w/images/thumb/c/c6/Outburst_Icon.png/60px-Outburst_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100 no alvo e em todos os inimigos pr\u00f3ximos. Revis\u00f5es A classe de aprendizado mudou para Arcanista. O n\u00edvel de aprendizado mudou de 40 para 26. A pot\u00eancia mudou de 90 para 100. O tempo de conjura\u00e7\u00e3o mudou de 2,5s para 1,5s. O custo de MP mudou de 400 para 300."
+    },
+    {
+        "Nome": "Precious Brilliance",
+        "Ícone": "![Precious Brilliance](https://ffxiv.gamerescape.com/w/images/thumb/c/c6/Precious_Brilliance_Icon.png/60px-Precious_Brilliance_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "2.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Canalize as energias de sua sintoniza\u00e7\u00e3o elemental ativa para atacar v\u00e1rios inimigos.Efeito de sintoniza\u00e7\u00e3o de fogo: Cause dano de fogo a um alvo e a todos os inimigos pr\u00f3ximos a eleEfeito de sintoniza\u00e7\u00e3o de terra: Cause dano de terra a um alvo e a todos os inimigos pr\u00f3ximos a eleEfeito de sintoniza\u00e7\u00e3o de vento: Cause dano de vento a um alvo e todos os inimigos pr\u00f3ximos a ele"
+    },
+    {
+        "Nome": "Ruby Outburst",
+        "Ícone": "![Ruby Outburst](https://ffxiv.gamerescape.com/w/images/thumb/8/85/Ruby_Outburst_Icon.png/60px-Ruby_Outburst_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 140 ao alvo e todos os inimigos pr\u00f3ximos a ele. Custo de Sintonia de Fogo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Topaz Outburst",
+        "Ícone": "![Topaz Outburst](https://ffxiv.gamerescape.com/w/images/thumb/2/2e/Topaz_Outburst_Icon.png/60px-Topaz_Outburst_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 110 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Custo de Sintonia de Terra: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Emerald Outburst",
+        "Ícone": "![Emerald Outburst](https://ffxiv.gamerescape.com/w/images/thumb/1/1e/Emerald_Outburst_Icon.png/60px-Emerald_Outburst_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 70 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Custo de Sintonia de Vento: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Ruin II",
+        "Ícone": "![Ruin II](https://ffxiv.gamerescape.com/w/images/thumb/f/f8/Ruin_II_Icon.png/60px-Ruin_II_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 270. Revis\u00f5es N\u00edvel de aprendizado alterado de 38 para 30. Pot\u00eancia alterada de 160 para 270. Tempo de lan\u00e7amento alterado de instant\u00e2neo para 1,5s. Custo de MP alterado de 400 para 300."
+    },
+    {
+        "Nome": "Summon Ifrit",
+        "Ícone": "![Summon Ifrit](https://ffxiv.gamerescape.com/w/images/thumb/1/10/Summon_Ifrit_Icon.png/60px-Summon_Ifrit_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Ifrit-Egi e ordena que ele execute Inferno.Inferno Effect: Avan\u00e7a e causa dano de fogo a todos os inimigos em um cone de 5 yalm antes dele com uma pot\u00eancia de 600 para o primeiro inimigo e 60% menos para todos os inimigos restantesEfeito adicional : Concede 2 stacks de Fire AttunementFire Attunement Efeito: Gemshine e Precious Brilliance tornam-se com aspecto de fogo Dura\u00e7\u00e3o: 30sEfeito Adicional: Concede Ifrit&#39;s FavorEfeito de Ifrit&#39;s Favor termina ap\u00f3s a execu\u00e7\u00e3o de certas a\u00e7\u00f5es de invocador.S\u00f3 pode ser executado enquanto estiver sob o efeito de Ruby Arcanum e Carbuncle \u00e9 convocado."
+    },
+    {
+        "Nome": "Ruby Ruin II",
+        "Ícone": "![Ruby Ruin II](https://ffxiv.gamerescape.com/w/images/thumb/4/4b/Ruby_Ruin_II_Icon.png/60px-Ruby_Ruin_II_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 340.Custo de Sintonia de Fogo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Topaz Ruin II",
+        "Ícone": "![Topaz Ruin II](https://ffxiv.gamerescape.com/w/images/thumb/e/e4/Topaz_Ruin_II_Icon.png/60px-Topaz_Ruin_II_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 270.Custo de Sintonia de Terra: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Emerald Ruin II",
+        "Ícone": "![Emerald Ruin II](https://ffxiv.gamerescape.com/w/images/thumb/e/e5/Emerald_Ruin_II_Icon.png/60px-Emerald_Ruin_II_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 170.Custo de Sintonia de Vento: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Summon Titan",
+        "Ícone": "![Summon Titan](https://ffxiv.gamerescape.com/w/images/thumb/9/9e/Summon_Titan_Icon.png/60px-Summon_Titan_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Titan-Egi e ordena que ele execute Earthen Fury.Earthen Fury Effect: Avan\u00e7a e causa dano de terra a todos os inimigos dentro de 5 yalms com uma pot\u00eancia de 600 para o primeiro inimigo e 60% menos para todos os inimigos restantesEfeito adicional: Concede 4 stacks of Earth AttunementEarth Attunement Efeito: Gemshine e Precious Brilliance ficam com aspecto de terra Dura\u00e7\u00e3o: 30s S\u00f3 pode ser executado sob o efeito de Topaz Arcanum e Carbuncle \u00e9 invocado."
+    },
+    {
+        "Nome": "Painflare",
+        "Ícone": "![Painflare](https://ffxiv.gamerescape.com/w/images/thumb/7/75/Painflare_Icon.png/60px-Painflare_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 150 ao alvo e a todos os inimigos pr\u00f3ximos a ele. Medidor de Fluxo de \u00c9ter Custo: 1 Revis\u00f5es N\u00edvel de aprendizado alterado de 52 para 40. Pot\u00eancia alterada de 130 para 150. Tempo de relan\u00e7amento alterado de 5s para 1s."
+    },
+    {
+        "Nome": "Summon Garuda",
+        "Ícone": "![Summon Garuda](https://ffxiv.gamerescape.com/w/images/thumb/a/a3/Summon_Garuda_Icon.png/60px-Summon_Garuda_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Garuda-Egi e ordena que ele execute Aerial Blast.Aerial Blast Effect: Causa dano de vento ao alvo e a todos os inimigos dentro de 5 yalms com uma pot\u00eancia de 600 para o primeiro inimigo e 60% menos para todos os inimigos restantesEfeito adicional: Concede 4 stacks of Wind AttunementWind Attunement Efeito: Gemshine e Precious Brilliance ficam com aspecto de vento Dura\u00e7\u00e3o: 30sEfeito Adicional: Concede Garuda&#39;s FavorEfeito de Garuda&#39;s Favor termina ap\u00f3s a execu\u00e7\u00e3o de certas a\u00e7\u00f5es de invocador. S\u00f3 pode ser executado enquanto estiver sob o efeito de Emerald Arcanum e Carbuncle for invocado."
+    },
+    {
+        "Nome": "Energy Siphon",
+        "Ícone": "![Energy Siphon](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Energy_Siphon_Icon.png/60px-Energy_Siphon_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Aetherflow IIEfeito Adicional: Concede mais Ru\u00edna Dura\u00e7\u00e3o: 60s Compartilha um cron\u00f4metro de Recarga com Energy Drain. Revis\u00f5es N\u00edvel de aprendizado alterado de 35 para 52. Pot\u00eancia alterada de 40 para 100. Adicionado &quot;Efeito adicional: Concede mais ru\u00edna Dura\u00e7\u00e3o: 60s&quot;. Tempo de reformula\u00e7\u00e3o alterado de 30s para 60s."
+    },
+    {
+        "Nome": "Ruin III",
+        "Ícone": "![Ruin III](https://ffxiv.gamerescape.com/w/images/thumb/0/00/Ruin_III_Icon.png/60px-Ruin_III_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 310. Revis\u00f5es Pot\u00eancia alterada de 200 para 310. Tempo de lan\u00e7amento alterado de 2,5s para 1,5s. Custo de MP alterado de 200 para 300."
+    },
+    {
+        "Nome": "Ruby Ruin III",
+        "Ícone": "![Ruby Ruin III](https://ffxiv.gamerescape.com/w/images/thumb/4/43/Ruby_Ruin_III_Icon.png/60px-Ruby_Ruin_III_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 360.Custo de Sintonia de Fogo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Topaz Ruin III",
+        "Ícone": "![Topaz Ruin III](https://ffxiv.gamerescape.com/w/images/thumb/9/91/Topaz_Ruin_III_Icon.png/60px-Topaz_Ruin_III_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 300.Custo de Sintonia de Terra: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Emerald Ruin III",
+        "Ícone": "![Emerald Ruin III](https://ffxiv.gamerescape.com/w/images/thumb/c/c1/Emerald_Ruin_III_Icon.png/60px-Emerald_Ruin_III_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 180.Custo de Sintonia de Vento: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Dreadwyrm Trance",
+        "Ícone": "![Dreadwyrm Trance](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/Dreadwyrm_Trance_Icon.png/60px-Dreadwyrm_Trance_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entra em Dreadwyrm Trance. Dura\u00e7\u00e3o: 15sEfeito Adicional: Muda Ruin III para Astral Impulse e Outburst para Astral FlareEfeito Adicional: Concede Ruby Arcanum, Topaz Arcanum e Emerald ArcanumPode ser executado apenas em combate e enquanto Carbuncle \u00e9 invocado. Revis\u00f5es Mudou a categoria de habilidade para feiti\u00e7o.Atualizou os efeitos.O tempo de Recarga mudou de 55s para 60s."
+    },
+    {
+        "Nome": "Astral Impulse",
+        "Ícone": "![Astral Impulse](https://ffxiv.gamerescape.com/w/images/thumb/2/28/Astral_Impulse_Icon.png/60px-Astral_Impulse_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 440. S\u00f3 pode ser executado enquanto estiver em Dreadwyrm Trance.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma hotbar."
+    },
+    {
+        "Nome": "Astral Flare",
+        "Ícone": "![Astral Flare](https://ffxiv.gamerescape.com/w/images/thumb/d/da/Astral_Flare_Icon.png/60px-Astral_Flare_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 180 no alvo e em todos os inimigos pr\u00f3ximos a ele. S\u00f3 pode ser executado enquanto estiver em Dreadwyrm Trance.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Astral Flow",
+        "Ícone": "![Astral Flow](https://ffxiv.gamerescape.com/w/images/thumb/e/e6/Astral_Flow_Icon.png/60px-Astral_Flow_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Canalize as energias de seu transe ativo ou favor elemental para realizar uma das v\u00e1rias a\u00e7\u00f5es.Dreadwyrm Trance Efeito: Mudan\u00e7as de a\u00e7\u00e3o para DeathflareFirebird Trance Efeito: Mudan\u00e7as de a\u00e7\u00e3o para Reacender Ifrit&#39;s Favor Efeito: Mudan\u00e7as de a\u00e7\u00e3o para Crimson CycloneTitan&#39;s Favor Effect: A\u00e7\u00e3o muda para Mountain BusterGaruda&#39;s Favor Effect : A\u00e7\u00e3o muda para Slipstream"
+    },
+    {
+        "Nome": "Deathflare",
+        "Ícone": "![Deathflare](https://ffxiv.gamerescape.com/w/images/thumb/f/fe/Deathflare_Icon.png/60px-Deathflare_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 500 para o primeiro inimigo e 60% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto estiver em Dreadwyrm Trance.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es Pot\u00eancia alterada de 400 para 500. Taxa de pot\u00eancia ao atacar inimigos restantes alterada de 50% para 60%. Tempo de relan\u00e7amento alterado de 15s para 20s.Exclu\u00eddo &quot;Dreadwyrm Trance desaparece ap\u00f3s a execu\u00e7\u00e3o.&quot;Adicionado &quot;\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar .&quot;"
+    },
+    {
+        "Nome": "Ruin IV",
+        "Ícone": "![Ruin IV](https://ffxiv.gamerescape.com/w/images/thumb/3/37/Ruin_IV_Icon.png/60px-Ruin_IV_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 430 para o primeiro inimigo e 60% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto estiver sob o efeito de Further Ruin. Revis\u00f5es Atualizado o custo de efeitos. MP alterado de 200 para 400. Faixa de \u00e1rea alterada de 0 para 5."
+    },
+    {
+        "Nome": "Searing Light",
+        "Ícone": "![Searing Light](https://ffxiv.gamerescape.com/w/images/thumb/b/b2/Searing_Light_Icon.png/60px-Searing_Light_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Ordena que Carbuncle execute Searing Light. Searing Light Effect: Aumenta em 3% o dano causado por si mesmo e por membros pr\u00f3ximos do grupo."
+    },
+    {
+        "Nome": "Summon Bahamut",
+        "Ícone": "![Summon Bahamut](https://ffxiv.gamerescape.com/w/images/thumb/1/17/Summon_Bahamut_Icon.png/60px-Summon_Bahamut_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entra em Dreadwyrm Trance e invoca Demi-Bahamut para lutar contra seu alvo.Demi-Bahamut executar\u00e1 Wyrmwave automaticamente nos alvos atacados por voc\u00ea ap\u00f3s a convoca\u00e7\u00e3o.Aumenta a inimizade no alvo quando Demi-Bahamut \u00e9 convocado.Dura\u00e7\u00e3o: 15sEfeito Adicional: Muda Ruin III para Astral Impulse and Tri-disaster to Astral FlareEfeito Adicional: Concede Arcano Rubi, Arcano Top\u00e1zio e Arcano Esmeralda S\u00f3 pode ser executado em combate e enquanto Carbuncle estiver invocado. Revis\u00f5es Atualizado os efeitos. Dura\u00e7\u00e3o alterada de 20s para 15s. Tempo de Recarga alterado de 30s para 60s. Alcance alterado de 0 para 25."
+    },
+    {
+        "Nome": "Wyrmwave",
+        "Ícone": "![Wyrmwave](https://ffxiv.gamerescape.com/w/images/thumb/3/33/Wyrmwave_Icon.png/60px-Wyrmwave_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 150. S\u00f3 ser\u00e1 executado enquanto Demi-Bahamut for invocado.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. O intervalo de revis\u00f5es foi alterado de 100 para 50."
+    },
+    {
+        "Nome": "Enkindle Bahamut",
+        "Ícone": "![Enkindle Bahamut](https://ffxiv.gamerescape.com/w/images/thumb/b/b2/Enkindle_Bahamut_Icon.png/60px-Enkindle_Bahamut_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Ordena Demi-Bahamut para executar Akh Morn.Akh Morn Efeito: Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 1.300 para o primeiro inimigo e 60% menos para todos os inimigos restantes Revis\u00f5es Pot\u00eancia alterada de 650 para 1.300.Potency a taxa ao atacar os inimigos restantes mudou de 50% para 60%. Exclu\u00eddo &quot;Compartilha um temporizador de Recarga com Enkindle Phoenix.&quot; O tempo de Recarga mudou de 10s para 20s."
+    },
+    {
+        "Nome": "Akh Morn",
+        "Ícone": "![Akh Morn](https://ffxiv.gamerescape.com/w/images/thumb/b/b0/Akh_Morn_Icon.png/60px-Akh_Morn_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "-",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 1.300 para o primeiro inimigo e 60% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto Demi-Bahamut estiver convocado.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. O alcance das revis\u00f5es mudou de 100 para 50. A pot\u00eancia mudou de 650 para 1.300. A taxa de pot\u00eancia ao atacar os inimigos restantes mudou de 50% para 60%."
+    },
+    {
+        "Nome": "Ruby Rite",
+        "Ícone": "![Ruby Rite](https://ffxiv.gamerescape.com/w/images/thumb/b/b8/Ruby_Rite_Icon.png/60px-Ruby_Rite_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 450.Custo de Sintonia de Fogo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Topaz Rite",
+        "Ícone": "![Topaz Rite](https://ffxiv.gamerescape.com/w/images/thumb/7/79/Topaz_Rite_Icon.png/60px-Topaz_Rite_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 330.Efeito Adicional: Concede Favor do Tit\u00e3 O efeito do Favor do Tit\u00e3 termina ap\u00f3s a execu\u00e7\u00e3o de certas a\u00e7\u00f5es de invocador.Custo de Sintonia de Terra: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Emerald Rite",
+        "Ícone": "![Emerald Rite](https://ffxiv.gamerescape.com/w/images/thumb/8/8a/Emerald_Rite_Icon.png/60px-Emerald_Rite_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 230.Custo de Sintonia de Vento: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Tri-disaster",
+        "Ícone": "![Tri-disaster](https://ffxiv.gamerescape.com/w/images/thumb/8/84/Tri-disaster_Icon.png/60px-Tri-disaster_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 120 no alvo e em todos os inimigos pr\u00f3ximos."
+    },
+    {
+        "Nome": "Ruby Disaster",
+        "Ícone": "![Ruby Disaster](https://ffxiv.gamerescape.com/w/images/thumb/f/f8/Ruby_Disaster_Icon.png/60px-Ruby_Disaster_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 170 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Custo de Sintonia de Fogo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Topaz Disaster",
+        "Ícone": "![Topaz Disaster](https://ffxiv.gamerescape.com/w/images/thumb/5/5d/Topaz_Disaster_Icon.png/60px-Topaz_Disaster_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 130 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Custo de Sintonia de Terra: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Emerald Disaster",
+        "Ícone": "![Emerald Disaster](https://ffxiv.gamerescape.com/w/images/thumb/f/fb/Emerald_Disaster_Icon.png/60px-Emerald_Disaster_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 90 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Custo de Sintonia de Vento: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Fountain of Fire",
+        "Ícone": "![Fountain of Fire](https://ffxiv.gamerescape.com/w/images/thumb/9/90/Fountain_of_Fire_Icon.png/60px-Fountain_of_Fire_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 540. S\u00f3 pode ser executado enquanto estiver sob o efeito de Firebird Trance.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es N\u00edvel de aprendizado alterado de 72 para 80. Pot\u00eancia alterada de 250 para 540. Exclu\u00eddo &quot;Efeito Adicional: Condu\u00edte Infernal Dura\u00e7\u00e3o: 10s.&quot; Custo de MP alterado de 400 para 300."
+    },
+    {
+        "Nome": "Brand of Purgatory",
+        "Ícone": "![Brand of Purgatory](https://ffxiv.gamerescape.com/w/images/thumb/9/95/Brand_of_Purgatory_Icon.png/60px-Brand_of_Purgatory_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 240 ao alvo e a todos os inimigos pr\u00f3ximos a ele. S\u00f3 pode ser executado enquanto estiver sob o efeito do Firebird Trance.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es N\u00edvel de aprendizado alterado de 72 para 80. Pot\u00eancia alterada de 350 para 240. Exclu\u00eddo &quot;50% menos pot\u00eancia para todos os inimigos restantes.&quot; Mudado &quot;S\u00f3 pode ser executado sob os efeitos de Firebird Trance e Hellish Conduit.&quot; para &quot;S\u00f3 pode ser executado sob o efeito de Firebird Trance.&quot; Adicionado custo de MP."
+    },
+    {
+        "Nome": "Summon Phoenix",
+        "Ícone": "![Summon Phoenix](https://ffxiv.gamerescape.com/w/images/thumb/d/d9/Summon_Phoenix_Icon.png/60px-Summon_Phoenix_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entra em Firebird Trance e invoca Demi-Phoenix para lutar ao seu lado, que executa Everlasting Flight como se manifesta. Demi-Phoenix ir\u00e1 executar Scarlet Flame automaticamente nos alvos atacados por voc\u00ea ap\u00f3s a convoca\u00e7\u00e3o. Aumenta a inimizade no alvo quando Demi-Phoenix \u00e9 convocado. Dura\u00e7\u00e3o: 15sEfeito Adicional: Muda Ru\u00edna III para Fonte de Fogo e Tri-desastre para Marca do Purgat\u00f3rioEfeito Adicional: Concede Arcano Rubi, Arcano Top\u00e1zio e Arcano Esmeralda S\u00f3 pode ser executado em combate e enquanto Carb\u00fanculo \u00e9 invocado."
+    },
+    {
+        "Nome": "Everlasting Flight",
+        "Ícone": "![Everlasting Flight](https://ffxiv.gamerescape.com/w/images/thumb/5/58/Everlasting_Flight_Icon.png/60px-Everlasting_Flight_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "-",
+        "Custo em MP": "-",
+        "Efeito": "Gradualmente restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de cura: 100Dura\u00e7\u00e3o: 21s\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Rekindle",
+        "Ícone": "![Rekindle](https://ffxiv.gamerescape.com/w/images/thumb/9/9a/Rekindle_Icon.png/60px-Rekindle_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Restaura o HP pr\u00f3prio ou do membro do grupo alvo. Pot\u00eancia de Cura: 400Efeito Adicional: Concede Reacender ao alvo Dura\u00e7\u00e3o: 30sEfeito Reacender: Cura ao longo do tempo quando o HP cai abaixo de 75% ou ap\u00f3s a expira\u00e7\u00e3o da dura\u00e7\u00e3o do efeito Pot\u00eancia de cura: 200Dura\u00e7\u00e3o: 15sPode ser executado apenas enquanto estiver em Firebird Trance.\u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Scarlet Flame",
+        "Ícone": "![Scarlet Flame](https://ffxiv.gamerescape.com/w/images/thumb/7/70/Scarlet_Flame_Icon.png/60px-Scarlet_Flame_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 150. S\u00f3 ser\u00e1 executado enquanto a Demi-Phoenix estiver invocada. \u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. O intervalo de revis\u00f5es foi alterado de 100 para 50."
+    },
+    {
+        "Nome": "Enkindle Phoenix",
+        "Ícone": "![Enkindle Phoenix](https://ffxiv.gamerescape.com/w/images/thumb/0/04/Enkindle_Phoenix_Icon.png/60px-Enkindle_Phoenix_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Ordena Demi-Phoenix para executar Revelation.Revelation Effect: Causa dano de fogo ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 1.300 para o primeiro inimigo e 60% menos para todos os inimigos restantesA\u00e7\u00e3o substitui Enkindle Bahamut enquanto Demi-Phoenix \u00e9 convocado.\u203b Esta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es Pot\u00eancia alterada de 650 para 1.300. A taxa de pot\u00eancia ao atacar inimigos restantes mudou de 50% para 60%. Exclu\u00eddo &quot;Compartilha um tempo de relan\u00e7amento com EnkindleBahamut.&quot; O tempo de relan\u00e7amento mudou de 10s para 20s."
+    },
+    {
+        "Nome": "Revelation",
+        "Ícone": "!Revelation](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Revelation_Icon.png/60px-Revelation_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "-",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de fogo ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 1.300 para o primeiro inimigo e 60% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto a Demi-Phoenix estiver invocada.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra quente. O alcance das revis\u00f5es mudou de 100 para 50. A pot\u00eancia mudou de 650 para 1300. A taxa de pot\u00eancia ao atacar os inimigos restantes mudou de 50% para 60%."
+    },
+    {
+        "Nome": "Ruby Catastrophe",
+        "Ícone": "![Ruby Catastrophe](https://ffxiv.gamerescape.com/w/images/thumb/3/30/Ruby_Catastrophe_Icon.png/60px-Ruby_Catastrophe_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "2.8s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 180 ao alvo e a todos os inimigos pr\u00f3ximos a ele. Custo de Sintonia de Fogo: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Topaz Catastrophe",
+        "Ícone": "![Topaz Catastrophe](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Topaz_Catastrophe_Icon.png/60px-Topaz_Catastrophe_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 140 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Concede Favor do Tit\u00e3 O efeito do Favor do Tit\u00e3 termina ap\u00f3s a execu\u00e7\u00e3o de certas a\u00e7\u00f5es do invocador.Custo de Sintonia da Terra: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Emerald Catastrophe",
+        "Ícone": "![Emerald Catastrophe](https://ffxiv.gamerescape.com/w/images/thumb/d/d1/Emerald_Catastrophe_Icon.png/60px-Emerald_Catastrophe_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 100 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Custo de Sintonia de Vento: 1\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Crimson Cyclone",
+        "Ícone": "![Crimson Cyclone](https://ffxiv.gamerescape.com/w/images/thumb/a/ad/Crimson_Cyclone_Icon.png/60px-Crimson_Cyclone_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Avan\u00e7a e desfere um ataque de fogo no alvo e em todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 430 para o primeiro inimigo e 65% menos para todos os inimigos restantes. S\u00f3 pode ser executado sob o efeito de Ifrit&#39;s Favor. N\u00e3o pode ser executado enquanto vinculado .\u203bA a\u00e7\u00e3o muda para Crimson Strike ap\u00f3s a execu\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Crimson Strike",
+        "Ícone": "![Crimson Strike](https://ffxiv.gamerescape.com/w/images/thumb/7/79/Crimson_Strike_Icon.png/60px-Crimson_Strike_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de fogo ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 430 para o primeiro inimigo e 65% a menos para todos os inimigos restantes.A\u00e7\u00e3o de Combo: Ciclone Carmesim\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Mountain Buster",
+        "Ícone": "![Mountain Buster](https://ffxiv.gamerescape.com/w/images/thumb/8/8a/Mountain_Buster_%28Summoner%29_Icon.png/60px-Mountain_Buster_%28Summoner%29_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de terra ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 150 para o primeiro inimigo e 70% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto estiver sob o efeito de Titan&#39;s Favor.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar ."
+    },
+    {
+        "Nome": "Slipstream",
+        "Ícone": "![Slipstream](https://ffxiv.gamerescape.com/w/images/thumb/e/ef/Slipstream_Icon.png/60px-Slipstream_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "3s",
+        "Recarga": "3.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de vento ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 430 para o primeiro inimigo e 65% a menos para todos os inimigos restantes.Efeito Adicional: Cria uma tempestade de vento centrada em torno do alvo, causando dano a qualquer inimigo que entrar Pot\u00eancia: 30Dura\u00e7\u00e3o: 15sS\u00f3 pode ser executado sob o efeito de Garuda&#39;s Favor.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Summon Ifrit II",
+        "Ícone": "![Summon Ifrit II](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/Summon_Ifrit_II_Icon.png/60px-Summon_Ifrit_II_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Ruby Ifrit e ordena que execute Inferno.Inferno Effect: Causa dano de fogo ao alvo e a todos os inimigos dentro de 5 yalms com uma pot\u00eancia de 700 para o primeiro inimigo e 60% a menos para todos os inimigos restantesEfeito Adicional: Concede 2 pilhas de Fire AttunementDuration : 30sFire Attunement Efeito: Gemshine e Precious Brilliance tornam-se com aspecto de fogoEfeito Adicional: Concede o Favor de Ifrit O efeito do Favor de Ifrit termina ap\u00f3s a execu\u00e7\u00e3o de certas a\u00e7\u00f5es de invocador. S\u00f3 pode ser executado sob o efeito de Ruby Arcanum e Carbuncle \u00e9 invocado."
+    },
+    {
+        "Nome": "Summon Titan II",
+        "Ícone": "![Summon Titan II](https://ffxiv.gamerescape.com/w/images/thumb/3/3a/Summon_Titan_II_Icon.png/60px-Summon_Titan_II_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Topaz Titan e ordena que ele execute Earthen Fury.Earthen Fury Effect: Causa dano de terra ao alvo e a todos os inimigos dentro de 5 yalms com uma pot\u00eancia de 700 para o primeiro inimigo e 60% menos para todos os inimigos restantesEfeito adicional: Concede 4 pilhas de Earth Attunement Dura\u00e7\u00e3o: 30sEarth Attunement Efeito: Gemshine e Precious Brilliance tornam-se com aspecto de terra S\u00f3 pode ser executado sob o efeito de Topaz Arcanum e Carbuncle \u00e9 invocado."
+    },
+    {
+        "Nome": "Summon Garuda II",
+        "Ícone": "![Summon Garuda II](https://ffxiv.gamerescape.com/w/images/thumb/b/b7/Summon_Garuda_II_Icon.png/60px-Summon_Garuda_II_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Invoca Garuda Esmeralda e ordena que ele execute Aerial Blast.Aerial Blast Effect: Causa dano de vento ao alvo e a todos os inimigos dentro de 5 yalms com uma pot\u00eancia de 700 para o primeiro inimigo e 60% menos para todos os inimigos restantesEfeito adicional: Concede 4 pilhas de Wind Attunement Dura\u00e7\u00e3o: 30s Wind Attunement Efeito: Gemshine e Precious Brilliance tornam-se com aspecto de vento Efeito Adicional: Concede Garuda&#39;s FavorEfeito de Garuda&#39;s Favor termina ap\u00f3s a execu\u00e7\u00e3o de certas a\u00e7\u00f5es de invocador."
+    }
+]

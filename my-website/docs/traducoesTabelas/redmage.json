@@ -1,0 +1,344 @@
+[
+    {
+        "Nome": "Riposte",
+        "Ícone": "![Riposte](https://ffxiv.gamerescape.com/w/images/thumb/1/18/Riposte_Icon.png/60px-Riposte_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 130. A\u00e7\u00e3o atualizada para Enchanted Riposte se ambos os Mana Preto e Branco estiverem em 20 ou mais. Revis\u00f5es Alterado o custo do medidor de Mana Preto e Branco de 30 para 20."
+    },
+
+    {
+        "Nome": "Enchanted Riposte",
+        "Ícone": "![Enchanted Riposte](https://ffxiv.gamerescape.com/w/images/thumb/5/5b/Enchanted_Riposte_Icon.png/60px-Enchanted_Riposte_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 220.Efeito Adicional: Concede Mana StackBalance Gauge Custo: 20 Black ManaBalance Gauge Custo: 20 White Mana\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es adicionadas &quot;Efeito Adicional: Concede uma Pilha de Mana.&quot;Alterado o custo do Medidor de Equil\u00edbrio de Mana Preto e Branco de 30 para 20."
+    },
+
+    {
+        "Nome": "Jolt",
+        "Ícone": "![Jolt](https://ffxiv.gamerescape.com/w/images/thumb/5/59/Jolt_Icon.png/60px-Jolt_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "200 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 170.Efeito Adicional: Aumenta a Mana Negra e a Mana Branca em 2 Revis\u00f5es Pot\u00eancia alterada de 180 para 170.As quantidades de aumento de Mana preta e branca foram alteradas de 3 para 2."
+    },
+    {
+        "Nome": "Verthunder",
+        "Ícone": "![Verthunder](https://ffxiv.gamerescape.com/w/images/thumb/6/60/Verthunder_Icon.png/60px-Verthunder_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 360.Efeito Adicional: Aumenta a Mana Negra em 6Efeito Adicional: 50% de chance de se tornar Verfire ReadyDura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 370 para 360. Quantidade de aumento de Mana Negra alterada de 11 para 6."
+    },
+    {
+        "Nome": "Corps-a-corps",
+        "Ícone": "![Corps-a-corps](https://ffxiv.gamerescape.com/w/images/thumb/f/fb/Corps-a-corps_Icon.png/60px-Corps-a-corps_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "35s",
+        "Custo em MP": "-",
+        "Efeito": "Apressa o alvo e desfere um ataque com uma pot\u00eancia de 130.Cargas M\u00e1ximas: 2N\u00e3o pode ser executado enquanto estiver preso. Revis\u00f5es Adicionadas &quot;Cargas M\u00e1ximas: 2&quot;. O tempo de relan\u00e7amento mudou de 40s para 35s."
+    },
+    {
+        "Nome": "Veraero",
+        "Ícone": "![Veraero](https://ffxiv.gamerescape.com/w/images/thumb/a/ad/Veraero_Icon.png/60px-Veraero_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 360.Efeito Adicional: Aumenta a Mana Branca em 6Efeito Adicional: 50% de chance de se tornar Verstone Ready"
+    },
+    {
+        "Nome": "Scatter",
+        "Ícone": "![Scatter](https://ffxiv.gamerescape.com/w/images/thumb/5/51/Scatter_Icon.png/60px-Scatter_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 120 ao alvo e a todos os inimigos pr\u00f3ximos a ele. Pot\u00eancia de Acelera\u00e7\u00e3o: 170 Efeito Adicional: Aumenta tanto a Mana Negra quanto a Mana Branca em 3 Revis\u00f5es Adicionado &quot;Pot\u00eancia de Acelera\u00e7\u00e3o: 170&quot;."
+    },
+    {
+        "Nome": "Verthunder II",
+        "Ícone": "![Verthunder II](https://ffxiv.gamerescape.com/w/images/thumb/3/3d/Verthunder_II_Icon.png/60px-Verthunder_II_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 140 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Aumenta a Mana Negra em 7 Revis\u00f5es Pot\u00eancia alterada de 120 para 140."
+    },
+    {
+        "Nome": "Veraero II",
+        "Ícone": "![Veraero II](https://ffxiv.gamerescape.com/w/images/thumb/4/42/Veraero_II_Icon.png/60px-Veraero_II_Icon.png)",
+        "Adquirido": "Lv. 22",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 140 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Efeito Adicional: Aumenta a Mana Branca em 7 Revis\u00f5es Pot\u00eancia alterada de 120 para 140."
+    },
+    {
+        "Nome": "Verfire",
+        "Ícone": "![Verfire](https://ffxiv.gamerescape.com/w/images/thumb/5/5c/Verfire_Icon.png/60px-Verfire_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "200 MP",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 330.Efeito Adicional: Aumenta a Mana Negra em 5 S\u00f3 pode ser executado enquanto Verfire Ready estiver ativo. A pot\u00eancia das revis\u00f5es foi alterada de 310 para 330. A quantidade de aumento de Mana Negra foi alterada de 9 para 5."
+    },
+    {
+        "Nome": "Verstone",
+        "Ícone": "![Verstone](https://ffxiv.gamerescape.com/w/images/thumb/c/c4/Verstone_Icon.png/60px-Verstone_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "200 MP",
+        "Efeito": "Causa dano de terra com uma pot\u00eancia de 330.Efeito Adicional: Aumenta em 5 a Mana Branca S\u00f3 pode ser executado enquanto Verstone Ready estiver ativo. A pot\u00eancia das revis\u00f5es foi alterada de 310 para 330. A quantidade de aumento de mana branca foi alterada de 9 para 5."
+    },
+    {
+        "Nome": "Zwerchhau",
+        "Ícone": "![Zwerchhau](https://ffxiv.gamerescape.com/w/images/thumb/8/8c/Zwerchhau_Icon.png/60px-Zwerchhau_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o Combo: Ripostar ou Riposta Encantada Pot\u00eancia Combo: 150 A\u00e7\u00e3o atualizada para Zwerchhau Encantado se ambos Mana Preto e Mana Branco estiverem em 15 ou mais. Revis\u00f5es Alterado o custo do medidor de Mana Preto e Branco de 25 para 15."
+    },
+
+    {
+        "Nome": "Enchanted Zwerchhau",
+        "Ícone": "![Enchanted Zwerchhau](https://ffxiv.gamerescape.com/w/images/thumb/d/dd/Enchanted_Zwerchhau_Icon.png/60px-Enchanted_Zwerchhau_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100. A\u00e7\u00e3o de Combo: Ripostar ou Riposta Encantada Pot\u00eancia de Combo: 290 Efeito Adicional: Concede Mana StackBalance Gauge Custo: 15 Black ManaBalance Gauge Cost: 15 White Mana\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es adicionadas &quot;Efeito Adicional: Concede uma Pilha de Mana.&quot;Alterado o custo do Medidor de Equil\u00edbrio de Mana Preto e Branco de 25 para 15."
+    },
+
+    {
+        "Nome": "Displacement",
+        "Ícone": "![Displacement](https://ffxiv.gamerescape.com/w/images/thumb/c/cd/Displacement_Icon.png/60px-Displacement_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "35s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 180.Efeito Adicional: 15 yalm backstepCargas M\u00e1ximas: 2N\u00e3o pode ser executado enquanto vinculado.Compartilhe um temporizador de Recarga com Engagement. A pot\u00eancia das revis\u00f5es foi alterada de 200 para 180. Adicionado &quot;Cargas M\u00e1ximas: 2&quot;."
+    },
+    {
+        "Nome": "Engagement",
+        "Ícone": "![Engagement](https://ffxiv.gamerescape.com/w/images/thumb/5/59/Engagement_Icon.png/60px-Engagement_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "35s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 180. Cargas M\u00e1ximas: 2 Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com Deslocamento. Revis\u00f5es N\u00edvel de aprendizado alterado de 72 para 40. Pot\u00eancia alterada de 150 para 180. Adicionado &quot;Cargas m\u00e1ximas: 2&quot;."
+    },
+    {
+        "Nome": "Fleche",
+        "Ícone": "![Fleche](https://ffxiv.gamerescape.com/w/images/thumb/8/8e/Fleche_Icon.png/60px-Fleche_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "25s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 460. Revis\u00f5es Pot\u00eancia alterada de 440 para 460."
+    },
+    {
+        "Nome": "Redoublement",
+        "Ícone": "![Redoublement](https://ffxiv.gamerescape.com/w/images/thumb/f/f6/Redoublement_Icon.png/60px-Redoublement_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de Combo: Zwerchhau ou Zwerchhau Encantado Pot\u00eancia de Combo: 230 A\u00e7\u00e3o aprimorada para Redobramento Encantado se ambos Mana Preto e Mana Branco estiverem em 15 ou mais. Revis\u00f5es Alterado o custo do medidor de Mana Preto e Branco de 25 para 15."
+    },
+
+    {
+        "Nome": "Enchanted Redoublement",
+        "Ícone": "![Enchanted Redoublement](https://ffxiv.gamerescape.com/w/images/thumb/f/fc/Enchanted_Redoublement_Icon.png/60px-Enchanted_Redoublement_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "2.2s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100. A\u00e7\u00e3o de Combo: Zwerchhau Encantado Pot\u00eancia de Combo: 470 Efeito Adicional: Concede um Mana StackBalance Gauge Custo: 15 Black ManaBalance Gauge Cost: 15 White Mana\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es adicionadas &quot;Efeito Adicional: Concede uma Pilha de Mana.&quot;Alterado o custo do Medidor de Equil\u00edbrio de Mana Preto e Branco de 25 para 15."
+    },
+
+    {
+        "Nome": "Acceleration",
+        "Ícone": "![Acceleration](https://ffxiv.gamerescape.com/w/images/thumb/3/35/Acceleration_Icon.png/60px-Acceleration_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "55s",
+        "Custo em MP": "-",
+        "Efeito": "Garante que o pr\u00f3ximo Verthunder III, Veraero III ou Impacto possa ser lan\u00e7ado imediatamente. Dura\u00e7\u00e3o: 20sEfeito Adicional: Aumenta a pot\u00eancia do Impacto em 50s Efeito Adicional: Garante que Verthunder III e Veraero III acionem Verfire Ready ou Verstone Ready respectivamenteCargas M\u00e1ximas: 2 Revis\u00f5es Atualizado os efeitos .Adicionado &quot;Carga m\u00e1xima: 2.&quot;"
+    },
+    {
+        "Nome": "Moulinet",
+        "Ícone": "![Moulinet](https://ffxiv.gamerescape.com/w/images/thumb/5/59/Moulinet_Icon.png/60px-Moulinet_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 60 a todos os inimigos em um cone antes de voc\u00ea. A\u00e7\u00e3o atualizada para Enchanted Moulinet se ambos Black Mana e White Mana estiverem em 20 ou mais."
+    },
+
+    {
+        "Nome": "Enchanted Moulinet",
+        "Ícone": "![Enchanted Moulinet](https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Enchanted_Moulinet_Icon.png/60px-Enchanted_Moulinet_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 130 a todos os inimigos em um cone antes de voc\u00ea.Efeito Adicional: Concede Mana StackBalance Gauge Custo: 20 Black ManaBalance Gauge Custo: 20 White Mana\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es adicionadas &quot;Efeito adicional: concede uma pilha de mana&quot;."
+    },
+
+    {
+        "Nome": "Vercure",
+        "Ícone": "![Vercure](https://ffxiv.gamerescape.com/w/images/thumb/7/79/Vercure_Icon.png/60px-Vercure_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "500 MP",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 350"
+    },
+    {
+        "Nome": "Contre Sixte",
+        "Ícone": "![Contre Sixte](https://ffxiv.gamerescape.com/w/images/thumb/f/fb/Contre_Sixte_Icon.png/60px-Contre_Sixte_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "35s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque com pot\u00eancia de 360 ao alvo e a todos os inimigos pr\u00f3ximos. A pot\u00eancia das revis\u00f5es foi alterada de 400 para 360."
+    },
+    {
+        "Nome": "Embolden",
+        "Ícone": "![Embolden](https://ffxiv.gamerescape.com/w/images/thumb/3/3e/Embolden_Icon.png/60px-Embolden_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta em 5% o pr\u00f3prio dano m\u00e1gico causado e em 5% o dano causado por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 20s Revis\u00f5es Exclu\u00eddas &quot;A pot\u00eancia do efeito diminui em 20% a cada 4s&quot;."
+    },
+    {
+        "Nome": "Manafication",
+        "Ícone": "![Manafication](https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Manafication_Icon.png/60px-Manafication_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "110s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta tanto a Mana Negra quanto a Mana Branca em 50.Efeito Adicional: Concede 6 stacks de ManaficationEfeito de Manafication: Aumenta o dano m\u00e1gico causado em 5%Dura\u00e7\u00e3o: 15sTodos os combos s\u00e3o cancelados ap\u00f3s a execu\u00e7\u00e3o de Manafication.S\u00f3 pode ser executado em combate. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Jolt II",
+        "Ícone": "![Jolt II](https://ffxiv.gamerescape.com/w/images/thumb/5/5d/Jolt_II_Icon.png/60px-Jolt_II_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "Custo em MP": "200 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 310.Efeito Adicional: Aumenta a Mana Negra e a Mana Branca em 2 Revis\u00f5es Pot\u00eancia alterada de 290 para 310.As quantidades de aumento de Mana Negra e Mana Branca foram alteradas de 3 para 2."
+    },
+    {
+        "Nome": "Verraise",
+        "Ícone": "![Verraise](https://ffxiv.gamerescape.com/w/images/thumb/5/5a/Verraise_Icon.png/60px-Verraise_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "10s",
+        "Recarga": "2.5s",
+        "Custo em MP": "2400 MP",
+        "Efeito": "Ressuscita o alvo para um estado enfraquecido."
+    },
+    {
+        "Nome": "Impact",
+        "Ícone": "![Impact](https://ffxiv.gamerescape.com/w/images/thumb/1/1e/Impact_Icon.png/60px-Impact_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 210 ao alvo e a todos os inimigos pr\u00f3ximos a ele. Pot\u00eancia de Acelera\u00e7\u00e3o: 260 Efeito Adicional: Aumenta tanto a Mana Negra quanto a Mana Branca em 3 Revis\u00f5es Pot\u00eancia alterada de 220 para 210. Adicionado &quot;Pot\u00eancia de Acelera\u00e7\u00e3o: 260&quot;."
+    },
+    {
+        "Nome": "Verflare",
+        "Ícone": "![Verflare](https://ffxiv.gamerescape.com/w/images/thumb/3/3f/Verflare_Icon.png/60px-Verflare_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano de fogo ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 580 para o primeiro inimigo e 60% a menos para todos os inimigos restantes.Efeito Adicional: Aumenta a Mana Negra em 11 Efeito Adicional: 20% de chance de se tornar Verfire ReadyDura\u00e7\u00e3o: 30sChance de se tornar Verfire Ready aumenta para 100% se White Mana for maior que Black Mana no momento da execu\u00e7\u00e3o. Custo de Mana Stack: 3\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Verholy",
+        "Ícone": "![Verholy](https://ffxiv.gamerescape.com/w/images/thumb/e/ed/Verholy_Icon.png/60px-Verholy_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 580 para o primeiro inimigo e 60% a menos para todos os inimigos restantes.Efeito Adicional: Aumenta a Mana Branca em 11Efeito Adicional: 20% de chance de se tornar Verstone ReadyDura\u00e7\u00e3o: 30sChance de se tornar Verstone Ready aumenta para 100% se Black Mana for maior que White Mana no momento da execu\u00e7\u00e3o. Custo de Mana Stack: 3\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Reprise",
+        "Ícone": "![Reprise](https://ffxiv.gamerescape.com/w/images/thumb/2/23/Reprise_Icon.png/60px-Reprise_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Executa um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o aprimorada para Reprise Encantada se Mana Negra e Mana Branca estiverem em 5 ou mais."
+    },
+
+    {
+        "Nome": "Enchanted Reprise",
+        "Ícone": "![Enchanted Reprise](https://ffxiv.gamerescape.com/w/images/thumb/4/45/Enchanted_Reprise_Icon.png/60px-Enchanted_Reprise_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 330. Custo do Medidor de Equil\u00edbrio: 5 Mana Preto Custo do Medidor de Equil\u00edbrio: 5 Mana Branco\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. A pot\u00eancia das revis\u00f5es mudou de 300 para 330. O tempo de reformula\u00e7\u00e3o mudou de 2,2s para 2,5s."
+    },
+    {
+        "Nome": "Scorch",
+        "Ícone": "![Scorch](https://ffxiv.gamerescape.com/w/images/thumb/e/e6/Scorch_Icon.png/60px-Scorch_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 680 para o primeiro inimigo e 60% a menos para todos os inimigos restantes.A\u00e7\u00e3o de combina\u00e7\u00e3o: Verflare ou VerholyEfeito adicional: Aumenta Mana Negra e Mana Branca em 4Jolt II e Impacto s\u00e3o alterado para Queimar ao aterrissar Verflare ou Verholy como uma a\u00e7\u00e3o de combina\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Verthunder III",
+        "Ícone": "![Verthunder III](https://ffxiv.gamerescape.com/w/images/thumb/1/19/Verthunder_III_Icon.png/60px-Verthunder_III_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 380.Efeito Adicional: Aumenta a Mana Negra em 6Efeito Adicional: 50% de chance de se tornar Verfire ReadyDura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Veraero III",
+        "Ícone": "![Veraero III](https://ffxiv.consolegameswiki.com/mediawiki/images/f/f4/Veraero_III.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "5s",
+        "Recarga": "2.5s",
+        "Custo em MP": "300 MP",
+        "Efeito": "Causa dano de vento com uma pot\u00eancia de 380.Efeito Adicional: Aumenta a Mana Branca em 6Efeito Adicional: 50% de chance de se tornar Verstone ReadyDura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Magick Barrier",
+        "Ícone": "![Magick Barrier](https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Magick_Barrier_Icon.png/60px-Magick_Barrier_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o dano m\u00e1gico recebido por si mesmo e por membros pr\u00f3ximos em 10%, enquanto aumenta o HP recuperado por a\u00e7\u00f5es de cura em 5%.Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Resolution",
+        "Ícone": "![Resolution](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/Resolution_Icon.png/60px-Resolution_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "400 MP",
+        "Efeito": "Causa dano inesperado a todos os inimigos em uma linha reta \u00e0 sua frente com uma pot\u00eancia de 750 para o primeiro inimigo e 60% menos para todos os inimigos restantes.A\u00e7\u00e3o de combina\u00e7\u00e3o: QueimaEfeito adicional: Aumenta a Mana Negra e a Mana Branca em 4Chamuscar \u00e9 alterada para Resolu\u00e7\u00e3o ao desembarcar Scorch como uma a\u00e7\u00e3o de combina\u00e7\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    }
+]

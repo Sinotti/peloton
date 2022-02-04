@@ -1,0 +1,363 @@
+[
+    {
+        "Nome": "Spinning Edge",
+        "Ícone": "![Spinning Edge](https://ffxiv.gamerescape.com/w/images/thumb/3/39/Spinning_Edge_Icon.png/60px-Spinning_Edge_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 210.Efeito Adicional: Aumenta o Ninki Gauge em 5 Revis\u00f5es Pot\u00eancia alterada de 230 para 210."
+    },
+    {
+        "Nome": "Shade Shift",
+        "Ícone": "![Shade Shift](https://ffxiv.gamerescape.com/w/images/thumb/2/2f/Shade_Shift_Icon.png/60px-Shade_Shift_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Crie sombras que anulam o dano em at\u00e9 20% do HP m\u00e1ximo. Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Gust Slash",
+        "Ícone": "![Gust Slash](https://ffxiv.gamerescape.com/w/images/thumb/1/1a/Gust_Slash_Icon.png/60px-Gust_Slash_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 160.A\u00e7\u00e3o de combina\u00e7\u00e3o: Spinning EdgeCombo Potency: 320Combo Bonus: Aumenta Ninki Gauge em 5 Revisions Potency alterada de 100 para 160.Combopotency alterada de 340 para 320."
+    },
+    {
+        "Nome": "Hide",
+        "Ícone": "![Hide](https://ffxiv.gamerescape.com/w/images/thumb/8/8c/Hide_Icon.png/60px-Hide_Icon.png)",
+        "Adquirido": "Lv. 10",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Misture-se com o ambiente, tornando imposs\u00edvel para a maioria dos inimigos detect\u00e1-lo, mas reduzindo a velocidade de movimento em 50%. N\u00e3o tem efeito em inimigos 10 n\u00edveis acima do seu, ou certos inimigos com vis\u00e3o especial.Efeito Adicional: Restaura 2 cargas em todos os mudraN\u00e3o pode ser executado em combate.O efeito termina com o uso de qualquer a\u00e7\u00e3o que n\u00e3o seja Sprint, ou com a reutiliza\u00e7\u00e3o de Hide ."
+    },
+    {
+        "Nome": "Throwing Dagger",
+        "Ícone": "![Throwing Dagger](https://ffxiv.gamerescape.com/w/images/thumb/f/fd/Throwing_Dagger_Icon.png/60px-Throwing_Dagger_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 120.Efeito Adicional: Aumenta o Ninki Gauge em 5 Revis\u00f5es Alcance alterado de 15 para 20."
+    },
+    {
+        "Nome": "Mug",
+        "Ícone": "![Mug](https://ffxiv.gamerescape.com/w/images/thumb/4/4f/Mug_Icon.png/60px-Mug_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 150.Efeito Adicional: Aumenta a chance de itens adicionais serem derrubados pelo alvo se a Caneca for dada antes, ou como, o golpe final Efeito Adicional: Aumenta o Ninki Gauge em 40"
+    },
+    {
+        "Nome": "Trick Attack",
+        "Ícone": "![Trick Attack](https://ffxiv.gamerescape.com/w/images/thumb/a/a9/Trick_Attack_Icon.png/60px-Trick_Attack_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 300.400 quando executado pela retaguarda de um alvo.Efeito Adicional: Aumenta em 5% o dano recebido pelo alvo. Pot\u00eancia de revis\u00f5es alterada de 350 para 300. Pot\u00eancia de ataque traseiro alterada de 500 para 400."
+    },
+    {
+        "Nome": "Aeolian Edge",
+        "Ícone": "![Aeolian Edge](https://ffxiv.gamerescape.com/w/images/thumb/c/c1/Aeolian_Edge_Icon.png/60px-Aeolian_Edge_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 140.200 quando executado pela retaguarda de um alvo.Combo Action: Gust SlashCombo Potency: 360Rear Combo Potency: 420Combo Bonus: Aumenta o Ninki Gauge em 15 Revisions Potency alterada de 100 para 140.Rear attackpotency alterada de 160 para 200 .A pot\u00eancia do combo mudou de 420 para 360.A pot\u00eancia do ataque traseiro durante o combo mudou de 480 para 420.A quantidade de aumento de Ninki mudou de 10 para 15."
+    },
+    {
+        "Nome": "Ten",
+        "Ícone": "![Ten](https://ffxiv.gamerescape.com/w/images/thumb/2/23/Ten_Icon.png/60px-Ten_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Fa\u00e7a o gesto ritual com a m\u00e3o mudra para &quot;c\u00e9u&quot;."
+    },
+    {
+        "Nome": "Ninjutsu",
+        "Ícone": "![Ninjutsu](https://ffxiv.gamerescape.com/w/images/thumb/8/87/Ninjutsu_Icon.png/60px-Ninjutsu_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Executa uma a\u00e7\u00e3o espec\u00edfica de ninjutsu coincidindo com a combina\u00e7\u00e3o de mudra feita imediatamente antes. Se qualquer outra a\u00e7\u00e3o for usada antes que o mudra seja combinado e o ninjutsu executado, o ninjutsu falhar\u00e1. a execu\u00e7\u00e3o de skillskills aciona o cooldown desta a\u00e7\u00e3o."
+    
+    
+    },
+
+    {
+        "Nome": "Fuma Shuriken",
+        "Ícone": "![Fuma Shuriken](https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Fuma_Shuriken_Icon.png/60px-Fuma_Shuriken_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Oferece um ataque de ninjutsu à distância com uma potência de 450. Combinação de Mudra: Qualquer um dos dez,  Chi ou Jin mudra. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    
+    
+    },
+
+    {
+        "Nome": "Chi",
+        "Ícone": "![Chi](https://ffxiv.gamerescape.com/w/images/thumb/e/e6/Chi_Icon.png/60px-Chi_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Fa\u00e7a o gesto ritual com a m\u00e3o mudra para &quot;terra&quot;."
+    },
+
+    {
+        "Nome": "Katon",
+        "Ícone": "![Katon](https://ffxiv.gamerescape.com/w/images/thumb/e/e6/Chi_Icon.png/60px-Chi_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de fogo com uma potência de 350 no alvo e todos os próximos inimigos. Combinação de Mudra: Chi → Dez ou Jin → Dez Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Death Blossom",
+        "Ícone": "![Death Blossom](https://ffxiv.gamerescape.com/w/images/thumb/8/8f/Death_Blossom_Icon.png/60px-Death_Blossom_Icon.png)",
+        "Adquirido": "Lv. 38",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Aumenta o Ninki Gauge em 5 Revis\u00f5es Pot\u00eancia alterada de 120 para 100."
+    },
+    {
+        "Nome": "Assassinate",
+        "Ícone": "![Assassinate](https://ffxiv.gamerescape.com/w/images/thumb/0/05/Assassinate_Icon.png/60px-Assassinate_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Executa um ataque com uma pot\u00eancia de 200. Revis\u00f5es N\u00edvel de aprendizado alterado de 60 para 40.Exclu\u00eddo &quot;Faz um acerto cr\u00edtico direto com uma pot\u00eancia de 200. S\u00f3 pode ser executado quando Assassinate Ready.&quot;"
+    },
+
+    {
+        "Nome": "Raiton",
+        "Ícone": "![Raiton](https://ffxiv.gamerescape.com/w/images/thumb/b/ba/Raiton_Icon.png/60px-Raiton_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de raio com uma potência de 650. Efeito Adicional: Concede uma pilha de Raiju Ready. Duração: 30s. Pilhas máximas: 3. Combinação de Mudra: Dez → Chi ou Jin → Chi. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+
+    {
+        "Nome": "Shukuchi",
+        "Ícone": "![Shukuchi](https://ffxiv.gamerescape.com/w/images/thumb/8/8a/Shukuchi_Icon.png/60px-Shukuchi_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Mova-se rapidamente para o local especificado. Encargos M\u00e1ximos: 2N\u00e3o pode ser executado enquanto estiver vinculado."
+    },
+    {
+        "Nome": "Jin",
+        "Ícone": "![Jin](https://ffxiv.gamerescape.com/w/images/thumb/e/e4/Jin_Icon.png/60px-Jin_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "20s",
+        "Custo em MP": "-",
+        "Efeito": "Fa\u00e7a o gesto ritual de mudra com a m\u00e3o para &quot;homem&quot;."
+    },
+
+    {
+        "Nome": "Hyoton",
+        "Ícone": "![Hyoton](https://ffxiv.gamerescape.com/w/images/thumb/1/1d/Hyoton_Icon.png/60px-Hyoton_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de gelo com uma potência de 350. Efeito Adicional: Ligar. Duração: 15s. Combinação de Mudra: Dez → Jin ou Chi → Jin. Cancela o ataque automático na execução. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Huton",
+        "Ícone": "![Huton](https://ffxiv.gamerescape.com/w/images/thumb/3/32/Huton_Icon.png/60px-Huton_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o tempo de relançamento de armas e o atraso de ataque automático em 15%. Duração: 60s. Combinação de Mudra: Jin → Chi → Dez ou Chi → Jin → Dez. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar.."
+    },
+
+    {
+        "Nome": "Doton",
+        "Ícone": "![Doton](https://ffxiv.gamerescape.com/w/images/thumb/f/f4/Doton_Icon.png/60px-Doton_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Cria um pedaço de terra corrompida, causando dano com potência de 70 a qualquer inimigo que entrar. Duração: 24s. Efeito Adicional: Pesado +40%. Combinação de Mudra: Dez → Jin → Chi ou Jin → Dez → Chi. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Suiton",
+        "Ícone": "![Suiton](https://ffxiv.gamerescape.com/w/images/thumb/e/e0/Suiton_Icon.png/60px-Suiton_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de água com uma potência de 500. Efeito Adicional: Concede Suiton. Duração: 20s. Efeito Suiton: Permite a execução de ações que requerem o efeito de Oculto, sem estar sob esse efeito. Combinação de Mudra: Dez → Chi → Jin ou Chi → Dez → Jin. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Kassatsu",
+        "Ícone": "![Kassatsu](https://ffxiv.gamerescape.com/w/images/thumb/2/2f/Kassatsu_Icon.png/60px-Kassatsu_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Permite a execu\u00e7\u00e3o de um \u00fanico ninjutsu sem consumo de cargas de mudra.Efeito Adicional: Aumenta em 30% o dano da pr\u00f3xima a\u00e7\u00e3o de ninjutsu."
+    },
+    {
+        "Nome": "Hakke Mujinsatsu",
+        "Ícone": "![Hakke Mujinsatsu](https://ffxiv.gamerescape.com/w/images/thumb/3/35/Hakke_Mujinsatsu_Icon.png/60px-Hakke_Mujinsatsu_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos pr\u00f3ximos.Combo Action: Death BlossomCombo Potency: 120Combo Bonus: Estende a dura\u00e7\u00e3o de Huton em 10s at\u00e9 um m\u00e1ximo de 60sCombo Bonus: Aumenta Ninki Gauge em 5 Revis\u00f5es Pot\u00eancia de combo alterada de 140 para 120.Huton&#39;s comprimento m\u00e1ximo de extens\u00e3o alterado de 70s para 60s."
+    },
+    {
+        "Nome": "Armor Crush",
+        "Ícone": "![Armor Crush](https://ffxiv.gamerescape.com/w/images/thumb/e/e8/Armor_Crush_Icon.png/60px-Armor_Crush_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 140.200 quando executado do flanco de um alvo.A\u00e7\u00e3o de combina\u00e7\u00e3o: Gust SlashCombo Pot\u00eancia: 340Flank Combo Potency: 400Combo Bonus: Estende a dura\u00e7\u00e3o do Huton em 30s para um m\u00e1ximo de 60sCombo Bonus: Aumenta o Ninki Gauge em 15 Revisions Potency alterada de 100 para 140.A pot\u00eancia de ataque de flanco mudou de 160 para 200.A pot\u00eancia de combo mudou de 400 para 340.A pot\u00eancia de ataque de flanco durante o combo mudou de 460 para 400.O comprimento m\u00e1ximo de extens\u00e3o de Huton mudou de 70s para 60s.A quantidade de aumento de Ninki mudou de 10 para 15 ."
+    },
+    {
+        "Nome": "Dream Within a Dream",
+        "Ícone": "![Dream Within a Dream](https://ffxiv.gamerescape.com/w/images/thumb/4/4a/Dream_Within_a_Dream_Icon.png/60px-Dream_Within_a_Dream_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque triplo, cada acerto com uma pot\u00eancia de 150. Revis\u00f5es Pot\u00eancia alterada de 200 para 150.Efeito Adicional: Concede Assassinate ReadyDuration 15s."
+    },
+    {
+        "Nome": "Huraijin",
+        "Ícone": "![Huraijin](https://ffxiv.gamerescape.com/w/images/thumb/8/85/Huraijin_Icon.png/60px-Huraijin_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 200.Efeito Adicional: Concede HutonDura\u00e7\u00e3o: 60sEfeito Adicional: Aumenta o Ninki Gauge em 5"
+    },
+    {
+        "Nome": "Hellfrog Medium",
+        "Ícone": "![Hellfrog Medium](https://ffxiv.gamerescape.com/w/images/thumb/7/73/Hellfrog_Medium_Icon.png/60px-Hellfrog_Medium_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de fogo com uma pot\u00eancia de 160 ao alvo e a todos os inimigos pr\u00f3ximos a ele.Ninki Gauge Custo: 50 Compartilha um cron\u00f4metro de relan\u00e7amento com Bhavacakra. A pot\u00eancia das revis\u00f5es foi alterada de 200 para 160."
+    },
+    {
+        "Nome": "Bhavacakra",
+        "Ícone": "![Bhavacakra](https://ffxiv.gamerescape.com/w/images/thumb/6/6a/Bhavacakra_Icon.png/60px-Bhavacakra_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 400. B\u00f4nus de Meisui: A pot\u00eancia \u00e9 aumentada para 500 quando sob o efeito de MeisuiNinki Gauge Custo: 50 Compartilha um cron\u00f4metro de Recarga com Hellfrog Medium. Revis\u00f5es Adicionadas &quot;B\u00f4nus de Meisui: A pot\u00eancia \u00e9 aumentada para 500 quando sob o efeito de Meisui&quot;."
+    },
+    {
+        "Nome": "Ten Chi Jin",
+        "Ícone": "![Ten Chi Jin](https://ffxiv.gamerescape.com/w/images/thumb/0/07/Ten_Chi_Jin_Icon.png/60px-Ten_Chi_Jin_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Converte temporariamente cada um dos tr\u00eas mudras em uma a\u00e7\u00e3o de ninjutsu. A execu\u00e7\u00e3o de uma dessas a\u00e7\u00f5es converter\u00e1 o mudra restante em diferentes a\u00e7\u00f5es de ninjutsu at\u00e9 que todas as tr\u00eas tenham sido executadas ou o efeito Ten Chi Jin expire. Dura\u00e7\u00e3o: 6s Somente ninjutsu dispon\u00edvel enquanto ativo. O mesmo ninjutsu n\u00e3o pode ser executado duas vezes. N\u00e3o pode ser executado sob o efeito de Kassatsu. O efeito termina ao se mover."
+    },
+    {
+        "Nome": "Meisui",
+        "Ícone": "![Meisui](https://ffxiv.gamerescape.com/w/images/thumb/0/0b/Meisui_Icon.png/60px-Meisui_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Dissipa Suiton, aumentando o Ninki Gauge em 50.Efeito Adicional: Aumenta a pot\u00eancia de Bhavacakra para 500Dura\u00e7\u00e3o: 30sPode ser executado apenas em combate. Revis\u00f5es Adicionado &quot;Efeito Adicional: Aumenta a pot\u00eancia de Bhavacakra para 500Dura\u00e7\u00e3o: 30s&quot;."
+    },
+
+    {
+        "Nome": "Goka Mekkyaku",
+        "Ícone": "![Goka Mekkyaku](https://ffxiv.gamerescape.com/w/images/thumb/8/83/Goka_Mekkyaku_Icon.png/60px-Goka_Mekkyaku_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de fogo com uma potência de 600 no alvo e em todos os inimigos próximos. Combinação de Mudra: Chi → Dez ou Jin → Dez. Só pode ser executado sob efeito de Kassatsu. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Hyosho Ranryu",
+        "Ícone": "![Hyosho Ranryu](https://ffxiv.gamerescape.com/w/images/thumb/c/c3/Hyosho_Ranryu_Icon.png/60px-Hyosho_Ranryu_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "1.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de gelo com uma potência de 1.300. Combinação de Mudra: Chi→Jin ou Ten→Jin. Só pode ser executado sob efeito de Kassatsu. Aciona o cooldown de armas, mudra e Ninjutsu após a execução. ※Esta ação não pode ser atribuída a um hotbar."
+    },
+
+    {
+        "Nome": "Bunshin",
+        "Ícone": "![Bunshin](https://ffxiv.gamerescape.com/w/images/thumb/e/ee/Bunshin_Icon.png/60px-Bunshin_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Concede 5 pilhas de Bunshin, cada pilha permitindo que sua sombra ataque os inimigos toda vez que voc\u00ea executar um abate com arma. A pot\u00eancia de ataque de sombra varia de acordo com o ataque executado, mas n\u00e3o \u00e9 afetada por b\u00f4nus de combina\u00e7\u00e3o.Pot\u00eancia de ataque corpo a corpo: 160 Pot\u00eancia de ataque \u00e0 dist\u00e2ncia: 160 Pot\u00eancia de ataque de \u00e1rea: 80Ninki Gauge aumenta em 5 cada vez que sua sombra acerta um ataque.Dura\u00e7\u00e3o: 30sEfeito adicional: Concede Phantom Kamaitachi ReadyDura\u00e7\u00e3o: 45sNinki Gauge Custo: 50\u203bA\u00e7\u00e3o muda para Phantom Kamaitachi ap\u00f3s a execu\u00e7\u00e3o. Revis\u00f5es A pot\u00eancia corpo a corpo foi alterada de 200 para 160. A pot\u00eancia de alcance foi alterada de 100 para 160. A pot\u00eancia de ataque de \u00e1rea foi alterada de 100 para 80. Adicionado &quot;Efeito adicional: Concede PhantomKamitachi Ready&quot;."
+    },
+    {
+        "Nome": "Phantom Kamaitachi",
+        "Ícone": "![Phantom Kamaitachi](https://ffxiv.gamerescape.com/w/images/5/53/Phantom_Kamaitachi_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Sua sombra causa dano de vento a todos os inimigos dentro de 5 yalms com uma pot\u00eancia de 550 para o primeiro inimigo e 50% menos para todos os inimigos restantes.Efeito Adicional: Estende a dura\u00e7\u00e3o do Huton em 10s at\u00e9 um m\u00e1ximo de 60sEfeito Adicional: Aumenta o Ninki Gauge em 10Can s\u00f3 pode ser executada enquanto estiver sob o efeito de Phantom Kamaitachi Ready.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a uma barra de atalhos."
+    },
+    {
+        "Nome": "Hollow Nozuchi",
+        "Ícone": "![Hollow Nozuchi](https://ffxiv.gamerescape.com/w/images/thumb/a/a7/Hollow_Nozuchi_Icon.png/60px-Hollow_Nozuchi_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "-",
+        "Custo em MP": "-",
+        "Efeito": "Todos os inimigos que est\u00e3o na terra corrompida de Doton recebem dano de terra adicional com uma pot\u00eancia de 50. Requer que Hakke Mujinsatsu seja executado como uma a\u00e7\u00e3o de combina\u00e7\u00e3o ou ao executar Katon, Goka Mekkyaku ou Phantom Kamaitachi. O efeito s\u00f3 pode ser acionado enquanto Doton estiver ativo .\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Forked Raiju",
+        "Ícone": "![Forked Raiju](https://ffxiv.gamerescape.com/w/images/thumb/8/87/Forked_Raiju_Icon.png/60px-Forked_Raiju_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Acelera o alvo e desfere um ataque rel\u00e2mpago com uma pot\u00eancia de 560.Efeito Adicional: Aumenta o Ninki Gauge em 5Pode ser executado apenas sob o efeito de Raiju Ready.N\u00e3o pode ser executado enquanto vinculado."
+    },
+    {
+        "Nome": "Fleeting Raiju",
+        "Ícone": "![Fleeting Raiju](https://ffxiv.gamerescape.com/w/images/thumb/2/20/Fleeting_Raiju_Icon.png/60px-Fleeting_Raiju_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de raio com uma pot\u00eancia de 560.Efeito Adicional: Aumenta o Ninki Gauge em 5Pode ser executado apenas sob o efeito de Raiju Ready."
+    }
+]

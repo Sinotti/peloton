@@ -1,0 +1,263 @@
+[
+    {
+        "Nome": "True Thrust",
+        "Ícone": "![True Thrust](https://ffxiv.gamerescape.com/w/images/thumb/d/db/True_Thrust_Icon.png/60px-True_Thrust_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 230.\u203bA a\u00e7\u00e3o muda para Raiden Thrust enquanto estiver sob o efeito de Draconian Fire. A pot\u00eancia das revis\u00f5es foi alterada de 290 para 230. Alterado &quot;Raiden Thrust Ready&quot; para &quot;Draconian Fire&quot;."
+    },
+    {
+        "Nome": "Vorpal Thrust",
+        "Ícone": "![Vorpal Thrust](https://ffxiv.gamerescape.com/w/images/thumb/1/18/Vorpal_Thrust_Icon.png/60px-Vorpal_Thrust_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 130.Combo Action: True ThrustCombo Potency: 280 Revisions Pot\u00eancia alterada de 140 para 130. Pot\u00eancia do combo alterada de 350 para 280."
+    },
+    {
+        "Nome": "Life Surge",
+        "Ícone": "![Life Surge](https://ffxiv.gamerescape.com/w/images/thumb/1/14/Life_Surge_Icon.png/60px-Life_Surge_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "Custo em MP": "-",
+        "Efeito": "Garante dano cr\u00edtico para o primeiro abate de arma usado enquanto Life Surge est\u00e1 ativo. Dura\u00e7\u00e3o: 5s O efeito n\u00e3o pode ser aplicado ao dano ao longo do tempo. Efeito Adicional: Absorve uma parte do dano causado como HP Cargas M\u00e1ximas: 2 Revis\u00f5es Adicionado &quot;Cargas M\u00e1ximas: 2.&quot;"
+    },
+    {
+        "Nome": "Piercing Talon",
+        "Ícone": "![Piercing Talon](https://ffxiv.gamerescape.com/w/images/thumb/4/41/Piercing_Talon_Icon.png/60px-Piercing_Talon_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Oferece um ataque \u00e0 dist\u00e2ncia com uma pot\u00eancia de 150. O alcance das revis\u00f5es foi alterado de 15 para 20."
+    },
+    {
+        "Nome": "Disembowel",
+        "Ícone": "![Disembowel](https://ffxiv.gamerescape.com/w/images/thumb/4/44/Disembowel_Icon.png/60px-Disembowel_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 140.A\u00e7\u00e3o de combina\u00e7\u00e3o: True ThrustCombo Potency: 250Combo Bonus: Concede Power SurgeEfeito de Power Surge: Aumenta o dano causado em 10%Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 150 para 140.Pot\u00eancia de combina\u00e7\u00e3o alterada de 320 para 250. Alterado &quot;Aumenta o dano causado em 10%&quot; para &quot;Concede Power Surge.Efeito de Power Surge: Aumenta o dano causado em 10%&quot;"
+    },
+    {
+        "Nome": "Full Thrust",
+        "Ícone": "![Full Thrust](https://ffxiv.gamerescape.com/w/images/thumb/e/ea/Full_Thrust_Icon.png/60px-Full_Thrust_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de combina\u00e7\u00e3o: Vorpal Thrust Pot\u00eancia de combina\u00e7\u00e3o: 400 B\u00f4nus de combina\u00e7\u00e3o: Concede Presa e Garra Afiadas Dura\u00e7\u00e3o: 30s O efeito de Presa e Garra Afiadas termina ap\u00f3s a execu\u00e7\u00e3o de qualquer habilidade com armas corpo a corpo. B\u00f4nus de combo de revis\u00f5es alterado de &quot;Concede Presas e Garras Afiadas se estiver sob os efeitos de Sangue do Drag\u00e3o ou Vida do Drag\u00e3o&quot; para &quot;Concede Presas e Garras Afiadas&quot;."
+    },
+    {
+        "Nome": "Lance Charge",
+        "Ícone": "![Lance Charge](https://ffxiv.gamerescape.com/w/images/thumb/d/dc/Lance_Charge_Icon.png/60px-Lance_Charge_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o dano causado em 10%. Dura\u00e7\u00e3o: 20s Revis\u00f5es Pot\u00eancia do efeito alterada de 15% para 10%. Tempo de relan\u00e7amento alterado de 90s para 60s."
+    },
+    {
+        "Nome": "Jump",
+        "Ícone": "![Jump](https://ffxiv.gamerescape.com/w/images/thumb/2/23/Jump_Icon.png/60px-Jump_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque de salto com uma pot\u00eancia de 320. Retorna voc\u00ea \u00e0 sua posi\u00e7\u00e3o original ap\u00f3s o ataque ser feito.Efeito Adicional: Concede Dive ReadyDura\u00e7\u00e3o: 15sN\u00e3o pode ser executado enquanto estiver preso. A pot\u00eancia das revis\u00f5es foi alterada de 310 para 320."
+    },
+    {
+        "Nome": "Elusive Jump",
+        "Ícone": "![Elusive Jump](https://ffxiv.gamerescape.com/w/images/thumb/a/a1/Elusive_Jump_Icon.png/60px-Elusive_Jump_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Executa um salto para um local 15 yalms atr\u00e1s de voc\u00ea. N\u00e3o pode ser executado enquanto estiver preso."
+    },
+    {
+        "Nome": "Doom Spike",
+        "Ícone": "![Doom Spike](https://ffxiv.gamerescape.com/w/images/thumb/7/76/Doom_Spike_Icon.png/60px-Doom_Spike_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com pot\u00eancia de 110 a todos os inimigos em linha reta antes de voc\u00ea.\u203bA a\u00e7\u00e3o muda para F\u00faria Draconiana quando sob o efeito de Fogo Draconiano. Revis\u00f5es Pot\u00eancia alterada de 170 para 110. Adicionado &quot;Mudan\u00e7as de a\u00e7\u00e3o para F\u00faria Draconiana quando sob o efeito de Fogo Draconiano.&quot;"
+    },
+    {
+        "Nome": "Spineshatter Dive",
+        "Ícone": "![Spineshatter Dive](https://ffxiv.gamerescape.com/w/images/thumb/3/3d/Spineshatter_Dive_Icon.png/60px-Spineshatter_Dive_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque de salto com uma pot\u00eancia de 250. Cargas M\u00e1ximas: 2 N\u00e3o pode ser executado enquanto estiver preso. Pot\u00eancia das revis\u00f5es alterada de 240 para 250. Adicionado &quot;Cargas M\u00e1ximas: 2.&quot;"
+    },
+    {
+        "Nome": "Chaos Thrust",
+        "Ícone": "![Chaos Thrust](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/Chaos_Thrust_Icon.png/60px-Chaos_Thrust_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.140 quando executado pela retaguarda de um alvo.A\u00e7\u00e3o de combina\u00e7\u00e3o: DesembowelCombo Potency: 220Rear Combo Potency: 260Combo Bonus: Dano ao longo do tempoPotency: 40Duration: 24sCombo Bonus: Concede Enhanced Wheeling Thrust Dura\u00e7\u00e3o: 30sEffect of Enhanced Wheeling Thrust termina ap\u00f3s a execu\u00e7\u00e3o de qualquer habilidade com armas corpo a corpo. B\u00f4nus de combina\u00e7\u00e3o de revis\u00f5es alterado de &quot;Concede Impulso de Roda Aprimorado se estiver sob os efeitos de Sangue do Drag\u00e3o ou Vida do Drag\u00e3o&quot; para &quot;Concede Impulso de Roda Aprimorado&quot;."
+    },
+    {
+        "Nome": "Dragonfire Dive",
+        "Ícone": "![Dragonfire Dive](https://ffxiv.gamerescape.com/w/images/thumb/5/51/Dragonfire_Dive_Icon.png/60px-Dragonfire_Dive_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque baseado em fogo saltitante com uma pot\u00eancia de 300 no alvo e em todos os inimigos pr\u00f3ximos a ele. N\u00e3o pode ser executado enquanto estiver preso. A pot\u00eancia das revis\u00f5es foi alterada de 380 para 300."
+    },
+    {
+        "Nome": "Battle Litany",
+        "Ícone": "![Battle Litany](https://ffxiv.gamerescape.com/w/images/thumb/2/24/Battle_Litany_Icon.png/60px-Battle_Litany_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a taxa de acerto cr\u00edtico de si mesmo e de membros pr\u00f3ximos do grupo em 10%. Dura\u00e7\u00e3o: 15s Revis\u00f5es Dura\u00e7\u00e3o alterada de 20s para 15s. Tempo de relan\u00e7amento alterado de 180s para 120s."
+    },
+    {
+        "Nome": "Fang and Claw",
+        "Ícone": "![Fang and Claw](https://ffxiv.gamerescape.com/w/images/thumb/2/2d/Fang_and_Claw_Icon.png/60px-Fang_and_Claw_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 260.300 quando executado do flanco de um alvo. S\u00f3 pode ser executado sob o efeito de Sharper Fang and Claw. Revis\u00f5es Alterado os requisitos de execu\u00e7\u00e3o de &quot;enquanto estiver sob os efeitos de Presa e Garra Afiadas e Sangue do Drag\u00e3o ou Vida do Drag\u00e3o&quot; para &quot;enquanto estiver sob os efeitos de Presa e Garra Afiadas&quot;. m\u00e1ximo de 30 segundos.&quot;"
+    },
+    {
+        "Nome": "Wheeling Thrust",
+        "Ícone": "![Wheeling Thrust](https://ffxiv.gamerescape.com/w/images/thumb/b/b5/Wheeling_Thrust_Icon.png/60px-Wheeling_Thrust_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 260.300 quando executado pela retaguarda de um alvo. S\u00f3 pode ser executado sob o efeito de Impulso de Roda Aprimorado. Revis\u00f5es Alterado os requisitos de execu\u00e7\u00e3o de &quot;enquanto estiver sob os efeitos de Impulso de Roda Aprimorado e Sangue do Drag\u00e3o ou Vida do Drag\u00e3o&quot; para &quot;enquanto estiver sob os efeitos de Impulso de Roda Aprimorado&quot;. de 30 anos.&quot;"
+    },
+    {
+        "Nome": "Geirskogul",
+        "Ícone": "![Geirskogul](https://ffxiv.gamerescape.com/w/images/thumb/e/ee/Geirskogul_Icon.png/60px-Geirskogul_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Oferece um ataque a todos os inimigos em linha reta \u00e0 sua frente com uma pot\u00eancia de 260 para o primeiro inimigo e 30% a menos para todos os inimigos restantes.Efeito Adicional: Concede Vida do Drag\u00e3o enquanto estiver sob o olhar total da primeira ninhada\u203bA\u00e7\u00e3o muda para Nastrond enquanto estiver sob o efeito da Vida do Drag\u00e3o. Revis\u00f5es Pot\u00eancia alterada de 300 para 260. Adicionado &quot;30% menos pot\u00eancia para todos os inimigos restantes.&quot; Exclu\u00eddo o requisito de execu\u00e7\u00e3o &quot;enquanto estiver sob o efeito de Sangue do Drag\u00e3o.&quot;"
+    },
+    {
+        "Nome": "Sonic Thrust",
+        "Ícone": "![Sonic Thrust](https://ffxiv.gamerescape.com/w/images/thumb/8/84/Sonic_Thrust_Icon.png/60px-Sonic_Thrust_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos em uma linha reta antes de voc\u00ea.A\u00e7\u00e3o de Combo: Doom SpikeCombo Potency: 120Combo Bonus: Concede Power SurgeEfeito de Power Surge: Aumenta o dano causado em 10% Dura\u00e7\u00e3o: 30s Revis\u00f5es Exclu\u00eddas &quot;Combo Bonus: Extends Dura\u00e7\u00e3o do Sangue do Drag\u00e3o em 10s para um m\u00e1ximo de 30s.&quot; Adicionado &quot;B\u00f4nus de combina\u00e7\u00e3o: Concede Power Surge. Efeito de Power Surge: Aumenta o dano causado em 10% Dura\u00e7\u00e3o: 30s&quot;."
+    },
+    {
+        "Nome": "Dragon Sight",
+        "Ícone": "![Dragon Sight](https://ffxiv.gamerescape.com/w/images/thumb/3/30/Dragon_Sight_Icon.png/60px-Dragon_Sight_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Olho Direito a si mesmo, aumentando em 10% o dano causado. Tamb\u00e9m concede Olho Esquerdo do membro do grupo alvo, aumentando em 5% o dano causado."
+    },
+    {
+        "Nome": "Mirage Dive",
+        "Ícone": "![Mirage Dive](https://ffxiv.gamerescape.com/w/images/thumb/8/83/Mirage_Dive_Icon.png/60px-Mirage_Dive_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 200.Efeito Adicional: Fortalece o olhar do seu Medidor de Drag\u00e3o em 1 S\u00f3 pode ser executado quando estiver pronto para mergulho. Revis\u00f5es alteradas &quot;Efeito Adicional: Fortalece o olhar do seu Medidor de Drag\u00e3o em 1 se estiver sob o efeito de Sangue do Drag\u00e3o ou Vida do Drag\u00e3o para &quot;Efeito Adicional: Fortalece o olhar do seu Medidor de Drag\u00e3o em 1&quot;."
+    },
+    {
+        "Nome": "Nastrond",
+        "Ícone": "![Nastrond](https://ffxiv.gamerescape.com/w/images/thumb/f/fa/Nastrond_Icon.png/60px-Nastrond_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Desfere um ataque a todos os inimigos em linha reta \u00e0 sua frente com uma pot\u00eancia de 360 para o primeiro inimigo e 30% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto estiver sob o efeito da Vida do Drag\u00e3o.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00eddo a um hotbar. Revis\u00f5es Pot\u00eancia alterada de 400 para 360. Adicionado &quot;30% menos pot\u00eancia para todos os inimigos restantes.&quot;"
+    },
+    {
+        "Nome": "Coerthan Torment",
+        "Ícone": "![Coerthan Torment](https://ffxiv.gamerescape.com/w/images/thumb/f/fd/Coerthan_Torment_Icon.png/60px-Coerthan_Torment_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 100 a todos os inimigos em uma linha reta antes de voc\u00ea. A\u00e7\u00e3o de combina\u00e7\u00e3o: impulso s\u00f4nico Pot\u00eancia de combina\u00e7\u00e3o: 150 B\u00f4nus de combina\u00e7\u00e3o: Concede fogo draconiano Dura\u00e7\u00e3o: 30s Revis\u00f5es exclu\u00eddas 30s. Adicionado &quot;B\u00f4nus de combina\u00e7\u00e3o: Concede fogo draconiano Dura\u00e7\u00e3o: 30s.&quot;"
+    },
+    {
+        "Nome": "High Jump",
+        "Ícone": "![High Jump](https://ffxiv.gamerescape.com/w/images/thumb/8/88/High_Jump_Icon.png/60px-High_Jump_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque de salto com uma pot\u00eancia de 400. Retorna voc\u00ea \u00e0 sua posi\u00e7\u00e3o original ap\u00f3s o ataque ser feito.Efeito Adicional: Concede Dive Ready Dura\u00e7\u00e3o: 15sN\u00e3o pode ser executado enquanto estiver preso."
+    },
+    {
+        "Nome": "Raiden Thrust",
+        "Ícone": "![Raiden Thrust](https://ffxiv.gamerescape.com/w/images/thumb/f/fd/Raiden_Thrust_Icon.png/60px-Raiden_Thrust_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 280.Efeito Adicional: Agu\u00e7a o Foco da Primeira Mente em 1 S\u00f3 pode ser executado enquanto estiver sob o efeito do Fogo Draconiano.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Pot\u00eancia das revis\u00f5es alterada de 330 para 280. Adicionado &quot;Efeito Adicional: Agu\u00e7a o foco dos Firstminds em 1&quot;. Requisitos de execu\u00e7\u00e3o alterados de &quot;Raiden Thrust Ready&quot; para &quot;Draconian Fire&quot;."
+    },
+    {
+        "Nome": "Stardiver",
+        "Ícone": "![Stardiver](https://ffxiv.gamerescape.com/w/images/thumb/2/2f/Stardiver_Icon.png/60px-Stardiver_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque baseado em fogo saltitante ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 620 para o primeiro inimigo e 30% a menos para todos os inimigos restantes. S\u00f3 pode ser executado enquanto estiver sob o efeito de Life of the Dragon. N\u00e3o pode ser executado enquanto amarrado. A pot\u00eancia das revis\u00f5es foi alterada de 600 para 620."
+    },
+    {
+        "Nome": "Draconian Fury",
+        "Ícone": "![Draconian Fury](https://ffxiv.gamerescape.com/w/images/thumb/4/42/Draconian_Fury_Icon.png/60px-Draconian_Fury_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 130 a todos os inimigos em linha reta antes de voc\u00ea.Efeito Adicional: Agu\u00e7a o Foco das Primeiras Mentes em 1 S\u00f3 pode ser executado enquanto estiver sob o efeito do Fogo Draconiano.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Heavens' Thrust",
+        "Ícone": "![Heavens' Thrust](https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Heavens%27_Thrust_Icon.png/60px-Heavens%27_Thrust_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100. A\u00e7\u00e3o de combina\u00e7\u00e3o: Vorpal Thrust Pot\u00eancia de combina\u00e7\u00e3o: 480 B\u00f4nus de combina\u00e7\u00e3o: Concede Garras e Presas Afiadas Dura\u00e7\u00e3o: 30s O efeito de Presas e Garras Afiadas termina na execu\u00e7\u00e3o de qualquer habilidade com armas corpo a corpo."
+    },
+    {
+        "Nome": "Chaotic Spring",
+        "Ícone": "![Chaotic Spring](https://ffxiv.gamerescape.com/w/images/thumb/b/bc/Chaotic_Spring_Icon.png/60px-Chaotic_Spring_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100.140 quando executado pela retaguarda de um alvo.A\u00e7\u00e3o de combina\u00e7\u00e3o: DesembowelCombo Potency: 260Rear Combo Potency: 300Combo Bonus: Dano ao longo do tempoPotency: 45Duration: 24sCombo Bonus: Concede Enhanced Wheeling Thrust Dura\u00e7\u00e3o: 30sEffect of Enhanced Wheeling Thrust termina ap\u00f3s a execu\u00e7\u00e3o de qualquer habilidade com armas corpo a corpo."
+    },
+    {
+        "Nome": "Wyrmwind Thrust",
+        "Ícone": "![Wyrmwind Thrust](https://ffxiv.gamerescape.com/w/images/thumb/5/5b/Wyrmwind_Thrust_Icon.png/60px-Wyrmwind_Thrust_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "10s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque a todos os inimigos em linha reta antes de voc\u00ea com uma pot\u00eancia de 420 para o primeiro inimigo e 50% menos para todos os inimigos restantes. Custo de Foco de Firstminds: 2"
+    }
+]

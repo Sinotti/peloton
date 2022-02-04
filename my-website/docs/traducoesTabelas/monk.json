@@ -1,0 +1,290 @@
+[
+    {
+        "Nome": "Bootshine",
+        "Ícone": "![Bootshine](https://ffxiv.gamerescape.com/w/images/thumb/4/4d/Bootshine_Icon.png/60px-Bootshine_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 210.Pot\u00eancia de Punho de Chumbo: 310Opo-opo B\u00f4nus de Forma: Garante um acerto cr\u00edtico Efeito Adicional: Muda de forma para raptor Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 200 para 210.Pot\u00eancia de combina\u00e7\u00e3o de Punho de Chumbo alterada de 370 para 310.Alterada o efeito adicional na forma opo-opo de &quot;Causa um acerto cr\u00edtico se causado pela retaguarda de um alvo&quot; para &quot;Causa um acerto cr\u00edtico&quot;. Dura\u00e7\u00e3o alterada de 15s para 30s."
+    },
+    {
+        "Nome": "True Strike",
+        "Ícone": "![True Strike](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/True_Strike_Icon.png/60px-True_Strike_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 300. S\u00f3 pode ser executado quando em forma de raptor. Efeito Adicional: Altera a forma para coeurl Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 270 para 300.Pot\u00eancia de ataque traseiro exclu\u00edda. Dura\u00e7\u00e3o alterada de 15s para 30s.Tempo de Recarga alterado de 2,5s para 2s."
+    },
+    {
+        "Nome": "Snap Punch",
+        "Ícone": "![Snap Punch](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Snap_Punch_Icon.png/60px-Snap_Punch_Icon.png)",
+        "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 250.310 quando executado do flanco de um alvo. S\u00f3 pode ser executado quando em forma coeurl. Efeito Adicional: Muda a forma para opo-opo Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 270 para 250. Pot\u00eancia do flanco alterada de 300 para 310 .Dura\u00e7\u00e3o alterada de 15s para 30s."
+    },
+    {
+        "Nome": "Meditation",
+        "Ícone": "![Meditation](https://ffxiv.gamerescape.com/w/images/thumb/b/b2/Meditation_Icon.png/60px-Meditation_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Abre um chacra. At\u00e9 cinco chakras podem ser abertos de uma vez. Abre todos os cinco chakras quando usados fora de combate. Compartilha um cron\u00f4metro de relan\u00e7amento com todas as outras habilidades de armas.\u203b A a\u00e7\u00e3o muda para O Chakra Proibido quando todos os cinco chakras est\u00e3o abertos. Revis\u00f5es Alterada a classe de aprendizado para Pugilista. O n\u00edvel de aprendizado mudou de 54 para 15. Adicionado &quot;A\u00e7\u00e3o muda para o Chakra Proibido quando todos os cinco chakras est\u00e3o abertos.&quot;"
+    },
+    {
+        "Nome": "Steel Peak",
+        "Ícone": "![Steel Peak](https://ffxiv.gamerescape.com/w/images/thumb/9/97/Snap_Punch_Icon.png/60px-Snap_Punch_Icon.png)",
+        "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque com pot\u00eancia de 180. S\u00f3 pode ser executado em combate e sob o efeito do Quinto Chakra. Os cinco chakras fecham ap\u00f3s a execu\u00e7\u00e3o. Compartilha um temporizador de relan\u00e7amento com o Punho Uivante. \u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Twin Snakes",
+        "Ícone": "![Twin Snakes](https://ffxiv.gamerescape.com/w/images/thumb/8/8f/Twin_Snakes_Icon.png/60px-Twin_Snakes_Icon.png)",
+        "Adquirido": "Lv. 18",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 280. S\u00f3 pode ser executado na forma de raptor. Efeito Adicional: Concede Punho Disciplinado Punho Disciplinado Efeito: Aumenta o dano causado em 15% Dura\u00e7\u00e3o: 15s Efeito Adicional: Muda a forma para coeurl Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 230 para 280.Pot\u00eancia de flanco deletada. Efeito adicional alterado de &quot;Aumenta o dano causado em 10%&quot; para Punho Disciplinado, que aumenta o dano em 15%.A dura\u00e7\u00e3o da forma Coeurl mudou de 15s para 30s."
+    },
+    {
+        "Nome": "Arm of the Destroyer",
+        "Ícone": "![Arm of the Destroyer](https://ffxiv.gamerescape.com/w/images/thumb/1/19/Arm_of_the_Destroyer_Icon.png/60px-Arm_of_the_Destroyer_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 100 a todos os alvos pr\u00f3ximos. Pot\u00eancia da Forma Opo-opo: 110 Efeito Adicional: Muda a forma para raptor Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 110 para 100. Pot\u00eancia da forma Opo-opo alterada de 140 para 110. Dura\u00e7\u00e3o alterada de 15s a 30s."
+    },
+    {
+        "Nome": "Demolish",
+        "Ícone": "![Demolish](https://ffxiv.gamerescape.com/w/images/thumb/6/69/Demolish_Icon.png/60px-Demolish_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 70.130 quando executado pela retaguarda de um alvo.S\u00f3 pode ser executado quando em forma coeurl.Efeito Adicional: Dano ao longo do tempoPot\u00eancia: 70Dura\u00e7\u00e3o: 18sEfeito Adicional: Muda a forma para opo-opoDura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 80 para 70.A pot\u00eancia de ataque traseiro mudou de 110 para 130.A pot\u00eancia de dano ao longo do tempo mudou de 80 para 70.A dura\u00e7\u00e3o da forma Opo-opo mudou de 15s para 30s."
+    },
+    {
+        "Nome": "Rockbreaker",
+        "Ícone": "![Rockbreaker](https://ffxiv.gamerescape.com/w/images/thumb/2/27/Rockbreaker_Icon.png/60px-Rockbreaker_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com uma pot\u00eancia de 130 a todos os inimigos pr\u00f3ximos. S\u00f3 pode ser executado na forma coeurl. Efeito Adicional: Muda a forma para opo-opo Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 150 para 130."
+    },
+    {
+        "Nome": "Thunderclap",
+        "Ícone": "![Thunderclap](https://ffxiv.gamerescape.com/w/images/thumb/3/31/Thunderclap_%28Action%29_Icon.png/60px-Thunderclap_%28Action%29_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Corra para a localiza\u00e7\u00e3o de um inimigo ou membro do grupo alvo. Cargas M\u00e1ximas: 3 N\u00e3o pode ser executado enquanto estiver preso."
+    },
+    {
+        "Nome": "Howling Fist",
+        "Ícone": "![Howling Fist](https://ffxiv.gamerescape.com/w/images/thumb/8/8f/Howling_Fist_Icon.png/60px-Howling_Fist_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Desfere um ataque com pot\u00eancia de 100 a todos os inimigos em linha reta \u00e0 sua frente. S\u00f3 pode ser executado em combate e sob o efeito do Quinto Chakra. Os cinco chakras fecham ap\u00f3s a execu\u00e7\u00e3o. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com o Chakra Proibido."
+    },
+    {
+        "Nome": "Mantra",
+        "Ícone": "![Mantra](https://ffxiv.gamerescape.com/w/images/thumb/e/e6/Mantra_Icon.png/60px-Mantra_Icon.png)",
+        "Adquirido": "Lv. 42",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta a recupera\u00e7\u00e3o de HP por meio de a\u00e7\u00f5es de cura em 10% para si e para membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Four-point Fury",
+        "Ícone": "![Four-point Fury](https://ffxiv.gamerescape.com/w/images/thumb/d/d2/Four-point_Fury_Icon.png/60px-Four-point_Fury_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 120 a todos os inimigos pr\u00f3ximos.S\u00f3 pode ser executado quando em forma de raptor.Efeito Adicional: Concede Punho DisciplinadoPunho DisciplinadoEfeito: Aumenta o dano causado em 15%Dura\u00e7\u00e3o: 15sEfeito Adicional: Muda a forma para coeurlDura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterado de 140 para 120. Mudou o efeito adicional de &quot;Estende a dura\u00e7\u00e3o das Cobras G\u00eameas em 10s para um m\u00e1ximo de 15s&quot; para Punho Disciplinado, que aumenta o dano em 15%.A dura\u00e7\u00e3o da forma Coeurl mudou de 15s para 30s."
+    },
+    {
+        "Nome": "Dragon Kick",
+        "Ícone": "![Dragon Kick](https://ffxiv.gamerescape.com/w/images/thumb/2/2e/Dragon_Kick_Icon.png/60px-Dragon_Kick_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 320.Opo-opo Form Bonus: Concede Leaden Fist Dura\u00e7\u00e3o: 30sEfeito Adicional: Muda a forma para raptorDura\u00e7\u00e3o: 30s Revis\u00f5es Classe de aprendizado alterada para Pugilist.Potency alterada de 230 para 320.Pot\u00eancia de ataque de flanco exclu\u00edda.Dura\u00e7\u00e3o da forma do Raptor mudou de 15s para 30s."
+    },
+    {
+        "Nome": "Perfect Balance",
+        "Ícone": "![Perfect Balance](https://ffxiv.gamerescape.com/w/images/thumb/c/ce/Perfect_Balance_Icon.png/60px-Perfect_Balance_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "40s",
+        "Custo em MP": "-",
+        "Efeito": "Concede 3 pilhas de Equil\u00edbrio Perfeito, cada pilha permitindo a execu\u00e7\u00e3o de uma habilidade de matar que requer uma certa forma, sem estar nessa forma. Dura\u00e7\u00e3o: 20s Efeito Adicional: Concede Chakra Opo-opo, Chakra Coeurl ou Chakra Raptor dependendo da forma exigida por a\u00e7\u00f5es executadas Cargas M\u00e1ximas: 2S\u00f3 pode ser executada em combate. Revis\u00f5es A classe de aprendizado mudou para Monge.A quantidade de pilha mudou de 6 para 3.A dura\u00e7\u00e3o mudou de 15s para 20s.Adicionado &quot;Efeito Adicional: Concede Chakra Opo-opo, Chakra Coeurl ou Chakra Raptor dependendo da forma exigida pelas a\u00e7\u00f5es executadas. Cargas m\u00e1ximas: 2.&quot;Tempo de relan\u00e7amento alterado de 90s para 40s.Adicionado &quot;S\u00f3 pode ser executado em combate.&quot;"
+    },
+    {
+        "Nome": "Form Shift",
+        "Ícone": "![Form Shift](https://ffxiv.gamerescape.com/w/images/thumb/8/8c/Form_Shift_Icon.png/60px-Form_Shift_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Formless Fist a si mesmo, permitindo a execu\u00e7\u00e3o de uma habilidade com armas que requer uma certa forma, sem estar nessa forma. Dura\u00e7\u00e3o: 30s Quaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados. A dura\u00e7\u00e3o das revis\u00f5es mudou de 15s para 30s."
+    },
+    {
+        "Nome": "The Forbidden Chakra",
+        "Ícone": "![The Forbidden Chakra](https://ffxiv.gamerescape.com/w/images/thumb/6/67/The_Forbidden_Chakra_Icon.png/60px-The_Forbidden_Chakra_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque com pot\u00eancia de 340. S\u00f3 pode ser executado em combate e sob o efeito do Quinto Chakra. Os cinco chakras fecham ap\u00f3s a execu\u00e7\u00e3o. Compartilha um cron\u00f4metro de relan\u00e7amento com Ilumina\u00e7\u00e3o. \u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Masterful Blitz",
+        "Ícone": "![Masterful Blitz](https://ffxiv.gamerescape.com/w/images/thumb/5/52/Masterful_Blitz_Icon.png/60px-Masterful_Blitz_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Ataque o inimigo com uma t\u00e9cnica alimentada pelo poder do seu Chakra Bestial. A t\u00e9cnica usada \u00e9 determinada pelo n\u00famero de diferentes tipos de Chakra Bestial abertos.1 Tipo de Chakra Bestial: Campo de Elixir2 Tipos de Chakra Bestial: Revolu\u00e7\u00e3o Celestial3 Tipos de Chakra Bestial: F\u00eanix Crescente3 Chakra da Besta e Ambos Nadi: Phantom Rush"
+    },
+    {
+        "Nome": "Elixir Field",
+        "Ícone": "![Elixir Field](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Elixir_Field_Icon.png/60px-Elixir_Field_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 600 para o primeiro inimigo e 70% menos para todos os inimigos restantes.Efeito Adicional: Abre o Nadi LunarEfeito Adicional: Concede Punho Sem Forma, permitindo a execu\u00e7\u00e3o de uma morte com arma que requer uma certa forma , sem estar nessa forma Dura\u00e7\u00e3o: 30s Quaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados. S\u00f3 pode ser executado enquanto estiver sob o efeito de tr\u00eas do mesmo Chakra da Besta.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. Tipo de revis\u00e3o alterado para armaskill.N\u00edvel de aprendizado alterado de 56 para 60.Tempo de reformula\u00e7\u00e3o alterado de 30s para 2s.Atualizado os efeitos adicionais."
+    },
+    {
+        "Nome": "Flint Strike",
+        "Ícone": "![Flint Strike](https://ffxiv.gamerescape.com/w/images/thumb/0/0c/Elixir_Field_Icon.png/60px-Elixir_Field_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 600 para o primeiro inimigo e 70% menos para todos os inimigos restantes.Efeito Adicional: Abre o Nadi SolarEfeito Adicional: Concede Punho Sem Forma, permitindo a execu\u00e7\u00e3o de uma morte com arma que requer uma certa forma , sem estar nessa forma Dura\u00e7\u00e3o: 30s Quaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados. S\u00f3 pode ser executado enquanto estiver sob o efeito de tr\u00eas Chakras da Besta distintos.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Celestial Revolution",
+        "Ícone": "![Celestial Revolution](https://ffxiv.gamerescape.com/w/images/thumb/c/cf/Celestial_Revolution_Icon.png/60px-Celestial_Revolution_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Executa um ataque com uma pot\u00eancia de 450.Efeito Adicional: Abre o Lunar NadiSe o Lunar Nadi j\u00e1 estiver aberto, abre o Solar Nadi.Efeito Adicional: Concede Formless Fist, permitindo a execu\u00e7\u00e3o de uma arma que requer uma certa forma, sem ser nessa forma Dura\u00e7\u00e3o: 30s Quaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados. S\u00f3 pode ser executado enquanto estiver sob o efeito de tr\u00eas Chakras Bestiais.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Tornado Kick",
+        "Ícone": "![Tornado Kick](https://ffxiv.gamerescape.com/w/images/thumb/c/c2/Tornado_Kick_Icon.png/60px-Tornado_Kick_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 850 para o primeiro inimigo e 50% a menos para todos os inimigos restantes.Efeito Adicional: Concede Punho Sem Forma, permitindo a execu\u00e7\u00e3o de uma morte com arma que requer uma certa forma, sem ser nessa forma Dura\u00e7\u00e3o: 30s Quaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados. S\u00f3 pode ser executado sob o efeito de Lunar Nadi e Solar Nadi, bem como tr\u00eas Beast Chakra.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar. O tipo de revis\u00e3o foi alterado para armaskill.Substitu\u00eddo &quot;Fornece um ataque com pot\u00eancia de 400&quot; para &quot;Fornece um ataque ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 850 para o primeiro inimigo e 50% menos para todos os inimigos restantes.&quot;.Atualizado o efeitos adicionais. Tempo de relan\u00e7amento alterado de 45s para 2s."
+    },
+    {
+        "Nome": "Riddle of Earth",
+        "Ícone": "![Riddle of Earth](https://ffxiv.gamerescape.com/w/images/thumb/9/9e/Riddle_of_Earth_Icon.png/60px-Riddle_of_Earth_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo em MP": "-",
+        "Efeito": "Concede 3 stacks de Riddle of Earth, cada stack reduzindo em 20% o dano recebido. Revis\u00f5es A pot\u00eancia do efeito foi alterada de 10% para 20%. Exclu\u00eddo &quot;e anulando todos os requisitos de dire\u00e7\u00e3o de a\u00e7\u00e3o.&quot;"
+    },
+    {
+        "Nome": "Riddle of Fire",
+        "Ícone": "![Riddle of Fire](https://ffxiv.gamerescape.com/w/images/thumb/4/48/Riddle_of_Fire_Icon.png/60px-Riddle_of_Fire_Icon.png)",
+        "Adquirido": "Lv. 68",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Aumenta o dano causado em 15%. Dura\u00e7\u00e3o: 20s Revis\u00f5es Pot\u00eancia do efeito alterada de 25% para 15%. Tempo de relan\u00e7amento alterado de 90s para 60s."
+    },
+    {
+        "Nome": "Brotherhood",
+        "Ícone": "![Brotherhood](https://ffxiv.gamerescape.com/w/images/thumb/e/e2/Brotherhood_Icon.png/60px-Brotherhood_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo em MP": "-",
+        "Efeito": "Concede Irmandade e Irmandade Meditativa a si mesmo e a todos os membros do grupo pr\u00f3ximos.Efeito Irmandade: Aumenta em 5% o dano causado ao Irmandade Meditativa Efeito: 20% de chance de voc\u00ea abrir um chakra quando membros do grupo sob este efeito executam uma morte com arma ou conjuram um feiti\u00e7oA chance \u00e9 de 100% quando voc\u00ea executa um abate com arma ou lan\u00e7a um feiti\u00e7o enquanto estiver sob o efeito da Irmandade Meditativa. Dura\u00e7\u00e3o: 15s Revis\u00f5es Ajustado o texto. Mudou as pr\u00f3prias taxas de disparo de 20% para 100%. O tempo de relan\u00e7amento mudou de 90s para 120s."
+    },
+    {
+        "Nome": "Riddle of Wind",
+        "Ícone": "![Riddle of Wind](https://ffxiv.gamerescape.com/w/images/thumb/7/7b/Riddle_of_Wind_Icon.png/60px-Riddle_of_Wind_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo em MP": "-",
+        "Efeito": "Reduz o atraso do ataque autom\u00e1tico em 50%. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Enlightenment",
+        "Ícone": "![Enlightenment](https://ffxiv.gamerescape.com/w/images/thumb/9/98/Enlightenment_Icon.png/60px-Enlightenment_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo em MP": "-",
+        "Efeito": "Desfere um ataque com pot\u00eancia de 170 a todos os inimigos em linha reta \u00e0 sua frente. S\u00f3 pode ser executado em combate e sob o efeito do Quinto Chakra. Os cinco chakras fecham ap\u00f3s a execu\u00e7\u00e3o. Compartilha um cron\u00f4metro de reformula\u00e7\u00e3o com o Chakra Proibido. A pot\u00eancia das revis\u00f5es foi alterada de 220 para 170."
+    },
+    {
+        "Nome": "Anatman",
+        "Ícone": "![Anatman](https://ffxiv.gamerescape.com/w/images/thumb/1/14/Anatman_Icon.png/60px-Anatman_Icon.png)",
+        "Adquirido": "Lv. 78",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo em MP": "-",
+        "Efeito": "Estende a dura\u00e7\u00e3o do Punho Disciplinado e sua forma atual ao m\u00e1ximo e interrompe sua expira\u00e7\u00e3o. Dura\u00e7\u00e3o: 30s Cancela o ataque autom\u00e1tico ap\u00f3s a execu\u00e7\u00e3o. O efeito termina ao usar outra a\u00e7\u00e3o ou mover-se (incluindo enfrentar uma dire\u00e7\u00e3o diferente). Aciona o cooldown de armas kills ap\u00f3s a execu\u00e7\u00e3o. N\u00e3o pode ser executado durante o tempo de espera de skillskills. Revis\u00f5es Alterado o efeito de Twin Snakes para Disciplined Fist."
+    },
+    {
+        "Nome": "Six-sided Star",
+        "Ícone": "![Six-sided Star](https://ffxiv.gamerescape.com/w/images/thumb/6/64/Six-sided_Star_Icon.png/60px-Six-sided_Star_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "4s",
+        "Custo em MP": "-",
+        "Efeito": "Fornece um ataque com uma pot\u00eancia de 550.Efeito Adicional: Aumenta a velocidade de movimento Dura\u00e7\u00e3o: 5sEsta arma n\u00e3o compartilha um temporizador de relan\u00e7amento com nenhuma outra a\u00e7\u00e3o. Ap\u00f3s a execu\u00e7\u00e3o, o cron\u00f4metro de reformula\u00e7\u00e3o para esta a\u00e7\u00e3o ser\u00e1 aplicado a todas as outras habilidades com armas e a\u00e7\u00f5es m\u00e1gicas. A pot\u00eancia das revis\u00f5es foi alterada de 540 para 550."
+    },
+    {
+        "Nome": "Shadow of the Destroyer",
+        "Ícone": "![Shadow of the Destroyer](https://ffxiv.gamerescape.com/w/images/thumb/0/08/Shadow_of_the_Destroyer_Icon.png/60px-Shadow_of_the_Destroyer_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Entrega um ataque com pot\u00eancia de 110 a todos os inimigos pr\u00f3ximos.B\u00f4nus de Forma Opo-opo: Garante um acerto cr\u00edtico Efeito Adicional: Muda a forma para raptor Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Rising Phoenix",
+        "Ícone": "![Rising Phoenix](https://ffxiv.gamerescape.com/w/images/thumb/3/35/Rising_Phoenix_Icon.png/60px-Rising_Phoenix_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Causa dano de fogo f\u00edsico a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 700 para o primeiro inimigo e 70% a menos para todos os inimigos restantes.Efeito Adicional: Abre o Nadi SolarEfeito Adicional: Concede Punho Amorfo, permitindo a execu\u00e7\u00e3o de uma morte com arma que requer um certo forma, sem estar nessa forma Dura\u00e7\u00e3o: 30s Quaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados. S\u00f3 pode ser executado enquanto estiver sob o efeito de tr\u00eas Chakras da Besta distintos.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    },
+    {
+        "Nome": "Phantom Rush",
+        "Ícone": "![Phantom Rush](https://ffxiv.gamerescape.com/w/images/thumb/7/7b/Phantom_Rush_Icon.png/60px-Phantom_Rush_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "2s",
+        "Custo em MP": "-",
+        "Efeito": "Realiza um ataque ao alvo e a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 1.150 para o primeiro inimigo e 50% a menos para todos os inimigos restantes.Efeito Adicional: Concede Formless Fist, permitindo a execu\u00e7\u00e3o de uma arma que requer uma certa forma, sem ser nessa forma Dura\u00e7\u00e3o: 30s Quaisquer efeitos adicionais associados \u00e0 a\u00e7\u00e3o executada tamb\u00e9m ser\u00e3o aplicados. S\u00f3 pode ser executado sob o efeito de Lunar Nadi e Solar Nadi, bem como tr\u00eas Beast Chakra.\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar."
+    }
+]

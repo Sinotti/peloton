@@ -1,0 +1,326 @@
+[
+    {
+        "Nome": "Malefic",
+       "Ícone":"![Malefic](https://ffxiv.gamerescape.com/w/images/thumb/d/d7/Malefic_Icon.png/60px-Malefic_Icon.png)", 
+       "Adquirido": "Lv. 1",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 150."
+    },
+    {
+        "Nome": "Benefic",
+       "Ícone":"![Benefic](https://ffxiv.gamerescape.com/w/images/thumb/c/c2/Benefic_Icon.png/60px-Benefic_Icon.png)", 
+       "Adquirido": "Lv. 2",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Restaura o HP do alvo. Pot\u00eancia de Cura: 500 Efeito Adicional: 15% de chance do pr\u00f3ximo Benefic II restaurar o HP cr\u00edtico Dura\u00e7\u00e3o: 15s Revis\u00f5es Pot\u00eancia de cura alterada de 400 para 500."
+    },
+    {
+        "Nome": "Combust",
+       "Ícone":"![Combust](https://ffxiv.gamerescape.com/w/images/thumb/2/24/Combust_Icon.png/60px-Combust_Icon.png)", 
+       "Adquirido": "Lv. 4",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 40Dura\u00e7\u00e3o: 18s"
+    },
+    {
+        "Nome": "Lightspeed",
+       "Ícone":"![Lightspeed](https://ffxiv.gamerescape.com/w/images/thumb/b/bb/Lightspeed_Icon.png/60px-Lightspeed_Icon.png)", 
+       "Adquirido": "Lv. 6",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "Custo de MP": "-",
+        "Efeito": "Reduz o tempo de lan\u00e7amento de feiti\u00e7os em 2,5 segundos. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Helios",
+       "Ícone":"![Helios](https://ffxiv.gamerescape.com/w/images/thumb/1/15/Helios_Icon.png/60px-Helios_Icon.png)", 
+       "Adquirido": "Lv. 10",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "700 MP",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia de Cura: 400 Revis\u00f5es Pot\u00eancia de cura alterada de 330 para 400. Tempo de conjura\u00e7\u00e3o alterado de 2s para 1,5s."
+    },
+    {
+        "Nome": "Ascend",
+       "Ícone":"![Ascend](https://ffxiv.gamerescape.com/w/images/thumb/7/70/Ascend_Icon.png/60px-Ascend_Icon.png)", 
+       "Adquirido": "Lv. 12",
+        "Cast": "8s",
+        "Recarga": "2.5s",
+        "Custo de MP": "2400 MP",
+        "Efeito": "Ressuscita o alvo para um estado enfraquecido."
+    },
+    {
+        "Nome": "Essential Dignity",
+       "Ícone":"![Essntial Dignity](https://ffxiv.gamerescape.com/w/images/thumb/6/66/Essential_Dignity_Icon.png/60px-Essential_Dignity_Icon.png)", 
+       "Adquirido": "Lv. 15",
+        "Cast": "Instant",
+        "Recarga": "40s",
+        "Custo de MP": "-",
+        "Efeito": "Restaura o HP do alvo. Pot\u00eancia de cura: 400 A pot\u00eancia aumenta at\u00e9 900 \u00e0 medida que o HP do alvo diminui, atingindo seu valor m\u00e1ximo quando o alvo tem 30% de HP ou menos. Cargas m\u00e1ximas: 2 revis\u00f5es alteradas &quot;A pot\u00eancia aumenta at\u00e9 1.100 \u00e0 medida que o HP do alvo diminui. &quot; para &quot;A pot\u00eancia aumenta at\u00e9 900 \u00e0 medida que o HP do alvo diminui, atingindo seu valor m\u00e1ximo quando o alvo tem 30% de HP ou menos.&quot;"
+    },
+    {
+        "Nome": "Benefic II",
+       "Ícone":"![Benefic II](https://ffxiv.gamerescape.com/w/images/thumb/0/0f/Benefic_II_Icon.png/60px-Benefic_II_Icon.png)", 
+       "Adquirido": "Lv. 26",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "700 MP",
+        "Efeito": "Restaura HP. Pot\u00eancia de cura do alvo: 800 Revis\u00f5es Pot\u00eancia de cura alterada de 700 para 800. Tempo de conjura\u00e7\u00e3o alterado de 2s para 1,5s."
+    },
+    {
+        "Nome": "Draw",
+       "Ícone":"![Draw](https://ffxiv.gamerescape.com/w/images/thumb/6/6e/Draw_Icon.png/60px-Draw_Icon.png)", 
+       "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo de MP": "-",
+        "Efeito": "Compra uma carta (arcanum) do seu baralho de adivinha\u00e7\u00e3o. Apenas um arcano pode ser sacado por vez.Efeito Arcano pode ser acionado usando a a\u00e7\u00e3o Play.Efeito Adicional: Restaura 5% do MP m\u00e1ximo Efeito Adicional: Concede Saque Esclarecedor, permitindo a execu\u00e7\u00e3o de RedrawCargas M\u00e1ximas: 2 Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram foi completamente renovado."
+    },
+    {
+        "Nome": "Undraw",
+       "Ícone":"![Undraw](https://ffxiv.gamerescape.com/w/images/thumb/d/d5/Undraw_Icon.png/60px-Undraw_Icon.png)", 
+       "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo de MP": "-",
+        "Efeito": "Retorna o arcano atualmente desenhado de volta ao seu baralho."
+    },
+    {
+        "Nome": "Play",
+       "Ícone":"![Play](https://ffxiv.gamerescape.com/w/images/thumb/6/6a/Play_Icon.png/60px-Play_Icon.png)", 
+       "Adquirido": "Lv. 30",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo de MP": "-",
+        "Efeito": "Aciona o efeito do seu arcano sacado."
+    },
+    {
+        "Nome": "Aspected Benefic",
+       "Ícone":"![Aspected Benefic](https://ffxiv.gamerescape.com/w/images/thumb/2/23/Aspected_Benefic_Icon.png/60px-Aspected_Benefic_Icon.png)", 
+       "Adquirido": "Lv. 34",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 250 Efeito Adicional: RegenCure Pot\u00eancia: 250 Dura\u00e7\u00e3o: 15s Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Aspected Helios",
+       "Ícone":"![Aspected Helios](https://ffxiv.gamerescape.com/w/images/thumb/d/de/Aspected_Helios_Icon.png/60px-Aspected_Helios_Icon.png)", 
+       "Adquirido": "Lv. 42",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "800 MP",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de Cura: 250 Efeito Adicional: RegenCure Pot\u00eancia: 150 Dura\u00e7\u00e3o: 15s Revis\u00f5es Atualizado os efeitos. Tempo de conjura\u00e7\u00e3o alterado de 2s para 1,5s."
+    },
+    {
+        "Nome": "Gravity ",
+       "Ícone":"![Gravity](https://ffxiv.gamerescape.com/w/images/thumb/c/c0/Gravity_Icon.png/60px-Gravity_Icon.png)", 
+       "Adquirido": "Lv. 45",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 120 no alvo e em todos os inimigos pr\u00f3ximos. A pot\u00eancia das revis\u00f5es foi alterada de 140 para 120. O custo de MP foi alterado de 600 para 400."
+    },
+    {
+        "Nome": "Combust II",
+       "Ícone":"![Combust II](https://ffxiv.gamerescape.com/w/images/thumb/6/64/Combust_II_Icon.png/60px-Combust_II_Icon.png)", 
+       "Adquirido": "Lv. 46",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 50Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Synastry",
+       "Ícone":"![Synastry](https://ffxiv.gamerescape.com/w/images/thumb/2/2f/Synastry_Icon.png/60px-Synastry_Icon.png)", 
+       "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo de MP": "-",
+        "Efeito": "Gere um v\u00ednculo et\u00e9reo com o membro do grupo alvo. Cada vez que voc\u00ea lan\u00e7ar um feiti\u00e7o de cura de alvo \u00fanico em voc\u00ea ou em um membro do grupo, o membro do grupo com quem voc\u00ea tem o v\u00ednculo tamb\u00e9m recuperar\u00e1 HP igual a 40% do feiti\u00e7o original. Dura\u00e7\u00e3o: 20s"
+    },
+    {
+        "Nome": "Divination",
+       "Ícone":"![Divination](https://ffxiv.gamerescape.com/w/images/thumb/e/e8/Divination_Icon.png/60px-Divination_Icon.png)", 
+       "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo de MP": "-",
+        "Efeito": "Aumenta em 6% o dano causado por si mesmo e por membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: 15s Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Astrodyne",
+       "Ícone":"![Astrodyne](https://ffxiv.gamerescape.com/w/images/thumb/9/91/Astrodyne_Icon.png/60px-Astrodyne_Icon.png)", 
+       "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo de MP": "-",
+        "Efeito": "Concede um efeito usando os signos lidos do seu baralho de adivinha\u00e7\u00e3o. S\u00f3 pode ser executado ap\u00f3s a leitura de tr\u00eas signos. Os efeitos concedidos s\u00e3o determinados pelo n\u00famero de diferentes tipos de signos lidos. e Harmonia do Corpo 3 Tipos de Sinais: Concede Harmonia do Esp\u00edrito, Harmonia do Corpo e Harmonia da Mente Dura\u00e7\u00e3o: 15s Harmonia do Esp\u00edrito Efeito: Restaura gradualmente o pr\u00f3prio MPPotency: 50 Harmonia do Corpo Efeito: Reduz o tempo de lan\u00e7amento de feiti\u00e7os e o tempo de relan\u00e7amento e o atraso de ataque autom\u00e1tico em 10% Harmony of Mind Effect: Aumenta o dano causado e a pot\u00eancia de cura em 5%"
+    },
+    {
+        "Nome": "Malefic II",
+       "Ícone":"![Malefic II](https://ffxiv.gamerescape.com/w/images/thumb/c/ce/Malefic_II_Icon.png/60px-Malefic_II_Icon.png)", 
+       "Adquirido": "Lv. 54",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 160. Revis\u00f5es Pot\u00eancia alterada de 170 para 160."
+    },
+    {
+        "Nome": "Collective Unconscious",
+       "Ícone":"![Collective Unconscious](https://ffxiv.gamerescape.com/w/images/thumb/6/67/Collective_Unconscious_Icon.png/60px-Collective_Unconscious_Icon.png)", 
+       "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo de MP": "-",
+        "Efeito": "Cria um anel celestial ao redor do lan\u00e7ador.Efeito Adicional: Reduz o dano recebido em 10% e aplica a Roda da Fortuna a si mesmo e a qualquer membro do grupo que entrar. inclusive de frente para uma dire\u00e7\u00e3o diferente). Cancela o auto-ataque na execu\u00e7\u00e3o. Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Celestial Opposition",
+       "Ícone":"![Celestial Opposition](https://ffxiv.gamerescape.com/w/images/thumb/5/5b/Celestial_Opposition_Icon.png/60px-Celestial_Opposition_Icon.png)", 
+       "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo de MP": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia de Cura: 200 Efeito Adicional: RegenCure Pot\u00eancia: 100 Dura\u00e7\u00e3o: 15s Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Earthly Star",
+       "Ícone":"![Earthly Star](https://ffxiv.gamerescape.com/w/images/thumb/1/1b/Earthly_Star_Icon.png/60px-Earthly_Star_Icon.png)", 
+       "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo de MP": "-",
+        "Efeito": "Implanta uma Estrela Terrestre na \u00e1rea designada e concede o efeito de Dom\u00ednio Terrestre. Dura\u00e7\u00e3o: 10s Executar Detona\u00e7\u00e3o Estelar sob o efeito de Dom\u00ednio Terrestre cria uma Explos\u00e3o Estelar causando dano inesperado com uma pot\u00eancia de 205 a todos os inimigos pr\u00f3ximos. Tamb\u00e9m restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia de cura: 540Ap\u00f3s 10s, o efeito de Dom\u00ednio Terrestre \u00e9 alterado para Dom\u00ednio Gigante. Dura\u00e7\u00e3o: 10s Esperar 10s ou executar Detona\u00e7\u00e3o Estelar enquanto estiver sob o efeito de Dom\u00ednio Gigante cria uma Explos\u00e3o Estelar causando dano inesperado com uma pot\u00eancia de 310 para todos os inimigos pr\u00f3ximos. Tamb\u00e9m restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos.Cure Potency: 720 Revis\u00f5es A pot\u00eancia do Stellar Burst mudou de 100 para 205.A pot\u00eancia da Explos\u00e3o Estelar de 150 para 310.O raio da \u00e1rea mudou de 8 para 20."
+    },
+    {
+        "Nome": "Stellar Detonation",
+       "Ícone":"![Stellar Detonation](https://ffxiv.gamerescape.com/w/images/thumb/9/91/Stellar_Detonation_Icon.png/60px-Stellar_Detonation_Icon.png)", 
+       "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "3s",
+        "Custo de MP": "-",
+        "Efeito": "Enquanto estiver sob o efeito de Earthly Dominance, detona a Earthly Star atualmente implantada, criando um Stellar Burst que causa dano inesperado com uma pot\u00eancia de 205 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos Pot\u00eancia de cura: 540Enquanto sob o efeito de Giant Dominance, detona a Earthly Star atualmente implantada, criando uma Stellar Explosion que causa dano inesperado com uma pot\u00eancia de 310 a todos os inimigos pr\u00f3ximos.Efeito Adicional: Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos Pot\u00eancia de cura: 720 revis\u00f5es A pot\u00eancia da Explos\u00e3o Estelar foi alterada de 100 para 205. A pot\u00eancia da Explos\u00e3o Estelar de 150 para 310. O raio da \u00e1rea foi alterado de 8 para 20."
+    },
+    {
+        "Nome": "Malefic III",
+       "Ícone":"![Malefic III](https://ffxiv.gamerescape.com/w/images/thumb/b/bb/Malefic_III_Icon.png/60px-Malefic_III_Icon.png)", 
+       "Adquirido": "Lv. 64",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 190. Revis\u00f5es Pot\u00eancia alterada de 210 para 190."
+    },
+    {
+        "Nome": "Minor Arcana",
+       "Ícone":"![Minor Arcana](https://ffxiv.gamerescape.com/w/images/thumb/f/f2/Minor_Arcana_Icon.png/60px-Minor_Arcana_Icon.png)", 
+       "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo de MP": "-",
+        "Efeito": "Desenha o Lord of Crowns ou a Lady of Crowns do seu deck de adivinha\u00e7\u00e3o. O efeito Arcano pode ser acionado usando a a\u00e7\u00e3o Crown Play. S\u00f3 pode ser executado durante o combate. Revis\u00f5es N\u00edvel de aprendizado alterado de 50 para 70. Efeitos atualizados. Tempo de Recarga alterado de 1s para 60s."
+    },
+    {
+        "Nome": "Crown Play",
+       "Ícone":"![Crown Play](https://ffxiv.gamerescape.com/w/images/thumb/a/a9/Crown_Play_Icon.png/60px-Crown_Play_Icon.png)", 
+       "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo de MP": "-",
+        "Efeito": "Aciona o efeito do seu arcano sacado."
+    },
+    {
+        "Nome": "Combust III",
+       "Ícone":"![Combust III](https://ffxiv.gamerescape.com/w/images/thumb/2/2b/Combust_III_Icon.png/60px-Combust_III_Icon.png)", 
+       "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 55 Dura\u00e7\u00e3o: 30s Revis\u00f5es Pot\u00eancia alterada de 60 para 55."
+    },
+    {
+        "Nome": "Malefic IV",
+       "Ícone":"![Malefic IV](https://ffxiv.gamerescape.com/w/images/thumb/a/a8/Malefic_IV_Icon.png/60px-Malefic_IV_Icon.png)", 
+       "Adquirido": "Lv. 72",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 230. Revis\u00f5es Pot\u00eancia alterada de 250 para 230."
+    },
+    {
+        "Nome": "Celestial Intersection",
+       "Ícone":"![Celestial Intersection](https://ffxiv.gamerescape.com/w/images/thumb/4/4f/Celestial_Intersection_Icon.png/60px-Celestial_Intersection_Icon.png)", 
+       "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "Custo de MP": "-",
+        "Efeito": "Restaura o HP pr\u00f3prio ou do membro do grupo alvo. Pot\u00eancia de Cura: 200 Adicional Seita Efeito: Erige uma barreira m\u00e1gica que anula o dano igual a 200% da quantidade de HP restaurada Dura\u00e7\u00e3o: 30s Cargas M\u00e1ximas: 2 Revis\u00f5es Adicionado &quot;Cargas M\u00e1ximas: 2.&quot; .&quot;Exclu\u00eddo &quot;S\u00f3 pode ser executado enquanto estiver sob o efeito da Seita Diurna ou Seita Noturna.&quot;"
+    },
+    {
+        "Nome": "Horoscope",
+       "Ícone":"![Horoscope](https://ffxiv.gamerescape.com/w/images/thumb/d/d8/Horoscope_Icon.png/60px-Horoscope_Icon.png)", 
+       "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo de MP": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. A pot\u00eancia \u00e9 determinada pelo efeito Hor\u00f3scopo dos membros do grupo. O efeito expira ap\u00f3s a execu\u00e7\u00e3o. Pot\u00eancia do Hor\u00f3scopo: 200 Pot\u00eancia do Hor\u00f3scopo Helios: 400"
+    },
+    {
+        "Nome": "Neutral Sect",
+       "Ícone":"![Neutral Sect](https://ffxiv.gamerescape.com/w/images/thumb/3/3d/Neutral_Sect_Icon.png/60px-Neutral_Sect_Icon.png)", 
+       "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "Custo de MP": "-",
+        "Efeito": "Aumenta a pot\u00eancia m\u00e1gica de cura em 20%. Dura\u00e7\u00e3o: 20sEfeito Adicional: Ao lan\u00e7ar Aspected Benefic ou Aspected Helios, ergue uma barreira m\u00e1gica que anula o danoAspected Benefic Effect: Anula o dano igual a 250% da quantidade de HP restauradoAspected Helios Effect: Anula o dano igual a 125% da quantidade de HP restaurada Dura\u00e7\u00e3o: 30s Revis\u00f5es Os efeitos desta a\u00e7\u00e3o foram completamente renovados."
+    },
+    {
+        "Nome": "Fall Malefic",
+       "Ícone":"![Fall Malefic](https://ffxiv.gamerescape.com/w/images/thumb/4/48/Fall_Malefic_Icon.png/60px-Fall_Malefic_Icon.png)", 
+       "Adquirido": "Lv. 82",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 250."
+    },
+    {
+        "Nome": "Gravity II",
+       "Ícone":"![Gravity II](https://ffxiv.gamerescape.com/w/images/thumb/1/11/Gravity_II_Icon.png/60px-Gravity_II_Icon.png)", 
+       "Adquirido": "Lv. 82",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "Custo de MP": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 130 no alvo e em todos os inimigos pr\u00f3ximos."
+    },
+    {
+        "Nome": "Exaltation",
+       "Ícone":"![Exaltation](https://ffxiv.gamerescape.com/w/images/thumb/6/67/Exaltation_Icon.png/60px-Exaltation_Icon.png)", 
+       "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "Custo de MP": "-",
+        "Efeito": "Reduz o dano recebido por si mesmo ou por um membro do grupo alvo em 10%. Dura\u00e7\u00e3o: 8s Efeito Adicional: Restaura HP no final da dura\u00e7\u00e3o do efeito Pot\u00eancia de Cura: 500"
+    },
+    {
+        "Nome": "Macrocosmos",
+       "Ícone":"![Macrocosmos](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/Macrocosmos_Icon.png/60px-Macrocosmos_Icon.png)", 
+       "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "180s",
+        "Custo de MP": "600 MP",
+        "Efeito": "Causa dano inesperado a todos os inimigos pr\u00f3ximos com uma pot\u00eancia de 250 para o primeiro inimigo e 40% menos para todos os inimigos restantes.Efeito Adicional: Concede Macrocosmos a si mesmo e a todos os membros do grupo pr\u00f3ximos Dura\u00e7\u00e3o: 15sA a\u00e7\u00e3o muda para Microcosmos ap\u00f3s a execu\u00e7\u00e3o.Para a dura\u00e7\u00e3o do efeito , 50% do dano recebido \u00e9 compilado.Restaura HP igual a uma cura de 200 de pot\u00eancia mais dano compilado quando o efeito expira ou na execu\u00e7\u00e3o de Microcosmos.A quantidade restaurada n\u00e3o pode exceder o HP m\u00e1ximo do alvo.Esta a\u00e7\u00e3o n\u00e3o compartilha um temporizador de Recarga com nenhum outras a\u00e7\u00f5es."
+    },
+    {
+        "Nome": "Microcosmos",
+       "Ícone":"![Microcosmos](https://ffxiv.gamerescape.com/w/images/thumb/8/8e/Microcosmos_Icon.png/60px-Microcosmos_Icon.png)", 
+       "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "Custo de MP": "-",
+        "Efeito": "Aciona o efeito de cura do Macrocosmos, restaurando HP igual a uma cura de 200 de pot\u00eancia mais 50% do dano compilado. A quantidade restaurada n\u00e3o pode exceder o HP m\u00e1ximo do alvo."
+    }
+]

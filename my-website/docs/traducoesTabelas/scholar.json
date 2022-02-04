@@ -1,0 +1,335 @@
+[
+    {
+        "Nome": "Ruin",
+        "Ícone": "![Ruin](https://ffxiv.gamerescape.com/w/images/thumb/d/d8/Ruin_%28Scholar%29_Icon.png/60px-Ruin_%28Scholar%29_Icon.png)",
+        "Adquirido": "Lv. 1",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 150. Revis\u00f5es Pot\u00eancia alterada de 160 para 150. Tempo de conjura\u00e7\u00e3o alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Bio",
+        "Ícone": "![Bio](https://ffxiv.gamerescape.com/w/images/thumb/e/eb/Bio_%28Scholar%29_Icon.png/60px-Bio_%28Scholar%29_Icon.png)",
+        "Adquirido": "Lv. 2",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 20Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Physick",
+        "Ícone": "![Physick](https://ffxiv.gamerescape.com/w/images/thumb/b/b5/Physick_%28Scholar%29_Icon.png/60px-Physick_%28Scholar%29_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Restaura HP.Cure Potency do alvo: 450 Revis\u00f5es Pot\u00eancia de cura alterada de 400 para 450."
+    },
+    {
+        "Nome": "Summon Eos",
+        "Ícone": "![Summon Eos](https://ffxiv.gamerescape.com/w/images/thumb/3/34/Summon_Eos_Icon.png/60px-Summon_Eos_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "200 MP",
+        "Efeito": "Convoca a fada Eos para lutar ao seu lado. Quando definido como guarda, automaticamente lan\u00e7a Abra\u00e7o nos membros do grupo que sofrem danos. O tempo de lan\u00e7amento das revis\u00f5es mudou de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Summon Selene",
+        "Ícone": "![Summon Selene](https://ffxiv.gamerescape.com/w/images/thumb/c/cf/Summon_Selene_Icon.png/60px-Summon_Selene_Icon.png)",
+        "Adquirido": "Lv. 4",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "200 MP",
+        "Efeito": "Convoca a fada Selene para lutar ao seu lado. Quando definido como guarda, automaticamente lan\u00e7a Abra\u00e7o nos membros do grupo que sofrem dano. O tempo de lan\u00e7amento das revis\u00f5es mudou de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Resurrection",
+        "Ícone": "![Resurrection](https://ffxiv.gamerescape.com/w/images/thumb/a/a0/Resurrection_Icon.png/60px-Resurrection_Icon.png)",
+        "Adquirido": "Lv. 12",
+        "Cast": "8s",
+        "Recarga": "2.5s",
+        "MP Cost": "2400 MP",
+        "Efeito": "Ressuscita o alvo para um estado enfraquecido."
+    },
+    {
+        "Nome": "Whispering Dawn",
+        "Ícone": "![Whispering Dawn](https://ffxiv.gamerescape.com/w/images/thumb/1/13/Whispering_Dawn_Icon.png/60px-Whispering_Dawn_Icon.png)",
+        "Adquirido": "Lv. 20",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Ordena que as fadas executem Whispering Dawn. Se Seraph for invocado, ordena que ela execute Angel&#39;s Whisper. Whispering Dawn\/Angel&#39;s Whisper Efeito: Gradualmente restaura o HP de todos os membros pr\u00f3ximos do grupo Pot\u00eancia de cura: 80 Dura\u00e7\u00e3o: 21s Revis\u00f5es Pot\u00eancia de cura alterada de 120 para 80."
+    },
+    {
+        "Nome": "Bio II",
+        "Ícone": "![Bio II](https://ffxiv.gamerescape.com/w/images/thumb/f/fd/Bio_II_Icon.png/60px-Bio_II_Icon.png)",
+        "Adquirido": "Lv. 26",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 40Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Adloquium",
+        "Ícone": "![Adloquium](https://ffxiv.gamerescape.com/w/images/thumb/4/47/Adloquium_Icon.png/60px-Adloquium_Icon.png)",
+        "Adquirido": "Lv. 30",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "MP Cost": "1000 MP",
+        "Efeito": "Restaura HP do alvo. Pot\u00eancia de Cura: 300 Efeito Adicional: Concede Galvanizar ao alvo, anulando o dano igual a 180% da quantidade de HP restaurada. Quando HP cr\u00edtico \u00e9 restaurado, tamb\u00e9m concede Catalyze, anulando o dano igual a 180% da quantidade de HP restaurada. Dura\u00e7\u00e3o: 30sEffect n\u00e3o pode ser empilhado com certos efeitos de barreira de s\u00e1lvia. Revis\u00f5es A quantidade de efeito de barreira foi alterada de &quot;dano anulado igual a 125%&quot; para &quot;dano anulado igual a 180%.&quot;"
+    },
+    {
+        "Nome": "Succor",
+        "Ícone": "![Succor](https://ffxiv.gamerescape.com/w/images/thumb/8/85/Succor_Icon.png/60px-Succor_Icon.png)",
+        "Adquirido": "Lv. 35",
+        "Cast": "2s",
+        "Recarga": "2.5s",
+        "MP Cost": "1000 MP",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros pr\u00f3ximos do grupo. Pot\u00eancia de cura: 200Efeito adicional: Ergue uma barreira m\u00e1gica que anula o dano igual a 160% da quantidade de HP restaurada. Revis\u00f5es A quantidade de efeito de barreira foi alterada de &quot;dano anulado igual a 125%&quot; para &quot;dano anulado igual a 160%.&quot;"
+    },
+    {
+        "Nome": "Ruin II",
+        "Ícone": "![Ruin II](https://ffxiv.gamerescape.com/w/images/thumb/9/95/Ruin_II_%28Scholar%29_Icon.png/60px-Ruin_II_%28Scholar%29_Icon.png)",
+        "Adquirido": "Lv. 38",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 220. Revis\u00f5es Pot\u00eancia alterada de 200 para 220."
+    },
+    {
+        "Nome": "Fey Illumination",
+        "Ícone": "![Fey Illumination](https://ffxiv.gamerescape.com/w/images/thumb/9/9b/Fey_Illumination_Icon.png/60px-Fey_Illumination_Icon.png)",
+        "Adquirido": "Lv. 40",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "MP Cost": "-",
+        "Efeito": "Ordena que as fadas executem a Ilumina\u00e7\u00e3o Fe\u00e9rica. Se Seraph for invocado, ordena que ela execute Seraphic Illumination.Fey Illumination\/Seraphic Illumination Effect: Aumenta a pot\u00eancia m\u00e1gica de cura de todos os membros do grupo pr\u00f3ximos em 10%, enquanto reduz o dano m\u00e1gico recebido por todos os membros do grupo pr\u00f3ximos em 5% Dura\u00e7\u00e3o: 20s O efeito n\u00e3o pode ser empilhados com Ilumina\u00e7\u00e3o Ser\u00e1fica."
+    },
+    {
+        "Nome": "Aetherflow",
+        "Ícone": "![Aetherflow](https://ffxiv.gamerescape.com/w/images/thumb/6/6a/Aetherflow_Icon.png/60px-Aetherflow_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Restaura 20% do MP m\u00e1ximo.Efeito Adicional: Aetherflow IIIS\u00f3 pode ser executado em combate. O valor da regenera\u00e7\u00e3o de MP das revis\u00f5es foi alterado de &quot;10% do MP m\u00e1ximo&quot; para &quot;20% do MP m\u00e1ximo&quot;."
+    },
+    {
+        "Nome": "Energy Drain",
+        "Ícone": "![Energy Drain](https://ffxiv.gamerescape.com/w/images/thumb/9/9e/Energy_Drain_%28Scholar%29_Icon.png/60px-Energy_Drain_%28Scholar%29_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 100.Efeito Adicional: Absorve uma parte do dano causado como HPEfeito Adicional: Aumenta o Medidor de Faerie em 10Aetherflow Gauge Custo: 1 Revis\u00f5es Exclu\u00eddas &quot;Restaura MP.&quot; Tempo de relan\u00e7amento alterado de 3s para 1s."
+    },
+    {
+        "Nome": "Lustrate",
+        "Ícone": "![Lustrate](https://ffxiv.gamerescape.com/w/images/thumb/0/0f/Lustrate_Icon.png/60px-Lustrate_Icon.png)",
+        "Adquirido": "Lv. 45",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Restaura o HP do alvo. Pot\u00eancia de Cura: 600 Efeito Adicional: Aumenta o Medidor de Faerie em 10 Medidor de Fluxo Aether Custo: 1"
+    },
+    {
+        "Nome": "Art of War",
+        "Ícone": "![Art of War](https://ffxiv.gamerescape.com/w/images/thumb/2/21/Art_of_War_Icon.png/60px-Art_of_War_Icon.png)",
+        "Adquirido": "Lv. 46",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 165 a todos os inimigos pr\u00f3ximos. Revis\u00f5es Pot\u00eancia alterada de 160 para 165. Custo de MP alterado de 600 para 400."
+    },
+    {
+        "Nome": "Sacred Soil",
+        "Ícone": "![Sacred Soil](https://ffxiv.gamerescape.com/w/images/thumb/0/07/Sacred_Soil_Icon.png/60px-Sacred_Soil_Icon.png)",
+        "Adquirido": "Lv. 50",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Cria uma \u00e1rea designada na qual os membros do grupo sofrer\u00e3o apenas 90% de todos os danos infligidos. Dura\u00e7\u00e3o: 15sEfeito Adicional: RegenCure Pot\u00eancia: 100Efeito Adicional: Aumenta o Medidor de Faerie em 10Aetherflow Gauge Custo: 1"
+    },
+    {
+        "Nome": "Indomitability",
+        "Ícone": "![Indomitability](https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Indomitability_Icon.png/60px-Indomitability_Icon.png)",
+        "Adquirido": "Lv. 52",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Restaura o pr\u00f3prio HP e o HP de todos os membros do grupo pr\u00f3ximos. Pot\u00eancia de Cura: 400 Efeito Adicional: Aumenta o Medidor de Faerie em 10 Medidor de Fluxo de Aether Custo: 1"
+    },
+    {
+        "Nome": "Broil",
+        "Ícone": "![Broil](https://ffxiv.gamerescape.com/w/images/thumb/3/3b/Broil_Icon.png/60px-Broil_Icon.png)",
+        "Adquirido": "Lv. 54",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 220. Revis\u00f5es Pot\u00eancia alterada de 240 para 220. Tempo de conjura\u00e7\u00e3o alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Deployment Tactics",
+        "Ícone": "![Deployment Tactics](https://ffxiv.gamerescape.com/w/images/thumb/3/37/Deployment_Tactics_Icon.png/60px-Deployment_Tactics_Icon.png)",
+        "Adquirido": "Lv. 56",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "MP Cost": "-",
+        "Efeito": "Estende o efeito de Galvanizar lan\u00e7ado em si mesmo ou no alvo para membros pr\u00f3ximos do grupo. Dura\u00e7\u00e3o: Tempo restante no efeito original Nenhum efeito quando o alvo n\u00e3o est\u00e1 sob o efeito de Galvanizar. O intervalo da \u00e1rea de revis\u00f5es foi alterado de 10 para 15. O tempo de reformula\u00e7\u00e3o foi alterado de 120s para 90s."
+    },
+    {
+        "Nome": "Emergency Tactics",
+        "Ícone": "![Emergency Tactics](https://ffxiv.gamerescape.com/w/images/thumb/5/5e/Emergency_Tactics_Icon.png/60px-Emergency_Tactics_Icon.png)",
+        "Adquirido": "Lv. 58",
+        "Cast": "Instant",
+        "Recarga": "15s",
+        "MP Cost": "-",
+        "Efeito": "Transforma os pr\u00f3ximos status de Galvanizar e Catalisar em recupera\u00e7\u00e3o de HP igual \u00e0 quantidade de redu\u00e7\u00e3o de dano pretendida para a barreira. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Dissipation",
+        "Ícone": "![Dissipation](https://ffxiv.gamerescape.com/w/images/thumb/c/cd/Dissipation_Icon.png/60px-Dissipation_Icon.png)",
+        "Adquirido": "Lv. 60",
+        "Cast": "Instant",
+        "Recarga": "180s",
+        "MP Cost": "-",
+        "Efeito": "Ordena sua fada embora enquanto concede a voc\u00ea uma pilha completa de Aetherflow. Tamb\u00e9m aumenta a pot\u00eancia m\u00e1gica de cura em 20%. Dura\u00e7\u00e3o: 30s A fada atual retornar\u00e1 quando o efeito expirar. Invocar Eos ou Invocar Selene n\u00e3o pode ser executado enquanto estiver sob o efeito de Dissipa\u00e7\u00e3o. S\u00f3 pode ser executado em combate."
+    },
+    {
+        "Nome": "Excogitation",
+        "Ícone": "![Excogitation](https://ffxiv.gamerescape.com/w/images/thumb/8/88/Excogitation_Icon.png/60px-Excogitation_Icon.png)",
+        "Adquirido": "Lv. 62",
+        "Cast": "Instant",
+        "Recarga": "45s",
+        "MP Cost": "-",
+        "Efeito": "Concede a si mesmo ou ao membro alvo do grupo o efeito de Excogita\u00e7\u00e3o, restaurando HP quando o HP do membro cai abaixo de 50% ou ao t\u00e9rmino da dura\u00e7\u00e3o do efeito. Pot\u00eancia de Cura: 800 Dura\u00e7\u00e3o: 45sEfeito Adicional: Aumenta o Medidor de Faerie em 10Aetherflow Gauge Custo: 1"
+    },
+    {
+        "Nome": "Broil II",
+        "Ícone": "![Broil II](https://ffxiv.gamerescape.com/w/images/thumb/7/70/Broil_II_Icon.png/60px-Broil_II_Icon.png)",
+        "Adquirido": "Lv. 64",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 240. Revis\u00f5es Pot\u00eancia alterada de 260 para 240. Tempo de lan\u00e7amento alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Chain Stratagem",
+        "Ícone": "![Chain Stratagem](https://ffxiv.gamerescape.com/w/images/thumb/3/3e/Chain_Stratagem_Icon.png/60px-Chain_Stratagem_Icon.png)",
+        "Adquirido": "Lv. 66",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "MP Cost": "-",
+        "Efeito": "Aumenta a taxa em que o alvo recebe acertos cr\u00edticos em 10%. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Aetherpact",
+        "Ícone": "![Aetherpact](https://ffxiv.gamerescape.com/w/images/thumb/2/2b/Aetherpact_%28Scholar%29_Icon.png/60px-Aetherpact_%28Scholar%29_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "3s",
+        "MP Cost": "-",
+        "Efeito": "Ordena que as fadas executem Fey Union com o membro do grupo alvo. O efeito termina com a reutiliza\u00e7\u00e3o.Faerie Gauge Custo: 10 O Faerie Gauge aumenta quando uma fada ou Seraph \u00e9 invocado e uma a\u00e7\u00e3o de Aetherflow \u00e9 executada com sucesso durante o combate."
+    },
+    {
+        "Nome": "Dissolve Union",
+        "Ícone": "![Dissolve Union](https://ffxiv.gamerescape.com/w/images/thumb/3/3a/Dissolve_Union_Icon.png/60px-Dissolve_Union_Icon.png)",
+        "Adquirido": "Lv. 70",
+        "Cast": "Instant",
+        "Recarga": "1s",
+        "MP Cost": "-",
+        "Efeito": "Dissolve a atual Uni\u00e3o Fey."
+    },
+    {
+        "Nome": "Biolysis",
+        "Ícone": "![Biolysis](https://ffxiv.gamerescape.com/w/images/thumb/5/5a/Biolysis_Icon.png/60px-Biolysis_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado ao longo do tempo. Pot\u00eancia: 70Dura\u00e7\u00e3o: 30s"
+    },
+    {
+        "Nome": "Broil III",
+        "Ícone": "![Broil III](https://ffxiv.gamerescape.com/w/images/thumb/2/29/Broil_III_Icon.png/60px-Broil_III_Icon.png)",
+        "Adquirido": "Lv. 72",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 255. Revis\u00f5es Pot\u00eancia alterada de 290 para 255. Tempo de conjura\u00e7\u00e3o alterado de 2,5s para 1,5s."
+    },
+    {
+        "Nome": "Recitation",
+        "Ícone": "![Recitation](https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Recitation_Icon.png/60px-Recitation_Icon.png)",
+        "Adquirido": "Lv. 74",
+        "Cast": "Instant",
+        "Recarga": "90s",
+        "MP Cost": "-",
+        "Efeito": "Permite a execu\u00e7\u00e3o de Adloquium, Succor, Indomitability ou Excogitation sem consumir recursos, ao mesmo tempo em que garante a restaura\u00e7\u00e3o de HP cr\u00edtico. Dura\u00e7\u00e3o: 15s"
+    },
+    {
+        "Nome": "Fey Blessing",
+        "Ícone": "![Fey Blessing](https://ffxiv.gamerescape.com/w/images/thumb/8/80/Consolation_Icon.png/60px-Consolation_Icon.png)",
+        "Adquirido": "Lv. 76",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Ordena a fada para executar Fey Blessing.Fey Blessing Effect: Restaura o HP de todos os membros pr\u00f3ximos do grupo Cure Potency: 320 Revisions Potency alterado de 350 para 320."
+    },
+    {
+        "Nome": "Summon Seraph",
+        "Ícone": "![Summon Seraph](https://ffxiv.gamerescape.com/w/images/thumb/0/0e/Summon_Seraph_Icon.png/60px-Summon_Seraph_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "MP Cost": "-",
+        "Efeito": "Convoca Seraph para lutar ao seu lado. Quando definido para guarda, automaticamente lan\u00e7a Seraphic Veil em membros do grupo que sofrem dano. N\u00e3o pode convocar Seraph a menos que um animal de estima\u00e7\u00e3o j\u00e1 tenha sido convocado. O animal de estima\u00e7\u00e3o atual deixar\u00e1 o campo de batalha enquanto o Serafim estiver presente e retornar\u00e1 quando for embora. Dura\u00e7\u00e3o: 22s\u203bA a\u00e7\u00e3o muda para Consola\u00e7\u00e3o ap\u00f3s a execu\u00e7\u00e3o. Revis\u00f5es Adicionadas &quot;Mudan\u00e7as de a\u00e7\u00e3o para Consola\u00e7\u00e3o na execu\u00e7\u00e3o.&quot;"
+    },
+    {
+        "Nome": "Consolation",
+        "Ícone": "![Consolation](https://ffxiv.gamerescape.com/w/images/thumb/8/80/Consolation_Icon.png/60px-Consolation_Icon.png)",
+        "Adquirido": "Lv. 80",
+        "Cast": "Instant",
+        "Recarga": "30s",
+        "MP Cost": "-",
+        "Efeito": "Ordena Seraph para executar Consolation.Consolation Effect: Restaura o HP de todos os membros do grupo pr\u00f3ximos Pot\u00eancia de cura: 250Efeito adicional: Erige uma barreira m\u00e1gica que anula o dano igual \u00e0 quantidade de HP restaurada. Revis\u00f5es A pot\u00eancia de cura foi alterada de 300 para 250.Adicionado &quot;\u203bEsta a\u00e7\u00e3o n\u00e3o pode ser atribu\u00edda a um hotbar.&quot;"
+    },
+    {
+        "Nome": "Broil IV",
+        "Ícone": "![Broil IV](https://ffxiv.gamerescape.com/w/images/thumb/a/ac/Broil_IV_Icon.png/60px-Broil_IV_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "1.5s",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 295."
+    },
+    {
+        "Nome": "Art of War II",
+        "Ícone": "![Art of War II](https://ffxiv.gamerescape.com/w/images/thumb/e/e1/Art_of_War_II_Icon.png/60px-Art_of_War_II_Icon.png)",
+        "Adquirido": "Lv. 82",
+        "Cast": "Instant",
+        "Recarga": "2.5s",
+        "MP Cost": "400 MP",
+        "Efeito": "Causa dano inesperado com uma pot\u00eancia de 180 a todos os inimigos pr\u00f3ximos."
+    },
+    {
+        "Nome": "Protraction",
+        "Ícone": "![Protraction](https://ffxiv.gamerescape.com/w/images/thumb/e/e4/Protraction_Icon.png/60px-Protraction_Icon.png)",
+        "Adquirido": "Lv. 86",
+        "Cast": "Instant",
+        "Recarga": "60s",
+        "MP Cost": "-",
+        "Efeito": "Aumenta o HP m\u00e1ximo de um membro do grupo ou de si mesmo em 10% e restaura a quantidade aumentada.Efeito Adicional: Aumenta a recupera\u00e7\u00e3o de HP atrav\u00e9s de a\u00e7\u00f5es de cura em 10%Dura\u00e7\u00e3o: 10s"
+    },
+    {
+        "Nome": "Expedient",
+        "Ícone": "![Expedient](https://ffxiv.gamerescape.com/w/images/thumb/0/07/Expedient_Icon.png/60px-Expedient_Icon.png)",
+        "Adquirido": "Lv. 90",
+        "Cast": "Instant",
+        "Recarga": "120s",
+        "MP Cost": "-",
+        "Efeito": "Concede Expedience e Desperate Measures a todos os membros do grupo pr\u00f3ximos.Efeito de Experi\u00eancia: Aumenta a velocidade de movimento Efeito de Desperate Measures: Reduz o dano recebido em 10% Dura\u00e7\u00e3o: 20s"
+    }
+]
