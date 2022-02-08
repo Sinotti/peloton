@@ -73,7 +73,7 @@ novatos: [
   {
     type: 'category',
       label: 'Introdução',
-      items: ['novatos/introducaoNv', 'novatos/custos', 'novatos/termosIcones', 'novatos/grandCompany', 'novatos/glamour', 'novatos/freeCompany', 'novatos/traducao'] 
+      items: ['novatos/introducaoNv', 'novatos/custos', 'novatos/termosIcones', 'novatos/grandCompany', 'novatos/glamour', 'novatos/freeCompany', 'novatos/traducao', 'novatos/Dungeons'] 
   },
 
   

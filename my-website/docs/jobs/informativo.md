@@ -11,10 +11,11 @@ sidebar_label: Informativo
 
 **Seja bem vindo ao guia das classes, em Final Fantasy XIV elas são referiadas como Jobs.**
 
-- Neste guia você poderá encontrar um resumo da classe, dicas e até mesmo habilidades 100% traduzidas
+- Neste guia você poderá encontrar um resumo da classe, dicas e até mesmo habilidades 100% traduzidas.
 
-- Algo muito interessante é que você pode ter todas as classes no mesmo personagem, ou seja, não está gostando de sua classe atual? Basta procurar o treinador da classe que deseja, pegar sua quest e em seguida trocar 
+- Algo muito interessante é que você pode ter todas as classes no mesmo personagem, ou seja, não está gostando de sua classe atual? Basta procurar o treinador da classe que deseja, pegar sua quest e em seguida trocar.
 
+- Imagens das quests retiradas do site [Console Games Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki).
 
 :::tip Número de classes
 - Na tela de criação de personagem inicialmente você não irá encontrar todas as classes, isso se deve ao fato de todas elas evoluirem ao chegar no Nivel 30 e outras terem sido lançadas a apenas nas expansões adiante. 

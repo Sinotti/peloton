@@ -4,6 +4,8 @@ title: Guia dos novatos
 sidebar_label: Introdução do guia dos novatos
 ---
 
+![Hall of Novice](https://i.imgur.com/KTjReJB.png)
+
 ## Boas vindas
 ![Sprout](https://ffxiv.gamerescape.com/w/images/e/e4/Player24_Icon.png) Olá aspirante a guerreiro da luz, neste guia iremos esclarecer duvidas básicas para que você possa começar a jogar o Final Fantasy XIV da melhor forma possível.
 
@@ -35,7 +37,7 @@ sidebar_label: Introdução do guia dos novatos
 
 **Caso você se arrependa de sua escolha, após terminar o jogo base "A Realm Reborn" você receberá uma poção chamada "Phials of fantasia", com ela será possivel realizar uma troca de raça gratuita, porém após isso só será possivel trocar novamente comprando outra poção com dinheiro real na loja do jogo.**
 
-![PhialsOfFantasia](https://onlinestore-img.finalfantasyxiv.com/onlinestore/item/9b9dd5b930e64380d5acd7ca8b77015bc07ba9373f38c1150988472662a30dc5/0000/b8fd228346654a8cee3e920c32017493f0e99cf8266b6d9e1e9b30f7ed245eab_m_detail.jpg)
+![Phials Of Fantasia](https://onlinestore-img.finalfantasyxiv.com/onlinestore/item/af8a7c069f56fd27235b3e72668ba8138bf57c2e3870957269be04a649d2f75d/0000/b8fd228346654a8cee3e920c32017493f0e99cf8266b6d9e1e9b30f7ed245eab_m_detail.jpg)
 :::
 
 :::danger Mudanças pequenas no personagem

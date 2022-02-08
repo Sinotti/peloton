@@ -7,6 +7,8 @@ title: Habilidades traduzidas
 ## Notas
 - **Abaixo você encontrará todas as habilidades das jobs e especificas de roles.**
 
+- Icones retirados do site [Gamerscape FFXIV](https://ffxiv.gamerescape.com/wiki/Main_Page).
+
 :::caution Traduções
 Todas as habilidades foram traduzidas em massa via script, então podem haver possiveis erros de pontuação e separação dos textos que eventualmente serão corrigidos. Caso você se interesse em apontar algum erro que encontrou, basta acessar esse formulário e desde já agradecemos muito por qualquer colaboração.  
 :::
