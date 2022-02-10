@@ -58,7 +58,7 @@ montarias: [
   {  
       type: 'category',
       label: 'Montarias',
-      items: ['mountO']       
+      items: ['montarias']       
 }
 ],
 artefatos: [

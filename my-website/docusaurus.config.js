@@ -36,7 +36,7 @@ module.exports = {
 
         {
           type: 'doc',
-        docId: 'mountO',
+        docId: 'montarias',
         position: 'right',
         label: 'Montarias'
         },
@@ -106,11 +106,11 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: 'GitHub',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Repositório',
+              href: 'https://github.com/Sinotti/peloton',
             },
             
           ],
