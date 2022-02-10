@@ -53,10 +53,11 @@ Para jogar de Bard é necessário escolher a classe Archer, pois ao nível 30 el
 
 ![Song Gauge](https://img.finalfantasyxiv.com/lds/promo/h/C/6UAuuGF_bnfRwSST-dCBUBh2Zw.png)
 
-Singng Mage's Ballad exibirá seu Song Gauge correspondente, que indica a duração restante do efeito.
+Usar Mage's Ballad exibirá seu Song Gauge correspondente, que indica a duração restante do efeito.
 Durante uma música, há uma chance de você receber Repertoire, encurtando o cronômetro de recast de Bloodletter (adquirido no nível 12) e Rain of Death (adquirido no nível 45).
 
 ![Song Gauge](https://img.finalfantasyxiv.com/lds/promo/h/0/QnR7fHYkAr_3AQFpbtW0dwhsJk.png)
+
 ![Song Gauge](https://img.finalfantasyxiv.com/lds/promo/h/2/zIhfAHktEHJDMVyF6loNl0p7Kw.png)
 
 **Soul Voice Gauge**
