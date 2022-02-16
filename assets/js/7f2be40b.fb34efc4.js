@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9778],{9580:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"isso-e-um-teste","name":"isso \xe9 um teste","count":1,"permalink":"/blog/tags/isso-e-um-teste"}')}}]);
