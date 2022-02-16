@@ -2,4 +2,4 @@
 id: profissoes
 title: Introdução as profissões
 ---
-Blablabla de profissão
+Em processo de publicação...

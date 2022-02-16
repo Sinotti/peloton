@@ -12,7 +12,7 @@ title: Restauração
 
 - Em um certo momento da história, a cidade de Ishgard passou por certas dificuldades e algumas partes foram destruídas, agora cabe aos jogadores usarem suas profissões de crafting e gathering para ajudarem nessa restauração.
 
-- Esse evento não só é uma das formas mais eficientes de se upar suas profissões como também oferece itens exclusivos obtidos através da troca de selos.
+- Esse evento não só é uma das formas mais eficientes de se upar suas profissões como, também oferece itens exclusivos obtidos através da troca de selos.
 
 - Os artesãos que enviarem itens para a Restauração Ishgardiana podem participar do Kupo of Fortune.
 
@@ -37,18 +37,23 @@ title: Restauração
     ![Foundation](https://img.finalfantasyxiv.com/lds/h/X/iM_yDo-VWlmUYoxzVeBysUVpBU.png)
 - Após completar a missão [Towards the Firmament](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/5c20f6c7a0f/) concedida pelo cartaz, você enfim irá desbloquear a área chamada Firmament.
 
-:::tip Como entrar no Firmament
+## Como acessar o Firmament
 
-Após liberar o Firmament basta acessar o Aetheryte pricipal do mapa "Foundation" em Ishgard e selecionar a opção
+- Após liberar o Firmament basta acessar o Aetheryte pricipal do mapa "Foundation" em Ishgard:
 
-:::
+![Foundation](https://i.imgur.com/5eNP01L.png)
+
+- Em seguida selecionar a opção "Travel to the Firmament":
+
+![Travel to the Firmament](https://i.imgur.com/V0sJNlG.png)
 
 ## Coletáveis 
 
--Todos os coletáveis
-
+- Todos os coletáveis podem ser encontrados na a area chamada instanciada chamada "The Diadem":
 
 ![Diadem](https://i.imgur.com/GqlE3rI.jpg)
+
+- Para acessar essa área será necessário falar com NPC Aurvael 
 
 ## Itens craftaveis
 

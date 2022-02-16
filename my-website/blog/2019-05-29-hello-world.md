@@ -1,7 +1,7 @@
 ---
 slug: Evento do FFXV
 title: Evento do FFXV 
-author: Sora
+author: Sinotti
 author_title: Programador 
 author_url: https://github.com/yangshun
 author_image_url: https://cdn.discordapp.com/attachments/591778187957108738/891860286498299935/Screenshot_3.png
