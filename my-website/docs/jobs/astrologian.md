@@ -50,20 +50,20 @@ Após a chegada em Ishgard, você poderá desbloquear a job através da quest <a
 
 ![Arcana Gauge](https://img.finalfantasyxiv.com/lds/promo/h/-/H4ozfUp6Jgvyaoj1QwgvNhEwxU.png) 
 
-O Arcana Gauge permite que o Astrologian acompanhe qual carta (também referidas como arcanum) foi puxada. Uma carta é puxada usando a habilidade **Draw**, e é colocado no meio do medidor. Usando o comando **Play** é executada a ação correspondente a carta.
+O **Arcana Gauge** permite que o Astrologian acompanhe qual carta (também referidas como arcanum) foi puxada. Uma carta é puxada usando a habilidade **Draw**, e é colocado no meio do medidor. Usando o comando **Play** é executada a ação correspondente a carta.
 
 **Astrosign:** 
 
 ![Arcana Gauge](https://img.finalfantasyxiv.com/lds/promo/h/r/btocLp0NwoIgDXjRbpERCqQTFc.png)
 
-Ao desbloquear o trait Enhanced Draw II, você poderá ver os astrossignos. **Lunar, Solar e Celestial** são os três astros, e um deles será aplicado ao executar uma ação de carta. Quando três sinais forem aplicados, você pode usá-los para realizar
+Ao aprender **Enhanced Draw II**, você poderá ver os astrossignos. **Lunar, Solar e Celestial** são os três astros, e um deles será aplicado ao executar uma ação de carta. Quando três sinais forem aplicados, você pode usá-los para realizar
 **Astrodyne**.
 
 **Using Minor Arcana:**
 
 ![Arcana Gauge](https://img.finalfantasyxiv.com/lds/promo/h/E/w3Fwmu-aPRi7c_BEgOL1h4v0PU.png)
 
-Quando você aprender a habilidade **Minor Arcana**, as cartas compradas aparecerão no Medidor, a medida que a habilidade **Minor Arcana** for usada.
+Quando você aprender **Minor Arcana**, as cartas compradas aparecerão no Medidor, a medida que a habilidade **Minor Arcana** for usada.
 
 
 

@@ -53,14 +53,30 @@ Para jogar de Bard é necessário escolher a classe Archer, pois ao nível 30 el
 
 ![Song Gauge](https://img.finalfantasyxiv.com/lds/promo/h/C/6UAuuGF_bnfRwSST-dCBUBh2Zw.png)
 
-Usar Mage's Ballad exibirá seu Song Gauge correspondente, que indica a duração restante do efeito.
-Durante uma música, há uma chance de você receber Repertoire, encurtando o cronômetro de recast de Bloodletter (adquirido no nível 12) e Rain of Death (adquirido no nível 45).
+Usar **Mage's Ballad** exibirá seu Song Gauge correspondente, que indica a duração restante do efeito.
+Durante uma música, há uma chance de você receber **Repertoire**, reduzindo o tempo de recast de **Bloodletter** (adquirido no nível 12) e **Rain of Death** (adquirido no nível 45).
 
 ![Song Gauge](https://img.finalfantasyxiv.com/lds/promo/h/0/QnR7fHYkAr_3AQFpbtW0dwhsJk.png)
 
+...
+
 ![Song Gauge](https://img.finalfantasyxiv.com/lds/promo/h/2/zIhfAHktEHJDMVyF6loNl0p7Kw.png)
+
+Usar **The Wanderer's Minuet** exibirá seu Song Gauge correspondente, que indica a duração restante do efeito.
+Durante uma música, há uma chance de você receber **Repertoire**, permitindo a execução de **Pitch Perfect**. O efeito Repertoire pode ser acumulado em até três vezes.
 
 **Soul Voice Gauge**
 
 ![Soul Voice Gauge](https://img.finalfantasyxiv.com/lds/promo/h/C/6UAuuGF_bnfRwSST-dCBUBh2Zw.png)
 
+Ao aprender **Soul Voice**, o Soul Voice Gauge será exibido abaixo do gauge anterior. Este medidor aumenta em conjunto com **Repertoire** e é esgotado ao usar **Apex Arrow** (adquirida no nível 80).
+
+**Coda**
+
+![Coda](https://img.finalfantasyxiv.com/lds/promo/h/Z/19W_JDl4ufmWlED0tsFzWN-8P0.png)
+
+Ao aprender **Minstrel's Coda**, ele será exibido a direita do Gauge.
+
+Existem três tipos de **Coda**: **Mage's Coda, Army's Coda e Wanderer's Coda**. Cada um é concedido respectivamente pelo uso das habilidades **Mage's Ballad, Army's Paeon e The Wanderer's Minuet**. 
+
+Você pode usar **Radiant Finale** se tiver pelo menos um **Coda**.

@@ -39,8 +39,16 @@ Para jogar de Dragoon é necessário escolher a classe "Lancer", pois ao nível 
 
 
 
-## Rotação;
+## Habilidades e Gauges
 
+**Dragon Gauge**
 
+![Dragon Gauge](https://img.finalfantasyxiv.com/lds/promo/h/q/NfTtoaruMoXgdgXH4ZBR0_rpek.png)
 
+Ao aprender **Life of the Dragon**, você poderá ver o **Dragon Gauge**, que mostra a força do olhar da primeira ninhada dos dragões.
+
+Seu olhar é fortalecido com **Mirage Dive**.
+
+Quando **Geirskogul** é usado no nível máximo de olhar (duas unidades), Life of the Dragon será ativado automaticamente.
+Isso permitirá que você execute várias ações poderosas, como Nastrond e Stardiver (adquirido no nível 80).
 
