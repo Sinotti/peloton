@@ -42,7 +42,18 @@ Para jogar de Paladin é necessário escolher a classe "Gladiator", pois ao nív
 
 
 
-## Rotação;
+## Habilidades e Gauges
 
+**Oath Gauge**
 
+![Oath Gauge](https://img.finalfantasyxiv.com/lds/promo/h/5/7CubTw07gyzi5TXmVHjzejYGmw.png)
 
+Ao aprender **Iron Will**, um símbolo aparecerá na tela indicando quando está ativado. 
+
+**Iron Will** aumenta o foco dos inimigos (Aggro) em você, uma caracteristica do tank.
+
+![Oath Gauge](https://img.finalfantasyxiv.com/lds/promo/h/z/W9JnpVtHtXJtcYOmFSMqiUA-d0.png)
+
+Ao aprender **Oath Mastery**, o símbolo que indica o uso de **Iron Will** mudará para exibir também o **Oath Gauge**.
+
+Seu **Oath** fica mais forte cada vez que um ataque automático acerta e pode ser usado para executar habilidades como **Sheltron** (adquirido no nível 35), **Cover** (adquirido no nível 45) e **Intervention** (adquirido no nível 62).

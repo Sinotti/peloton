@@ -43,6 +43,21 @@ Para jogar de Gunbreaker é necessário ter ao menos uma classe nível 60. Você
 
 ![TheMakingsOfaGunbreaker](https://i.imgur.com/2UBatAU.png)
 
-## Rotação;
+## Habilidades e Gauges
 
+**Powder Gauge**
+
+![Powder Gauge](https://img.finalfantasyxiv.com/lds/promo/h/l/KRsqKnc7ujlwQuYYrd8ZM6GxFo.png)
+
+Ao receber a habilidade **Royal Guard**, um símbolo aparecerá na tela indicando quando está ativado. 
+
+**Royal Guard** aumenta o foco dos inimigos (Aggro) em você, uma caracteristica do tank.
+
+![Powder Gauge](https://img.finalfantasyxiv.com/lds/promo/h/-/YXsPIfV3tZYR0SmZ5jBfVq07dk.png)
+
+Ao aprender receber o upgrade **Cartridge Charge**, o símbolo que indica o uso de **Royal Guard** mudará para exibir também o seu Powder Gauge.
+
+O **Powder Gauge** exibe o número de cartuchos em sua gunblade, que são adquiridos usando ações combinadas, como **Solid Barrel** e **Demon Slaughter** (adquirido no nível 40). 
+
+Os cartuchos podem ser usados ​​para usar habilidades como **Burst Strike** (adquirido no nível 30) e **Gnashing Fang** (adquirido no nível 60).
 

@@ -40,8 +40,36 @@ Para jogar de Reaper é necessário ter ao menos uma classe nível 70. Você pod
 
 ![TheWayOfTheSamurai](https://i.imgur.com/Sy7S9gT.png)
 
-## Rotação;
+## Habilidades e Gauges
+
+**Soul Gauge and Shroud Gauge**
+
+![Soul Gauge and Shroud Gauge](https://img.finalfantasyxiv.com/lds/promo/h/-/3V8AfleV8GMMIXT1z9VqICwHms.png)
+
+Ao aprender **Soul Gauge**, ele será exibido, indicando o número de **Souls** que você acumulou.
+
+As **Souls** são acumuladas ao executar certas habilidades e ao derrotar inimigos que que estão sob o efeito de **Death's Design** proveniente da habilidade **Shadow of Death**. 
+
+As Souls podem ser usadas para acessar as habilidades **Blood Stalk**, **Grim Swathe** (adquirido no nível 55) e **Gluttony** (adquirido no nível 76).
+
+Ao receber o **Shroud Gauge**, ele será exibido, indicando o número de **Shrouds** que você acumulou.
+
+Os **Shrouds** são adquiridos executando habilidades provenientes do acumulo de **Soul Gauge**, e podem ser usados ​​para executar a habilidade **Enshroud**.
+
+**Death Gauge**
+
+![Death Gauge](https://img.finalfantasyxiv.com/lds/promo/h/d/TFAlyOL0A-u5wbH4xSIZCyp7TE.png)
+
+Quando você aprende **Shroud Gauge**, a duração de **Enshrouded** e as cargas de Lemure
+Shroud serão exibidas. 
+
+As cargas de Lemure Shroud podem ser usadas para usar mais habilidades unicas, como **Void Reaping** e **Communio** (adquirido no nível 90).
+
+Pense na rotação como uma escadinha de barrinhas: 
+
+**Soul Gauge** ---> **Shroud Gauge** ---> **Death Gauge**
 
 
+![Death Gauge](https://img.finalfantasyxiv.com/lds/promo/h/b/xsQrvAjPWZTRg7mvwTrwK5DFXA.png)
 
-
+Ao aprender **Enhanced Shroud**, **Void Shroud** será ganho quando cargas de **Lemure Shroud** forem usadas. Eles podem ser usados ​​para executar o encerramento do combo: **Lemure's Slice** e **Lemure's Scythe**.

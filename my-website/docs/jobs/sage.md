@@ -40,8 +40,28 @@ Para jogar de Sage é necessário ter ao menos uma classe nível 70. Você poder
 
 ![Sage's Path](https://i.imgur.com/5JLE31J.png)
 
-## Rotação;
+## Habilidades e Gauges
 
+**Eukrasia Gauge**
 
+![Eukrasia Gauge](https://img.finalfantasyxiv.com/lds/promo/h/I/cwDLGuV2OTu9fWFWOsR_peQPrA.png)
 
+Ao aprender **Eukrasia**, você poderá ver o **Eukrasia Gauge**. 
 
+**Eukrasia** fortalece **Dosis**, **Diagnosis** e **Prognosis**, isso altera os efeitos dessas habilidades.
+
+**Addersgall Gauge**
+
+![Addersgall Gauge](https://img.finalfantasyxiv.com/lds/promo/h/m/fJs27-b_PnSTdVzTLh7qS0zvfA.png)
+
+Ao aprender **Addersgall**, você poderá visualizar o **Addersgall Gauge**, que exibe a quantidade de **Addersgall** que foi aplicada.
+
+**Addersgall** aumenta com o tempo, você pode usar o valor acumulado para executar habilidades como **Druochole** e **Kerachole** (adquirido no nível 50).
+
+![Addersagall Gauge](https://img.finalfantasyxiv.com/lds/promo/h/7/Dj5guxNBiGuHgfgp0kX69Oxkng.png)
+
+Quando você aprender **Addersting**, você poderá ve-lo no **Addersgall Gauge**.
+
+**Addersting** é acumulado quando uma barreira mágica de **Eukrasian Diagnosis** desaparece após anular o dano.
+
+Você pode usar o valor acumulado para executar habilidades como **Toxikon** e **Toxikon II** (adquirido no nível 82).

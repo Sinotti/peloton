@@ -45,10 +45,17 @@ Para jogar de Dragoon é necessário escolher a classe "Lancer", pois ao nível 
 
 ![Dragon Gauge](https://img.finalfantasyxiv.com/lds/promo/h/q/NfTtoaruMoXgdgXH4ZBR0_rpek.png)
 
-Ao aprender **Life of the Dragon**, você poderá ver o **Dragon Gauge**, que mostra a força do olhar da primeira ninhada dos dragões.
+Ao aprender **Life of the Dragon**, você poderá ver o **Dragon Gauge**, que mostra a força do olhar da primeira ninhada dos dragões. 
 
-Seu olhar é fortalecido com **Mirage Dive**.
+(O "olhar" é traduzido de Gaze e simplesmente remete a barra do seu Gauge)
 
-Quando **Geirskogul** é usado no nível máximo de olhar (duas unidades), Life of the Dragon será ativado automaticamente.
-Isso permitirá que você execute várias ações poderosas, como Nastrond e Stardiver (adquirido no nível 80).
+Seu **gaze** pode ser aumentado usando **Mirage Dive**.
 
+Quando **Geirskogul** é usado no com seu gaze em nível máximo (duas unidades), **Life of the Dragon** será ativado automaticamente. Isso permitirá que você use várias habilidadeds poderosas, como **Nastrond** e **Stardiver** (adquirido no nível 80).
+
+![Dragon Gauge](https://img.finalfantasyxiv.com/lds/promo/h/L/kZ6Im8ioQ4M9VVUiBp3ElmsqsU.png)
+
+Quando **Geirskogul** é usado no com seu gaze em nível máximo (duas unidades), **Life of the Dragon** será ativado automaticamente. Isso permitirá que você use várias habilidadeds poderosas, como **Nastrond** e **Stardiver** (adquirido no nível 80).
+
+Quando você receber **Lance Mastery IV**, **Raiden Thrust** e **Draconian Fury** fortalecerão **Firstmind's Focus**.
+Ao fortalece-lo ao máximo, você poderá usar **Wyrmwind Thrust**.

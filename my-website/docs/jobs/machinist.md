@@ -42,9 +42,21 @@ Após a chegada em Ishgard é necessário completar a missão <a href="https://n
 ![SaviorOfSkystell](https://i.imgur.com/UFqDV6a.png)
 
 
+## Habilidades e Gauges
 
+**Heat Gauge**
 
-## Rotação;
+![Heat Gauge](https://img.finalfantasyxiv.com/lds/promo/h/3/B4A-X0YSgIRWihWVXad4NyG5bc.png)
 
+Ao aprender **Hypercharge**, o seu **Heat Gauge** será exibido.
 
+Usar certas habilidades com armas irá gerar **calor (traduzido de "heat")**. 
+
+![Heat Gauge](https://img.finalfantasyxiv.com/lds/promo/h/H/5GX8Xg6XXo8SUM4UAEAJ71p06E.png)
+
+Ao aprender **Rook Autoturret**, o **Gauge de bateria (traduzido de Baterry Gauge)** será exibido.
+
+O **Battery Gauge** se acumula quando certas habilidades são usadas e permite o uso de um **Rook Autoturret**, que atacará seu alvo. 
+
+Esse Gauge também permite o uso de uma Automaton Queen (adquirida no nível 80) para lutar ao seu lado (básicamente um robô).
 

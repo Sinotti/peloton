@@ -40,8 +40,25 @@ Para jogar de paladin é necessário escolher a classe "Pugilist", pois ao níve
 
 
 
-## Rotação;
+## Habilidades e Gauges
 
+**Chakra Gauge**
 
+![Chakra Gauge](https://img.finalfantasyxiv.com/lds/promo/h/f/wLOymzMUQpKJMnNAM9WF3SF21M.png)
 
+Quando você aprender **Meditation**, o Chakra Gauge será exibido.
+Acumular a quantidade máxima de Chakra permitirá que você use habilidades como **Steel Peak**, **Howling Fist** (adquirido no nível 40), **The Forbidden Chakra** (adquirido no nível 54) e **Enlightenment** (adquirido no nível 74).
 
+**Master's Gauge**
+
+![Master's Gauge](https://img.finalfantasyxiv.com/lds/promo/h/u/JZgAqajVurzmZcZ0b9c6_8wtwQ.png)
+
+Ao aprender Enhanced Perfect Balance, você desbloqueará o Master's Gauge, bem como **Solar** e **Lunar Nadi**. Você pode abrir o **Chakra** através do uso de habilidades enquanto **Perfect Balance** estiver em ativado. 
+
+Existem três tipos de **Chakra**: **Chakra Coeurl**, **Chakra Raptor** e **Chakra Opo-opo**.
+
+Quando três **Chakras** do mesmo tipo forem abertos, você pode usar **Elixir Field**.
+
+Quando um Chakra de cada tipo for aberto, você poderá usar a **Flint Strike**.
+
+Usar **Elixir Field** abrirá o **Lunar Nadi**, enquanto **Flint Strike** abrirá o **Solar Nadi**. Você pode usar **Tornado Kick** para abrir três Chakras, independentemente do tipo.

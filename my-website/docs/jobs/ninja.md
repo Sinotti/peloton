@@ -38,9 +38,22 @@ Para jogar de Dragoon é necessário escolher a classe "Rogue", pois ao nível 3
 ![MyFirstDaggers](https://i.imgur.com/GQehgRI.png)
 
 
+## Habilidades e Gauges
 
+**Huton Gauge**
 
-## Rotação;
+![Huton Gauge](https://img.finalfantasyxiv.com/lds/promo/h/y/oPfrfKM0SskMwuH0WBv9x6tzrs.png)
+
+O **Huton Gauge** será exibido ao aprender o ninjutsu **Huton**, indicando a duração restante.
+
+**Ninki Gauge**
+
+![Ninki Gauge](https://img.finalfantasyxiv.com/lds/promo/h/c/Q5_ZGRTO-GiH1dsmD5mybDBUcQ.png)
+
+Ao aprender o **Shukiho**, o **Ninki Gauge** será exibido, indicando a quantidade de **Ninki** que você acumulou.
+
+**Ninki** é acumulado ao executar certas habilidades e pode ser usado para executar ninjutsus especiais como **Hellfrog Medium** (adquirido no nível 62) ou **Bhavacakra** (adquirido no nível 68).
+
 
 
 

@@ -39,8 +39,30 @@ Para jogar de Red Mage é necessário ter ao menos uma classe nível 50. Você p
 
 ![Taking the Red](https://i.imgur.com/ZPOJ4c1.png)
 
-## Rotação;
+## Habilidades e Gauges
 
+**Balance Gauge**
 
+![Balance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/W/pjhPD-Z5eXWSK3QHe04rpIgBAk.png)
 
+Os Red Mages são únicos por terem o **Balanced Gauge** que mostra sua** Mana Branca** e a **Mana Negra** acumuladas.
 
+Você pode obter os dois tipos de mana usando habilidades especificas. 
+
+Uma vez que o suficiente de cada um tenha sido adquirido, **Riposte** se tornará **Enchanted Riposte**, **Zwerchhau** se tornará **Enchanted Zwerchhau** e **Redoublement** se tornará **Enchanted Redoublement**.
+
+Certas habilidades e efeitos também serão fortalecidos.
+
+![Balance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/N/RM9T6woSmCSzmdVFMNVprlig0A.png)
+
+Se a diferença entre o acúmulo de Mana Preta e Branca ficar muito grande, o cristal no topo do medidor mudará de cor e ficará mais difícil acumular o menor dos dois.
+
+![Balance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/b/fUEa014CEUvPmc5QMaoHc1bYpY.png)
+
+Ao aprender **Mana Stack**, seu Gauge será exibido.
+
+Só pode haver no máximo 3 **Mana Stacks**, eles podem ser obtidos através de **Enchanted Riposte**, **Enchanted Zwerchhau**, **Enchanted Redoublement** e **Enchanted Moulinet**.
+
+Os **Mana Stacks** são usados para acessar certas habilidades, como **Verflare** e **Verholy** (adquirido no nível 70).
+
+As **Mana Stacks** são consumidos quando qualquer magia é usada.

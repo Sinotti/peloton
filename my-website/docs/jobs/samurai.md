@@ -46,8 +46,34 @@ Para jogar de Samurai é necessário ter ao menos uma classe nível 50. Você po
 
 ![TheWayOfTheSamurai](https://i.imgur.com/8SxRpmS.png)
 
-## Rotação;
+## Habilidades e Gauges
 
+**Sen Gauge**
 
+![Sen Gauge](https://img.finalfantasyxiv.com/lds/promo/h/D/Dl78Y5mzpsVtOgv-4sgId6PQ40.png)
 
+Ao aprender **Gekko**, o **Sen Gauge** será exibido.
 
+O uso de certas habilidades combinadas acumulará até três *Sen**: **Setsu (top)**, **Getu Ka (left)** e **Ka (right)**. 
+
+**Sen** é necessário para usar **Iaijutsu**, o número de **Sen** acumulados determina em qual habildade **Iaijutsu** se transformará:
+
+1: para **Higanba**.
+2: para **Tenka Goken**.
+3: para **Midare Setsugekka**.
+
+**Kenki Gauge**
+
+Quando você aprender **Kenki Mastery**, o **Kenki Gauge** será exibido, indicando a quantidade de **Kenki** que você acumulou.
+
+O **Kenki** é acumulado ao usar certas habilidades ou através de **Third Eye**. 
+
+**Kenki** lhe permite executar as habildades: **Hissatsu: Kaiten** (adquirido no nível 52), **Hissatsu: Gyoten** (adquirido no nível 54) e **Hissatsu: Guren** (adquirido no nível 54). nível 70).
+
+**Meditation Gauge**
+
+![Meditation Gauge](https://img.finalfantasyxiv.com/lds/promo/h/q/yFiAv8XFU-4LYxEsIoLtfECEnk.png)
+
+Ao aprender **Shoha**, o **Meditation Gauge** será exibido, indicando o número de cargas de **Meditation** que você acumulou durante o combate.
+
+Cargas são adquiridas usando **Iaijutsu**, **Meditate** ou **Ogi Namikiri** (adquirido no nível 90), e são gastos após executar **Shoha** (adquirido no nível 80) quando as três cargas forem adquiridas.
