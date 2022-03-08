@@ -37,6 +37,18 @@ Para jogar de Warrior é necessário escolher a classe "Marauder", pois ao níve
 
 ![WayOfTheMarauder](https://i.imgur.com/A3hWY8N.png)
 
-## Rotação;
+## Habilidades e Gauges
 
+**Beast Gauge**
 
+![Beast Gauge](https://img.finalfantasyxiv.com/lds/promo/h/l/MHqKEsbF1agx5wFLFrlrjb40XM.png)
+
+Ao aprender Defiance, um símbolo aparecerá na tela indicando quando a habilidade está ativa. 
+
+Defiance aumenta o foco dos inimigos (Aggro) em você, uma caracteristica do tank.
+
+![Beast Gauge](https://img.finalfantasyxiv.com/lds/promo/h/G/8mnBmkrAJdhB7ZPLG812UiFhxk.png)
+
+Ao aprender **The Beast Within**, o mesmo lugar que indica quando **Defiance** está ativo também passará a exibir o Beast Gauge.
+
+O **Beast Gauge** exibe a quantidade atual de **Wrath (traduzido para Ira)**  do um Warrior, que é usada para acessar habilidades como **Inner Beast** (adquirida no nível 35) e **Steel Cyclone** (adquirida no nível 45).

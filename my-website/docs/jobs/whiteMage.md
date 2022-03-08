@@ -37,4 +37,19 @@ Para jogar de White Mage é necessário escolher a classe Conjurer, pois ao nív
 
 
 
-## Rotação;
+## Habilidades e Gauges
+
+**Healing Gauge**
+
+![Healing Gauge](https://img.finalfantasyxiv.com/lds/promo/h/O/jwptpuW59YM3f5xFHPYR08qMCg.png)
+
+Ao aprender **Secret of the Lily**, um Gauge de cura será exibido, indicando o número de **Lilies** que você acumulou. 
+
+Os **Lilies** são acumulados com o passar do tempo durante o combate. Eles podem ser gastos para executar habilidades como **Afflatus Solace** (adquirido no nível 52) e **Afflatus Rapture** (adquirido no nível 76).
+
+![Healing Gauge](https://img.finalfantasyxiv.com/lds/promo/h/Q/XGVUBM4Mjd3eJ5fNjiPfrBw60g.png)
+
+Ao aprender **Transcendent Afflatus**, o consumo de **Lilies** também irá alimentar o **Blood Lily**. 
+
+
+O **Blood Lily** florescerá após o uso de três **Lilies**, permitindo que você possa usar a habilidade **Afflatus Misery**.

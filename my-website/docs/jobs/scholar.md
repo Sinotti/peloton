@@ -41,8 +41,22 @@ Para jogar de Scholar é necessário escolher a classe Arcanist, pois ao nível 
 
 
 
-## Rotação;
+## Habilidades e Gauges
 
+**Aetherflow Gauge**
 
+![Artherflow Gauge](https://img.finalfantasyxiv.com/lds/promo/h/3/k7_yNXLMnM28HGbJ8EcFEW9RvQ.png)
 
+Ao aprender **Aetherflow**, o **Aetherflow** Gauge será exibido, indicando as cargas.
 
+**Aetherflow** pode ser usado com certas habilidades como **Lustrate** (adquirido no nível 45) e **Excogitation** (adquirido no nível 62).
+
+**Faerie Gauge**
+
+![Faerie Gauge](https://img.finalfantasyxiv.com/lds/promo/h/n/l6m0_C1JWNm35jkGXPlZFg_2ac.png)
+
+Ao aprender **Aetherpact**, você poderá ver em seu Gauge a quantidade de **Fae Aether** (**Aether de fada traduzido**).
+
+**Fae Aether** é acumulado quando você usa **Aetherflow** com habilidades como **Lustrate** ou **Excogitation** ao mesmo tempo que tem sua fada invocada durante o combate. 
+
+O **Fae Aether** acumulado pode ser usado para realizar **Aetherpact**.

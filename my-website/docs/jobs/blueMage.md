@@ -1,7 +1,7 @@
 ---
 id: blueMage
 title: Blue Mage(Classe limitada)
-sidebar_label: Blue Mage(Classe limitada)
+sidebar_label: Blue Mage (Classe limitada)
 ---
 
 ![Jobs Banner](https://i.imgur.com/dX4UQ0n.png)

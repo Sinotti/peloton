@@ -41,8 +41,72 @@ Para jogar de Summoner é necessário escolher a classe "Arcanist", pois ao nív
 
 
 
-## Rotação;
+## Habilidades e Gauges
 
+**Aetherflow Gauge**
 
+![Aetherflow Gauge](https://img.finalfantasyxiv.com/lds/promo/h/g/ehaBoG3n-NogfWkhsbscDC-AZ4.png)
 
+Ao aprender **Energy Drain**, o **Aetherflow Gauge** será exibido, indicando o número de cargas de **Aetherflow**.
 
+O número máximo de cargas de **Aetherflow** pode ser acumulado usando as habilidades **Energy Drain** e **Energy Siphon**, para a seguir serem usados com habilidades como **Fester** e **Painflare** (adquiridos no nível 40).
+
+**Trance Gauge**
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/G/Ui5eNVVV9i0JqAd7-BhhavKSto.png)
+
+Após aprender **Aethercharge**, o **Trance Gauge** será exibido, mostrando a quantidade de tempo restante de **Aethercharge**.
+
+**Aethercharge concederá: Ruby Arcanum, Topaz Arcanum e Emerald Arcanum.** (Pedrinhas coloridas)
+
+Essas pedras permitirão que você invoque três **Pets** e para isso é necessário usar: **Summon Ifrit, Summon Topaz, ou Summon Emerald**.
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/W/7tjpQn-CAGS3VUwI8uCoIDWCxE.png)
+
+Ao summonar um **Pet** você ganhará a energia associada a ele.
+As pilhas de sintonização e sua duração serão exibidas no Medidor de Trance. Elas mudarão Gemshine e Precious Brilliance (adquiridas no nível 26).
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/G/RQMU_MezuqQwopegB5utV9TQXU.png)
+
+Ao aprender **Aethercharge Mastery**, o Trance Gauge será exibido, mostrando a quantidade de tempo restante para **Dreadwyrm Trance**.
+
+**Dreadwyrm Trance** concederá **Ruby Arcanum**, **Topaz Arcanum** e **Emerald Arcanum**. 
+
+Enquanto **Dreadwyrm Trance** estiver ativo, **Ruin III** se torna **Astral Impulse** e **Outburst** se torna **Astral Flare**.
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/u/fyHMyrcoegyoIPzCTorrhQJ5Eo.png)
+
+Ao summonar um **Pet**, você ganhará a energia **(Aether)** associada a ele **(pedrinhas coloridas)**. 
+
+As cargas de energia **(Aether)** e sua duração serão exibidas no**Trance Gauge**. Elas mudarão **Gemshine** e **Precious Brilliance** (adquiridas no nível 26).
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/r/KN8oEmEE92GYxbKygxoM1zoh-4.png)
+
+Ao aprender **Enhanced Dreadwyrm Trance**, você poderá usar **Summon Bahamut** e invocar **Demi-Bahamut**.
+
+O tempo restante na convocação de **Demi-Bahamut** será exibido no **Trance Gauge**. Summonar o **Bahamut** concederá **Ruby Arcanum**, **Topaz Arcanum** e **Emerald Arcanum**. 
+
+**Ruin III** se tornará **Astral Impulse**, **Outburst** se tornará **Astral Flare** e **Astral Flow** se tornará **Deathflare**.
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/Z/hcno8vopMMgLhKLNav9GWC0gc0.png)
+
+Ao summonar um pet você ganhará a energia **(Aether)** associado a ele **(pedrinhas coloridas)**.
+
+As cargas de energia **(Aether)** e sua duração serão exibidas no**Trance Gauge**. Elas mudarão **Gemshine** e **Precious Brilliance** (adquiridas no nível 26).
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/c/p7lO4lvTWMQrOSlQolUhl0ZZCo.png)
+
+Ao aprender **Enhanced Summon Bahamut**, você poderá usar **Summon Phoenix** e invocar **Demi-Phoenix**.
+
+O tempo restante da invocação de **Demi-Phoenix** será exibido no **Trance Gauge**. 
+
+Summonar **Phoenix** lhe concederá **Ruby Arcanum**, **Topaz Arcanum** e **Emerald Arcanum**. 
+
+**Ruin III** se tornará **Fountain of Fire**, **Tri-disaster** se tornará **Brand of Purgatory** e **Astral Flow** se tornará **Rekindle**.
+
+![Trance Gauge](https://img.finalfantasyxiv.com/lds/promo/h/F/6k81p57hMtbK964aPLVGJP4k_I.png)
+
+Ao summonar um pet você ganhará a energia **(Aether)** associada a ele.
+As cargas de energia (Aether) e sua duração serão exibidas no **Trance Gauge**. Elas mudarão **Gemshine** e **Precious Brilliance** (adquiridas no nível 26). 
+
+Ao aprender **Elemental Mastery** (adquirido no nível 86), **Astral Flow** mudará para corresponder ao tipo de energia **(Aether)**.
