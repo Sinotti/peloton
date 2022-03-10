@@ -8,7 +8,7 @@ export default function parceria(){
         <body className ='fundo' >
 
             <h2 className = 'finalTitle'>
-               Em parceria com a guilda Sanctuary
+               Posts da comunidade
             
             </h2>
 
@@ -20,26 +20,11 @@ export default function parceria(){
         }}>
             <p className = 'parceriasText'>
                 
-         
-
-
-Guias de conteúdos serãos totalmente elaborados pelos jogadores mais experientes em cada área de nossa equipe.<br></br><br></br>
-
-               
-               
-            
+Através da plataforma GitHub todo e qualquer usuário do site poderá efetuar suas <br></br> contribuições aos guias, seja com a alteração dos já existentes ou com a criação de novos. <br></br>
+porém ainda estamos trabalhando em um pdf explicativo (posts sujeitos a moderação.)<br></br><br></br>
+       
                 </p>
-                
-              
-            
-            
-         
-
-          
           </div>
-                
-        
-
         </body>
     )
 }

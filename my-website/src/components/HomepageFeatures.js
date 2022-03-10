@@ -14,8 +14,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Shadowbringers',
-    Svg: require('../../static/img/Shadowbringers.svg').default,
+    title: 'Endwalker',
+    Svg: require('../../static/img/Endwalker.svg').default,
     description: (
       <>
         Guias e noticias da expansão atual
@@ -23,11 +23,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Endwalker',
-    Svg: require('../../static/img/Endwalker.svg').default,
+    title: 'Futuras expansões',
+    Svg: require('../../static/img/Futuro.svg').default,
     description: (
       <>
-        Novidades sobre o lançamento da próxima expansão
+        Novidades acerca de futuros lançamentos 
       </>
     ),
   },
