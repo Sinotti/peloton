@@ -8,17 +8,10 @@
     <subtitle>Peloton Blog</subtitle>
     <icon>https://www.ffxivpeloton.com.br/img/icon3.png</icon>
     <entry>
-        <title type="html"><![CDATA[A Relic Reborn The Chimera]]></title>
-        <id>A Relic Reborn The Chimera/ FFXV EVENT</id>
-        <link href="https://www.ffxivpeloton.com.br/blog/A Relic Reborn The Chimera/ FFXV EVENT"/>
+        <title type="html"><![CDATA[Aviso]]></title>
+        <id>Aviso</id>
+        <link href="https://www.ffxivpeloton.com.br/blog/Aviso"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[hello qwerty i am from Germany]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evento do FFXV]]></title>
-        <id>Evento do FFXV</id>
-        <link href="https://www.ffxivpeloton.com.br/blog/Evento do FFXV"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Nocturne for Heroes (FF15 collaboration event) separate pages]]></summary>
+        <summary type="html"><![CDATA[Bem Vindo]]></summary>
     </entry>
 </feed>

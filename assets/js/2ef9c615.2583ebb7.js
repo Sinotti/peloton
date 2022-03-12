@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7468],{2756:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"a-nocturne-for-heroes","name":"a nocturne for heroes","count":1,"permalink":"/blog/tags/a-nocturne-for-heroes"}')}}]);

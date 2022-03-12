@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"A Relic Reborn The Chimera","permalink":"/blog/A Relic Reborn The Chimera/ FFXV EVENT"},{"title":"Evento do FFXV","permalink":"/blog/Evento do FFXV"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[703],{5572:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"ffxv","name":"ffxv","count":1,"permalink":"/blog/tags/ffxv"}')}}]);

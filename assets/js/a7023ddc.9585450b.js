@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1713],{3457:function(s){s.exports=JSON.parse('{"avisos-do-site":{"allTagsPath":"/blog/tags","slug":"avisos-do-site","name":"avisos do site","count":1,"permalink":"/blog/tags/avisos-do-site"}}')}}]);

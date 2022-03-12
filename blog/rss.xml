@@ -8,18 +8,11 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[A Relic Reborn The Chimera]]></title>
-            <link>https://www.ffxivpeloton.com.br/blog/A Relic Reborn The Chimera/ FFXV EVENT</link>
-            <guid>A Relic Reborn The Chimera/ FFXV EVENT</guid>
+            <title><![CDATA[Aviso]]></title>
+            <link>https://www.ffxivpeloton.com.br/blog/Aviso</link>
+            <guid>Aviso</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[hello qwerty i am from Germany]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Evento do FFXV]]></title>
-            <link>https://www.ffxivpeloton.com.br/blog/Evento do FFXV</link>
-            <guid>Evento do FFXV</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[A Nocturne for Heroes (FF15 collaboration event) separate pages]]></description>
+            <description><![CDATA[Bem Vindo]]></description>
         </item>
     </channel>
 </rss>
