@@ -26,13 +26,13 @@ module.exports = {
       },
       
       items: [
-      
+
         {
           type: 'doc',
-        docId: 'profissoes',
-        position: 'right',
-        label: 'Profissões'
-        },  
+        docId: 'novatos/introducaoNv',
+        position: 'left',
+        label: ' 🔥 Novatos 🔥'
+        },
 
         {
           type: 'doc',
@@ -48,15 +48,15 @@ module.exports = {
         label: 'Links'
         },
 
-        {to: '/sobreNos', label: 'Sobre', position: 'right'},
-        {to: '/blog', label: 'Notícias', position: 'right'},
-
         {
           type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Doações',
-        },
+        docId: 'profissoes',
+        position: 'right',
+        label: 'Profissões'
+        },  
+
+        {to: '/sobreNos', label: 'Sobre', position: 'right'},
+        
 
         {
           type: 'doc',
@@ -67,17 +67,19 @@ module.exports = {
 
         {
           type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Doações',
+        },
+
+        {
+          type: 'doc',
         docId: 'jobs/habilidades',
         position: 'left',
         label: 'Habilidades'
         },
 
-        {
-          type: 'doc',
-        docId: 'novatos/introducaoNv',
-        position: 'left',
-        label: 'Novatos'
-        },
+        {to: '/blog', label: '⚠️ Notícias ⚠️', position: 'right'},
 
         
 
