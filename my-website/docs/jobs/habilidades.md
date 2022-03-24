@@ -13,6 +13,8 @@ title: Habilidades traduzidas
 Todas as habilidades foram traduzidas em massa via script, então podem haver possiveis erros de pontuação e separação dos textos que eventualmente serão corrigidos. Caso você se interesse em apontar algum erro que encontrou, basta acessar esse formulário e desde já agradecemos muito por qualquer colaboração.  
 :::
 
+- A job "Summoner" é a unica que ainda não foi devidamente publicada nessa parte de habilidades, porém você ainda pode ler sobre ela na categoria especifica no nosso guia das jobs: **[Summoner](/docs/jobs/summoner)**.
+
 ## [Tank](/docs/jobs/informativo/#habilidades-de-role)
 
  Nome         | Ícone                                                                                                                   | Adquirido | Cast    | Recarga | Custo em MP | Efeito                                                                                                                                                   
@@ -786,14 +788,8 @@ Todas as habilidades foram traduzidas em massa via script, então podem haver po
 | Magick Barrier         | ![Magick Barrier](https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Magick_Barrier_Icon.png/60px-Magick_Barrier_Icon.png)                         | Lv. 86    | Instant | 120s    | -           | Reduz o dano mágico recebido por si mesmo e por membros próximos em 10%, enquanto aumenta o HP recuperado por ações de cura em 5%.Duração: 10s                                                                                                                                                                                                                                                                                                                                                                                         |
 | Resolution             | ![Resolution](https://ffxiv.gamerescape.com/w/images/thumb/9/9c/Resolution_Icon.png/60px-Resolution_Icon.png)                                     | Lv. 90    | Instant | 2.5s    | 400 MP      | Causa dano inesperado a todos os inimigos em uma linha reta à sua frente com uma potência de 750 para o primeiro inimigo e 60% menos para todos os inimigos restantes.Ação de combinação: QueimaEfeito adicional: Aumenta a Mana Negra e a Mana Branca em 4Chamuscar é alterada para Resolução ao desembarcar Scorch como uma ação de combinação.※Esta ação não pode ser atribuída a um hotbar.                                                                                                                                        |    
 
----
+  
 
-## [Summoner](/docs/jobs/summoner)
-![Summoner](https://i.imgur.com/4LrBCnm.png)
-
- Nome | Ícone                                                                                       | Adquirido | Cast | Recarga | Custo em MP | Efeito                                                                                                                                                                           
-------|---------------------------------------------------------------------------------------------|-----------|------|---------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- Ruin | ![Ruin](https://i.imgur.com/qXADHqV.png) | Lv. 1     | 1.5s | 2.5s    | 300 MP      | Causa dano inesperado com uma potência de 240. Revisões Potência alterada de 180 para 240. Tempo de lançamento alterado de 2,5s para 1,5s. Custo de MP alterado de 200 para 300. 
 
                                                                                                                                                                                                   
 
