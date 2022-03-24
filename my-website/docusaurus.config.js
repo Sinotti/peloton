@@ -43,13 +43,6 @@ module.exports = {
 
         {
           type: 'doc',
-        docId: 'links',
-        position: 'right',
-        label: 'Links'
-        },
-
-        {
-          type: 'doc',
         docId: 'profissoes',
         position: 'right',
         label: 'Profissões'
